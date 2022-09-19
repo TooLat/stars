@@ -212,6 +212,7 @@
 ## 测试工具
 * [jest](https://github.com/facebook/jest)  ⭐ `40.2k`
 * [vitest](https://github.com/vitest-dev/vitest)  ⭐ `6.3k`
+* [mocha](https://github.com/mochajs/mocha)  ⭐ `21.6k`
 
 ## git
 * [commitizen 【规范 Git 提交】](https://github.com/commitizen-tools/commitizen)  ⭐ `1.3k`
