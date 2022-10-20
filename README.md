@@ -288,6 +288,8 @@
 * [koa 【Express的下一代基于Node.js的web框架】](https://github.com/koajs/koa)  ⭐ `33.1k`
 * [koa2-note 【koa2学习笔记】](https://github.com/chenshenhai/koa2-note)  ⭐ `4.9k`
 * [nodemon 【帮助开发基于node .js的应用程序的工具，它在检测到目录中的文件更改时自动重启节点应用程序】](https://github.com/remy/nodemon)  ⭐ `24.4k`
+* [thinkjs 【node 框架】](https://github.com/thinkjs/thinkjs)  ⭐ `5.3k`
+* [nest 【node 框架】](https://github.com/nestjs/nest)  ⭐ `51.6k`
 
 ## 其他
 * [DoKit 【滴滴泛前端产品研发全生命周期的效率平台】](https://github.com/didi/DoKit)  ⭐ `19k`
