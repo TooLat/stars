@@ -51,6 +51,7 @@
 ## 微前端
 * [emp](https://github.com/efoxTeam/emp)  ⭐ `1.9k`
 * [micro-app 【京东零售微前端】](https://github.com/micro-zoe/micro-app)  ⭐ `3.4k`
+* [qiankun](https://github.com/efoxTeam/emp)  ⭐ `13.6k`
 
 ## 服务端渲染
 * [nuxt.js](https://github.com/nuxt/nuxt.js)  ⭐ `41.3k`
