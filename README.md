@@ -62,7 +62,6 @@
 
 ## 工具插件
 * [axios](https://github.com/axios/axios)  ⭐ `95.8k`
-* [Leaflet](https://github.com/Leaflet/Leaflet)  ⭐ `36.4k`
 * [fetch 【polyfill】](https://github.com/github/fetch)  ⭐ `25.5k`
 * [crypto-js 【加密】](https://github.com/brix/crypto-js)  ⭐ `13.4k`
 * [Recorderjs 【录音】](https://github.com/mattdiamond/Recorderjs)  ⭐ `3.9k`
@@ -111,6 +110,11 @@
 * [localForage 【离线存储，封装 IndexedDB，WebSQL或localStorage】](https://github.com/localForage/localForage)  ⭐ `21k`
 * [nolimits4web/swiper 【移动设备触控滑块的框架，使用硬件加速过渡】](https://github.com/nolimits4web/swiper)  ⭐ `32.5k`
 * [ai/nanoid 【一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器】](https://github.com/ai/nanoid)  ⭐ `18.6k`
+
+## 地图
+* [Leaflet](https://github.com/Leaflet/Leaflet)  ⭐ `36.4k`
+* [Leaflet.ChineseTmsProviders 【加载互联网地图插件】](https://github.com/htoooth/Leaflet.ChineseTmsProviders)  ⭐ `788`
+* [Leaflet.heat 【热力图】](https://github.com/Leaflet/Leaflet.heat)  ⭐ `1.4k`
 
 ## 移动端插件
 * [better-scroll 【滚动库】](https://github.com/ustbhuangyi/better-scroll)  ⭐ `15.7k`
