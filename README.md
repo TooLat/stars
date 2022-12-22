@@ -62,6 +62,7 @@
 
 ## 工具插件
 * [axios](https://github.com/axios/axios)  ⭐ `95.8k`
+* [Leaflet](https://github.com/Leaflet/Leaflet)  ⭐ `36.4k`
 * [fetch 【polyfill】](https://github.com/github/fetch)  ⭐ `25.5k`
 * [crypto-js 【加密】](https://github.com/brix/crypto-js)  ⭐ `13.4k`
 * [Recorderjs 【录音】](https://github.com/mattdiamond/Recorderjs)  ⭐ `3.9k`
