@@ -110,11 +110,13 @@
 * [localForage 【离线存储，封装 IndexedDB，WebSQL或localStorage】](https://github.com/localForage/localForage)  ⭐ `21k`
 * [nolimits4web/swiper 【移动设备触控滑块的框架，使用硬件加速过渡】](https://github.com/nolimits4web/swiper)  ⭐ `32.5k`
 * [ai/nanoid 【一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器】](https://github.com/ai/nanoid)  ⭐ `18.6k`
+* [fast-xml-parser 【xml解析】](https://github.com/NaturalIntelligence/fast-xml-parser)  ⭐ `1.8k`
 
 ## 地图
 * [Leaflet](https://github.com/Leaflet/Leaflet)  ⭐ `36.4k`
 * [Leaflet.ChineseTmsProviders 【加载互联网地图插件】](https://github.com/htoooth/Leaflet.ChineseTmsProviders)  ⭐ `788`
 * [Leaflet.heat 【热力图】](https://github.com/Leaflet/Leaflet.heat)  ⭐ `1.4k`
+* [Leaflet.markercluster 【点聚合】](https://github.com/Leaflet/Leaflet.markercluster)  ⭐ `3.6k`
 
 ## 移动端插件
 * [better-scroll 【滚动库】](https://github.com/ustbhuangyi/better-scroll)  ⭐ `15.7k`
@@ -191,10 +193,13 @@
 * [vue-echarts 【表格】](https://github.com/ecomfe/vue-echarts)  ⭐ `7.5k`
 * [troisjs/trois 【基于 Three.JS 的 Vue 3 可视化库】](https://github.com/troisjs/trois)  ⭐ `2.8k`
 * [naive-ui 【UI框架，适用于 Vue 3】](https://github.com/tusen-ai/naive-ui)  ⭐ `10.3k`
+* [vue-virtual-scroller 【虚拟列表】](https://github.com/Akryum/vue-virtual-scroller)  ⭐ `7.6k`
 
 ## React
 * [react](https://github.com/facebook/react)  ⭐ `195k`
 * [react-demos 【demo】](https://github.com/ruanyf/react-demos)  ⭐ `16k`
+* [30-Days-Of-React 【react30天挑战】](https://github.com/Asabeneh/30-Days-Of-React)  ⭐ `18.6k`
+* [react-design-editor 【图像/视频在线编辑器】](https://github.com/layerhub-io/react-design-editor)  ⭐ `1.5k`
 
 ## 项目集成
 * [d2-admin](https://github.com/d2-projects/d2-admin)  ⭐ `11.7k`
@@ -330,6 +335,7 @@
 * [awesome-programming-books 【经典编程书籍大全】](https://github.com/jobbole/awesome-programming-books)  ⭐ `13.2k`
 * [awesome-javascript-cn 【JavaScript 资源大全】](https://github.com/jobbole/awesome-javascript-cn)  ⭐ `7.3k`
 * [awesome-webpack-cn 【搜罗一切 webpack 的好文章好工具】](https://github.com/webpack-china/awesome-webpack-cn)  ⭐ `3.7k`
+* [awesome-vite](https://github.com/vitejs/awesome-vite)  ⭐ `8.5k`
 
 ## 规范
 * [clean-code-javascript 【JavaScript 风格指南】](https://github.com/ryanmcdermott/clean-code-javascript)  ⭐ `72.8k`
