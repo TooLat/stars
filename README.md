@@ -336,6 +336,7 @@
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全 ![](https://img.shields.io/github/stars/jobbole/awesome-javascript-cn?style=social) 
 - [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - 搜罗一切 webpack 的好文章好工具 ![](https://img.shields.io/github/stars/webpack-china/awesome-webpack-cn?style=social) 
 - [awesome-vite](https://github.com/vitejs/awesome-vite) - sss ![](https://img.shields.io/github/stars/vitejs/awesome-vite?style=social) 
+- [awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - sss ![](https://img.shields.io/github/stars/chinaBerg/awesome-canvas?style=social) 
 
 ## 规范
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - JavaScript 风格指南 ![](https://img.shields.io/github/stars/ryanmcdermott/clean-code-javascript?style=social) 
