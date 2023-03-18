@@ -380,6 +380,7 @@
 - [excalidraw](https://github.com/excalidraw/excalidraw) - 手绘图 ![](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social) 
 - [iina](https://github.com/iina/iina) - 视频播放器 ![](https://img.shields.io/github/stars/iina/iina?style=social) 
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 视频播放器 ![](https://img.shields.io/github/stars/mpv-player/mpv?style=social) 
+- [Snipaste](https://github.com/Snipaste) - 截图贴图工具 ![](https://img.shields.io/github/stars/Snipaste?style=social)
 
 ## 系统工具
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social) 
