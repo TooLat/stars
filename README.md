@@ -373,6 +373,7 @@
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - JavaScript 进阶问题列表 ![](https://img.shields.io/github/stars/lydiahallie/javascript-questions?style=social) 
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30天JS挑战 ![](https://img.shields.io/github/stars/wesbos/JavaScript30?style=social) 
 - [llh911001/mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - 函数范式 ![](https://img.shields.io/github/stars/llh911001/mostly-adequate-guide-chinese?style=social) 
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![](https://img.shields.io/github/stars/jackfrued/Python-100-Days?style=social) 
 
 ## 软件应用
 - [drawio](https://github.com/jgraph/drawio) - 绘图 ![](https://img.shields.io/github/stars/jgraph/drawio?style=social) 
