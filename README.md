@@ -182,7 +182,8 @@
 - [babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx)  - 以 JSX 的方式来编写 Vue 代码 ![](https://img.shields.io/github/stars/vuejs/babel-plugin-jsx?style=social) 
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - 以 class 的模式写 vue 组件 ![](https://img.shields.io/github/stars/vuejs/vue-class-component?style=social) 
 - [composition-api](https://github.com/vuejs/composition-api) - 为 Vue 2 提供组合式 API ![](https://img.shields.io/github/stars/vuejs/composition-api?style=social) 
-- [pinia](https://github.com/vuejs/pinia) - 状态管理 ![](https://img.shields.io/github/stars/vuejs/pinia?style=social) 
+- [pinia](https://github.com/vuejs/pinia) - 状态管理 ![](https://img.shields.io/github/stars/vuejs/pinia?style=social)
+- [pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - Pinia 持久化存储 ![](https://img.shields.io/github/stars/prazdevs/pinia-plugin-persistedstate?style=social)
 - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - vuex持久化存储 ![](https://img.shields.io/github/stars/robinvdvleuten/vuex-persistedstate?style=social) 
 - [vueuse](https://github.com/vueuse/vueuse) - 常用工具集 ![](https://img.shields.io/github/stars/vueuse/vueuse?style=social) 
 - [mitt](https://github.com/developit/mitt) - 小型事件发布订阅库 ![](https://img.shields.io/github/stars/developit/mitt?style=social) 
@@ -263,12 +264,14 @@
 - [browserslist](https://github.com/browserslist/browserslist) - 在不同的前端工具之间共用目标浏览器和 node 版本的配置工具 ![](https://img.shields.io/github/stars/browserslist/browserslist?style=social) 
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - 利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作 ![](https://img.shields.io/github/stars/rrweb-io/rrweb?style=social) 
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - 在 README 中获取动态生成的 GitHub 统计信息 ![](https://img.shields.io/github/stars/anuraghazra/github-readme-stats?style=social) 
+- [FFmpeg](https://github.com/anuraghazra/FFmpeg) - 多媒体处理工具 ![](https://img.shields.io/github/stars/anuraghazra/FFmpeg?style=social) 
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social) 
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) ![](https://img.shields.io/github/stars/vuejs/eslint-plugin-vue?style=social) 
 - [stylelint](https://github.com/stylelint/stylelint) - css 检测 ![](https://img.shields.io/github/stars/stylelint/stylelint?style=social) 
 - [stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) ![](https://img.shields.io/github/stars/stylelint-scss/stylelint-scss?style=social) 
+- [stylelint-scss](https://github.com/hudochenkov/stylelint-order) ![](https://img.shields.io/github/stars/hudochenkov/stylelint-order-scss?style=social) 
 - [stylelint-config-recommended-scss](https://github.com/stylelint-scss/stylelint-config-recommended-scss) - 推荐的scss配置 for stylelint ![](https://img.shields.io/github/stars/stylelint-scss/stylelint-config-recommended-scss?style=social) 
 
 ## webpack
