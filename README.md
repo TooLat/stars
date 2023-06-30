@@ -264,14 +264,14 @@
 - [browserslist](https://github.com/browserslist/browserslist) - 在不同的前端工具之间共用目标浏览器和 node 版本的配置工具 ![](https://img.shields.io/github/stars/browserslist/browserslist?style=social) 
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - 利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作 ![](https://img.shields.io/github/stars/rrweb-io/rrweb?style=social) 
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - 在 README 中获取动态生成的 GitHub 统计信息 ![](https://img.shields.io/github/stars/anuraghazra/github-readme-stats?style=social) 
-- [FFmpeg](https://github.com/anuraghazra/FFmpeg) - 多媒体处理工具 ![](https://img.shields.io/github/stars/anuraghazra/FFmpeg?style=social) 
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - 多媒体处理工具 ![](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social) 
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social) 
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) ![](https://img.shields.io/github/stars/vuejs/eslint-plugin-vue?style=social) 
 - [stylelint](https://github.com/stylelint/stylelint) - css 检测 ![](https://img.shields.io/github/stars/stylelint/stylelint?style=social) 
 - [stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) ![](https://img.shields.io/github/stars/stylelint-scss/stylelint-scss?style=social) 
-- [stylelint-scss](https://github.com/hudochenkov/stylelint-order) ![](https://img.shields.io/github/stars/hudochenkov/stylelint-order-scss?style=social) 
+- [stylelint-order](https://github.com/hudochenkov/stylelint-order) ![](https://img.shields.io/github/stars/hudochenkov/stylelint-order?style=social) 
 - [stylelint-config-recommended-scss](https://github.com/stylelint-scss/stylelint-config-recommended-scss) - 推荐的scss配置 for stylelint ![](https://img.shields.io/github/stars/stylelint-scss/stylelint-config-recommended-scss?style=social) 
 
 ## webpack
