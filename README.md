@@ -75,6 +75,7 @@
 - [mcanvas](https://github.com/xd-tayde/mcanvas) - 图片处理 ![](https://img.shields.io/github/stars/xd-tayde/mcanvas?style=social) 
 - [html2canvas](https://github.com/niklasvh/html2canvas) - 截图 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) 
 - [validator.js](https://github.com/validatorjs/validator.js) - 验证器 ![](https://img.shields.io/github/stars/validatorjs/validator.js?style=social) 
+- [alasql](https://github.com/AlaSQL/alasql) - js SQL数据库 ![](https://img.shields.io/github/stars/AlaSQL/alasql?style=social) 
 - [H5lock](https://github.com/lvming6816077/H5lock) - H5手势解锁 ![](https://img.shields.io/github/stars/lvming6816077/H5lock?style=social) 
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换 ![](https://img.shields.io/github/stars/hotoo/pinyin?style=social) 
 - [rough](https://github.com/rough-stuff/rough) - 手绘图形草图 ![](https://img.shields.io/github/stars/rough-stuff/rough?style=social) 
@@ -85,6 +86,7 @@
 - [animate.css](https://github.com/animate-css/animate.css) - css动画库 ![](https://img.shields.io/github/stars/animate-css/animate.css?style=social) 
 - [qrcodejs](https://github.com/davidshimjs/qrcodejs) - 二维码生成器 ![](https://img.shields.io/github/stars/davidshimjs/qrcodejs?style=social) 
 - [highlight.js](https://github.com/highlightjs/highlight.js) - JS语法高亮 ![](https://img.shields.io/github/stars/highlightjs/highlight.js?style=social) 
+- [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - xml解析 ![](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=social) 
 - [sheetjs](https://github.com/SheetJS/sheetjs) - Excel表格编辑器 ![](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social) 
 - [hammer.js](https://github.com/hammerjs/hammer.js) - 检测触摸手势 ![](https://img.shields.io/github/stars/hammerjs/hammer.js?style=social) 
 - [normalize-url](https://github.com/sindresorhus/normalize-url) - 格式化URL ![](https://img.shields.io/github/stars/sindresorhus/normalize-url?style=social) 
@@ -110,7 +112,6 @@
 - [localForage](https://github.com/localForage/localForage) - 离线存储，封装 IndexedDB，WebSQL或localStorage ![](https://img.shields.io/github/stars/localForage/localForage?style=social) 
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - 移动设备触控滑块的框架，使用硬件加速过渡 ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=social) 
 - [ai/nanoid](https://github.com/ai/nanoid) - 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器 ![](https://img.shields.io/github/stars/ai/nanoid?style=social) 
-- [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - xml解析 ![](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=social) 
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) 
