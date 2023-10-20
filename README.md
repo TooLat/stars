@@ -51,7 +51,8 @@
 ## 微前端
 - [emp](https://github.com/efoxTeam/emp) ![](https://img.shields.io/github/stars/efoxTeam/emp?style=social) 
 - [micro-app](https://github.com/micro-zoe/micro-app) - 京东零售微前端 ![](https://img.shields.io/github/stars/micro-zoe/micro-app?style=social) 
-- [qiankun](https://github.com/efoxTeam/emp) ![](https://img.shields.io/github/stars/efoxTeam/emp?style=social) 
+- [qiankun](https://github.com/umijs/qiankun) ![](https://img.shields.io/github/stars/umijs/qiankun?style=social) 
+- [wujie](https://github.com/Tencent/wujie) ![](https://img.shields.io/github/stars/Tencent/wujie?style=social) 
 
 ## 服务端渲染
 - [nuxt.js](https://github.com/nuxt/nuxt.js) ![](https://img.shields.io/github/stars/nuxt/nuxt.js?style=social) 
