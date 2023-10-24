@@ -82,7 +82,7 @@
 - [rough](https://github.com/rough-stuff/rough) - 手绘图形草图 ![](https://img.shields.io/github/stars/rough-stuff/rough?style=social) 
 - [Fabric.js](https://github.com/fabricjs/fabric.js) - canvas框架 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) 
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - 图像裁剪器 ![](https://img.shields.io/github/stars/fengyuanchen/cropperjs?style=social) 
-- [tui.calendar](https://github.com/nhn/tui.calendar) - 日历 ![](https://img.shields.io/github/stars/tui.calendar?style=social) 
+- [tui.calendar](https://github.com/nhn/tui.calendar) - 日历 ![](https://img.shields.io/github/stars/nhn/tui.calendar?style=social) 
 - [js-cookie](https://github.com/js-cookie/js-cookie) - 处理 cookie ![](https://img.shields.io/github/stars/js-cookie/js-cookie?style=social) 
 - [animate.css](https://github.com/animate-css/animate.css) - css动画库 ![](https://img.shields.io/github/stars/animate-css/animate.css?style=social) 
 - [qrcodejs](https://github.com/davidshimjs/qrcodejs) - 二维码生成器 ![](https://img.shields.io/github/stars/davidshimjs/qrcodejs?style=social) 
@@ -94,7 +94,7 @@
 - [json-server](https://github.com/typicode/json-server) - 本地数据接口 ![](https://img.shields.io/github/stars/typicode/json-server?style=social) 
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - 复制至粘贴板 ![](https://img.shields.io/github/stars/zenorocha/clipboard.js?style=social) 
 - [Dexie.js](https://github.com/dexie/Dexie.js) - indexedDB包装库 ![](https://img.shields.io/github/stars/dexie/Dexie.js?style=social) 
-- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - 图片查看插件 ![](https://img.shields.io/github/stars/idimsemenov/PhotoSwipe?style=social) 
+- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - 图片查看插件 ![](https://img.shields.io/github/stars/dimsemenov/PhotoSwipe?style=social) 
 - [simple-keyboard](https://github.com/hodgef/simple-keyboard) - 虚拟键盘 ![](https://img.shields.io/github/stars/hodgef/simple-keyboard?style=social) 
 - [JsQRScanner](https://github.com/jbialobr/JsQRScanner) - 二维码识别器 ![](https://img.shields.io/github/stars/jbialobr/JsQRScanner?style=social) 
 - [sweetalert](https://github.com/t4t5/sweetalert) - alert 完美替代品 ![](https://img.shields.io/github/stars/t4t5/sweetalert?style=social) 
@@ -202,7 +202,7 @@
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social) 
 - [react-demos](https://github.com/ruanyf/react-demos) - demo ![](https://img.shields.io/github/stars/ruanyf/react-demos?style=social) 
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - react30天挑战 ![](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-React?style=social) 
-- [react-design-editor](https://github.com/layerhub-io/react-design-editor) - 图像/视频在线编辑器 ![](https://img.shields.io/github/stars/layerhub-io/react-design-editor?style=social) 
+- [react-design-editor](https://github.com/salgum1114/react-design-editor) - 图像/视频在线编辑器 ![](https://img.shields.io/github/stars/salgum1114/react-design-editor?style=social) 
 
 ## 项目集成
 - [d2-admin](https://github.com/d2-projects/d2-admin) ![](https://img.shields.io/github/stars/d2-projects/d2-admin?style=social) 
