@@ -30,6 +30,7 @@
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 响应式 ![](https://img.shields.io/github/stars/vuetifyjs/vuetify?style=social) 
 - [element-plus](https://github.com/element-plus/element-plus) ![](https://img.shields.io/github/stars/element-plus/element-plus?style=social) 
 - [vant](https://github.com/youzan/vant) ![](https://img.shields.io/github/stars/youzan/vant?style=social) 
+- [arco-design](https://github.com/arco-design/arco-design) ![](https://img.shields.io/github/stars/arco-design/arco-design?style=social) 
 
 ## 图标
 - [IconPark](https://github.com/bytedance/IconPark) ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social) 
@@ -113,6 +114,8 @@
 - [localForage](https://github.com/localForage/localForage) - 离线存储，封装 IndexedDB，WebSQL或localStorage ![](https://img.shields.io/github/stars/localForage/localForage?style=social) 
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - 移动设备触控滑块的框架，使用硬件加速过渡 ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=social) 
 - [ai/nanoid](https://github.com/ai/nanoid) - 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器 ![](https://img.shields.io/github/stars/ai/nanoid?style=social) 
+- [bignumber.js](https://github.com/MikeMcl/bignumber.js) - 用于任意精度计算 ![](https://img.shields.io/github/stars/MikeMcl/bignumber.js?style=social) 
+- [mathjs](https://github.com/josdejong/mathjs) - JavaScript 和 Node.js 的扩展数学库 ![](https://img.shields.io/github/stars/josdejong/mathjs?style=social) 
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) 
@@ -133,6 +136,7 @@
 - [Chart.js](https://github.com/chartjs/Chart.js) ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) 
 - [BizCharts](https://github.com/alibaba/BizCharts) - 阿里巴巴图表库，基于G2和React ![](https://img.shields.io/github/stars/alibaba/BizCharts?style=social) 
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) ![](https://img.shields.io/github/stars/tradingview/lightweight-charts?style=social) 
+- [zrender](https://github.com/ecomfe/zrender) ![](https://img.shields.io/github/stars/ecomfe/zrender?style=social) 
 
 ## 富文本编辑器
 - [quill](https://github.com/quilljs/quill) ![](https://img.shields.io/github/stars/quilljs/quill?style=social) 
@@ -196,6 +200,7 @@
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) - 表格 ![](https://img.shields.io/github/stars/ecomfe/vue-echarts?style=social) 
 - [troisjs/trois](https://github.com/troisjs/trois) - 基于 Three.JS 的 Vue 3 可视化库 ![](https://img.shields.io/github/stars/troisjs/trois?style=social) 
 - [naive-ui](https://github.com/tusen-ai/naive-ui) - UI框架，适用于 Vue 3 ![](https://img.shields.io/github/stars/tusen-ai/naive-ui?style=social) 
+- [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - 虚拟列表 ![](https://img.shields.io/github/stars/tangbc/vue-virtual-scroll-list?style=social) 
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - 虚拟列表 ![](https://img.shields.io/github/stars/Akryum/vue-virtual-scroller?style=social) 
 
 ## React
@@ -342,8 +347,11 @@
 - [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全 ![](https://img.shields.io/github/stars/jobbole/awesome-programming-books?style=social) 
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全 ![](https://img.shields.io/github/stars/jobbole/awesome-javascript-cn?style=social) 
 - [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - 搜罗一切 webpack 的好文章好工具 ![](https://img.shields.io/github/stars/webpack-china/awesome-webpack-cn?style=social) 
-- [awesome-vite](https://github.com/vitejs/awesome-vite) - sss ![](https://img.shields.io/github/stars/vitejs/awesome-vite?style=social) 
-- [awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - sss ![](https://img.shields.io/github/stars/chinaBerg/awesome-canvas?style=social) 
+- [awesome-vite](https://github.com/vitejs/awesome-vite) ![](https://img.shields.io/github/stars/vitejs/awesome-vite?style=social) 
+- [awesome-canvas](https://github.com/chinaBerg/awesome-canvas) ![](https://img.shields.io/github/stars/chinaBerg/awesome-canvas?style=social) 
+
+## vscode
+- [markdownlint](https://github.com/DavidAnson/markdownlint) - Markdown 格式检查扩展工具 ![](https://img.shields.io/github/stars/DavidAnson/markdownlint?style=social) 
 
 ## 规范
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - JavaScript 风格指南 ![](https://img.shields.io/github/stars/ryanmcdermott/clean-code-javascript?style=social) 
