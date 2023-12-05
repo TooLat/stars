@@ -136,11 +136,13 @@
 ## 图形图表
 - [d3](https://github.com/d3/d3) ![](https://img.shields.io/github/stars/d3/d3?style=social) 
 - [three.js 3D](https://github.com/mrdoob/three.js) ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) 
+- [cesium](https://github.com/CesiumGS/cesium) ![](https://img.shields.io/github/stars/CesiumGS/cesium?style=social) 
 - [G2](https://github.com/antvis/G2) ![](https://img.shields.io/github/stars/antvis/G2?style=social) 
 - [Chart.js](https://github.com/chartjs/Chart.js) ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) 
 - [BizCharts](https://github.com/alibaba/BizCharts) - 阿里巴巴图表库，基于G2和React ![](https://img.shields.io/github/stars/alibaba/BizCharts?style=social) 
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) ![](https://img.shields.io/github/stars/tradingview/lightweight-charts?style=social) 
 - [zrender](https://github.com/ecomfe/zrender) ![](https://img.shields.io/github/stars/ecomfe/zrender?style=social) 
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) 
 
 ## 富文本编辑器
 - [quill](https://github.com/quilljs/quill) ![](https://img.shields.io/github/stars/quilljs/quill?style=social) 
@@ -206,6 +208,7 @@
 - [naive-ui](https://github.com/tusen-ai/naive-ui) - UI框架，适用于 Vue 3 ![](https://img.shields.io/github/stars/tusen-ai/naive-ui?style=social) 
 - [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - 虚拟列表 ![](https://img.shields.io/github/stars/tangbc/vue-virtual-scroll-list?style=social) 
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - 虚拟列表 ![](https://img.shields.io/github/stars/Akryum/vue-virtual-scroller?style=social) 
+- [vue-cesium](https://github.com/zouyaoji/vue-cesium) - 基于 Vue 3，面向开发者的 CesiumJS 组件库 ![](https://img.shields.io/github/stars/zouyaoji/vue-cesium?style=social) 
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social) 
