@@ -27,10 +27,13 @@
 - [ant-design](https://github.com/ant-design/ant-design) ![](https://img.shields.io/github/stars/ant-design/ant-design?style=social) 
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) ![](https://img.shields.io/github/stars/ant-design/ant-design-pro?style=social) 
 - [muse-ui](https://github.com/museui/muse-ui) - For vue ![](https://img.shields.io/github/stars/museui/muse-ui?style=social) 
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - 基于VueJS的Bootstrap框架 ![](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue?style=social) 
+- [varlet](https://github.com/varletjs/varlet) - 面向 Vue3 的 Material 风格移动端组件库 ![](https://img.shields.io/github/stars/varletjs/varlet?style=social) 
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 响应式 ![](https://img.shields.io/github/stars/vuetifyjs/vuetify?style=social) 
 - [element-plus](https://github.com/element-plus/element-plus) ![](https://img.shields.io/github/stars/element-plus/element-plus?style=social) 
 - [vant](https://github.com/youzan/vant) ![](https://img.shields.io/github/stars/youzan/vant?style=social) 
 - [arco-design](https://github.com/arco-design/arco-design) ![](https://img.shields.io/github/stars/arco-design/arco-design?style=social) 
+- [layui](https://github.com/layui/layui) ![](https://img.shields.io/github/stars/layui/layui?style=social) 
 
 ## 图标
 - [IconPark](https://github.com/bytedance/IconPark) ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social) 
@@ -39,6 +42,7 @@
 
 ## 框架
 - [svelte](https://github.com/sveltejs/svelte) ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social) 
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - CSS 框架 ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social) 
 
 ## 包管理工具
 - [pnpm](https://github.com/pnpm/pnpm) ![](https://img.shields.io/github/stars/pnpm/pnpm?style=social) 
@@ -208,13 +212,14 @@
 - [react-demos](https://github.com/ruanyf/react-demos) - demo ![](https://img.shields.io/github/stars/ruanyf/react-demos?style=social) 
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - react30天挑战 ![](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-React?style=social) 
 - [react-design-editor](https://github.com/salgum1114/react-design-editor) - 图像/视频在线编辑器 ![](https://img.shields.io/github/stars/salgum1114/react-design-editor?style=social) 
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React.js 的 three.js 渲染器 ![](https://img.shields.io/github/stars/pmndrs/react-three-fibertor?style=social) 
 
 ## 项目集成
 - [d2-admin](https://github.com/d2-projects/d2-admin) ![](https://img.shields.io/github/stars/d2-projects/d2-admin?style=social) 
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - 全屏页面 ![](https://img.shields.io/github/stars/alvarotrigo/fullPage.js?style=social) 
 
 ## 小程序
-- [minui]() - UI 组件库
+- [weui](https://github.com/Tencent/weui) - UI 样式库 ![](https://img.shields.io/github/stars/Tencent/weui?style=social)
 - [wepy](https://github.com/Tencent/wepy) - 组件化开发框架 ![](https://img.shields.io/github/stars/Tencent/wepy?style=social) 
 - [vant-weapp](https://github.com/youzan/vant-weapp) - UI 组件库 ![](https://img.shields.io/github/stars/youzan/vant-weapp?style=social) 
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的开发框架 ![](https://img.shields.io/github/stars/Meituan-Dianping/mpvue?style=social) 
@@ -222,11 +227,13 @@
 
 ## APP构建
 - [flutter](https://github.com/flutter/flutter) ![](https://img.shields.io/github/stars/flutter/flutter?style=social) 
+- [weex](https://github.com/alibaba/weex) ![](https://img.shields.io/github/stars/alibaba/weex?style=social) 
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React-Native 学习指南 ![](https://img.shields.io/github/stars/reactnativecn/react-native-guide?style=social) 
 
 ## 多端开发
 - [uni-app](https://github.com/dcloudio/uni-app) ![](https://img.shields.io/github/stars/dcloudio/uni-app?style=social) 
 - [taro](https://github.com/NervJS/taro) ![](https://img.shields.io/github/stars/NervJS/taro?style=social) 
+- [taro-ui](https://github.com/NervJS/taro-ui) - 一套基于 Taro 框架开发的多端 UI 组件库 ![](https://img.shields.io/github/stars/NervJS/taro-ui?style=social) 
 - [kbone](https://github.com/Tencent/kbone) - 微信小程序 & H5 ![](https://img.shields.io/github/stars/Tencent/kbone?style=social) 
 
 ## 测试工具
