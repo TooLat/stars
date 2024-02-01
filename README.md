@@ -34,6 +34,8 @@
 - [vant](https://github.com/youzan/vant) ![](https://img.shields.io/github/stars/youzan/vant?style=social)
 - [arco-design](https://github.com/arco-design/arco-design) ![](https://img.shields.io/github/stars/arco-design/arco-design?style=social)
 - [layui](https://github.com/layui/layui) ![](https://img.shields.io/github/stars/layui/layui?style=social)
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social)
+- [material-ui](https://github.com/mui/material-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/mui/material-ui?style=social)
 
 ## 图标
 - [IconPark](https://github.com/bytedance/IconPark) ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social)
@@ -43,6 +45,7 @@
 ## 框架
 - [svelte](https://github.com/sveltejs/svelte) ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social)
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - CSS 框架 ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social)
+- [remix](https://github.com/remix-run/remix) - 现代化的全栈 JavaScript 框架，用于构建快速、可扩展的 Web 应用程序。它提供了一种统一的开发模型，使开发者能够在服务器端和客户端之间共享代码和逻辑 ![](https://img.shields.io/github/stars/remix-run/remix?style=social)
 
 ## 包管理工具
 - [pnpm](https://github.com/pnpm/pnpm) ![](https://img.shields.io/github/stars/pnpm/pnpm?style=social)
@@ -122,6 +125,8 @@
 - [ai/nanoid](https://github.com/ai/nanoid) - 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器 ![](https://img.shields.io/github/stars/ai/nanoid?style=social)
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js) - 用于任意精度计算 ![](https://img.shields.io/github/stars/MikeMcl/bignumber.js?style=social)
 - [mathjs](https://github.com/josdejong/mathjs) - JavaScript 和 Node.js 的扩展数学库 ![](https://img.shields.io/github/stars/josdejong/mathjs?style=social)
+- [uuid](https://github.com/uuidjs/uuid) - 用于生成通用唯一标识符 ![](https://img.shields.io/github/stars/uuidjs/uuid?style=social)
+- [protobuf.js](https://github.com/protobufjs/protobuf.js) - 用于在 JavaScript 中处理 Protocol Buffers（简称为 Protobuf）的库。Protocol Buffers 是一种轻量级的数据序列化格式，由 Google 开发，用于在不同平台和语言之间进行数据交换 ![](https://img.shields.io/github/stars/protobufjs/protobuf.js?style=social)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social)
@@ -212,13 +217,16 @@
 - [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - 虚拟列表 ![](https://img.shields.io/github/stars/tangbc/vue-virtual-scroll-list?style=social)
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - 虚拟列表 ![](https://img.shields.io/github/stars/Akryum/vue-virtual-scroller?style=social)
 - [vue-cesium](https://github.com/zouyaoji/vue-cesium) - 基于 Vue 3，面向开发者的 CesiumJS 组件库 ![](https://img.shields.io/github/stars/zouyaoji/vue-cesium?style=social)
+- [vue-danmaku](https://github.com/hellodigua/vue-danmaku) - 基于 Vue3 的弹幕交互组件 ![](https://img.shields.io/github/stars/hellodigua/vue-danmaku?style=social)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social)
 - [react-demos](https://github.com/ruanyf/react-demos) - demo ![](https://img.shields.io/github/stars/ruanyf/react-demos?style=social)
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - react30天挑战 ![](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-React?style=social)
 - [react-design-editor](https://github.com/salgum1114/react-design-editor) - 图像/视频在线编辑器 ![](https://img.shields.io/github/stars/salgum1114/react-design-editor?style=social)
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React.js 的 three.js 渲染器 ![](https://img.shields.io/github/stars/pmndrs/react-three-fibertor?style=social)
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React.js 的 three.js 渲染器 ![](https://img.shields.io/github/stars/pmndrs/react-three-fiber?style=social)
+- [use-immer](https://github.com/immerjs/use-immer) - 用于在 React 组件中使用 Immer 库的自定义钩子。Immer 是一个用于处理不可变数据结构的 JavaScript 库，它提供了一种简单而强大的方式来修改不可变数据，使得代码更易读、更易写 ![](https://img.shields.io/github/stars/immerjs/use-immer?style=social)
+- [react-router](https://github.com/remix-run/react-router) - 路由库 ![](https://img.shields.io/github/stars/remix-run/react-router?style=social)
 
 ## 项目集成
 - [d2-admin](https://github.com/d2-projects/d2-admin) ![](https://img.shields.io/github/stars/d2-projects/d2-admin?style=social)
@@ -235,12 +243,15 @@
 - [flutter](https://github.com/flutter/flutter) ![](https://img.shields.io/github/stars/flutter/flutter?style=social)
 - [weex](https://github.com/alibaba/weex) ![](https://img.shields.io/github/stars/alibaba/weex?style=social)
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React-Native 学习指南 ![](https://img.shields.io/github/stars/reactnativecn/react-native-guide?style=social)
+- [next.js](https://github.com/vercel/next.js) - 框架，用于构建服务器端渲染（SSR）和静态网站 ![](https://img.shields.io/github/stars/vercel/next.js?style=social)
+- [gatsby](https://github.com/gatsbyjs/gatsby) - 框架，用于构建静态网站和现代 Web 应用程序 ![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=social)
 
 ## 多端开发
 - [uni-app](https://github.com/dcloudio/uni-app) ![](https://img.shields.io/github/stars/dcloudio/uni-app?style=social)
 - [taro](https://github.com/NervJS/taro) ![](https://img.shields.io/github/stars/NervJS/taro?style=social)
 - [taro-ui](https://github.com/NervJS/taro-ui) - 一套基于 Taro 框架开发的多端 UI 组件库 ![](https://img.shields.io/github/stars/NervJS/taro-ui?style=social)
 - [kbone](https://github.com/Tencent/kbone) - 微信小程序 & H5 ![](https://img.shields.io/github/stars/Tencent/kbone?style=social)
+- [expo](https://github.com/expo/expo) - 基于 React Native 的开发平台，旨在帮助开发者更轻松地构建跨平台移动应用程序 ![](https://img.shields.io/github/stars/expo/expo?style=social)
 
 ## 测试工具
 - [jest](https://github.com/facebook/jest) ![](https://img.shields.io/github/stars/facebook/jest?style=social)
@@ -291,6 +302,7 @@
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social)
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) ![](https://img.shields.io/github/stars/vuejs/eslint-plugin-vue?style=social)
+- [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - 用于禁用与 Prettier 冲突的 ESLint 规则 ![](https://img.shields.io/github/stars/prettier/eslint-config-prettier?style=social)
 - [stylelint](https://github.com/stylelint/stylelint) - css 检测 ![](https://img.shields.io/github/stars/stylelint/stylelint?style=social)
 - [stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) ![](https://img.shields.io/github/stars/stylelint-scss/stylelint-scss?style=social)
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order) ![](https://img.shields.io/github/stars/hudochenkov/stylelint-order?style=social)
@@ -365,6 +377,7 @@
 
 ## vscode
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - Markdown 格式检查扩展工具 ![](https://img.shields.io/github/stars/DavidAnson/markdownlint?style=social)
+- [CodeGeeX](https://github.com/THUDM/CodeGeeX) - 智能编程助手 ![](https://img.shields.io/github/stars/THUDM/CodeGeeX?style=social)
 
 ## 规范
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - JavaScript 风格指南 ![](https://img.shields.io/github/stars/ryanmcdermott/clean-code-javascript?style=social)
@@ -402,6 +415,7 @@
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30天JS挑战 ![](https://img.shields.io/github/stars/wesbos/JavaScript30?style=social)
 - [llh911001/mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - 函数范式 ![](https://img.shields.io/github/stars/llh911001/mostly-adequate-guide-chinese?style=social)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![](https://img.shields.io/github/stars/jackfrued/Python-100-Days?style=social)
+- [hello-algo](https://github.com/krahets/hello-algo) - 动画图解、一键运行的数据结构与算法教程 ![](https://img.shields.io/github/stars/krahets/hello-algo?style=social)
 
 ## 软件应用
 - [drawio](https://github.com/jgraph/drawio) - 绘图 ![](https://img.shields.io/github/stars/jgraph/drawio?style=social)
@@ -410,10 +424,12 @@
 - [iina](https://github.com/iina/iina) - 视频播放器 ![](https://img.shields.io/github/stars/iina/iina?style=social)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 视频播放器 ![](https://img.shields.io/github/stars/mpv-player/mpv?style=social)
 - [Snipaste](https://github.com/Snipaste) - 截图贴图工具 ![](https://img.shields.io/github/stars/Snipaste?style=social)
+- [Wox](https://github.com/Wox-launcher/Wox) -  Windows 应用程序启动器和搜索工具 ![](https://img.shields.io/github/stars/Wox-launcher/Wox?style=social)
 
 ## 系统工具
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social)
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理工具 ![](https://img.shields.io/github/stars/nvm-sh/nvm?style=social)
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) - NVM for Windows ![](https://img.shields.io/github/stars/coreybutler/nvm-windows?style=social)
 - [Homebrew](https://github.com/Homebrew/brew) - 安装没有预装但需要的东西 ![](https://img.shields.io/github/stars/Homebrew/brew?style=social)
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Homebrew GUI应用程序 ![](https://img.shields.io/github/stars/brunophilipe/Cakebrew?style=social)
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - windows 安装工具 ![](https://img.shields.io/github/stars/felixrieseberg/windows-build-tools?style=social)
