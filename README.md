@@ -176,11 +176,9 @@
 - [vue](https://github.com/vuejs/vue) ![](https://img.shields.io/github/stars/vuejs/vue?style=social)
 - [vuejs/core](https://github.com/vuejs/core) - 源码 ![](https://img.shields.io/github/stars/vuejs/core?style=social)
 - [iview](https://github.com/iview/iview) - 桌面组件库 ![](https://img.shields.io/github/stars/iview/iview?style=social)
-- [iview-admin](https://github.com/iview/iview-admin) - 基于iview管理系统模板 ![](https://img.shields.io/github/stars/iview/iview-admin?style=social)
 - [element](https://github.com/ElemeFE/element) - 桌面组件库 ![](https://img.shields.io/github/stars/ElemeFE/element?style=social)
 - [vuex](https://github.com/vuejs/vuex) - 状态管理 ![](https://img.shields.io/github/stars/vuejs/vuex?style=social)
 - [vue-router](https://github.com/vuejs/vue-router) - 路由 ![](https://img.shields.io/github/stars/vuejs/vue-router?style=social)
-- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 后台管理系统 ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social)
 - [vue-cli](https://github.com/vuejs/vue-cli) - 脚手架 ![](https://img.shields.io/github/stars/vuejs/vue-cli?style=social)
 - [vuepress](https://github.com/vuejs/vuepress) - 博客搭建 ![](https://img.shields.io/github/stars/vuejs/vuepress?style=social)
 - [vitepress](https://github.com/vuejs/vitepress) - 基于vite ![](https://img.shields.io/github/stars/vuejs/vitepress?style=social)
@@ -227,6 +225,13 @@
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React.js 的 three.js 渲染器 ![](https://img.shields.io/github/stars/pmndrs/react-three-fiber?style=social)
 - [use-immer](https://github.com/immerjs/use-immer) - 用于在 React 组件中使用 Immer 库的自定义钩子。Immer 是一个用于处理不可变数据结构的 JavaScript 库，它提供了一种简单而强大的方式来修改不可变数据，使得代码更易读、更易写 ![](https://img.shields.io/github/stars/immerjs/use-immer?style=social)
 - [react-router](https://github.com/remix-run/react-router) - 路由库 ![](https://img.shields.io/github/stars/remix-run/react-router?style=social)
+
+## 后台管理模板
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - vue + element-ui ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social)
+- [iview-admin](https://github.com/iview/iview-admin) - 基于iview管理系统模板 ![](https://img.shields.io/github/stars/iview/iview-admin?style=social)
+- [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - vite5.x + vue3.x + arco-design2.x ![](https://img.shields.io/github/stars/chuzhixin/vue-admin-better?style=social)
+- [vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - Vite + Vue3 + Pinia + Unocss ![](https://img.shields.io/github/stars/zclzone/vue-naive-admin?style=social)
+- [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - Vue3 + Vite5+ TypeScript5 + Element-Plus + Pinia ![](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social)
 
 ## 项目集成
 - [d2-admin](https://github.com/d2-projects/d2-admin) ![](https://img.shields.io/github/stars/d2-projects/d2-admin?style=social)
