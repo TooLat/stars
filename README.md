@@ -22,6 +22,8 @@
 - [stickybits](https://github.com/dollarshaveclub/stickybits) - sticky兼容库 ![](https://img.shields.io/github/stars/dollarshaveclub/stickybits?style=social)
 - [yangxi0126/javaScript](https://github.com/yangxi0126/javaScript) - 前端特效存档 ![](https://img.shields.io/github/stars/yangxi0126/javaScript?style=social)
 - [spectre](https://github.com/picturepan2/spectre) - css框架 ![](https://img.shields.io/github/stars/picturepan2/spectre?style=social)
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - CSS 框架 ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social)
+- [windicss](https://github.com/windicss/windicss) - CSS 框架 ![](https://img.shields.io/github/stars/windicss/windicss?style=social)
 
 ## UI库
 - [ant-design](https://github.com/ant-design/ant-design) ![](https://img.shields.io/github/stars/ant-design/ant-design?style=social)
@@ -44,7 +46,6 @@
 
 ## 框架
 - [svelte](https://github.com/sveltejs/svelte) ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social)
-- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - CSS 框架 ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social)
 - [remix](https://github.com/remix-run/remix) - 现代化的全栈 JavaScript 框架，用于构建快速、可扩展的 Web 应用程序。它提供了一种统一的开发模型，使开发者能够在服务器端和客户端之间共享代码和逻辑 ![](https://img.shields.io/github/stars/remix-run/remix?style=social)
 
 ## 包管理工具
