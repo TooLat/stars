@@ -129,6 +129,8 @@
 - [mathjs](https://github.com/josdejong/mathjs) - JavaScript 和 Node.js 的扩展数学库 ![](https://img.shields.io/github/stars/josdejong/mathjs?style=social)
 - [uuid](https://github.com/uuidjs/uuid) - 用于生成通用唯一标识符 ![](https://img.shields.io/github/stars/uuidjs/uuid?style=social)
 - [protobuf.js](https://github.com/protobufjs/protobuf.js) - 用于在 JavaScript 中处理 Protocol Buffers（简称为 Protobuf）的库。Protocol Buffers 是一种轻量级的数据序列化格式，由 Google 开发，用于在不同平台和语言之间进行数据交换 ![](https://img.shields.io/github/stars/protobufjs/protobuf.js?style=social)
+- [typeit](https://github.com/alexmacarthur/typeit) - 动画打字 ![](https://img.shields.io/github/stars/alexmacarthur/typeit?style=social)
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social)
@@ -219,6 +221,8 @@
 - [vue-cesium](https://github.com/zouyaoji/vue-cesium) - 基于 Vue 3，面向开发者的 CesiumJS 组件库 ![](https://img.shields.io/github/stars/zouyaoji/vue-cesium?style=social)
 - [vue-danmaku](https://github.com/hellodigua/vue-danmaku) - 基于 Vue3 的弹幕交互组件 ![](https://img.shields.io/github/stars/hellodigua/vue-danmaku?style=social)
 - [vue-js-modal](https://github.com/euvl/vue-js-modal) - 模态框，易用、高度可定制化的 Vue.js 模态框组件库,支持 SSR ![](https://img.shields.io/github/stars/euvl/vue-js-modal?style=social)
+- [vue-office](https://github.com/501351981/vue-office) - 支持多种文件(docx、excel、pdf)预览的vue组件库，支持vue2/3 ![](https://img.shields.io/github/stars/501351981/vue-office?style=social)
+- [vue3-mindmap](https://github.com/hellowuxin/vue3-mindmap) - Vue 3 思维导图 ![](https://img.shields.io/github/stars/hellowuxin/vue3-mindmap?style=social)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social)
