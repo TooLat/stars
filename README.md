@@ -223,6 +223,7 @@
 - [vue-js-modal](https://github.com/euvl/vue-js-modal) - 模态框，易用、高度可定制化的 Vue.js 模态框组件库,支持 SSR ![](https://img.shields.io/github/stars/euvl/vue-js-modal?style=social)
 - [vue-office](https://github.com/501351981/vue-office) - 支持多种文件(docx、excel、pdf)预览的vue组件库，支持vue2/3 ![](https://img.shields.io/github/stars/501351981/vue-office?style=social)
 - [vue3-mindmap](https://github.com/hellowuxin/vue3-mindmap) - Vue 3 思维导图 ![](https://img.shields.io/github/stars/hellowuxin/vue3-mindmap?style=social)
+- [vue-json-pretty](https://github.com/leezng/vue-json-pretty) - JSON 美化工具 ![](https://img.shields.io/github/stars/leezng/vue-json-pretty?style=social)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social)
