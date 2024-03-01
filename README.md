@@ -44,6 +44,7 @@
 - [IconPark](https://github.com/bytedance/IconPark) ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social)
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) ![](https://img.shields.io/github/stars/FortAwesome/Font-Awesome?style=social)
 - [ionicons](https://github.com/ionic-team/ionicons) ![](https://img.shields.io/github/stars/ionic-team/ionicons?style=social)
+- [iconify](https://github.com/iconify/iconify) ![](https://img.shields.io/github/stars/iconify/iconify?style=social)
 
 ## 框架
 - [svelte](https://github.com/sveltejs/svelte) ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social)
@@ -91,6 +92,7 @@
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换 ![](https://img.shields.io/github/stars/hotoo/pinyin?style=social)
 - [rough](https://github.com/rough-stuff/rough) - 手绘图形草图 ![](https://img.shields.io/github/stars/rough-stuff/rough?style=social)
 - [Fabric.js](https://github.com/fabricjs/fabric.js) - canvas框架 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social)
+- [konva](https://github.com/konvajs/konva) - canvas框架 ![](https://img.shields.io/github/stars/konvajs/konva?style=social)
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - 图像裁剪器 ![](https://img.shields.io/github/stars/fengyuanchen/cropperjs?style=social)
 - [tui.calendar](https://github.com/nhn/tui.calendar) - 日历 ![](https://img.shields.io/github/stars/nhn/tui.calendar?style=social)
 - [js-cookie](https://github.com/js-cookie/js-cookie) - 处理 cookie ![](https://img.shields.io/github/stars/js-cookie/js-cookie?style=social)
@@ -131,6 +133,8 @@
 - [protobuf.js](https://github.com/protobufjs/protobuf.js) - 用于在 JavaScript 中处理 Protocol Buffers（简称为 Protobuf）的库。Protocol Buffers 是一种轻量级的数据序列化格式，由 Google 开发，用于在不同平台和语言之间进行数据交换 ![](https://img.shields.io/github/stars/protobufjs/protobuf.js?style=social)
 - [typeit](https://github.com/alexmacarthur/typeit) - 动画打字 ![](https://img.shields.io/github/stars/alexmacarthur/typeit?style=social)
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social)
+- [canvas-confetti](https://github.com/catdad/canvas-confetti) - 纸屑礼花特效 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social)
+- [disable-devtool](https://github.com/theajack/disable-devtool) - 禁止通过F12等唤起开发者调试模式 ![](https://img.shields.io/github/stars/theajack/disable-devtool?style=social)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social)
@@ -224,6 +228,8 @@
 - [vue-office](https://github.com/501351981/vue-office) - 支持多种文件(docx、excel、pdf)预览的vue组件库，支持vue2/3 ![](https://img.shields.io/github/stars/501351981/vue-office?style=social)
 - [vue3-mindmap](https://github.com/hellowuxin/vue3-mindmap) - Vue 3 思维导图 ![](https://img.shields.io/github/stars/hellowuxin/vue3-mindmap?style=social)
 - [vue-json-pretty](https://github.com/leezng/vue-json-pretty) - JSON 美化工具 ![](https://img.shields.io/github/stars/leezng/vue-json-pretty?style=social)
+- [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 图片编辑器 ![](https://img.shields.io/github/stars/nihaojob/vue-fabric-editor?style=social)
+- [vue-demi](https://github.com/vueuse/vue-demi) - 同时支持 Vue 2 和 Vue 3 ![](https://img.shields.io/github/stars/vueuse/vue-demi?style=social)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social)
@@ -233,6 +239,7 @@
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React.js 的 three.js 渲染器 ![](https://img.shields.io/github/stars/pmndrs/react-three-fiber?style=social)
 - [use-immer](https://github.com/immerjs/use-immer) - 用于在 React 组件中使用 Immer 库的自定义钩子。Immer 是一个用于处理不可变数据结构的 JavaScript 库，它提供了一种简单而强大的方式来修改不可变数据，使得代码更易读、更易写 ![](https://img.shields.io/github/stars/immerjs/use-immer?style=social)
 - [react-router](https://github.com/remix-run/react-router) - 路由库 ![](https://img.shields.io/github/stars/remix-run/react-router?style=social)
+- [react-use](https://github.com/streamich/react-use) - React Hooks集合 ![](https://img.shields.io/github/stars/streamich/react-use?style=social)
 
 ## 后台管理模板
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - vue + element-ui ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social)
