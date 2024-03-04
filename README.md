@@ -318,6 +318,7 @@
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - 多媒体处理工具 ![](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 可视化搭建平台 ![](https://img.shields.io/github/stars/Tencent/tmagic-editor?style=social)
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 搭建NPM私有仓库 ![](https://img.shields.io/github/stars/verdaccio/verdaccio?style=social)
+- [mammoth.js](https://github.com/mwilliamson/mammoth.js) - docx 文件转 HTML ![](https://img.shields.io/github/stars/mwilliamson/mammoth.js?style=social)
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social)
