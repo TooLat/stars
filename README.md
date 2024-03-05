@@ -137,6 +137,8 @@
 - [disable-devtool](https://github.com/theajack/disable-devtool) - 禁止通过F12等唤起开发者调试模式 ![](https://img.shields.io/github/stars/theajack/disable-devtool?style=social)
 - [mammoth.js](https://github.com/mwilliamson/mammoth.js) - docx 文件转 HTML ![](https://img.shields.io/github/stars/mwilliamson/mammoth.js?style=social)
 - [callapp-lib](https://github.com/suanmei/callapp-lib) - H5 唤起 APP 的解决方案 ![](https://img.shields.io/github/stars/suanmei/callapp-lib?style=social)
+- [videojs-player](https://github.com/surmon-china/videojs-player) - Video.js player component for Vue(3) and React. ![](https://img.shields.io/github/stars/surmon-china/videojs-player?style=social)
+- [codemirror5](https://github.com/codemirror/codemirror5) - 代码编辑器 ![](https://img.shields.io/github/stars/codemirror/codemirror5?style=social)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social)
@@ -232,6 +234,9 @@
 - [vue-json-pretty](https://github.com/leezng/vue-json-pretty) - JSON 美化工具 ![](https://img.shields.io/github/stars/leezng/vue-json-pretty?style=social)
 - [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 图片编辑器 ![](https://img.shields.io/github/stars/nihaojob/vue-fabric-editor?style=social)
 - [vue-demi](https://github.com/vueuse/vue-demi) - 同时支持 Vue 2 和 Vue 3 ![](https://img.shields.io/github/stars/vueuse/vue-demi?style=social)
+- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - Swiper ![](https://img.shields.io/github/stars/surmon-china/vue-awesome-swiper?style=social)
+- [vue-codemirror](https://github.com/surmon-china/vue-codemirror) - Vue(3) 代码编辑器 ![](https://img.shields.io/github/stars/surmon-china/vue-codemirror?style=social)
+- [vue-touch-ripple](https://github.com/surmon-china/vue-touch-ripple) - 触碰涟漪效果 ![](https://img.shields.io/github/stars/surmon-china/vue-touch-ripple?style=social)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social)
