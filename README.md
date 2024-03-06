@@ -39,6 +39,8 @@
 - [vant](https://github.com/youzan/vant) ![](https://img.shields.io/github/stars/youzan/vant?style=social)
 - [arco-design](https://github.com/arco-design/arco-design) ![](https://img.shields.io/github/stars/arco-design/arco-design?style=social)
 - [layui](https://github.com/layui/layui) ![](https://img.shields.io/github/stars/layui/layui?style=social)
+- [nutui](https://github.com/jdf2e/nutui) - 京东风格的轻量级 Vue 组件库，支持移动端 H5 和 小程序开发 ![](https://img.shields.io/github/stars/jdf2e/nutui?style=social)
+- [nutui-bingo](https://github.com/jdf2e/nutui-bingo) - 基于 NutUI 的抽奖组件库，助力营销活动和小游戏场景 ![](https://img.shields.io/github/stars/jdf2e/nutui-bingo?style=social)
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social)
 - [material-ui](https://github.com/mui/material-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/mui/material-ui?style=social)
 
@@ -194,7 +196,9 @@
 
 
 ## uniapp
-- [uView2.0](https://github.com/umicro/uView2.0) ![](https://img.shields.io/github/stars/umicro/uView2.0?style=social)
+- [uni-ui](https://github.com/dcloudio/uni-ui) UI框架 ![](https://img.shields.io/github/stars/dcloudio/uni-ui?style=social)
+- [uView2.0](https://github.com/umicro/uView2.0) UI框架 ![](https://img.shields.io/github/stars/umicro/uView2.0?style=social)
+- [ThorUI-uniapp](https://github.com/dingyong0214/ThorUI-uniapp) 组件库，模板付费 ![](https://img.shields.io/github/stars/dingyong0214/ThorUI-uniapp?style=social)
 - [uni-simple-router](https://github.com/SilurianYang/uni-simple-router) - 路由 ![](https://img.shields.io/github/stars/SilurianYang/uni-simple-router?style=social)
 
 ## VUE
@@ -224,6 +228,7 @@
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue 相关开源项目库 ![](https://img.shields.io/github/stars/opendigg/awesome-github-vue?style=social)
 - [babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx)  - 以 JSX 的方式来编写 Vue 代码 ![](https://img.shields.io/github/stars/vuejs/babel-plugin-jsx?style=social)
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - 以 class 的模式写 vue 组件 ![](https://img.shields.io/github/stars/vuejs/vue-class-component?style=social)
+- [vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) - 通过 css 属性画 canvas 图片 (Vue2) ![](https://img.shields.io/github/stars/sunniejs/vue-canvas-poster?style=social)
 - [composition-api](https://github.com/vuejs/composition-api) - 为 Vue 2 提供组合式 API ![](https://img.shields.io/github/stars/vuejs/composition-api?style=social)
 - [pinia](https://github.com/vuejs/pinia) - 状态管理 ![](https://img.shields.io/github/stars/vuejs/pinia?style=social)
 - [pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - Pinia 持久化存储 ![](https://img.shields.io/github/stars/prazdevs/pinia-plugin-persistedstate?style=social)
@@ -251,6 +256,7 @@
 - [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) - 无缝滚动 ![](https://img.shields.io/github/stars/chenxuan0000/vue-seamless-scroll?style=social)
 - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - 轻量级的视频播放器插件 ![](https://img.shields.io/github/stars/core-player/vue-core-video-player?style=social)
 - [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 瀑布流布局 ![](https://img.shields.io/github/stars/AwesomeDevin/vue-waterfall2?style=social)
+- [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - 基于 vite3 + vue3 + pinia + ( Vant or Varlet or NutUI ) + viewport 适配方案 ，构建移动端快速开发脚手架 ![](https://img.shields.io/github/stars/sunniejs/vue-h5-template?style=social)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social)
