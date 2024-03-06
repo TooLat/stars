@@ -12,6 +12,7 @@
 ## CSS
 - [minireset.css](https://github.com/jgthms/minireset.css) - 现代的CSS重置 ![](https://img.shields.io/github/stars/jgthms/minireset.css?style=social)
 - [sanitize.css](https://github.com/csstools/sanitize.css) - 默认样式 ![](https://img.shields.io/github/stars/csstools/sanitize.css?style=social)
+- [animate.css](https://github.com/animate-css/animate.css) - css动画库 ![](https://img.shields.io/github/stars/animate-css/animate.css?style=social)
 - [iCSS](https://github.com/chokcoco/iCSS) - css 技巧 ![](https://img.shields.io/github/stars/chokcoco/iCSS?style=social)
 - [sass](https://github.com/sass/sass) - 预处理 ![](https://img.shields.io/github/stars/sass/sass?style=social)
 - [less](https://github.com/less/less.js) - 预处理 ![](https://img.shields.io/github/stars/less/less.js?style=social)
@@ -32,6 +33,7 @@
 - [muse-ui](https://github.com/museui/muse-ui) - For vue ![](https://img.shields.io/github/stars/museui/muse-ui?style=social)
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - 基于VueJS的Bootstrap框架 ![](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue?style=social)
 - [varlet](https://github.com/varletjs/varlet) - 面向 Vue3 的 Material 风格移动端组件库 ![](https://img.shields.io/github/stars/varletjs/varlet?style=social)
+- [naive-ui](https://github.com/tusen-ai/naive-ui) - UI框架，适用于 Vue 3 ![](https://img.shields.io/github/stars/tusen-ai/naive-ui?style=social)
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 响应式 ![](https://img.shields.io/github/stars/vuetifyjs/vuetify?style=social)
 - [element-plus](https://github.com/element-plus/element-plus) ![](https://img.shields.io/github/stars/element-plus/element-plus?style=social)
 - [vant](https://github.com/youzan/vant) ![](https://img.shields.io/github/stars/youzan/vant?style=social)
@@ -74,6 +76,7 @@
 
 ## 工具插件
 - [axios](https://github.com/axios/axios) ![](https://img.shields.io/github/stars/axios/axios?style=social)
+- [qs](https://github.com/ljharb/qs) - 序列化和解析 URL 查询字符串 ![](https://img.shields.io/github/stars/ljharb/qs?style=social)
 - [fetch ](https://github.com/github/fetch) - polyfill ![](https://img.shields.io/github/stars/github/fetch?style=social)
 - [crypto-js](https://github.com/brix/crypto-js) - 加密 ![](https://img.shields.io/github/stars/brix/crypto-js?style=social)
 - [Recorderjs](https://github.com/mattdiamond/Recorderjs) - 录音 ![](https://img.shields.io/github/stars/mattdiamond/Recorderjs?style=social)
@@ -96,7 +99,6 @@
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - 图像裁剪器 ![](https://img.shields.io/github/stars/fengyuanchen/cropperjs?style=social)
 - [tui.calendar](https://github.com/nhn/tui.calendar) - 日历 ![](https://img.shields.io/github/stars/nhn/tui.calendar?style=social)
 - [js-cookie](https://github.com/js-cookie/js-cookie) - 处理 cookie ![](https://img.shields.io/github/stars/js-cookie/js-cookie?style=social)
-- [animate.css](https://github.com/animate-css/animate.css) - css动画库 ![](https://img.shields.io/github/stars/animate-css/animate.css?style=social)
 - [qrcodejs](https://github.com/davidshimjs/qrcodejs) - 二维码生成器 ![](https://img.shields.io/github/stars/davidshimjs/qrcodejs?style=social)
 - [highlight.js](https://github.com/highlightjs/highlight.js) - JS语法高亮 ![](https://img.shields.io/github/stars/highlightjs/highlight.js?style=social)
 - [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - xml解析 ![](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=social)
@@ -125,20 +127,27 @@
 - [dinero.js](https://github.com/dinerojs/dinero.js) - 创建、计算和格式化货币 ![](https://img.shields.io/github/stars/dinerojs/dinero.js?style=social)
 - [favico.js](https://github.com/ejci/favico.js) - 使favico图标带有徽章、图标、视频 ![](https://img.shields.io/github/stars/ejci/favico.js?style=social)
 - [localForage](https://github.com/localForage/localForage) - 离线存储，封装 IndexedDB，WebSQL或localStorage ![](https://img.shields.io/github/stars/localForage/localForage?style=social)
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - 移动设备触控滑块的框架，使用硬件加速过渡 ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=social)
 - [ai/nanoid](https://github.com/ai/nanoid) - 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器 ![](https://img.shields.io/github/stars/ai/nanoid?style=social)
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js) - 用于任意精度计算 ![](https://img.shields.io/github/stars/MikeMcl/bignumber.js?style=social)
 - [mathjs](https://github.com/josdejong/mathjs) - JavaScript 和 Node.js 的扩展数学库 ![](https://img.shields.io/github/stars/josdejong/mathjs?style=social)
 - [uuid](https://github.com/uuidjs/uuid) - 用于生成通用唯一标识符 ![](https://img.shields.io/github/stars/uuidjs/uuid?style=social)
 - [protobuf.js](https://github.com/protobufjs/protobuf.js) - 用于在 JavaScript 中处理 Protocol Buffers（简称为 Protobuf）的库。Protocol Buffers 是一种轻量级的数据序列化格式，由 Google 开发，用于在不同平台和语言之间进行数据交换 ![](https://img.shields.io/github/stars/protobufjs/protobuf.js?style=social)
 - [typeit](https://github.com/alexmacarthur/typeit) - 动画打字 ![](https://img.shields.io/github/stars/alexmacarthur/typeit?style=social)
+- [typed.js](https://github.com/mattboldt/typed.js) - 动画打字 ![](https://img.shields.io/github/stars/mattboldt/typed.js?style=social)
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social)
+- [marked](https://github.com/markedjs/marked) - Markdown 解析器 ![](https://img.shields.io/github/stars/markedjs/marked?style=social)
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) - 纸屑礼花特效 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social)
 - [disable-devtool](https://github.com/theajack/disable-devtool) - 禁止通过F12等唤起开发者调试模式 ![](https://img.shields.io/github/stars/theajack/disable-devtool?style=social)
 - [mammoth.js](https://github.com/mwilliamson/mammoth.js) - docx 文件转 HTML ![](https://img.shields.io/github/stars/mwilliamson/mammoth.js?style=social)
 - [callapp-lib](https://github.com/suanmei/callapp-lib) - H5 唤起 APP 的解决方案 ![](https://img.shields.io/github/stars/suanmei/callapp-lib?style=social)
 - [videojs-player](https://github.com/surmon-china/videojs-player) - Video.js player component for Vue(3) and React. ![](https://img.shields.io/github/stars/surmon-china/videojs-player?style=social)
 - [codemirror5](https://github.com/codemirror/codemirror5) - 代码编辑器 ![](https://img.shields.io/github/stars/codemirror/codemirror5?style=social)
+- [ali-oss](https://github.com/ali-sdk/ali-oss) - 阿里云oss ![](https://img.shields.io/github/stars/ali-sdk/ali-oss?style=social)
+- [JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5) - MD5 ![](https://img.shields.io/github/stars/blueimp/JavaScript-MD5?style=social)
+- [js-md5](https://github.com/emn178/js-md5) - MD5 ![](https://img.shields.io/github/stars/emn178/js-md5?style=social)
+- [mitt](https://github.com/developit/mitt) - 小型事件发布订阅库 ![](https://img.shields.io/github/stars/developit/mitt?style=social)
+- [image-conversion](https://github.com/WangYuLue/image-conversion) - 图片压缩 ![](https://img.shields.io/github/stars/WangYuLue/image-conversion?style=social)
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js) - 解析用户代理（User-Agent）字符串 ![](https://img.shields.io/github/stars/faisalman/ua-parser-js?style=social)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social)
@@ -171,6 +180,7 @@
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social)
 
 ## 图形动画
+- [swiper](https://github.com/nolimits4web/swiper) - swiper ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=social)
 - [mojs](https://github.com/mojs/mojs) ![](https://img.shields.io/github/stars/mojs/mojs?style=social)
 - [echarts](https://github.com/apache/echarts) ![](https://img.shields.io/github/stars/apache/echarts?style=social)
 - [anime](https://github.com/juliangarnier/anime) - js动画引擎 ![](https://img.shields.io/github/stars/juliangarnier/anime?style=social)
@@ -178,6 +188,9 @@
 - [countUp.js](https://github.com/inorganik/countUp.js) - 动画效果显示数字 ![](https://img.shields.io/github/stars/inorganik/countUp.js?style=social)
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock动画平台 ![](https://img.shields.io/github/stars/greensock/GSAP?style=social)
 - [G6](https://github.com/antvis/G6) - 图分析引擎 ![](https://img.shields.io/github/stars/antvis/G6?style=social)
+- [lottie-web](https://github.com/airbnb/lottie-web) - 在 Web 上展示 Lottie 动画文件（JSON 格式），实现高度可定制的矢量动画 ![](https://img.shields.io/github/stars/airbnb/lottie-web?style=social)
+- [svgo](https://github.com/svg/svgo) - 用于优化 SVG 图形文件的工具，减小 SVG 文件的大小 ![](https://img.shields.io/github/stars/svg/svgo?style=social)
+- [SVGAPlayer-Web](https://github.com/svga/SVGAPlayer-Web) - 在 Web 上展示 SVGA 动画（一种基于矢量图形的动画格式） ![](https://img.shields.io/github/stars/svga/SVGAPlayer-Web?style=social)
 
 
 ## uniapp
@@ -216,14 +229,12 @@
 - [pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - Pinia 持久化存储 ![](https://img.shields.io/github/stars/prazdevs/pinia-plugin-persistedstate?style=social)
 - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - vuex持久化存储 ![](https://img.shields.io/github/stars/robinvdvleuten/vuex-persistedstate?style=social)
 - [vueuse](https://github.com/vueuse/vueuse) - 常用工具集 ![](https://img.shields.io/github/stars/vueuse/vueuse?style=social)
-- [mitt](https://github.com/developit/mitt) - 小型事件发布订阅库 ![](https://img.shields.io/github/stars/developit/mitt?style=social)
 - [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) - vue题目 ![](https://img.shields.io/github/stars/webfansplz/vuejs-challenges?style=social)
 - [vitesse](https://github.com/antfu/vitesse) - 项目构建 ![](https://img.shields.io/github/stars/antfu/vitesse?style=social)
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - 拖拽布局 ![](https://img.shields.io/github/stars/jbaysolutions/vue-grid-layout?style=social)
 - [vee-validate](https://github.com/logaretm/vee-validate) - 表单验证库 ![](https://img.shields.io/github/stars/logaretm/vee-validate?style=social)
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) - 表格 ![](https://img.shields.io/github/stars/ecomfe/vue-echarts?style=social)
 - [troisjs/trois](https://github.com/troisjs/trois) - 基于 Three.JS 的 Vue 3 可视化库 ![](https://img.shields.io/github/stars/troisjs/trois?style=social)
-- [naive-ui](https://github.com/tusen-ai/naive-ui) - UI框架，适用于 Vue 3 ![](https://img.shields.io/github/stars/tusen-ai/naive-ui?style=social)
 - [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - 虚拟列表 ![](https://img.shields.io/github/stars/tangbc/vue-virtual-scroll-list?style=social)
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - 虚拟列表 ![](https://img.shields.io/github/stars/Akryum/vue-virtual-scroller?style=social)
 - [vue-cesium](https://github.com/zouyaoji/vue-cesium) - 基于 Vue 3，面向开发者的 CesiumJS 组件库 ![](https://img.shields.io/github/stars/zouyaoji/vue-cesium?style=social)
@@ -237,6 +248,9 @@
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - Swiper ![](https://img.shields.io/github/stars/surmon-china/vue-awesome-swiper?style=social)
 - [vue-codemirror](https://github.com/surmon-china/vue-codemirror) - Vue(3) 代码编辑器 ![](https://img.shields.io/github/stars/surmon-china/vue-codemirror?style=social)
 - [vue-touch-ripple](https://github.com/surmon-china/vue-touch-ripple) - 触碰涟漪效果 ![](https://img.shields.io/github/stars/surmon-china/vue-touch-ripple?style=social)
+- [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) - 无缝滚动 ![](https://img.shields.io/github/stars/chenxuan0000/vue-seamless-scroll?style=social)
+- [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - 轻量级的视频播放器插件 ![](https://img.shields.io/github/stars/core-player/vue-core-video-player?style=social)
+- [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 瀑布流布局 ![](https://img.shields.io/github/stars/AwesomeDevin/vue-waterfall2?style=social)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social)
@@ -302,7 +316,6 @@
 - [Ghost](https://github.com/TryGhost/Ghost) - 博客搭建 ![](https://img.shields.io/github/stars/TryGhost/Ghost?style=social)
 - [warriorjs](https://github.com/olistic/warriorjs) - 编程游戏 ![](https://img.shields.io/github/stars/olistic/warriorjs?style=social)
 - [jenkins](https://github.com/jenkinsci/jenkins) - 自动化服务 ![](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social)
-- [prettier](https://github.com/prettier/prettier) - 代码格式化 ![](https://img.shields.io/github/stars/prettier/prettier?style=social)
 - [puppeteer](https://github.com/puppeteer/puppeteer) - 无头浏览器 ![](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social)
 - [http-server](https://github.com/http-party/http-server) - 本地服务器 ![](https://img.shields.io/github/stars/http-party/http-server?style=social)
 - [vercel/serve](https://github.com/vercel/serve) - 本地服务器 ![](https://img.shields.io/github/stars/vercel/serve?style=social)
@@ -320,7 +333,7 @@
 - [reveal.js](https://github.com/hakimel/reveal.js) - 轻松创建精美演示文稿，类似PPT ![](https://img.shields.io/github/stars/hakimel/reveal.js?style=social)
 - [varharrie.github.io](https://github.com/varHarrie/varharrie.github.io) - 基于 github 问题的个人博客网站 ![](https://img.shields.io/github/stars/varHarrie/varharrie.github.io?style=social)
 - [browserslist](https://github.com/browserslist/browserslist) - 在不同的前端工具之间共用目标浏览器和 node 版本的配置工具 ![](https://img.shields.io/github/stars/browserslist/browserslist?style=social)
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - 利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作 ![](https://img.shields.io/github/stars/rrweb-io/rrweb?style=social)
+- [rrweb](https://github.com/rrweb-io/rrweb) - 利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作 ![](https://img.shields.io/github/stars/rrweb-io/rrweb?style=social)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - 在 README 中获取动态生成的 GitHub 统计信息 ![](https://img.shields.io/github/stars/anuraghazra/github-readme-stats?style=social)
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - 多媒体处理工具 ![](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 可视化搭建平台 ![](https://img.shields.io/github/stars/Tencent/tmagic-editor?style=social)
@@ -328,8 +341,10 @@
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social)
+- [prettier](https://github.com/prettier/prettier) - 代码格式化 ![](https://img.shields.io/github/stars/prettier/prettier?style=social)
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) ![](https://img.shields.io/github/stars/vuejs/eslint-plugin-vue?style=social)
-- [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - 用于禁用与 Prettier 冲突的 ESLint 规则 ![](https://img.shields.io/github/stars/prettier/eslint-config-prettier?style=social)
+- [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - 关闭 ESLint 中与 Prettier 冲突的规则，以确保 ESLint 和 Prettier 的规则一致性 ![](https://img.shields.io/github/stars/prettier/eslint-config-prettier?style=social)
+- [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - 将 Prettier 的格式化规则集成到 ESLint 中，并提供自动修复与 Prettier 冲突的功能 ![](https://img.shields.io/github/stars/prettier/eslint-plugin-prettier?style=social)
 - [stylelint](https://github.com/stylelint/stylelint) - css 检测 ![](https://img.shields.io/github/stars/stylelint/stylelint?style=social)
 - [stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) ![](https://img.shields.io/github/stars/stylelint-scss/stylelint-scss?style=social)
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order) ![](https://img.shields.io/github/stars/hudochenkov/stylelint-order?style=social)
