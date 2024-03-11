@@ -150,6 +150,8 @@
 - [mitt](https://github.com/developit/mitt) - 小型事件发布订阅库 ![](https://img.shields.io/github/stars/developit/mitt?style=social)
 - [image-conversion](https://github.com/WangYuLue/image-conversion) - 图片压缩 ![](https://img.shields.io/github/stars/WangYuLue/image-conversion?style=social)
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - 解析用户代理（User-Agent）字符串 ![](https://img.shields.io/github/stars/faisalman/ua-parser-js?style=social)
+- [browser-md5-file](https://github.com/ink-zone/browser-md5-file) - 在浏览器端获取文件的MD5值 ![](https://img.shields.io/github/stars/ink-zone/browser-md5-file?style=social)
+- [deepmerge](https://github.com/TehShrike/deepmerge) - 深拷贝 ![](https://img.shields.io/github/stars/TehShrike/deepmerge?style=social)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social)
@@ -180,6 +182,7 @@
 - [tiptap](https://github.com/ueberdosis/tiptap) ![](https://img.shields.io/github/stars/ueberdosis/tiptap?style=social)
 - [tinymce](https://github.com/tinymce/tinymce) ![](https://img.shields.io/github/stars/tinymce/tinymce?style=social)
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social)
+- [wangEditor](https://github.com/wangeditor-team/wangEditor) ![](https://img.shields.io/github/stars/wangeditor-team/wangEditor?style=social)
 
 ## 图形动画
 - [swiper](https://github.com/nolimits4web/swiper) - swiper ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=social)
