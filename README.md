@@ -129,7 +129,7 @@
 - [dinero.js](https://github.com/dinerojs/dinero.js) - 创建、计算和格式化货币 ![](https://img.shields.io/github/stars/dinerojs/dinero.js?style=social)
 - [favico.js](https://github.com/ejci/favico.js) - 使favico图标带有徽章、图标、视频 ![](https://img.shields.io/github/stars/ejci/favico.js?style=social)
 - [localForage](https://github.com/localForage/localForage) - 离线存储，封装 IndexedDB，WebSQL或localStorage ![](https://img.shields.io/github/stars/localForage/localForage?style=social)
-- [ai/nanoid](https://github.com/ai/nanoid) - 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器 ![](https://img.shields.io/github/stars/ai/nanoid?style=social)
+- [nanoid](https://github.com/ai/nanoid) - 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器 ![](https://img.shields.io/github/stars/ai/nanoid?style=social)
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js) - 用于任意精度计算 ![](https://img.shields.io/github/stars/MikeMcl/bignumber.js?style=social)
 - [mathjs](https://github.com/josdejong/mathjs) - JavaScript 和 Node.js 的扩展数学库 ![](https://img.shields.io/github/stars/josdejong/mathjs?style=social)
 - [uuid](https://github.com/uuidjs/uuid) - 用于生成通用唯一标识符 ![](https://img.shields.io/github/stars/uuidjs/uuid?style=social)
@@ -152,6 +152,8 @@
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - 解析用户代理（User-Agent）字符串 ![](https://img.shields.io/github/stars/faisalman/ua-parser-js?style=social)
 - [browser-md5-file](https://github.com/ink-zone/browser-md5-file) - 在浏览器端获取文件的MD5值 ![](https://img.shields.io/github/stars/ink-zone/browser-md5-file?style=social)
 - [deepmerge](https://github.com/TehShrike/deepmerge) - 深拷贝 ![](https://img.shields.io/github/stars/TehShrike/deepmerge?style=social)
+- [parallax](https://github.com/wagerfield/parallax) - 创建视差滚动效果 ![](https://img.shields.io/github/stars/wagerfield/parallax?style=social)
+- [KaTeX](https://github.com/KaTeX/KaTeX) - 呈现 TeX 数学公式 ![](https://img.shields.io/github/stars/KaTeX/KaTeX?style=social)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social)
@@ -330,7 +332,7 @@
 - [jenkins](https://github.com/jenkinsci/jenkins) - 自动化服务 ![](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social)
 - [puppeteer](https://github.com/puppeteer/puppeteer) - 无头浏览器 ![](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social)
 - [http-server](https://github.com/http-party/http-server) - 本地服务器 ![](https://img.shields.io/github/stars/http-party/http-server?style=social)
-- [vercel/serve](https://github.com/vercel/serve) - 本地服务器 ![](https://img.shields.io/github/stars/vercel/serve?style=social)
+- [serve](https://github.com/vercel/serve) - 本地服务器 ![](https://img.shields.io/github/stars/vercel/serve?style=social)
 - [ink](https://github.com/vadimdemedes/ink) - 开发命令行界面应用 ![](https://img.shields.io/github/stars/vadimdemedes/ink?style=social)
 - [ice](https://github.com/alibaba/ice) - 可视化搭建前端工程 ![](https://img.shields.io/github/stars/alibaba/ice?style=social)
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - 音频剪辑处理 ![](https://img.shields.io/github/stars/Kagami/ffmpeg.js?style=social)
@@ -350,6 +352,7 @@
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - 多媒体处理工具 ![](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 可视化搭建平台 ![](https://img.shields.io/github/stars/Tencent/tmagic-editor?style=social)
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 搭建NPM私有仓库 ![](https://img.shields.io/github/stars/verdaccio/verdaccio?style=social)
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南 ![](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh?style=social)
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social)
@@ -428,6 +431,7 @@
 - [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - 搜罗一切 webpack 的好文章好工具 ![](https://img.shields.io/github/stars/webpack-china/awesome-webpack-cn?style=social)
 - [awesome-vite](https://github.com/vitejs/awesome-vite) ![](https://img.shields.io/github/stars/vitejs/awesome-vite?style=social)
 - [awesome-canvas](https://github.com/chinaBerg/awesome-canvas) ![](https://img.shields.io/github/stars/chinaBerg/awesome-canvas?style=social)
+- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版 ![](https://img.shields.io/github/stars/jobbole/awesome-python-cn?style=social)
 
 ## vscode
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - Markdown 格式检查扩展工具 ![](https://img.shields.io/github/stars/DavidAnson/markdownlint?style=social)
@@ -467,8 +471,8 @@
 - [weekly](https://github.com/ascoders/weekly) - 前端精读 ![](https://img.shields.io/github/stars/ascoders/weekly?style=social)
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - JavaScript 进阶问题列表 ![](https://img.shields.io/github/stars/lydiahallie/javascript-questions?style=social)
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30天JS挑战 ![](https://img.shields.io/github/stars/wesbos/JavaScript30?style=social)
-- [llh911001/mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - 函数范式 ![](https://img.shields.io/github/stars/llh911001/mostly-adequate-guide-chinese?style=social)
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![](https://img.shields.io/github/stars/jackfrued/Python-100-Days?style=social)
+- [mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - 函数范式 ![](https://img.shields.io/github/stars/llh911001/mostly-adequate-guide-chinese?style=social)
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![](https://img.shields.io/github/stars/jackfrued/Python-100-Days?style=social)
 - [hello-algo](https://github.com/krahets/hello-algo) - 动画图解、一键运行的数据结构与算法教程 ![](https://img.shields.io/github/stars/krahets/hello-algo?style=social)
 
 ## 软件应用
@@ -476,7 +480,7 @@
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - drawio桌面版 ![](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social)
 - [excalidraw](https://github.com/excalidraw/excalidraw) - 手绘图 ![](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social)
 - [iina](https://github.com/iina/iina) - 视频播放器 ![](https://img.shields.io/github/stars/iina/iina?style=social)
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 视频播放器 ![](https://img.shields.io/github/stars/mpv-player/mpv?style=social)
+- [mpv](https://github.com/mpv-player/mpv) - 视频播放器 ![](https://img.shields.io/github/stars/mpv-player/mpv?style=social)
 - [Snipaste](https://github.com/Snipaste) - 截图贴图工具 ![](https://img.shields.io/github/stars/Snipaste?style=social)
 - [Wox](https://github.com/Wox-launcher/Wox) -  Windows 应用程序启动器和搜索工具 ![](https://img.shields.io/github/stars/Wox-launcher/Wox?style=social)
 
@@ -489,4 +493,4 @@
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - windows 安装工具 ![](https://img.shields.io/github/stars/felixrieseberg/windows-build-tools?style=social)
 
 ## 简历
-- [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模板 ![](https://img.shields.io/github/stars/geekcompany/ResumeSample?style=social)
+- [ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模板 ![](https://img.shields.io/github/stars/geekcompany/ResumeSample?style=social)
