@@ -34,6 +34,8 @@
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - 基于VueJS的Bootstrap框架 ![](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue?style=social)
 - [varlet](https://github.com/varletjs/varlet) - 面向 Vue3 的 Material 风格移动端组件库 ![](https://img.shields.io/github/stars/varletjs/varlet?style=social)
 - [naive-ui](https://github.com/tusen-ai/naive-ui) - UI框架，适用于 Vue 3 ![](https://img.shields.io/github/stars/tusen-ai/naive-ui?style=social)
+- [vxe-table](https://github.com/x-extends/vxe-table) - 一个基于 vue 的 PC 端表单/表格组件 ![](https://img.shields.io/github/stars/x-extends/vxe-table?style=social)
+- [tiny-vue](https://github.com/opentiny/tiny-vue) - 一套跨端、跨框架的企业级 UI 组件库，支持 Vue 2 和 Vue 3，支持 PC 端和移动端 ![](https://img.shields.io/github/stars/opentiny/tiny-vue?style=social)
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 响应式 ![](https://img.shields.io/github/stars/vuetifyjs/vuetify?style=social)
 - [element-plus](https://github.com/element-plus/element-plus) ![](https://img.shields.io/github/stars/element-plus/element-plus?style=social)
 - [vant](https://github.com/youzan/vant) ![](https://img.shields.io/github/stars/youzan/vant?style=social)
@@ -43,6 +45,7 @@
 - [nutui-bingo](https://github.com/jdf2e/nutui-bingo) - 基于 NutUI 的抽奖组件库，助力营销活动和小游戏场景 ![](https://img.shields.io/github/stars/jdf2e/nutui-bingo?style=social)
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social)
 - [material-ui](https://github.com/mui/material-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/mui/material-ui?style=social)
+- [floating-ui](https://github.com/floating-ui/floating-ui) - 轻量级、无依赖、高性能的定位库 ![](https://img.shields.io/github/stars/floating-ui/floating-ui?style=social)
 
 ## 图标
 - [IconPark](https://github.com/bytedance/IconPark) ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social)
@@ -302,11 +305,12 @@
 - [gatsby](https://github.com/gatsbyjs/gatsby) - 框架，用于构建静态网站和现代 Web 应用程序 ![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=social)
 
 ## 多端开发
-- [uni-app](https://github.com/dcloudio/uni-app) ![](https://img.shields.io/github/stars/dcloudio/uni-app?style=social)
+- [uni-app](https://github.com/dcloudio/uni-app) - uniapp ![](https://img.shields.io/github/stars/dcloudio/uni-app?style=social)
 - [taro](https://github.com/NervJS/taro) ![](https://img.shields.io/github/stars/NervJS/taro?style=social)
 - [taro-ui](https://github.com/NervJS/taro-ui) - 一套基于 Taro 框架开发的多端 UI 组件库 ![](https://img.shields.io/github/stars/NervJS/taro-ui?style=social)
 - [kbone](https://github.com/Tencent/kbone) - 微信小程序 & H5 ![](https://img.shields.io/github/stars/Tencent/kbone?style=social)
 - [expo](https://github.com/expo/expo) - 基于 React Native 的开发平台，旨在帮助开发者更轻松地构建跨平台移动应用程序 ![](https://img.shields.io/github/stars/expo/expo?style=social)
+- [quasar](https://github.com/quasarframework/quasar) - Quasar 是一个基于 Vue.js 的框架，它提供了丰富的组件库和工具，用于快速开发现代化的 Web 应用程序、移动应用程序和桌面应用程序。 ![](https://img.shields.io/github/stars/quasarframework/quasar?style=social)
 
 ## 测试工具
 - [jest](https://github.com/facebook/jest) ![](https://img.shields.io/github/stars/facebook/jest?style=social)
@@ -333,7 +337,7 @@
 - [puppeteer](https://github.com/puppeteer/puppeteer) - 无头浏览器 ![](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social)
 - [http-server](https://github.com/http-party/http-server) - 本地服务器 ![](https://img.shields.io/github/stars/http-party/http-server?style=social)
 - [serve](https://github.com/vercel/serve) - 本地服务器 ![](https://img.shields.io/github/stars/vercel/serve?style=social)
-- [ink](https://github.com/vadimdemedes/ink) - 开发命令行界面应用 ![](https://img.shields.io/github/stars/vadimdemedes/ink?style=social)
+- [ink](https://github.com/vadimdemedes/ink) - 用于构建交互式命令行界面（CLI）的 JavaScript 库。它提供了一种简单且强大的方式来创建具有用户输入、选择、提示等功能的命令行界面。 ![](https://img.shields.io/github/stars/vadimdemedes/ink?style=social)
 - [ice](https://github.com/alibaba/ice) - 可视化搭建前端工程 ![](https://img.shields.io/github/stars/alibaba/ice?style=social)
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - 音频剪辑处理 ![](https://img.shields.io/github/stars/Kagami/ffmpeg.js?style=social)
 - [walle-web](https://github.com/meolu/walle-web) - 代码部署发布 ![](https://img.shields.io/github/stars/meolu/walle-web?style=social)
