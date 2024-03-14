@@ -500,6 +500,7 @@
 - [Homebrew](https://github.com/Homebrew/brew) - 安装没有预装但需要的东西 ![](https://img.shields.io/github/stars/Homebrew/brew?style=social)
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Homebrew GUI应用程序 ![](https://img.shields.io/github/stars/brunophilipe/Cakebrew?style=social)
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - windows 安装工具 ![](https://img.shields.io/github/stars/felixrieseberg/windows-build-tools?style=social)
+- [rubick](https://github.com/rubickCenter/rubick) - 桌面端效率工具 ![](https://img.shields.io/github/stars/rubickCenter/rubick?style=social)
 
 ## 简历
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模板 ![](https://img.shields.io/github/stars/geekcompany/ResumeSample?style=social)
