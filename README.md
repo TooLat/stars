@@ -23,7 +23,7 @@
 - [stickybits](https://github.com/dollarshaveclub/stickybits) - sticky兼容库 ![](https://img.shields.io/github/stars/dollarshaveclub/stickybits?style=social)
 - [yangxi0126/javaScript](https://github.com/yangxi0126/javaScript) - 前端特效存档 ![](https://img.shields.io/github/stars/yangxi0126/javaScript?style=social)
 - [spectre](https://github.com/picturepan2/spectre) - css框架 ![](https://img.shields.io/github/stars/picturepan2/spectre?style=social)
-- [unocss](https://github.com/https://github.com/unocss/unocss) - 即时按需的原子化 CSS 引擎 ![](https://img.shields.io/github/stars/https://github.com/unocss/unocss?style=social)
+- [unocss](https://github.com/unocss/unocss) - 即时按需的原子化 CSS 引擎 ![](https://img.shields.io/github/stars/unocss/unocss?style=social)
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - CSS 框架 ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social)
 - [windicss](https://github.com/windicss/windicss) - CSS 框架 ![](https://img.shields.io/github/stars/windicss/windicss?style=social)
 
@@ -58,6 +58,7 @@
 - [remix](https://github.com/remix-run/remix) - 现代化的全栈 JavaScript 框架，用于构建快速、可扩展的 Web 应用程序。它提供了一种统一的开发模型，使开发者能够在服务器端和客户端之间共享代码和逻辑 ![](https://img.shields.io/github/stars/remix-run/remix?style=social)
 
 ## 包管理工具
+- [yarn](https://github.com/yarnpkg/yarn) ![](https://img.shields.io/github/stars/yarnpkg/yarn?style=social)
 - [pnpm](https://github.com/pnpm/pnpm) ![](https://img.shields.io/github/stars/pnpm/pnpm?style=social)
 
 ## 构建
@@ -205,12 +206,16 @@
 
 ## uniapp
 - [uni-ui](https://github.com/dcloudio/uni-ui) UI框架 ![](https://img.shields.io/github/stars/dcloudio/uni-ui?style=social)
-- [uView2.0](https://github.com/umicro/uView2.0) UI框架 ![](https://img.shields.io/github/stars/umicro/uView2.0?style=social)
+- [uView2.0](https://github.com/umicro/uView2.0) UI框架 (Vue2) ![](https://img.shields.io/github/stars/umicro/uView2.0?style=social)
 - [uv-ui](https://github.com/climblee/uv-ui) UI框架 ![](https://img.shields.io/github/stars/climblee/uv-ui?style=social)
-- [ThorUI-uniapp](https://github.com/dingyong0214/ThorUI-uniapp) 组件库，模板付费 ![](https://img.shields.io/github/stars/dingyong0214/ThorUI-uniapp?style=social)
-- [tuniaoui-rc-vue3-uniapp](https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp) 图鸟UI vue3 ![](https://img.shields.io/github/stars/tuniaoTech/tuniaoui-rc-vue3-uniapp?style=social)
-- [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) UI框架 ![](https://img.shields.io/github/stars/nutui-uniapp/nutui-uniapp?style=social)
+- [ThorUI-uniapp](https://github.com/dingyong0214/ThorUI-uniapp) UI框架，模板付费 ![](https://img.shields.io/github/stars/dingyong0214/ThorUI-uniapp?style=social)
+- [tuniaoui-rc-vue3-uniapp](https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp) 图鸟UI (vue3) ![](https://img.shields.io/github/stars/tuniaoTech/tuniaoui-rc-vue3-uniapp?style=social)
+- [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) 京东风格UI框架 (vue3) ![](https://img.shields.io/github/stars/nutui-uniapp/nutui-uniapp?style=social)
+- [wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni) UI框架 (vue3) ![](https://img.shields.io/github/stars/Moonofweisheng/wot-design-uni?style=social)
+- [FirstUI](https://github.com/FirstUI/FirstUI) UI框架，商业版付费 ![](https://img.shields.io/github/stars/FirstUI/FirstUI?style=social)
+- [uview-plus](https://github.com/ijry/uview-plus) UI框架 (vue3) ![](https://img.shields.io/github/stars/ijry/uview-plus?style=social)
 - [uni-simple-router](https://github.com/SilurianYang/uni-simple-router) - 路由 ![](https://img.shields.io/github/stars/SilurianYang/uni-simple-router?style=social)
+- [unibest](https://github.com/codercup/unibest) -  uniapp 开发模板。由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板 ![](https://img.shields.io/github/stars/codercup/unibest?style=social)
 
 ## VUE
 - [vue](https://github.com/vuejs/vue) ![](https://img.shields.io/github/stars/vuejs/vue?style=social)
