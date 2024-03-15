@@ -390,6 +390,9 @@
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - 将捆绑包内容表示为交互式可缩放树形图 ![](https://img.shields.io/github/stars/webpack-contrib/webpack-bundle-analyzer?style=social)
 - [webpack-chain](https://github.com/Yatoo2018/webpack-chain) - 链式 API ![](https://img.shields.io/github/stars/Yatoo2018/webpack-chain?style=social)
 
+## vite
+- [vite-plugin-imagemin](https://github.com/vbenjs/vite-plugin-imagemin) - 压缩图片 ![](https://img.shields.io/github/stars/vbenjs/vite-plugin-imagemin?style=social)
+
 ## All-In-One
 - [bun](https://github.com/oven-sh/bun) - 新的js运行环境，类似node ![](https://img.shields.io/github/stars/oven-sh/bun?style=social)
 
