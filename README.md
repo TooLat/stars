@@ -55,7 +55,10 @@
 
 ## 框架
 - [svelte](https://github.com/sveltejs/svelte) ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social)
+- [next.js](https://github.com/vercel/next.js) - 框架，用于构建服务器端渲染（SSR）和静态网站 ![](https://img.shields.io/github/stars/vercel/next.js?style=social)
+- [gatsby](https://github.com/gatsbyjs/gatsby) - 框架，用于构建静态网站和现代 Web 应用程序 ![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=social)
 - [remix](https://github.com/remix-run/remix) - 现代化的全栈 JavaScript 框架，用于构建快速、可扩展的 Web 应用程序。它提供了一种统一的开发模型，使开发者能够在服务器端和客户端之间共享代码和逻辑 ![](https://img.shields.io/github/stars/remix-run/remix?style=social)
+- [umi](https://github.com/umijs/umi) - 可扩展的企业级前端应用框架 ![](https://img.shields.io/github/stars/umijs/umi?style=social)
 
 ## 包管理工具
 - [yarn](https://github.com/yarnpkg/yarn) ![](https://img.shields.io/github/stars/yarnpkg/yarn?style=social)
@@ -306,8 +309,6 @@
 - [flutter](https://github.com/flutter/flutter) ![](https://img.shields.io/github/stars/flutter/flutter?style=social)
 - [weex](https://github.com/alibaba/weex) ![](https://img.shields.io/github/stars/alibaba/weex?style=social)
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React-Native 学习指南 ![](https://img.shields.io/github/stars/reactnativecn/react-native-guide?style=social)
-- [next.js](https://github.com/vercel/next.js) - 框架，用于构建服务器端渲染（SSR）和静态网站 ![](https://img.shields.io/github/stars/vercel/next.js?style=social)
-- [gatsby](https://github.com/gatsbyjs/gatsby) - 框架，用于构建静态网站和现代 Web 应用程序 ![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=social)
 
 ## 多端开发
 - [uni-app](https://github.com/dcloudio/uni-app) - uniapp ![](https://img.shields.io/github/stars/dcloudio/uni-app?style=social)
