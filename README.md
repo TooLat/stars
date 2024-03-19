@@ -364,6 +364,7 @@
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 搭建NPM私有仓库 ![](https://img.shields.io/github/stars/verdaccio/verdaccio?style=social)
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南 ![](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh?style=social)
 - [snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - 快速创建代码片段 ![](https://img.shields.io/github/stars/pawelgrzybek/snippet-generator?style=social)
+- [jsdoc](https://github.com/jsdoc/jsdoc) - 生成 JS API 文档 ![](https://img.shields.io/github/stars/jsdoc/jsdoc?style=social)
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social)
