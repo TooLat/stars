@@ -497,7 +497,9 @@
 - [iina](https://github.com/iina/iina) - 视频播放器 ![](https://img.shields.io/github/stars/iina/iina?style=social)
 - [mpv](https://github.com/mpv-player/mpv) - 视频播放器 ![](https://img.shields.io/github/stars/mpv-player/mpv?style=social)
 - [Snipaste](https://github.com/Snipaste) - 截图贴图工具 ![](https://img.shields.io/github/stars/Snipaste?style=social)
-- [Wox](https://github.com/Wox-launcher/Wox) -  Windows 应用程序启动器和搜索工具 ![](https://img.shields.io/github/stars/Wox-launcher/Wox?style=social)
+- [Wox](https://github.com/Wox-launcher/Wox) - Windows 应用程序启动器和搜索工具 ![](https://img.shields.io/github/stars/Wox-launcher/Wox?style=social)
+- [bruno](https://github.com/usebruno/bruno) - 一款仅限离线（无需登录）使用的 API 客户端桌面工具，可用来测试和请求 API ![](https://img.shields.io/github/stars/usebruno/bruno?style=social)
+- [joplin](https://github.com/laurent22/joplin) - 免费的开源笔记软件 ![](https://img.shields.io/github/stars/laurent22/joplin?style=social)
 
 ## 系统工具
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social)
@@ -510,3 +512,7 @@
 
 ## 简历
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模板 ![](https://img.shields.io/github/stars/geekcompany/ResumeSample?style=social)
+
+## 其他
+- [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social)
+- [grok-1](https://github.com/xai-org/grok-1) - Grok-1 大模型 ![](https://img.shields.io/github/stars/xai-org/grok-1?style=social)
