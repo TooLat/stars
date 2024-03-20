@@ -366,6 +366,7 @@
 - [snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - 快速创建代码片段 ![](https://img.shields.io/github/stars/pawelgrzybek/snippet-generator?style=social)
 - [jsdoc](https://github.com/jsdoc/jsdoc) - 生成 JS API 文档 ![](https://img.shields.io/github/stars/jsdoc/jsdoc?style=social)
 - [depcheck](https://github.com/depcheck/depcheck) - 分析项目中的依赖项（缺失的、未使用的） ![](https://img.shields.io/github/stars/depcheck/depcheck?style=social)
+- [console-importer](https://github.com/pd4d10/console-importer) - 在浏览器控制台安装插件 ![](https://img.shields.io/github/stars/pd4d10/console-importer?style=social)
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social)
