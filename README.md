@@ -26,6 +26,7 @@
 - [unocss](https://github.com/unocss/unocss) - 即时按需的原子化 CSS 引擎 ![](https://img.shields.io/github/stars/unocss/unocss?style=social)
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - CSS 框架 ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social)
 - [windicss](https://github.com/windicss/windicss) - CSS 框架 ![](https://img.shields.io/github/stars/windicss/windicss?style=social)
+- [styils](https://github.com/styils/styils) - 一个轻量级和快速的 css-in-js 解决方案 ![](https://img.shields.io/github/stars/styils/styils?style=social)
 
 ## UI库
 - [ant-design](https://github.com/ant-design/ant-design) ![](https://img.shields.io/github/stars/ant-design/ant-design?style=social)
