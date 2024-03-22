@@ -56,6 +56,7 @@
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) ![](https://img.shields.io/github/stars/FortAwesome/Font-Awesome?style=social)
 - [ionicons](https://github.com/ionic-team/ionicons) ![](https://img.shields.io/github/stars/ionic-team/ionicons?style=social)
 - [iconify](https://github.com/iconify/iconify) ![](https://img.shields.io/github/stars/iconify/iconify?style=social)
+- [unplugin-icons](https://github.com/unplugin/unplugin-icons) - 作为组件使用图标 ![](https://img.shields.io/github/stars/unplugin/unplugin-icons?style=social)
 
 ## 框架
 - [svelte](https://github.com/sveltejs/svelte) ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social)
@@ -252,6 +253,7 @@
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - 以 class 的模式写 vue 组件 ![](https://img.shields.io/github/stars/vuejs/vue-class-component?style=social)
 - [vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) - 通过 css 属性画 canvas 图片 (Vue2) ![](https://img.shields.io/github/stars/sunniejs/vue-canvas-poster?style=social)
 - [composition-api](https://github.com/vuejs/composition-api) - 为 Vue 2 提供组合式 API ![](https://img.shields.io/github/stars/vuejs/composition-api?style=social)
+- [unplugin-vue2-script-setup](https://github.com/unplugin/unplugin-vue2-script-setup) - 为 Vue 2 提供 script setup ![](https://img.shields.io/github/stars/unplugin/unplugin-vue2-script-setup?style=social)
 - [pinia](https://github.com/vuejs/pinia) - 状态管理 ![](https://img.shields.io/github/stars/vuejs/pinia?style=social)
 - [pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - Pinia 持久化存储 ![](https://img.shields.io/github/stars/prazdevs/pinia-plugin-persistedstate?style=social)
 - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - vuex持久化存储 ![](https://img.shields.io/github/stars/robinvdvleuten/vuex-persistedstate?style=social)
@@ -279,6 +281,10 @@
 - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - 轻量级的视频播放器插件 ![](https://img.shields.io/github/stars/core-player/vue-core-video-player?style=social)
 - [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 瀑布流布局 ![](https://img.shields.io/github/stars/AwesomeDevin/vue-waterfall2?style=social)
 - [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - 基于 vite3 + vue3 + pinia + ( Vant or Varlet or NutUI ) + viewport 适配方案 ，构建移动端快速开发脚手架 ![](https://img.shields.io/github/stars/sunniejs/vue-h5-template?style=social)
+- [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 按需自动导入组件 ![](https://img.shields.io/github/stars/unplugin/unplugin-vue-components?style=social)
+- [unplugin-vue-markdown](https://github.com/unplugin/unplugin-vue-markdown) - 编译 Markdown 到 Vue 组件 ![](https://img.shields.io/github/stars/unplugin/unplugin-vue-markdown?style=social)
+- [vue3-seamless-scroll](https://github.com/xfy520/vue3-seamless-scroll) - Vue3.0 无缝滚动组件 ![](https://img.shields.io/github/stars/xfy520/vue3-seamless-scroll?style=social)
+- [vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - 二维码 ![](https://img.shields.io/github/stars/fengyuanchen/vue-qrcode?style=social)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social)
@@ -329,6 +335,7 @@
 ## git
 - [commitizen](https://github.com/commitizen-tools/commitizen) - 规范 Git 提交 ![](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=social)
 - [commitlint](https://github.com/conventional-changelog/commitlint) ![](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social)
+- [git-cz](https://github.com/streamich/git-cz) - 规范化 Git 提交信息，在提交代码时使用交互式界面来选择提交类型、范围、描述等信息，从而生成符合规范的提交信息 ![](https://img.shields.io/github/stars/streamich/git-cz?style=social)
 
 ## 其他插件
 - [page.js](https://github.com/visionmedia/page.js) - 路由器 ![](https://img.shields.io/github/stars/visionmedia/page.js?style=social)
@@ -415,6 +422,7 @@
 - [nodemon](https://github.com/remy/nodemon) - 帮助开发基于node .js的应用程序的工具，它在检测到目录中的文件更改时自动重启节点应用程序 ![](https://img.shields.io/github/stars/remy/nodemon?style=social)
 - [thinkjs](https://github.com/thinkjs/thinkjs) - node 框架 ![](https://img.shields.io/github/stars/thinkjs/thinkjs?style=social)
 - [nest](https://github.com/nestjs/nest) - node 框架 ![](https://img.shields.io/github/stars/nestjs/nest?style=social)
+- [jsdom](https://github.com/jsdom/jsdom) - 在 Node.js 环境中模拟浏览器环境，允许你在 Node.js 中使用类似于浏览器中的 DOM、CSS 选择器和事件处理等功能 ![](https://img.shields.io/github/stars/jsdom/jsdom?style=social)
 
 ## 其他
 - [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social)
