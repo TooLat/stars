@@ -377,6 +377,7 @@
 - [jsdoc](https://github.com/jsdoc/jsdoc) - 生成 JS API 文档 ![](https://img.shields.io/github/stars/jsdoc/jsdoc?style=social) ![](https://img.shields.io/github/last-commit/jsdoc/jsdoc?style=flat&logo=Polestar)
 - [depcheck](https://github.com/depcheck/depcheck) - 分析项目中的依赖项（缺失的、未使用的） ![](https://img.shields.io/github/stars/depcheck/depcheck?style=social) ![](https://img.shields.io/github/last-commit/depcheck/depcheck?style=flat&logo=Polestar)
 - [console-importer](https://github.com/pd4d10/console-importer) - 在浏览器控制台安装插件 ![](https://img.shields.io/github/stars/pd4d10/console-importer?style=social) ![](https://img.shields.io/github/last-commit/pd4d10/console-importer?style=flat&logo=Polestar)
+- [shields](https://github.com/badges/shields) - 生成小型徽章或状态指示器 ![](https://img.shields.io/github/stars/badges/shields?style=social) ![](https://img.shields.io/github/last-commit/badges/shields?style=flat&logo=Polestar)
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social) ![](https://img.shields.io/github/last-commit/eslint/eslint?style=flat&logo=Polestar)
