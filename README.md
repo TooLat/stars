@@ -64,6 +64,7 @@
 - [gatsby](https://github.com/gatsbyjs/gatsby) - 框架，用于构建静态网站和现代 Web 应用程序 ![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=social) ![](https://img.shields.io/github/last-commit/gatsbyjs/gatsby?style=flat&logo=Polestar)
 - [remix](https://github.com/remix-run/remix) - 现代化的全栈 JavaScript 框架，用于构建快速、可扩展的 Web 应用程序。它提供了一种统一的开发模型，使开发者能够在服务器端和客户端之间共享代码和逻辑 ![](https://img.shields.io/github/stars/remix-run/remix?style=social) ![](https://img.shields.io/github/last-commit/remix-run/remix?style=flat&logo=Polestar)
 - [umi](https://github.com/umijs/umi) - 可扩展的企业级前端应用框架 ![](https://img.shields.io/github/stars/umijs/umi?style=social) ![](https://img.shields.io/github/last-commit/umijs/umi?style=flat&logo=Polestar)
+- [ofa.js](https://github.com/kirakiray/ofa.js) - 不需要打包的 MVVM JavaScript 框架 ![](https://img.shields.io/github/stars/kirakiray/ofa.js?style=social) ![](https://img.shields.io/github/last-commit/kirakiray/ofa.js?style=flat&logo=Polestar)
 
 ## 包管理工具
 - [yarn](https://github.com/yarnpkg/yarn) ![](https://img.shields.io/github/stars/yarnpkg/yarn?style=social) ![](https://img.shields.io/github/last-commit/yarnpkg/yarn?style=flat&logo=Polestar)
