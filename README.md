@@ -190,6 +190,7 @@
 - [d3](https://github.com/d3/d3) ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/last-commit/d3/d3?style=flat&logo=Polestar)
 - [three.js 3D](https://github.com/mrdoob/three.js) ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) ![](https://img.shields.io/github/last-commit/mrdoob/three.js?style=flat&logo=Polestar)
 - [cesium](https://github.com/CesiumGS/cesium) ![](https://img.shields.io/github/stars/CesiumGS/cesium?style=social) ![](https://img.shields.io/github/last-commit/CesiumGS/cesium?style=flat&logo=Polestar)
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 基于 WebGL，创建交互式、可定制的高性能地图 ![](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/mapbox-gl-js?style=flat&logo=Polestar)
 - [G2](https://github.com/antvis/G2) ![](https://img.shields.io/github/stars/antvis/G2?style=social) ![](https://img.shields.io/github/last-commit/antvis/G2?style=flat&logo=Polestar)
 - [Chart.js](https://github.com/chartjs/Chart.js) ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) ![](https://img.shields.io/github/last-commit/chartjs/Chart.js?style=flat&logo=Polestar)
 - [BizCharts](https://github.com/alibaba/BizCharts) - 阿里巴巴图表库，基于G2和React ![](https://img.shields.io/github/stars/alibaba/BizCharts?style=social) ![](https://img.shields.io/github/last-commit/alibaba/BizCharts?style=flat&logo=Polestar)
