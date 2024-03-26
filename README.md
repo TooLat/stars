@@ -42,6 +42,9 @@
 - [vant](https://github.com/youzan/vant) ![](https://img.shields.io/github/stars/youzan/vant?style=social) ![](https://img.shields.io/github/last-commit/youzan/vant?style=flat&logo=Polestar)
 - [arco-design](https://github.com/arco-design/arco-design) ![](https://img.shields.io/github/stars/arco-design/arco-design?style=social) ![](https://img.shields.io/github/last-commit/arco-design/arco-design?style=flat&logo=Polestar)
 - [layui](https://github.com/layui/layui) ![](https://img.shields.io/github/stars/layui/layui?style=social) ![](https://img.shields.io/github/last-commit/layui/layui?style=flat&logo=Polestar)
+- [primevue](https://github.com/primefaces/primevue) - prime Vue 组件库 ![](https://img.shields.io/github/stars/primefaces/primevue?style=social) ![](https://img.shields.io/github/last-commit/primefaces/primevue?style=flat&logo=Polestar)
+- [shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue 组件库 ![](https://img.shields.io/github/stars/radix-vue/shadcn-vue?style=social) ![](https://img.shields.io/github/last-commit/radix-vue/shadcn-vue?style=flat&logo=Polestar)
+- [buefy](https://github.com/buefy/buefy) - Vue 组件库 ![](https://img.shields.io/github/stars/buefy/buefy?style=social) ![](https://img.shields.io/github/last-commit/buefy/buefy?style=flat&logo=Polestar)
 - [iview](https://github.com/iview/iview) - 基于 Vue.js 2.0 的组件库 ![](https://img.shields.io/github/stars/iview/iview?style=social) ![](https://img.shields.io/github/last-commit/iview/iview?style=flat&logo=Polestar)
 - [ViewUI](https://github.com/view-design/ViewUI) - 基于 Vue.js 2.0 的组件库 ![](https://img.shields.io/github/stars/view-design/ViewUI?style=social) ![](https://img.shields.io/github/last-commit/view-design/ViewUI?style=flat&logo=Polestar)
 - [ViewUIPlus](https://github.com/view-design/ViewUIPlus) - 基于 Vue.js 3.0 的组件库 ![](https://img.shields.io/github/stars/view-design/ViewUIPlus?style=social) ![](https://img.shields.io/github/last-commit/view-design/ViewUIPlus?style=flat&logo=Polestar)
@@ -49,6 +52,8 @@
 - [nutui-bingo](https://github.com/jdf2e/nutui-bingo) - 基于 NutUI 的抽奖组件库，助力营销活动和小游戏场景 ![](https://img.shields.io/github/stars/jdf2e/nutui-bingo?style=social) ![](https://img.shields.io/github/last-commit/jdf2e/nutui-bingo?style=flat&logo=Polestar)
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social) ![](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui?style=flat&logo=Polestar)
 - [material-ui](https://github.com/mui/material-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/mui/material-ui?style=social) ![](https://img.shields.io/github/last-commit/mui/material-ui?style=flat&logo=Polestar)
+- [primereact](https://github.com/primefaces/primereact) - prime React 组件库 ![](https://img.shields.io/github/stars/primefaces/primereact?style=social) ![](https://img.shields.io/github/last-commit/primefaces/primereact?style=flat&logo=Polestar)
+- [primeng](https://github.com/primefaces/primeng) - prime Angular 组件库 ![](https://img.shields.io/github/stars/primefaces/primeng?style=social) ![](https://img.shields.io/github/last-commit/primefaces/primeng?style=flat&logo=Polestar)
 - [floating-ui](https://github.com/floating-ui/floating-ui) - 轻量级、无依赖、高性能的定位库 ![](https://img.shields.io/github/stars/floating-ui/floating-ui?style=social) ![](https://img.shields.io/github/last-commit/floating-ui/floating-ui?style=flat&logo=Polestar)
 
 ## 图标
@@ -425,6 +430,7 @@
 - [thinkjs](https://github.com/thinkjs/thinkjs) - node 框架 ![](https://img.shields.io/github/stars/thinkjs/thinkjs?style=social) ![](https://img.shields.io/github/last-commit/thinkjs/thinkjs?style=flat&logo=Polestar)
 - [nest](https://github.com/nestjs/nest) - node 框架 ![](https://img.shields.io/github/stars/nestjs/nest?style=social) ![](https://img.shields.io/github/last-commit/nestjs/nest?style=flat&logo=Polestar)
 - [jsdom](https://github.com/jsdom/jsdom) - 在 Node.js 环境中模拟浏览器环境，允许你在 Node.js 中使用类似于浏览器中的 DOM、CSS 选择器和事件处理等功能 ![](https://img.shields.io/github/stars/jsdom/jsdom?style=social) ![](https://img.shields.io/github/last-commit/jsdom/jsdom?style=flat&logo=Polestar)
+- [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - ffmpeg-API ![](https://img.shields.io/github/stars/fluent-ffmpeg/node-fluent-ffmpeg?style=social) ![](https://img.shields.io/github/last-commit/fluent-ffmpeg/node-fluent-ffmpeg?style=flat&logo=Polestar)
 
 ## 其他
 - [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social) ![](https://img.shields.io/github/last-commit/didi/DoKit?style=flat&logo=Polestar)
