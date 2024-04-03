@@ -174,6 +174,7 @@
 - [deepmerge](https://github.com/TehShrike/deepmerge) - 深拷贝 ![](https://img.shields.io/github/stars/TehShrike/deepmerge?style=social) ![](https://img.shields.io/github/last-commit/TehShrike/deepmerge?style=flat&logo=Polestar)
 - [parallax](https://github.com/wagerfield/parallax) - 创建视差滚动效果 ![](https://img.shields.io/github/stars/wagerfield/parallax?style=social) ![](https://img.shields.io/github/last-commit/wagerfield/parallax?style=flat&logo=Polestar)
 - [KaTeX](https://github.com/KaTeX/KaTeX) - 呈现 TeX 数学公式 ![](https://img.shields.io/github/stars/KaTeX/KaTeX?style=social) ![](https://img.shields.io/github/last-commit/KaTeX/KaTeX?style=flat&logo=Polestar)
+- [autofit.js](https://github.com/LarryZhu-dev/autofit.js) - 屏幕自适应 ![](https://img.shields.io/github/stars/LarryZhu-dev/autofit.js?style=social) ![](https://img.shields.io/github/last-commit/LarryZhu-dev/autofit.js?style=flat&logo=Polestar)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet?style=flat&logo=Polestar)
