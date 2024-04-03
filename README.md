@@ -89,7 +89,7 @@
 - [wujie](https://github.com/Tencent/wujie) ![](https://img.shields.io/github/stars/Tencent/wujie?style=social) ![](https://img.shields.io/github/last-commit/Tencent/wujie?style=flat&logo=Polestar)
 
 ## 服务端渲染
-- [nuxt.js](https://github.com/nuxt/nuxt.js) ![](https://img.shields.io/github/stars/nuxt/nuxt.js?style=social) ![](https://img.shields.io/github/last-commit/nuxt/nuxt.js?style=flat&logo=Polestar)
+- [nuxt](https://github.com/nuxt/nuxt) ![](https://img.shields.io/github/stars/nuxt/nuxt?style=social) ![](https://img.shields.io/github/last-commit/nuxt/nuxt?style=flat&logo=Polestar)
 - [ssr](https://github.com/zhangyuang/ssr) ![](https://img.shields.io/github/stars/zhangyuang/ssr?style=social) ![](https://img.shields.io/github/last-commit/zhangyuang/ssr?style=flat&logo=Polestar)
 
 ## 低代码
@@ -155,6 +155,7 @@
 - [protobuf.js](https://github.com/protobufjs/protobuf.js) - 用于在 JavaScript 中处理 Protocol Buffers（简称为 Protobuf）的库。Protocol Buffers 是一种轻量级的数据序列化格式，由 Google 开发，用于在不同平台和语言之间进行数据交换 ![](https://img.shields.io/github/stars/protobufjs/protobuf.js?style=social) ![](https://img.shields.io/github/last-commit/protobufjs/protobuf.js?style=flat&logo=Polestar)
 - [typeit](https://github.com/alexmacarthur/typeit) - 动画打字 ![](https://img.shields.io/github/stars/alexmacarthur/typeit?style=social) ![](https://img.shields.io/github/last-commit/alexmacarthur/typeit?style=flat&logo=Polestar)
 - [typed.js](https://github.com/mattboldt/typed.js) - 动画打字 ![](https://img.shields.io/github/stars/mattboldt/typed.js?style=social) ![](https://img.shields.io/github/last-commit/mattboldt/typed.js?style=flat&logo=Polestar)
+- [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - Markdown 编辑器 ![](https://img.shields.io/github/stars/sparksuite/simplemde-markdown-editor?style=social) ![](https://img.shields.io/github/last-commit/sparksuite/simplemde-markdown-editor?style=flat&logo=Polestar)
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social) ![](https://img.shields.io/github/last-commit/markdown-it/markdown-it?style=flat&logo=Polestar)
 - [markdown-it-katex](https://github.com/traPtitech/markdown-it-katex) - Markdown 渲染数学公式 ![](https://img.shields.io/github/stars/traPtitech/markdown-it-katex?style=social) ![](https://img.shields.io/github/last-commit/traPtitech/markdown-it-katex?style=flat&logo=Polestar)
 - [marked](https://github.com/markedjs/marked) - Markdown 解析器 ![](https://img.shields.io/github/stars/markedjs/marked?style=social) ![](https://img.shields.io/github/last-commit/markedjs/marked?style=flat&logo=Polestar)
@@ -212,6 +213,10 @@
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) - 纸屑礼花特效 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/last-commit/catdad/canvas-confetti?style=flat&logo=Polestar)
 - [curvejs](https://github.com/AlloyTeam/curvejs) - canvas - 魔幻线条 ![](https://img.shields.io/github/stars/AlloyTeam/curvejs?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/curvejs?style=flat&logo=Polestar)
 
+## svg
+- [sparkline](https://github.com/fnando/sparkline) - 迷你线图 ![](https://img.shields.io/github/stars/fnando/sparkline?style=social) ![](https://img.shields.io/github/last-commit/fnando/sparkline?style=flat&logo=Polestar)
+- [svgo](https://github.com/svg/svgo) - 用于优化 SVG 图形文件的工具，减小 SVG 文件的大小 ![](https://img.shields.io/github/stars/svg/svgo?style=social) ![](https://img.shields.io/github/last-commit/svg/svgo?style=flat&logo=Polestar)
+
 ## 富文本编辑器
 - [quill](https://github.com/quilljs/quill) ![](https://img.shields.io/github/stars/quilljs/quill?style=social) ![](https://img.shields.io/github/last-commit/quilljs/quill?style=flat&logo=Polestar)
 - [tiptap](https://github.com/ueberdosis/tiptap) ![](https://img.shields.io/github/stars/ueberdosis/tiptap?style=social) ![](https://img.shields.io/github/last-commit/ueberdosis/tiptap?style=flat&logo=Polestar)
@@ -229,7 +234,6 @@
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock动画平台 ![](https://img.shields.io/github/stars/greensock/GSAP?style=social) ![](https://img.shields.io/github/last-commit/greensock/GSAP?style=flat&logo=Polestar)
 - [G6](https://github.com/antvis/G6) - 图分析引擎 ![](https://img.shields.io/github/stars/antvis/G6?style=social) ![](https://img.shields.io/github/last-commit/antvis/G6?style=flat&logo=Polestar)
 - [lottie-web](https://github.com/airbnb/lottie-web) - 在 Web 上展示 Lottie 动画文件（JSON 格式），实现高度可定制的矢量动画 ![](https://img.shields.io/github/stars/airbnb/lottie-web?style=social) ![](https://img.shields.io/github/last-commit/airbnb/lottie-web?style=flat&logo=Polestar)
-- [svgo](https://github.com/svg/svgo) - 用于优化 SVG 图形文件的工具，减小 SVG 文件的大小 ![](https://img.shields.io/github/stars/svg/svgo?style=social) ![](https://img.shields.io/github/last-commit/svg/svgo?style=flat&logo=Polestar)
 - [SVGAPlayer-Web](https://github.com/svga/SVGAPlayer-Web) - 在 Web 上展示 SVGA 动画（一种基于矢量图形的动画格式） ![](https://img.shields.io/github/stars/svga/SVGAPlayer-Web?style=social) ![](https://img.shields.io/github/last-commit/svga/SVGAPlayer-Web?style=flat&logo=Polestar)
 
 
