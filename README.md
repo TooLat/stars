@@ -105,7 +105,8 @@
 - [draggabilly](https://github.com/desandro/draggabilly) - 拖动 ![](https://img.shields.io/github/stars/desandro/draggabilly?style=social) ![](https://img.shields.io/github/last-commit/desandro/draggabilly?style=flat&logo=Polestar)
 - [Sortable](https://github.com/SortableJS/Sortable) - 拖动排序 ![](https://img.shields.io/github/stars/SortableJS/Sortable?style=social) ![](https://img.shields.io/github/last-commit/SortableJS/Sortable?style=flat&logo=Polestar)
 - [store.js](https://github.com/marcuswestin/store.js) - 数据存储 ![](https://img.shields.io/github/stars/marcuswestin/store.js?style=social) ![](https://img.shields.io/github/last-commit/marcuswestin/store.js?style=flat&logo=Polestar)
-- [pdf.js](https://github.com/mozilla/pdf.js) - PDF阅读器 ![](https://img.shields.io/github/stars/mozilla/pdf.js?style=social) ![](https://img.shields.io/github/last-commit/mozilla/pdf.js?style=flat&logo=Polestar)
+- [pdf.js](https://github.com/mozilla/pdf.js) - PDF 阅读器 ![](https://img.shields.io/github/stars/mozilla/pdf.js?style=social) ![](https://img.shields.io/github/last-commit/mozilla/pdf.js?style=flat&logo=Polestar)
+- [jsPDF](https://github.com/parallax/jsPDF) - 生成导出 PDF ![](https://img.shields.io/github/stars/parallax/jsPDF?style=social) ![](https://img.shields.io/github/last-commit/parallax/jsPDF?style=flat&logo=Polestar)
 - [pdfjs-dist](https://github.com/mozilla/pdfjs-dist) - pdf.js 用于 npm 的预构建版本 ![](https://img.shields.io/github/stars/mozilla/pdfjs-dist?style=social) ![](https://img.shields.io/github/last-commit/mozilla/pdfjs-dist?style=flat&logo=Polestar)
 - [vue-pdfjs-demo](https://github.com/rossta/vue-pdfjs-demo) - pdf.js + Vue 演示 ![](https://img.shields.io/github/stars/rossta/vue-pdfjs-demo?style=social) ![](https://img.shields.io/github/last-commit/rossta/vue-pdfjs-demo?style=flat&logo=Polestar)
 - [nprogress](https://github.com/rstacruz/nprogress) - 进度条 ![](https://img.shields.io/github/stars/rstacruz/nprogress?style=social) ![](https://img.shields.io/github/last-commit/rstacruz/nprogress?style=flat&logo=Polestar)
@@ -175,6 +176,7 @@
 - [parallax](https://github.com/wagerfield/parallax) - 创建视差滚动效果 ![](https://img.shields.io/github/stars/wagerfield/parallax?style=social) ![](https://img.shields.io/github/last-commit/wagerfield/parallax?style=flat&logo=Polestar)
 - [KaTeX](https://github.com/KaTeX/KaTeX) - 呈现 TeX 数学公式 ![](https://img.shields.io/github/stars/KaTeX/KaTeX?style=social) ![](https://img.shields.io/github/last-commit/KaTeX/KaTeX?style=flat&logo=Polestar)
 - [autofit.js](https://github.com/LarryZhu-dev/autofit.js) - 屏幕自适应 ![](https://img.shields.io/github/stars/LarryZhu-dev/autofit.js?style=social) ![](https://img.shields.io/github/last-commit/LarryZhu-dev/autofit.js?style=flat&logo=Polestar)
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - 客户端浏览器指纹识别库 (生成唯一设备ID) ![](https://img.shields.io/github/stars/fingerprintjs/fingerprintjs?style=social) ![](https://img.shields.io/github/last-commit/fingerprintjs/fingerprintjs?style=flat&logo=Polestar)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet?style=flat&logo=Polestar)
@@ -279,6 +281,7 @@
 - [babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx)  - 以 JSX 的方式来编写 Vue 代码 (Vue3) ![](https://img.shields.io/github/stars/vuejs/babel-plugin-jsx?style=social) ![](https://img.shields.io/github/last-commit/vuejs/babel-plugin-jsx?style=flat&logo=Polestar)
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - 以 class 的模式写 vue 组件 ![](https://img.shields.io/github/stars/vuejs/vue-class-component?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vue-class-component?style=flat&logo=Polestar)
 - [vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) - 通过 css 属性画 canvas 图片 (Vue2) ![](https://img.shields.io/github/stars/sunniejs/vue-canvas-poster?style=social) ![](https://img.shields.io/github/last-commit/sunniejs/vue-canvas-poster?style=flat&logo=Polestar)
+- [vue-color](https://github.com/xiaokaike/vue-color) - 颜色拾取器 (Vue2) ![](https://img.shields.io/github/stars/xiaokaike/vue-color?style=social) ![](https://img.shields.io/github/last-commit/xiaokaike/vue-color?style=flat&logo=Polestar)
 - [composition-api](https://github.com/vuejs/composition-api) - 为 Vue 2 提供组合式 API ![](https://img.shields.io/github/stars/vuejs/composition-api?style=social) ![](https://img.shields.io/github/last-commit/vuejs/composition-api?style=flat&logo=Polestar)
 - [unplugin-vue2-script-setup](https://github.com/unplugin/unplugin-vue2-script-setup) - 为 Vue 2 提供 script setup ![](https://img.shields.io/github/stars/unplugin/unplugin-vue2-script-setup?style=social) ![](https://img.shields.io/github/last-commit/unplugin/unplugin-vue2-script-setup?style=flat&logo=Polestar)
 - [jsx-vue2](https://github.com/vuejs/jsx-vue2) - 为 Vue 2 提供 jsx ![](https://img.shields.io/github/stars/vuejs/jsx-vue2?style=social) ![](https://img.shields.io/github/last-commit/vuejs/jsx-vue2?style=flat&logo=Polestar)
@@ -313,6 +316,7 @@
 - [unplugin-vue-markdown](https://github.com/unplugin/unplugin-vue-markdown) - 编译 Markdown 到 Vue 组件 ![](https://img.shields.io/github/stars/unplugin/unplugin-vue-markdown?style=social) ![](https://img.shields.io/github/last-commit/unplugin/unplugin-vue-markdown?style=flat&logo=Polestar)
 - [vue3-seamless-scroll](https://github.com/xfy520/vue3-seamless-scroll) - Vue3.0 无缝滚动组件 ![](https://img.shields.io/github/stars/xfy520/vue3-seamless-scroll?style=social) ![](https://img.shields.io/github/last-commit/xfy520/vue3-seamless-scroll?style=flat&logo=Polestar)
 - [vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - 二维码 ![](https://img.shields.io/github/stars/fengyuanchen/vue-qrcode?style=social) ![](https://img.shields.io/github/last-commit/fengyuanchen/vue-qrcode?style=flat&logo=Polestar)
+- [vue-fullpage.js](https://github.com/alvarotrigo/vue-fullpage.js) - Vue for fullPage.js ![](https://img.shields.io/github/stars/alvarotrigo/vue-fullpage.js?style=social) ![](https://img.shields.io/github/last-commit/alvarotrigo/vue-fullpage.js?style=flat&logo=Polestar)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social) ![](https://img.shields.io/github/last-commit/facebook/react?style=flat&logo=Polestar)
