@@ -64,6 +64,8 @@
 - [unplugin-icons](https://github.com/unplugin/unplugin-icons) - 作为组件使用图标 ![](https://img.shields.io/github/stars/unplugin/unplugin-icons?style=social) ![](https://img.shields.io/github/last-commit/unplugin/unplugin-icons?style=flat&logo=Polestar)
 
 ## 框架
+- [jquery](https://github.com/jquery/jquery) ![](https://img.shields.io/github/stars/jquery/jquery?style=social) ![](https://img.shields.io/github/last-commit/jquery/jquery?style=flat&logo=Polestar)
+- [alpine](https://github.com/alpinejs/alpine) - Alpine.js 通过很低的成本提供了与 Vue 或 React 这类大型框架相近的响应式和声明式特性 ![](https://img.shields.io/github/stars/alpinejs/alpine?style=social) ![](https://img.shields.io/github/last-commit/alpinejs/alpine?style=flat&logo=Polestar)
 - [svelte](https://github.com/sveltejs/svelte) ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social) ![](https://img.shields.io/github/last-commit/sveltejs/svelte?style=flat&logo=Polestar)
 - [next.js](https://github.com/vercel/next.js) - 框架，用于构建服务器端渲染（SSR）和静态网站 ![](https://img.shields.io/github/stars/vercel/next.js?style=social) ![](https://img.shields.io/github/last-commit/vercel/next.js?style=flat&logo=Polestar)
 - [gatsby](https://github.com/gatsbyjs/gatsby) - 框架，用于构建静态网站和现代 Web 应用程序 ![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=social) ![](https://img.shields.io/github/last-commit/gatsbyjs/gatsby?style=flat&logo=Polestar)
