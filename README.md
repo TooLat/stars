@@ -53,8 +53,10 @@
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social) ![](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui?style=flat&logo=Polestar)
 - [material-ui](https://github.com/mui/material-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/mui/material-ui?style=social) ![](https://img.shields.io/github/last-commit/mui/material-ui?style=flat&logo=Polestar)
 - [primereact](https://github.com/primefaces/primereact) - prime React 组件库 ![](https://img.shields.io/github/stars/primefaces/primereact?style=social) ![](https://img.shields.io/github/last-commit/primefaces/primereact?style=flat&logo=Polestar)
+- [tremor](https://github.com/tremorlabs/tremor) - React 组件库 ![](https://img.shields.io/github/stars/tremorlabs/tremor?style=social) ![](https://img.shields.io/github/last-commit/tremorlabs/tremor?style=flat&logo=Polestar)
 - [primeng](https://github.com/primefaces/primeng) - prime Angular 组件库 ![](https://img.shields.io/github/stars/primefaces/primeng?style=social) ![](https://img.shields.io/github/last-commit/primefaces/primeng?style=flat&logo=Polestar)
 - [floating-ui](https://github.com/floating-ui/floating-ui) - 轻量级、无依赖、高性能的定位库 ![](https://img.shields.io/github/stars/floating-ui/floating-ui?style=social) ![](https://img.shields.io/github/last-commit/floating-ui/floating-ui?style=flat&logo=Polestar)
+- [shadcn-ui](https://github.com/shadcn-ui/ui) - 组件库 ![](https://img.shields.io/github/stars/shadcn-ui/ui?style=social) ![](https://img.shields.io/github/last-commit/shadcn-ui/ui?style=flat&logo=Polestar)
 
 ## 图标
 - [IconPark](https://github.com/bytedance/IconPark) ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social) ![](https://img.shields.io/github/last-commit/bytedance/IconPark?style=flat&logo=Polestar)
@@ -181,6 +183,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - 呈现 TeX 数学公式 ![](https://img.shields.io/github/stars/KaTeX/KaTeX?style=social) ![](https://img.shields.io/github/last-commit/KaTeX/KaTeX?style=flat&logo=Polestar)
 - [autofit.js](https://github.com/LarryZhu-dev/autofit.js) - 屏幕自适应 ![](https://img.shields.io/github/stars/LarryZhu-dev/autofit.js?style=social) ![](https://img.shields.io/github/last-commit/LarryZhu-dev/autofit.js?style=flat&logo=Polestar)
 - [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - 客户端浏览器指纹识别库 (生成唯一设备ID) ![](https://img.shields.io/github/stars/fingerprintjs/fingerprintjs?style=social) ![](https://img.shields.io/github/last-commit/fingerprintjs/fingerprintjs?style=flat&logo=Polestar)
+- [RxJS](https://github.com/ReactiveX/RxJS) - 响应式扩展，处理事件流和异步数据流 ![](https://img.shields.io/github/stars/ReactiveX/RxJS?style=social) ![](https://img.shields.io/github/last-commit/ReactiveX/RxJS?style=flat&logo=Polestar)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet?style=flat&logo=Polestar)
@@ -334,6 +337,9 @@
 - [use-immer](https://github.com/immerjs/use-immer) - 用于在 React 组件中使用 Immer 库的自定义钩子。Immer 是一个用于处理不可变数据结构的 JavaScript 库，它提供了一种简单而强大的方式来修改不可变数据，使得代码更易读、更易写 ![](https://img.shields.io/github/stars/immerjs/use-immer?style=social) ![](https://img.shields.io/github/last-commit/immerjs/use-immer?style=flat&logo=Polestar)
 - [react-router](https://github.com/remix-run/react-router) - 路由库 ![](https://img.shields.io/github/stars/remix-run/react-router?style=social) ![](https://img.shields.io/github/last-commit/remix-run/react-router?style=flat&logo=Polestar)
 - [react-use](https://github.com/streamich/react-use) - React Hooks集合 ![](https://img.shields.io/github/stars/streamich/react-use?style=social) ![](https://img.shields.io/github/last-commit/streamich/react-use?style=flat&logo=Polestar)
+- [refine](https://github.com/refinedev/refine) - 后台管理系统 ![](https://img.shields.io/github/stars/refinedev/refine?style=social) ![](https://img.shields.io/github/last-commit/refinedev/refine?style=flat&logo=Polestar)
+- [redux](https://github.com/reduxjs/redux) - 状态管理 ![](https://img.shields.io/github/stars/reduxjs/redux?style=social) ![](https://img.shields.io/github/last-commit/reduxjs/redux?style=flat&logo=Polestar)
+- [zustand](https://github.com/pmndrs/zustand) - 状态管理 ![](https://img.shields.io/github/stars/pmndrs/zustand?style=social) ![](https://img.shields.io/github/last-commit/pmndrs/zustand?style=flat&logo=Polestar)
 
 ## 后台管理模板
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - vue + element-ui ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social) ![](https://img.shields.io/github/last-commit/PanJiaChen/vue-element-admin?style=flat&logo=Polestar)
@@ -417,6 +423,7 @@
 - [depcheck](https://github.com/depcheck/depcheck) - 分析项目中的依赖项（缺失的、未使用的） ![](https://img.shields.io/github/stars/depcheck/depcheck?style=social) ![](https://img.shields.io/github/last-commit/depcheck/depcheck?style=flat&logo=Polestar)
 - [console-importer](https://github.com/pd4d10/console-importer) - 在浏览器控制台安装插件 ![](https://img.shields.io/github/stars/pd4d10/console-importer?style=social) ![](https://img.shields.io/github/last-commit/pd4d10/console-importer?style=flat&logo=Polestar)
 - [shields](https://github.com/badges/shields) - 生成小型徽章或状态指示器 ![](https://img.shields.io/github/stars/badges/shields?style=social) ![](https://img.shields.io/github/last-commit/badges/shields?style=flat&logo=Polestar)
+- [slidev](https://github.com/slidevjs/slidev) - 基于 Web 的幻灯片制作和演示工具 ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social) ![](https://img.shields.io/github/last-commit/slidevjs/slidev?style=flat&logo=Polestar)
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social) ![](https://img.shields.io/github/last-commit/eslint/eslint?style=flat&logo=Polestar)
