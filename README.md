@@ -184,6 +184,9 @@
 - [autofit.js](https://github.com/LarryZhu-dev/autofit.js) - 屏幕自适应 ![](https://img.shields.io/github/stars/LarryZhu-dev/autofit.js?style=social) ![](https://img.shields.io/github/last-commit/LarryZhu-dev/autofit.js?style=flat&logo=Polestar)
 - [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - 客户端浏览器指纹识别库 (生成唯一设备ID) ![](https://img.shields.io/github/stars/fingerprintjs/fingerprintjs?style=social) ![](https://img.shields.io/github/last-commit/fingerprintjs/fingerprintjs?style=flat&logo=Polestar)
 - [RxJS](https://github.com/ReactiveX/RxJS) - 响应式扩展，处理事件流和异步数据流 ![](https://img.shields.io/github/stars/ReactiveX/RxJS?style=social) ![](https://img.shields.io/github/last-commit/ReactiveX/RxJS?style=flat&logo=Polestar)
+- [cheerio](https://github.com/cheeriojs/cheerio) - 快速、灵活、且优雅的用于解析和操作 HTML 与 XML 的库 ![](https://img.shields.io/github/stars/cheeriojs/cheerio?style=social) ![](https://img.shields.io/github/last-commit/cheeriojs/cheerio?style=flat&logo=Polestar)
+- [xstate](https://github.com/statelyai/xstate) - 基于角色的状态管理 ![](https://img.shields.io/github/stars/statelyai/xstate?style=social) ![](https://img.shields.io/github/last-commit/statelyai/xstate?style=flat&logo=Polestar)
+- [mobx](https://github.com/mobxjs/mobx) - 简单且可扩展的状态管理 ![](https://img.shields.io/github/stars/mobxjs/mobx?style=social) ![](https://img.shields.io/github/last-commit/mobxjs/mobx?style=flat&logo=Polestar)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet?style=flat&logo=Polestar)
@@ -208,6 +211,7 @@
 - [three.js 3D](https://github.com/mrdoob/three.js) ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) ![](https://img.shields.io/github/last-commit/mrdoob/three.js?style=flat&logo=Polestar)
 - [cesium](https://github.com/CesiumGS/cesium) ![](https://img.shields.io/github/stars/CesiumGS/cesium?style=social) ![](https://img.shields.io/github/last-commit/CesiumGS/cesium?style=flat&logo=Polestar)
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 基于 WebGL，创建交互式、可定制的高性能地图 ![](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/mapbox-gl-js?style=flat&logo=Polestar)
+- [pixijs](https://github.com/pixijs/pixijs) - 使用最快、最灵活的 2D WebGL 渲染器创建精美的数字内容 ![](https://img.shields.io/github/stars/pixijs/pixijs?style=social) ![](https://img.shields.io/github/last-commit/pixijs/pixijs?style=flat&logo=Polestar)
 - [G2](https://github.com/antvis/G2) ![](https://img.shields.io/github/stars/antvis/G2?style=social) ![](https://img.shields.io/github/last-commit/antvis/G2?style=flat&logo=Polestar)
 - [Chart.js](https://github.com/chartjs/Chart.js) ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) ![](https://img.shields.io/github/last-commit/chartjs/Chart.js?style=flat&logo=Polestar)
 - [BizCharts](https://github.com/alibaba/BizCharts) - 阿里巴巴图表库，基于G2和React ![](https://img.shields.io/github/stars/alibaba/BizCharts?style=social) ![](https://img.shields.io/github/last-commit/alibaba/BizCharts?style=flat&logo=Polestar)
@@ -376,6 +380,7 @@
 - [jest](https://github.com/facebook/jest) ![](https://img.shields.io/github/stars/facebook/jest?style=social) ![](https://img.shields.io/github/last-commit/facebook/jest?style=flat&logo=Polestar)
 - [vitest](https://github.com/vitest-dev/vitest) ![](https://img.shields.io/github/stars/vitest-dev/vitest?style=social) ![](https://img.shields.io/github/last-commit/vitest-dev/vitest?style=flat&logo=Polestar)
 - [mocha](https://github.com/mochajs/mocha) ![](https://img.shields.io/github/stars/mochajs/mocha?style=social) ![](https://img.shields.io/github/last-commit/mochajs/mocha?style=flat&logo=Polestar)
+- [playwright](https://github.com/microsoft/playwright) - 端到端测试 ![](https://img.shields.io/github/stars/microsoft/playwright?style=social) ![](https://img.shields.io/github/last-commit/microsoft/playwright?style=flat&logo=Polestar)
 
 ## git
 - [commitizen](https://github.com/commitizen-tools/commitizen) - 规范 Git 提交 ![](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=social) ![](https://img.shields.io/github/last-commit/commitizen-tools/commitizen?style=flat&logo=Polestar)
@@ -424,6 +429,7 @@
 - [console-importer](https://github.com/pd4d10/console-importer) - 在浏览器控制台安装插件 ![](https://img.shields.io/github/stars/pd4d10/console-importer?style=social) ![](https://img.shields.io/github/last-commit/pd4d10/console-importer?style=flat&logo=Polestar)
 - [shields](https://github.com/badges/shields) - 生成小型徽章或状态指示器 ![](https://img.shields.io/github/stars/badges/shields?style=social) ![](https://img.shields.io/github/last-commit/badges/shields?style=flat&logo=Polestar)
 - [slidev](https://github.com/slidevjs/slidev) - 基于 Web 的幻灯片制作和演示工具 ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social) ![](https://img.shields.io/github/last-commit/slidevjs/slidev?style=flat&logo=Polestar)
+- [mermaid](https://github.com/mermaid-js/mermaid) - 以类似于 markdown 的方式从文本生成流程图、序列图等 ![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social) ![](https://img.shields.io/github/last-commit/mermaid-js/mermaid?style=flat&logo=Polestar)
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social) ![](https://img.shields.io/github/last-commit/eslint/eslint?style=flat&logo=Polestar)
@@ -471,6 +477,8 @@
 - [nest](https://github.com/nestjs/nest) - node 框架 ![](https://img.shields.io/github/stars/nestjs/nest?style=social) ![](https://img.shields.io/github/last-commit/nestjs/nest?style=flat&logo=Polestar)
 - [jsdom](https://github.com/jsdom/jsdom) - 在 Node.js 环境中模拟浏览器环境，允许你在 Node.js 中使用类似于浏览器中的 DOM、CSS 选择器和事件处理等功能 ![](https://img.shields.io/github/stars/jsdom/jsdom?style=social) ![](https://img.shields.io/github/last-commit/jsdom/jsdom?style=flat&logo=Polestar)
 - [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - ffmpeg-API ![](https://img.shields.io/github/stars/fluent-ffmpeg/node-fluent-ffmpeg?style=social) ![](https://img.shields.io/github/last-commit/fluent-ffmpeg/node-fluent-ffmpeg?style=flat&logo=Polestar)
+- [sharp](https://github.com/lovell/sharp) - 图像处理 ![](https://img.shields.io/github/stars/lovell/sharp?style=social) ![](https://img.shields.io/github/last-commit/lovell/sharp?style=flat&logo=Polestar)
+- [pino](https://github.com/pinojs/pino) - 开销非常低的 Node.js 日志器 ![](https://img.shields.io/github/stars/pinojs/pino?style=social) ![](https://img.shields.io/github/last-commit/pinojs/pino?style=flat&logo=Polestar)
 
 ## 其他
 - [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social) ![](https://img.shields.io/github/last-commit/didi/DoKit?style=flat&logo=Polestar)
