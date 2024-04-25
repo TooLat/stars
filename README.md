@@ -188,6 +188,7 @@
 - [cheerio](https://github.com/cheeriojs/cheerio) - 快速、灵活、且优雅的用于解析和操作 HTML 与 XML 的库 ![](https://img.shields.io/github/stars/cheeriojs/cheerio?style=social) ![](https://img.shields.io/github/last-commit/cheeriojs/cheerio?style=flat&logo=Polestar)
 - [xstate](https://github.com/statelyai/xstate) - 基于角色的状态管理 ![](https://img.shields.io/github/stars/statelyai/xstate?style=social) ![](https://img.shields.io/github/last-commit/statelyai/xstate?style=flat&logo=Polestar)
 - [mobx](https://github.com/mobxjs/mobx) - 简单且可扩展的状态管理 ![](https://img.shields.io/github/stars/mobxjs/mobx?style=social) ![](https://img.shields.io/github/last-commit/mobxjs/mobx?style=flat&logo=Polestar)
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - js 代码混淆 ![](https://img.shields.io/github/stars/javascript-obfuscator/javascript-obfuscator?style=social) ![](https://img.shields.io/github/last-commit/javascript-obfuscator/javascript-obfuscator?style=flat&logo=Polestar)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet?style=flat&logo=Polestar)
