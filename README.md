@@ -561,6 +561,7 @@
 - [mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - 函数范式 ![](https://img.shields.io/github/stars/llh911001/mostly-adequate-guide-chinese?style=social) ![](https://img.shields.io/github/last-commit/llh911001/mostly-adequate-guide-chinese?style=flat&logo=Polestar)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![](https://img.shields.io/github/stars/jackfrued/Python-100-Days?style=social) ![](https://img.shields.io/github/last-commit/jackfrued/Python-100-Days?style=flat&logo=Polestar)
 - [hello-algo](https://github.com/krahets/hello-algo) - 动画图解、一键运行的数据结构与算法教程 ![](https://img.shields.io/github/stars/krahets/hello-algo?style=social) ![](https://img.shields.io/github/last-commit/krahets/hello-algo?style=flat&logo=Polestar)
+- [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表 ![](https://img.shields.io/github/stars/1c7/chinese-independent-developer?style=social) ![](https://img.shields.io/github/last-commit/1c7/chinese-independent-developer?style=flat&logo=Polestar)
 
 ## 软件应用
 - [drawio](https://github.com/jgraph/drawio) - 绘图 ![](https://img.shields.io/github/stars/jgraph/drawio?style=social) ![](https://img.shields.io/github/last-commit/jgraph/drawio?style=flat&logo=Polestar)
