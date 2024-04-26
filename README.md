@@ -203,6 +203,7 @@
 - [vue-vconsole-devtools](https://github.com/Zippowxk/vue-vconsole-devtools) - vConsole插件，把 Vue.js 官方调试工具 vue-devtools 移植到移动端 ![](https://img.shields.io/github/stars/Zippowxk/vue-vconsole-devtools?style=social) ![](https://img.shields.io/github/last-commit/Zippowxk/vue-vconsole-devtools?style=flat&logo=Polestar)
 - [FastClick](https://github.com/ftlabs/fastclick) - 立即响应用户的点击事件 ![](https://img.shields.io/github/stars/ftlabs/fastclick?style=social) ![](https://img.shields.io/github/last-commit/ftlabs/fastclick?style=flat&logo=Polestar)
 - [postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) - px转vw ![](https://img.shields.io/github/stars/evrone/postcss-px-to-viewport?style=social) ![](https://img.shields.io/github/last-commit/evrone/postcss-px-to-viewport?style=flat&logo=Polestar)
+- [postcss-px-to-viewport-8-plugin](https://github.com/lkxian888/postcss-px-to-viewport-8-plugin) - 解决 postcss-px-to-viewport 控制台报错 ![](https://img.shields.io/github/stars/lkxian888/postcss-px-to-viewport-8-plugin?style=social) ![](https://img.shields.io/github/last-commit/lkxian888/postcss-px-to-viewport-8-plugin?style=flat&logo=Polestar)
 - [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动 Web 前端知识库 ![](https://img.shields.io/github/stars/AlloyTeam/Mars?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/Mars?style=flat&logo=Polestar)
 - [AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) - 手势插件 ![](https://img.shields.io/github/stars/AlloyTeam/AlloyFinger?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/AlloyFinger?style=flat&logo=Polestar)
 - [PhyTouch](https://github.com/AlloyTeam/PhyTouch) - 触摸运动方案 ![](https://img.shields.io/github/stars/AlloyTeam/PhyTouch?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/PhyTouch?style=flat&logo=Polestar)
@@ -354,6 +355,7 @@
 - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - vite5.x + vue3.x + arco-design2.x ![](https://img.shields.io/github/stars/chuzhixin/vue-admin-better?style=social) ![](https://img.shields.io/github/last-commit/chuzhixin/vue-admin-better?style=flat&logo=Polestar)
 - [vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - Vite + Vue3 + Pinia + Unocss ![](https://img.shields.io/github/stars/zclzone/vue-naive-admin?style=social) ![](https://img.shields.io/github/last-commit/zclzone/vue-naive-admin?style=flat&logo=Polestar)
 - [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - Vue3 + Vite5+ TypeScript5 + Element-Plus + Pinia ![](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social) ![](https://img.shields.io/github/last-commit/youlaitech/vue3-element-admin?style=flat&logo=Polestar)
+- [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM + Vue3 + Vite + Element-Plus + TypeScript 编写的一款后台管理系统（兼容移动端） ![](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=social) ![](https://img.shields.io/github/last-commit/pure-admin/vue-pure-admin?style=flat&logo=Polestar)
 
 ## 项目集成
 - [d2-admin](https://github.com/d2-projects/d2-admin) ![](https://img.shields.io/github/stars/d2-projects/d2-admin?style=social) ![](https://img.shields.io/github/last-commit/d2-projects/d2-admin?style=flat&logo=Polestar)
@@ -407,6 +409,7 @@
 - [http-server](https://github.com/http-party/http-server) - 本地服务器 ![](https://img.shields.io/github/stars/http-party/http-server?style=social) ![](https://img.shields.io/github/last-commit/http-party/http-server?style=flat&logo=Polestar)
 - [serve](https://github.com/vercel/serve) - 本地服务器 ![](https://img.shields.io/github/stars/vercel/serve?style=social) ![](https://img.shields.io/github/last-commit/vercel/serve?style=flat&logo=Polestar)
 - [ink](https://github.com/vadimdemedes/ink) - 用于构建交互式命令行界面（CLI）的 JavaScript 库。它提供了一种简单且强大的方式来创建具有用户输入、选择、提示等功能的命令行界面。 ![](https://img.shields.io/github/stars/vadimdemedes/ink?style=social) ![](https://img.shields.io/github/last-commit/vadimdemedes/ink?style=flat&logo=Polestar)
+- [picocolors](https://github.com/alexeyraspopov/picocolors) - 命令行终端输出美化 ![](https://img.shields.io/github/stars/alexeyraspopov/picocolors?style=social) ![](https://img.shields.io/github/last-commit/alexeyraspopov/picocolors?style=flat&logo=Polestar)
 - [ice](https://github.com/alibaba/ice) - 可视化搭建前端工程 ![](https://img.shields.io/github/stars/alibaba/ice?style=social) ![](https://img.shields.io/github/last-commit/alibaba/ice?style=flat&logo=Polestar)
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - 音频剪辑处理 ![](https://img.shields.io/github/stars/Kagami/ffmpeg.js?style=social) ![](https://img.shields.io/github/last-commit/Kagami/ffmpeg.js?style=flat&logo=Polestar)
 - [walle-web](https://github.com/meolu/walle-web) - 代码部署发布 ![](https://img.shields.io/github/stars/meolu/walle-web?style=social) ![](https://img.shields.io/github/last-commit/meolu/walle-web?style=flat&logo=Polestar)
@@ -433,6 +436,11 @@
 - [shields](https://github.com/badges/shields) - 生成小型徽章或状态指示器 ![](https://img.shields.io/github/stars/badges/shields?style=social) ![](https://img.shields.io/github/last-commit/badges/shields?style=flat&logo=Polestar)
 - [slidev](https://github.com/slidevjs/slidev) - 基于 Web 的幻灯片制作和演示工具 ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social) ![](https://img.shields.io/github/last-commit/slidevjs/slidev?style=flat&logo=Polestar)
 - [mermaid](https://github.com/mermaid-js/mermaid) - 以类似于 markdown 的方式从文本生成流程图、序列图等 ![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social) ![](https://img.shields.io/github/last-commit/mermaid-js/mermaid?style=flat&logo=Polestar)
+
+## 项目
+- [babel](https://github.com/babel/babel) - javaScript 编译器 ![](https://img.shields.io/github/stars/babel/babel?style=social) ![](https://img.shields.io/github/last-commit/babel/babel?style=flat&logo=Polestar)
+- [postcss](https://github.com/postcss/postcss) - 使用 js 插件转换 CSS 的工具 ![](https://img.shields.io/github/stars/postcss/postcss?style=social) ![](https://img.shields.io/github/last-commit/postcss/postcss?style=flat&logo=Polestar)
+- [autoprefixer](https://github.com/postcss/autoprefixer) - 自动补全 CSS 浏览器前缀 ![](https://img.shields.io/github/stars/postcss/autoprefixer?style=social) ![](https://img.shields.io/github/last-commit/postcss/autoprefixer?style=flat&logo=Polestar)
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social) ![](https://img.shields.io/github/last-commit/eslint/eslint?style=flat&logo=Polestar)
@@ -462,6 +470,8 @@
 
 ## vite
 - [vite-plugin-imagemin](https://github.com/vbenjs/vite-plugin-imagemin) - 压缩图片 ![](https://img.shields.io/github/stars/vbenjs/vite-plugin-imagemin?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vite-plugin-imagemin?style=flat&logo=Polestar)
+- [vite-plugin-cdn-import](https://github.com/mmf-fe/vite-plugin-cdn-import) - 从 CDN 加载 modules ![](https://img.shields.io/github/stars/mmf-fe/vite-plugin-cdn-import?style=social) ![](https://img.shields.io/github/last-commit/mmf-fe/vite-plugin-cdn-import?style=flat&logo=Polestar)
+- [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - 加载 SVG 文件作为 Vue 组件 ![](https://img.shields.io/github/stars/jpkleemans/vite-svg-loader?style=social) ![](https://img.shields.io/github/last-commit/jpkleemans/vite-svg-loader?style=flat&logo=Polestar)
 
 ## All-In-One
 - [bun](https://github.com/oven-sh/bun) - 新的js运行环境，类似node ![](https://img.shields.io/github/stars/oven-sh/bun?style=social) ![](https://img.shields.io/github/last-commit/oven-sh/bun?style=flat&logo=Polestar)
