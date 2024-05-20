@@ -497,6 +497,7 @@
 - [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - ffmpeg-API ![](https://img.shields.io/github/stars/fluent-ffmpeg/node-fluent-ffmpeg?style=social) ![](https://img.shields.io/github/last-commit/fluent-ffmpeg/node-fluent-ffmpeg?style=flat&logo=Polestar)
 - [sharp](https://github.com/lovell/sharp) - 图像处理 ![](https://img.shields.io/github/stars/lovell/sharp?style=social) ![](https://img.shields.io/github/last-commit/lovell/sharp?style=flat&logo=Polestar)
 - [pino](https://github.com/pinojs/pino) - 开销非常低的 Node.js 日志器 ![](https://img.shields.io/github/stars/pinojs/pino?style=social) ![](https://img.shields.io/github/last-commit/pinojs/pino?style=flat&logo=Polestar)
+- [strapi](https://github.com/strapi/strapi) - 开源无头 CMS，快速构建 API ![](https://img.shields.io/github/stars/strapi/strapi?style=social) ![](https://img.shields.io/github/last-commit/strapi/strapi?style=flat&logo=Polestar)
 
 ## 其他
 - [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social) ![](https://img.shields.io/github/last-commit/didi/DoKit?style=flat&logo=Polestar)
