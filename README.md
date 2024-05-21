@@ -459,6 +459,7 @@
 - [depcheck](https://github.com/depcheck/depcheck) - 分析项目中的依赖项（缺失的、未使用的） ![](https://img.shields.io/github/stars/depcheck/depcheck?style=social) ![](https://img.shields.io/github/last-commit/depcheck/depcheck?style=flat&logo=Polestar)
 - [console-importer](https://github.com/pd4d10/console-importer) - 在浏览器控制台安装插件 ![](https://img.shields.io/github/stars/pd4d10/console-importer?style=social) ![](https://img.shields.io/github/last-commit/pd4d10/console-importer?style=flat&logo=Polestar)
 - [shields](https://github.com/badges/shields) - 生成小型徽章或状态指示器 ![](https://img.shields.io/github/stars/badges/shields?style=social) ![](https://img.shields.io/github/last-commit/badges/shields?style=flat&logo=Polestar)
+- [star-history](https://github.com/star-history/star-history) - star 历史 ![](https://img.shields.io/github/stars/star-history/star-history?style=social) ![](https://img.shields.io/github/last-commit/star-history/star-history?style=flat&logo=Polestar)
 - [slidev](https://github.com/slidevjs/slidev) - 基于 Web 的幻灯片制作和演示工具 ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social) ![](https://img.shields.io/github/last-commit/slidevjs/slidev?style=flat&logo=Polestar)
 - [mermaid](https://github.com/mermaid-js/mermaid) - 以类似于 markdown 的方式从文本生成流程图、序列图等 ![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social) ![](https://img.shields.io/github/last-commit/mermaid-js/mermaid?style=flat&logo=Polestar)
 
