@@ -203,6 +203,7 @@
 - [drag-and-drop](https://github.com/formkit/drag-and-drop) - 拖拽排序 ![](https://img.shields.io/github/stars/formkit/drag-and-drop?style=social) ![](https://img.shields.io/github/last-commit/formkit/drag-and-drop?style=flat&logo=Polestar)
 - [mdx](https://github.com/mdx-js/mdx) - 在 Markdown 内容中使用 JSX ![](https://img.shields.io/github/stars/mdx-js/mdx?style=social) ![](https://img.shields.io/github/last-commit/mdx-js/mdx?style=flat&logo=Polestar)
 - [terser](https://github.com/terser/terser) - JavaScript 混淆器与压缩器工具包 ![](https://img.shields.io/github/stars/terser/terser?style=social) ![](https://img.shields.io/github/last-commit/terser/terser?style=flat&logo=Polestar)
+- [driver.js](https://github.com/kamranahmedse/driver.js) - 用户操作分步引导 ![](https://img.shields.io/github/stars/kamranahmedse/driver.js?style=social) ![](https://img.shields.io/github/last-commit/kamranahmedse/driver.js?style=flat&logo=Polestar)
 
 ## 数据库
 - [typeorm](https://github.com/typeorm/typeorm) - TypeScript ORM 框架，使用面向对象的方式来操作数据库 ![](https://img.shields.io/github/stars/typeorm/typeorm?style=social) ![](https://img.shields.io/github/last-commit/typeorm/typeorm?style=flat&logo=Polestar)
