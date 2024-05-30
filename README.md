@@ -564,6 +564,7 @@
 - [awesome-vite](https://github.com/vitejs/awesome-vite) ![](https://img.shields.io/github/stars/vitejs/awesome-vite?style=social) ![](https://img.shields.io/github/last-commit/vitejs/awesome-vite?style=flat&logo=Polestar)
 - [awesome-canvas](https://github.com/chinaBerg/awesome-canvas) ![](https://img.shields.io/github/stars/chinaBerg/awesome-canvas?style=social) ![](https://img.shields.io/github/last-commit/chinaBerg/awesome-canvas?style=flat&logo=Polestar)
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版 ![](https://img.shields.io/github/stars/jobbole/awesome-python-cn?style=social) ![](https://img.shields.io/github/last-commit/jobbole/awesome-python-cn?style=flat&logo=Polestar)
+- [Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆 ![](https://img.shields.io/github/stars/sun0225SUN/Awesome-Love-Code?style=social) ![](https://img.shields.io/github/last-commit/sun0225SUN/Awesome-Love-Code?style=flat&logo=Polestar)
 
 ## vscode
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - Markdown 格式检查扩展工具 ![](https://img.shields.io/github/stars/DavidAnson/markdownlint?style=social) ![](https://img.shields.io/github/last-commit/DavidAnson/markdownlint?style=flat&logo=Polestar)
