@@ -83,6 +83,7 @@
 - [ofa.js](https://github.com/kirakiray/ofa.js) - 不需要打包的 MVVM JavaScript 框架 ![](https://img.shields.io/github/stars/kirakiray/ofa.js?style=social) ![](https://img.shields.io/github/last-commit/kirakiray/ofa.js?style=flat&logo=Polestar)
 - [astro](https://github.com/withastro/astro) - 内容驱动网站的 web 框架 ![](https://img.shields.io/github/stars/withastro/astro?style=social) ![](https://img.shields.io/github/last-commit/withastro/astro?style=flat&logo=Polestar)
 - [preact](https://github.com/preactjs/preact) - 快速且大小只有 3kB 的 React 替代方案，具有相同的现代 API ![](https://img.shields.io/github/stars/preactjs/preact?style=social) ![](https://img.shields.io/github/last-commit/preactjs/preact?style=flat&logo=Polestar)
+- [component-party.dev](https://github.com/matschik/component-party.dev) - JavaScript 框架语法特性对比 ![](https://img.shields.io/github/stars/matschik/component-party.dev?style=social) ![](https://img.shields.io/github/last-commit/matschik/component-party.dev?style=flat&logo=Polestar)
 
 ## 包管理工具
 - [npm](https://github.com/npm/cli) ![](https://img.shields.io/github/stars/npm/cli?style=social) ![](https://img.shields.io/github/last-commit/npm/cli?style=flat&logo=Polestar)
