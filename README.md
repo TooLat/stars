@@ -16,6 +16,8 @@
 - [sanitize.css](https://github.com/csstools/sanitize.css) - 默认样式 ![](https://img.shields.io/github/stars/csstools/sanitize.css?style=social) ![](https://img.shields.io/github/last-commit/csstools/sanitize.css?style=flat&logo=Polestar)
 - [animate.css](https://github.com/animate-css/animate.css) - css动画库 ![](https://img.shields.io/github/stars/animate-css/animate.css?style=social) ![](https://img.shields.io/github/last-commit/animate-css/animate.css?style=flat&logo=Polestar)
 - [iCSS](https://github.com/chokcoco/iCSS) - css 技巧 ![](https://img.shields.io/github/stars/chokcoco/iCSS?style=social) ![](https://img.shields.io/github/last-commit/chokcoco/iCSS?style=flat&logo=Polestar)
+- [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - css 灵感 ![](https://img.shields.io/github/stars/chokcoco/CSS-Inspiration?style=social) ![](https://img.shields.io/github/last-commit/chokcoco/CSS-Inspiration?style=flat&logo=Polestar)
+- [visualization-collection](https://github.com/hepengwei/visualization-collection) - 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例 ![](https://img.shields.io/github/stars/hepengwei/visualization-collection?style=social) ![](https://img.shields.io/github/last-commit/hepengwei/visualization-collection?style=flat&logo=Polestar)
 - [sass](https://github.com/sass/sass) - 预处理 ![](https://img.shields.io/github/stars/sass/sass?style=social) ![](https://img.shields.io/github/last-commit/sass/sass?style=flat&logo=Polestar)
 - [less](https://github.com/less/less.js) - 预处理 ![](https://img.shields.io/github/stars/less/less.js?style=social) ![](https://img.shields.io/github/last-commit/less/less.js?style=flat&logo=Polestar)
 - [stylus](https://github.com/stylus/stylus) - 预处理 ![](https://img.shields.io/github/stars/stylus/stylus?style=social) ![](https://img.shields.io/github/last-commit/stylus/stylus?style=flat&logo=Polestar)
@@ -201,9 +203,12 @@
 - [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - js 代码混淆 ![](https://img.shields.io/github/stars/javascript-obfuscator/javascript-obfuscator?style=social) ![](https://img.shields.io/github/last-commit/javascript-obfuscator/javascript-obfuscator?style=flat&logo=Polestar)
 - [socket.io](https://github.com/socketio/socket.io) - 实现客户端和服务器通信 ![](https://img.shields.io/github/stars/socketio/socket.io?style=social) ![](https://img.shields.io/github/last-commit/socketio/socket.io?style=flat&logo=Polestar)
 - [drag-and-drop](https://github.com/formkit/drag-and-drop) - 拖拽排序 ![](https://img.shields.io/github/stars/formkit/drag-and-drop?style=social) ![](https://img.shields.io/github/last-commit/formkit/drag-and-drop?style=flat&logo=Polestar)
+- [pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - 拖拽排序 ![](https://img.shields.io/github/stars/atlassian/pragmatic-drag-and-drop?style=social) ![](https://img.shields.io/github/last-commit/atlassian/pragmatic-drag-and-drop?style=flat&logo=Polestar)
 - [mdx](https://github.com/mdx-js/mdx) - 在 Markdown 内容中使用 JSX ![](https://img.shields.io/github/stars/mdx-js/mdx?style=social) ![](https://img.shields.io/github/last-commit/mdx-js/mdx?style=flat&logo=Polestar)
 - [terser](https://github.com/terser/terser) - JavaScript 混淆器与压缩器工具包 ![](https://img.shields.io/github/stars/terser/terser?style=social) ![](https://img.shields.io/github/last-commit/terser/terser?style=flat&logo=Polestar)
 - [driver.js](https://github.com/kamranahmedse/driver.js) - 用户操作分步引导 ![](https://img.shields.io/github/stars/kamranahmedse/driver.js?style=social) ![](https://img.shields.io/github/last-commit/kamranahmedse/driver.js?style=flat&logo=Polestar)
+- [web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段 ![](https://img.shields.io/github/stars/M-cheng-web/web-tracing?style=social) ![](https://img.shields.io/github/last-commit/M-cheng-web/web-tracing?style=flat&logo=Polestar)
+- [poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。 ![](https://img.shields.io/github/stars/palxiao/poster-design?style=social) ![](https://img.shields.io/github/last-commit/palxiao/poster-design?style=flat&logo=Polestar)
 
 ## 数据库
 - [typeorm](https://github.com/typeorm/typeorm) - TypeScript ORM 框架，使用面向对象的方式来操作数据库 ![](https://img.shields.io/github/stars/typeorm/typeorm?style=social) ![](https://img.shields.io/github/last-commit/typeorm/typeorm?style=flat&logo=Polestar)
@@ -637,3 +642,5 @@
 ## 其他
 - [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social) ![](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat&logo=Polestar)
 - [grok-1](https://github.com/xai-org/grok-1) - Grok-1 大模型 ![](https://img.shields.io/github/stars/xai-org/grok-1?style=social) ![](https://img.shields.io/github/last-commit/xai-org/grok-1?style=flat&logo=Polestar)
+- [ChatTTS](https://github.com/2noise/ChatTTS) - 文本转语音模型 ![](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) ![](https://img.shields.io/github/last-commit/2noise/ChatTTS?style=flat&logo=Polestar)
+- [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。 ![](https://img.shields.io/github/stars/jianchang512/ChatTTS-ui?style=social) ![](https://img.shields.io/github/last-commit/jianchang512/ChatTTS-ui?style=flat&logo=Polestar)
