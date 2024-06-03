@@ -210,6 +210,7 @@
 - [driver.js](https://github.com/kamranahmedse/driver.js) - 用户操作分步引导 ![](https://img.shields.io/github/stars/kamranahmedse/driver.js?style=social) ![](https://img.shields.io/github/last-commit/kamranahmedse/driver.js?style=flat&logo=Polestar)
 - [web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段 ![](https://img.shields.io/github/stars/M-cheng-web/web-tracing?style=social) ![](https://img.shields.io/github/last-commit/M-cheng-web/web-tracing?style=flat&logo=Polestar)
 - [poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。 ![](https://img.shields.io/github/stars/palxiao/poster-design?style=social) ![](https://img.shields.io/github/last-commit/palxiao/poster-design?style=flat&logo=Polestar)
+- [chokidar](https://github.com/paulmillr/chokidar) - 监听文件变化 ![](https://img.shields.io/github/stars/paulmillr/chokidar?style=social) ![](https://img.shields.io/github/last-commit/paulmillr/chokidar?style=flat&logo=Polestar)
 
 ## 数据库
 - [typeorm](https://github.com/typeorm/typeorm) - TypeScript ORM 框架，使用面向对象的方式来操作数据库 ![](https://img.shields.io/github/stars/typeorm/typeorm?style=social) ![](https://img.shields.io/github/last-commit/typeorm/typeorm?style=flat&logo=Polestar)
