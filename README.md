@@ -135,6 +135,7 @@
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换 ![](https://img.shields.io/github/stars/hotoo/pinyin?style=social) ![](https://img.shields.io/github/last-commit/hotoo/pinyin?style=flat&logo=Polestar)
 - [rough](https://github.com/rough-stuff/rough) - 手绘图形草图 ![](https://img.shields.io/github/stars/rough-stuff/rough?style=social) ![](https://img.shields.io/github/last-commit/rough-stuff/rough?style=flat&logo=Polestar)
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - 图像裁剪器 ![](https://img.shields.io/github/stars/fengyuanchen/cropperjs?style=social) ![](https://img.shields.io/github/last-commit/fengyuanchen/cropperjs?style=flat&logo=Polestar)
+- [tui.image-editor](https://github.com/nhn/tui.image-editor) - 图像编辑器 ![](https://img.shields.io/github/stars/nhn/tui.image-editor?style=social) ![](https://img.shields.io/github/last-commit/nhn/tui.image-editor?style=flat&logo=Polestar)
 - [tui.calendar](https://github.com/nhn/tui.calendar) - 日历 ![](https://img.shields.io/github/stars/nhn/tui.calendar?style=social) ![](https://img.shields.io/github/last-commit/nhn/tui.calendar?style=flat&logo=Polestar)
 - [js-cookie](https://github.com/js-cookie/js-cookie) - 处理 cookie ![](https://img.shields.io/github/stars/js-cookie/js-cookie?style=social) ![](https://img.shields.io/github/last-commit/js-cookie/js-cookie?style=flat&logo=Polestar)
 - [qrcodejs](https://github.com/davidshimjs/qrcodejs) - 二维码生成器 ![](https://img.shields.io/github/stars/davidshimjs/qrcodejs?style=social) ![](https://img.shields.io/github/last-commit/davidshimjs/qrcodejs?style=flat&logo=Polestar)
@@ -233,9 +234,14 @@
 - [AlloyCrop](https://github.com/AlloyTeam/AlloyCrop) - 移动裁剪组件 ![](https://img.shields.io/github/stars/AlloyTeam/AlloyCrop?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/AlloyCrop?style=flat&logo=Polestar)
 
 ## 图形图表
+- [swiper](https://github.com/nolimits4web/swiper) - swiper ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=social) ![](https://img.shields.io/github/last-commit/nolimits4web/swiper?style=flat&logo=Polestar)
+- [echarts](https://github.com/apache/echarts) ![](https://img.shields.io/github/stars/apache/echarts?style=social) ![](https://img.shields.io/github/last-commit/apache/echarts?style=flat&logo=Polestar)
+- [G6](https://github.com/antvis/G6) - 图分析引擎 ![](https://img.shields.io/github/stars/antvis/G6?style=social) ![](https://img.shields.io/github/last-commit/antvis/G6?style=flat&logo=Polestar)
 - [d3](https://github.com/d3/d3) ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/last-commit/d3/d3?style=flat&logo=Polestar)
 - [three.js 3D](https://github.com/mrdoob/three.js) ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) ![](https://img.shields.io/github/last-commit/mrdoob/three.js?style=flat&logo=Polestar)
 - [cesium](https://github.com/CesiumGS/cesium) ![](https://img.shields.io/github/stars/CesiumGS/cesium?style=social) ![](https://img.shields.io/github/last-commit/CesiumGS/cesium?style=flat&logo=Polestar)
+- [aframe](https://github.com/aframevr/aframe) - 用于构建 3D/AR/VR 体验的web框架 ![](https://img.shields.io/github/stars/aframevr/aframe?style=social) ![](https://img.shields.io/github/last-commit/aframevr/aframe?style=flat&logo=Polestar)
+- [deck.gl](https://github.com/visgl/deck.gl) - 基于 WebGL2 的可视化框架 ![](https://img.shields.io/github/stars/visgl/deck.gl?style=social) ![](https://img.shields.io/github/last-commit/visgl/deck.gl?style=flat&logo=Polestar)
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 基于 WebGL，创建交互式、可定制的高性能地图 ![](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/mapbox-gl-js?style=flat&logo=Polestar)
 - [pixijs](https://github.com/pixijs/pixijs) - 使用最快、最灵活的 2D WebGL 渲染器创建精美的数字内容 ![](https://img.shields.io/github/stars/pixijs/pixijs?style=social) ![](https://img.shields.io/github/last-commit/pixijs/pixijs?style=flat&logo=Polestar)
 - [G2](https://github.com/antvis/G2) ![](https://img.shields.io/github/stars/antvis/G2?style=social) ![](https://img.shields.io/github/last-commit/antvis/G2?style=flat&logo=Polestar)
@@ -245,17 +251,20 @@
 - [zrender](https://github.com/ecomfe/zrender) ![](https://img.shields.io/github/stars/ecomfe/zrender?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/zrender?style=flat&logo=Polestar)
 - [vega](https://github.com/vega/vega) - 可视化语法 ![](https://img.shields.io/github/stars/vega/vega?style=social) ![](https://img.shields.io/github/last-commit/vega/vega?style=flat&logo=Polestar)
 - [nivo](https://github.com/plouc/nivo) ![](https://img.shields.io/github/stars/plouc/nivo?style=social) ![](https://img.shields.io/github/last-commit/plouc/nivo?style=flat&logo=Polestar)
+- [plotly.js](https://github.com/plotly/plotly.js) - 数据可视化 ![](https://img.shields.io/github/stars/plotly/plotly.js?style=social) ![](https://img.shields.io/github/last-commit/plotly/plotly.js?style=flat&logo=Polestar)
 
 ## canvas
 - [Fabric.js](https://github.com/fabricjs/fabric.js) - canvas框架 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/last-commit/fabricjs/fabric.js?style=flat&logo=Polestar)
 - [konva](https://github.com/konvajs/konva) - canvas框架 ![](https://img.shields.io/github/stars/konvajs/konva?style=social) ![](https://img.shields.io/github/last-commit/konvajs/konva?style=flat&logo=Polestar)
 - [cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web ![](https://img.shields.io/github/stars/dntzhang/cax?style=social) ![](https://img.shields.io/github/last-commit/dntzhang/cax?style=flat&logo=Polestar)
 - [html2canvas](https://github.com/niklasvh/html2canvas) - 截图 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/last-commit/niklasvh/html2canvas?style=flat&logo=Polestar)
+- [html-to-image](https://github.com/bubkoo/html-to-image) - 使用 canvas 和 SVG 从 DOM 节点生成图像 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/last-commit/bubkoo/html-to-image?style=flat&logo=Polestar)
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) - 纸屑礼花特效 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/last-commit/catdad/canvas-confetti?style=flat&logo=Polestar)
 - [curvejs](https://github.com/AlloyTeam/curvejs) - canvas - 魔幻线条 ![](https://img.shields.io/github/stars/AlloyTeam/curvejs?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/curvejs?style=flat&logo=Polestar)
 - [tldraw](https://github.com/tldraw/tldraw) - 白板绘图工具 ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) ![](https://img.shields.io/github/last-commit/tldraw/tldraw?style=flat&logo=Polestar)
 - [signature_pad](https://github.com/szimek/signature_pad) - 签名绘制 ![](https://img.shields.io/github/stars/szimek/signature_pad?style=social) ![](https://img.shields.io/github/last-commit/szimek/signature_pad?style=flat&logo=Polestar)
 - [zdog](https://github.com/metafizzy/zdog) - 用于Web开发的伪3D引擎库插件 ![](https://img.shields.io/github/stars/metafizzy/zdog?style=social) ![](https://img.shields.io/github/last-commit/metafizzy/zdog?style=flat&logo=Polestar)
+- [lucky-canvas](https://github.com/buuing/lucky-canvas) - 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件 ![](https://img.shields.io/github/stars/buuing/lucky-canvas?style=social) ![](https://img.shields.io/github/last-commit/buuing/lucky-canvas?style=flat&logo=Polestar)
 
 ## svg
 - [sparkline](https://github.com/fnando/sparkline) - 迷你线图 ![](https://img.shields.io/github/stars/fnando/sparkline?style=social) ![](https://img.shields.io/github/last-commit/fnando/sparkline?style=flat&logo=Polestar)
@@ -272,19 +281,20 @@
 - [tinymce](https://github.com/tinymce/tinymce) ![](https://img.shields.io/github/stars/tinymce/tinymce?style=social) ![](https://img.shields.io/github/last-commit/tinymce/tinymce?style=flat&logo=Polestar)
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social) ![](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=flat&logo=Polestar)
 - [wangEditor](https://github.com/wangeditor-team/wangEditor) ![](https://img.shields.io/github/stars/wangeditor-team/wangEditor?style=social) ![](https://img.shields.io/github/last-commit/wangeditor-team/wangEditor?style=flat&logo=Polestar)
+- [tui.editor](https://github.com/nhn/tui.editor) ![](https://img.shields.io/github/stars/nhn/tui.editor?style=social) ![](https://img.shields.io/github/last-commit/nhn/tui.editor?style=flat&logo=Polestar)
 
-## 图形动画
-- [swiper](https://github.com/nolimits4web/swiper) - swiper ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=social) ![](https://img.shields.io/github/last-commit/nolimits4web/swiper?style=flat&logo=Polestar)
-- [mojs](https://github.com/mojs/mojs) ![](https://img.shields.io/github/stars/mojs/mojs?style=social) ![](https://img.shields.io/github/last-commit/mojs/mojs?style=flat&logo=Polestar)
-- [echarts](https://github.com/apache/echarts) ![](https://img.shields.io/github/stars/apache/echarts?style=social) ![](https://img.shields.io/github/last-commit/apache/echarts?style=flat&logo=Polestar)
+## 动画动效
 - [anime](https://github.com/juliangarnier/anime) - js动画引擎 ![](https://img.shields.io/github/stars/juliangarnier/anime?style=social) ![](https://img.shields.io/github/last-commit/juliangarnier/anime?style=flat&logo=Polestar)
+- [mojs](https://github.com/mojs/mojs) - 动画库插件 ![](https://img.shields.io/github/stars/mojs/mojs?style=social) ![](https://img.shields.io/github/last-commit/mojs/mojs?style=flat&logo=Polestar)
 - [particles.js](https://github.com/VincentGarreau/particles.js) - 粒子特效 ![](https://img.shields.io/github/stars/VincentGarreau/particles.js?style=social) ![](https://img.shields.io/github/last-commit/VincentGarreau/particles.js?style=flat&logo=Polestar)
+- [tsparticles](https://github.com/tsparticles/tsparticles) - 轻松创建高度可定制的JavaScript粒子效果，五彩纸屑爆炸和烟花动画 ![](https://img.shields.io/github/stars/tsparticles/tsparticles?style=social) ![](https://img.shields.io/github/last-commit/tsparticles/tsparticles?style=flat&logo=Polestar)
 - [countUp.js](https://github.com/inorganik/countUp.js) - 动画效果显示数字 ![](https://img.shields.io/github/stars/inorganik/countUp.js?style=social) ![](https://img.shields.io/github/last-commit/inorganik/countUp.js?style=flat&logo=Polestar)
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock动画平台 ![](https://img.shields.io/github/stars/greensock/GSAP?style=social) ![](https://img.shields.io/github/last-commit/greensock/GSAP?style=flat&logo=Polestar)
-- [G6](https://github.com/antvis/G6) - 图分析引擎 ![](https://img.shields.io/github/stars/antvis/G6?style=social) ![](https://img.shields.io/github/last-commit/antvis/G6?style=flat&logo=Polestar)
 - [lottie-web](https://github.com/airbnb/lottie-web) - 在 Web 上展示 Lottie 动画文件（JSON 格式），实现高度可定制的矢量动画 ![](https://img.shields.io/github/stars/airbnb/lottie-web?style=social) ![](https://img.shields.io/github/last-commit/airbnb/lottie-web?style=flat&logo=Polestar)
 - [SVGAPlayer-Web](https://github.com/svga/SVGAPlayer-Web) - 在 Web 上展示 SVGA 动画（一种基于矢量图形的动画格式） ![](https://img.shields.io/github/stars/svga/SVGAPlayer-Web?style=social) ![](https://img.shields.io/github/last-commit/svga/SVGAPlayer-Web?style=flat&logo=Polestar)
 - [motion-canvas](https://github.com/motion-canvas/motion-canvas) - 一个TypeScript库，用于使用Canvas API创建动画视频。 ![](https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social) ![](https://img.shields.io/github/last-commit/motion-canvas/motion-canvas?style=flat&logo=Polestar)
+- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - 动态流体效果 ![](https://img.shields.io/github/stars/PavelDoGreat/WebGL-Fluid-Simulation?style=social) ![](https://img.shields.io/github/last-commit/PavelDoGreat/WebGL-Fluid-Simulation?style=flat&logo=Polestar)
+- [vanta](https://github.com/tengbao/vanta) - 3D 动画背景 ![](https://img.shields.io/github/stars/tengbao/vanta?style=social) ![](https://img.shields.io/github/last-commit/tengbao/vanta?style=flat&logo=Polestar)
 
 
 ## uniapp
@@ -434,6 +444,7 @@
 ## 游戏
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - 基于 WebGL 技术的开源3D游戏引擎和渲染引擎 ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/last-commit/BabylonJS/Babylon.js?style=flat&logo=Polestar)
 - [phaser](https://github.com/phaserjs/phaser) - Phaser是一个有趣、免费、快速的2D游戏框架，用于制作桌面和移动网页浏览器上的HTML5游戏，支持Canvas和WebGL渲染。 ![](https://img.shields.io/github/stars/phaserjs/phaser?style=social) ![](https://img.shields.io/github/last-commit/phaserjs/phaser?style=flat&logo=Polestar)
+- [engine](https://github.com/playcanvas/engine) - 基于 WebGL, WebGPU, WebXR 和 glTF 的 JavaScript 游戏引擎 ![](https://img.shields.io/github/stars/playcanvas/engine?style=social) ![](https://img.shields.io/github/last-commit/playcanvas/engine?style=flat&logo=Polestar)
 - [matter-js](https://github.com/liabru/matter-js) - 用于Web的2D刚体物理引擎插件 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/last-commit/liabru/matter-js?style=flat&logo=Polestar)
 
 ## 测试工具
@@ -491,6 +502,8 @@
 - [slidev](https://github.com/slidevjs/slidev) - 基于 Web 的幻灯片制作和演示工具 ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social) ![](https://img.shields.io/github/last-commit/slidevjs/slidev?style=flat&logo=Polestar)
 - [mermaid](https://github.com/mermaid-js/mermaid) - 以类似于 markdown 的方式从文本生成流程图、序列图等 ![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social) ![](https://img.shields.io/github/last-commit/mermaid-js/mermaid?style=flat&logo=Polestar)
 - [piskel](https://github.com/piskelapp/piskel) - 专注于像素艺术创作的工具 ![](https://img.shields.io/github/stars/piskelapp/piskel?style=social) ![](https://img.shields.io/github/last-commit/piskelapp/piskel?style=flat&logo=Polestar)
+- [xterm.js](https://github.com/xtermjs/xterm.js) - 前端终端组件，在浏览器中实现一个命令行终端应用 ![](https://img.shields.io/github/stars/xtermjs/xterm.js?style=social) ![](https://img.shields.io/github/last-commit/xtermjs/xterm.js?style=flat&logo=Polestar)
+- [gpu.js](https://github.com/gpujs/gpu.js) - 用于在浏览器或 Node.js 环境中利用 GPU 进行并行计算加速 ![](https://img.shields.io/github/stars/gpujs/gpu.js?style=social) ![](https://img.shields.io/github/last-commit/gpujs/gpu.js?style=flat&logo=Polestar)
 
 ## 项目
 - [babel](https://github.com/babel/babel) - javaScript 编译器 ![](https://img.shields.io/github/stars/babel/babel?style=social) ![](https://img.shields.io/github/last-commit/babel/babel?style=flat&logo=Polestar)
