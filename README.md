@@ -303,7 +303,7 @@
 - [vue-devtools](https://github.com/vuejs/devtools) - 浏览器devtools扩展 ![](https://img.shields.io/github/stars/vuejs/devtools?style=social) ![](https://img.shields.io/github/last-commit/vuejs/devtools?style=flat&logo=Polestar)
 - [devtools-next](https://github.com/vuejs/devtools-next) - Vue DevTools 的下一个迭代 ![](https://img.shields.io/github/stars/vuejs/devtools-next?style=social) ![](https://img.shields.io/github/last-commit/vuejs/devtools-next?style=flat&logo=Polestar)
 - [language-tools](https://github.com/vuejs/language-tools) - 基于 Volar.js 的高性能 Vue 语言工具 [包括: vue-tsc (类型检查和 dts 构建的命令行工具)] ![](https://img.shields.io/github/stars/vuejs/language-tools?style=social) ![](https://img.shields.io/github/last-commit/vuejs/language-tools?style=flat&logo=Polestar)
-- [babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx)  - 以 JSX 的方式来编写 Vue 代码 (Vue3) ![](https://img.shields.io/github/stars/vuejs/babel-plugin-jsx?style=social) ![](https://img.shields.io/github/last-commit/vuejs/babel-plugin-jsx?style=flat&logo=Polestar)
+- [babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx) - 以 JSX 的方式来编写 Vue 代码 (Vue3) ![](https://img.shields.io/github/stars/vuejs/babel-plugin-jsx?style=social) ![](https://img.shields.io/github/last-commit/vuejs/babel-plugin-jsx?style=flat&logo=Polestar)
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - 以 class 的模式写 vue 组件 ![](https://img.shields.io/github/stars/vuejs/vue-class-component?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vue-class-component?style=flat&logo=Polestar)
 - [composition-api](https://github.com/vuejs/composition-api) - 为 Vue 2 提供组合式 API ![](https://img.shields.io/github/stars/vuejs/composition-api?style=social) ![](https://img.shields.io/github/last-commit/vuejs/composition-api?style=flat&logo=Polestar)
 - [unplugin-vue2-script-setup](https://github.com/unplugin/unplugin-vue2-script-setup) - 为 Vue 2 提供 script setup ![](https://img.shields.io/github/stars/unplugin/unplugin-vue2-script-setup?style=social) ![](https://img.shields.io/github/last-commit/unplugin/unplugin-vue2-script-setup?style=flat&logo=Polestar)
@@ -331,7 +331,7 @@
 - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) - 显示PDF (Vue2) ![](https://img.shields.io/github/stars/FranckFreiburger/vue-pdf?style=social) ![](https://img.shields.io/github/last-commit/FranckFreiburger/vue-pdf?style=flat&logo=Polestar)
 - [vue-drawer-layout](https://github.com/hjl19911127/vue-drawer-layout) - 抽屉组件 / 侧滑菜单 ![](https://img.shields.io/github/stars/hjl19911127/vue-drawer-layout?style=social) ![](https://img.shields.io/github/last-commit/hjl19911127/vue-drawer-layout?style=flat&logo=Polestar)
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue 相关开源项目库 ![](https://img.shields.io/github/stars/opendigg/awesome-github-vue?style=social) ![](https://img.shields.io/github/last-commit/opendigg/awesome-github-vue?style=flat&logo=Polestar)
-- [vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)  - Vue3 JSX Vite ![](https://img.shields.io/github/stars/vitejs/vite-plugin-vue?style=social) ![](https://img.shields.io/github/last-commit/vitejs/vite-plugin-vue?style=flat&logo=Polestar)
+- [vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue) - Vue3 JSX Vite ![](https://img.shields.io/github/stars/vitejs/vite-plugin-vue?style=social) ![](https://img.shields.io/github/last-commit/vitejs/vite-plugin-vue?style=flat&logo=Polestar)
 - [vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) - 通过 css 属性画 canvas 图片 (Vue2) ![](https://img.shields.io/github/stars/sunniejs/vue-canvas-poster?style=social) ![](https://img.shields.io/github/last-commit/sunniejs/vue-canvas-poster?style=flat&logo=Polestar)
 - [vue-color](https://github.com/xiaokaike/vue-color) - 颜色拾取器 (Vue2) ![](https://img.shields.io/github/stars/xiaokaike/vue-color?style=social) ![](https://img.shields.io/github/last-commit/xiaokaike/vue-color?style=flat&logo=Polestar)
 - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - 一个简单的vue2绑定到clipboard.js (Vue2) ![](https://img.shields.io/github/stars/Inndy/vue-clipboard2?style=social) ![](https://img.shields.io/github/last-commit/Inndy/vue-clipboard2?style=flat&logo=Polestar)
@@ -363,6 +363,8 @@
 - [vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - 二维码 ![](https://img.shields.io/github/stars/fengyuanchen/vue-qrcode?style=social) ![](https://img.shields.io/github/last-commit/fengyuanchen/vue-qrcode?style=flat&logo=Polestar)
 - [vue-fullpage.js](https://github.com/alvarotrigo/vue-fullpage.js) - Vue for fullPage.js ![](https://img.shields.io/github/stars/alvarotrigo/vue-fullpage.js?style=social) ![](https://img.shields.io/github/last-commit/alvarotrigo/vue-fullpage.js?style=flat&logo=Polestar)
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 ![](https://img.shields.io/github/stars/zyronon/douyin?style=social) ![](https://img.shields.io/github/last-commit/zyronon/douyin?style=flat&logo=Polestar)
+- [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - 支持 Vue2 和 Vue3 的拖拽组件 ![](https://img.shields.io/github/stars/Alfred-Skyblue/vue-draggable-plus?style=social) ![](https://img.shields.io/github/last-commit/Alfred-Skyblue/vue-draggable-plus?style=flat&logo=Polestar)
+- [v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen) - vue 大屏自适应组件 ![](https://img.shields.io/github/stars/Alfred-Skyblue/v-scale-screen?style=social) ![](https://img.shields.io/github/last-commit/Alfred-Skyblue/v-scale-screen?style=flat&logo=Polestar)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social) ![](https://img.shields.io/github/last-commit/facebook/react?style=flat&logo=Polestar)
@@ -399,7 +401,8 @@
 - [wepy](https://github.com/Tencent/wepy) - 组件化开发框架 ![](https://img.shields.io/github/stars/Tencent/wepy?style=social) ![](https://img.shields.io/github/last-commit/Tencent/wepy?style=flat&logo=Polestar)
 - [vant-weapp](https://github.com/youzan/vant-weapp) - UI 组件库 ![](https://img.shields.io/github/stars/youzan/vant-weapp?style=social) ![](https://img.shields.io/github/last-commit/youzan/vant-weapp?style=flat&logo=Polestar)
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的开发框架 ![](https://img.shields.io/github/stars/Meituan-Dianping/mpvue?style=social) ![](https://img.shields.io/github/last-commit/Meituan-Dianping/mpvue?style=flat&logo=Polestar)
-- [wxParse](https://github.com/icindy/wxParse)  - 富文本解析组件 ![](https://img.shields.io/github/stars/icindy/wxParse?style=social) ![](https://img.shields.io/github/last-commit/icindy/wxParse?style=flat&logo=Polestar)
+- [wxParse](https://github.com/icindy/wxParse) - 富文本解析组件 ![](https://img.shields.io/github/stars/icindy/wxParse?style=social) ![](https://img.shields.io/github/last-commit/icindy/wxParse?style=flat&logo=Polestar)
+- [WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos) - 微信小程序和小游戏的源码案例库 ![](https://img.shields.io/github/stars/Data-Camp/WeApp_Demos?style=social) ![](https://img.shields.io/github/last-commit/Data-Camp/WeApp_Demos?style=flat&logo=Polestar)
 
 ## APP构建
 - [flutter](https://github.com/flutter/flutter) ![](https://img.shields.io/github/stars/flutter/flutter?style=social) ![](https://img.shields.io/github/last-commit/flutter/flutter?style=flat&logo=Polestar)
