@@ -129,7 +129,6 @@
 - [nprogress](https://github.com/rstacruz/nprogress) - 进度条 ![](https://img.shields.io/github/stars/rstacruz/nprogress?style=social) ![](https://img.shields.io/github/last-commit/rstacruz/nprogress?style=flat&logo=Polestar)
 - [img-2](https://github.com/RevillWeb/img-2) - 图像预缓存 ![](https://img.shields.io/github/stars/RevillWeb/img-2?style=social) ![](https://img.shields.io/github/last-commit/RevillWeb/img-2?style=flat&logo=Polestar)
 - [mcanvas](https://github.com/xd-tayde/mcanvas) - 用于合成图片的canvas绘制库 ![](https://img.shields.io/github/stars/xd-tayde/mcanvas?style=social) ![](https://img.shields.io/github/last-commit/xd-tayde/mcanvas?style=flat&logo=Polestar)
-- [html2canvas](https://github.com/niklasvh/html2canvas) - 截图 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/last-commit/niklasvh/html2canvas?style=flat&logo=Polestar)
 - [validator.js](https://github.com/validatorjs/validator.js) - 验证器 ![](https://img.shields.io/github/stars/validatorjs/validator.js?style=social) ![](https://img.shields.io/github/last-commit/validatorjs/validator.js?style=flat&logo=Polestar)
 - [alasql](https://github.com/AlaSQL/alasql) - js SQL数据库 ![](https://img.shields.io/github/stars/AlaSQL/alasql?style=social) ![](https://img.shields.io/github/last-commit/AlaSQL/alasql?style=flat&logo=Polestar)
 - [H5lock](https://github.com/lvming6816077/H5lock) - H5手势解锁 ![](https://img.shields.io/github/stars/lvming6816077/H5lock?style=social) ![](https://img.shields.io/github/last-commit/lvming6816077/H5lock?style=flat&logo=Polestar)
@@ -141,7 +140,6 @@
 - [qrcodejs](https://github.com/davidshimjs/qrcodejs) - 二维码生成器 ![](https://img.shields.io/github/stars/davidshimjs/qrcodejs?style=social) ![](https://img.shields.io/github/last-commit/davidshimjs/qrcodejs?style=flat&logo=Polestar)
 - [highlight.js](https://github.com/highlightjs/highlight.js) - JS语法高亮 ![](https://img.shields.io/github/stars/highlightjs/highlight.js?style=social) ![](https://img.shields.io/github/last-commit/highlightjs/highlight.js?style=flat&logo=Polestar)
 - [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - xml解析 ![](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=social) ![](https://img.shields.io/github/last-commit/NaturalIntelligence/fast-xml-parser?style=flat&logo=Polestar)
-- [sheetjs](https://github.com/SheetJS/sheetjs) - Excel表格编辑器 ![](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social) ![](https://img.shields.io/github/last-commit/SheetJS/sheetjs?style=flat&logo=Polestar)
 - [hammer.js](https://github.com/hammerjs/hammer.js) - 检测触摸手势 ![](https://img.shields.io/github/stars/hammerjs/hammer.js?style=social) ![](https://img.shields.io/github/last-commit/hammerjs/hammer.js?style=flat&logo=Polestar)
 - [normalize-url](https://github.com/sindresorhus/normalize-url) - 格式化URL ![](https://img.shields.io/github/stars/sindresorhus/normalize-url?style=social) ![](https://img.shields.io/github/last-commit/sindresorhus/normalize-url?style=flat&logo=Polestar)
 - [json-server](https://github.com/typicode/json-server) - 本地数据接口 ![](https://img.shields.io/github/stars/typicode/json-server?style=social) ![](https://img.shields.io/github/last-commit/typicode/json-server?style=flat&logo=Polestar)
@@ -245,18 +243,28 @@
 - [BizCharts](https://github.com/alibaba/BizCharts) - 阿里巴巴图表库，基于G2和React ![](https://img.shields.io/github/stars/alibaba/BizCharts?style=social) ![](https://img.shields.io/github/last-commit/alibaba/BizCharts?style=flat&logo=Polestar)
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) ![](https://img.shields.io/github/stars/tradingview/lightweight-charts?style=social) ![](https://img.shields.io/github/last-commit/tradingview/lightweight-charts?style=flat&logo=Polestar)
 - [zrender](https://github.com/ecomfe/zrender) ![](https://img.shields.io/github/stars/ecomfe/zrender?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/zrender?style=flat&logo=Polestar)
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js) ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/last-commit/BabylonJS/Babylon.js?style=flat&logo=Polestar)
+- [vega](https://github.com/vega/vega) - 可视化语法 ![](https://img.shields.io/github/stars/vega/vega?style=social) ![](https://img.shields.io/github/last-commit/vega/vega?style=flat&logo=Polestar)
+- [nivo](https://github.com/plouc/nivo) ![](https://img.shields.io/github/stars/plouc/nivo?style=social) ![](https://img.shields.io/github/last-commit/plouc/nivo?style=flat&logo=Polestar)
 
 ## canvas
 - [Fabric.js](https://github.com/fabricjs/fabric.js) - canvas框架 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/last-commit/fabricjs/fabric.js?style=flat&logo=Polestar)
 - [konva](https://github.com/konvajs/konva) - canvas框架 ![](https://img.shields.io/github/stars/konvajs/konva?style=social) ![](https://img.shields.io/github/last-commit/konvajs/konva?style=flat&logo=Polestar)
 - [cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web ![](https://img.shields.io/github/stars/dntzhang/cax?style=social) ![](https://img.shields.io/github/last-commit/dntzhang/cax?style=flat&logo=Polestar)
+- [html2canvas](https://github.com/niklasvh/html2canvas) - 截图 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/last-commit/niklasvh/html2canvas?style=flat&logo=Polestar)
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) - 纸屑礼花特效 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/last-commit/catdad/canvas-confetti?style=flat&logo=Polestar)
 - [curvejs](https://github.com/AlloyTeam/curvejs) - canvas - 魔幻线条 ![](https://img.shields.io/github/stars/AlloyTeam/curvejs?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/curvejs?style=flat&logo=Polestar)
+- [tldraw](https://github.com/tldraw/tldraw) - 白板绘图工具 ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) ![](https://img.shields.io/github/last-commit/tldraw/tldraw?style=flat&logo=Polestar)
+- [signature_pad](https://github.com/szimek/signature_pad) - 签名绘制 ![](https://img.shields.io/github/stars/szimek/signature_pad?style=social) ![](https://img.shields.io/github/last-commit/szimek/signature_pad?style=flat&logo=Polestar)
+- [zdog](https://github.com/metafizzy/zdog) - 用于Web开发的伪3D引擎库插件 ![](https://img.shields.io/github/stars/metafizzy/zdog?style=social) ![](https://img.shields.io/github/last-commit/metafizzy/zdog?style=flat&logo=Polestar)
 
 ## svg
 - [sparkline](https://github.com/fnando/sparkline) - 迷你线图 ![](https://img.shields.io/github/stars/fnando/sparkline?style=social) ![](https://img.shields.io/github/last-commit/fnando/sparkline?style=flat&logo=Polestar)
 - [svgo](https://github.com/svg/svgo) - 用于优化 SVG 图形文件的工具，减小 SVG 文件的大小 ![](https://img.shields.io/github/stars/svg/svgo?style=social) ![](https://img.shields.io/github/last-commit/svg/svgo?style=flat&logo=Polestar)
+
+## 办公套件
+- [sheetjs](https://github.com/SheetJS/sheetjs) - Excel 表格编辑器 ![](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social) ![](https://img.shields.io/github/last-commit/SheetJS/sheetjs?style=flat&logo=Polestar)
+- [Luckysheet](https://github.com/dream-num/Luckysheet) - 像 excel 一样的在线电子表格，功能强大，配置简单 ![](https://img.shields.io/github/stars/dream-num/Luckysheet?style=social) ![](https://img.shields.io/github/last-commit/dream-num/Luckysheet?style=flat&logo=Polestar)
+- [univer](https://github.com/dream-num/univer) - 开源 Office 办公套件，包括电子表格、文档和幻灯片 ![](https://img.shields.io/github/stars/dream-num/univer?style=social) ![](https://img.shields.io/github/last-commit/dream-num/univer?style=flat&logo=Polestar)
 
 ## 富文本编辑器
 - [quill](https://github.com/quilljs/quill) ![](https://img.shields.io/github/stars/quilljs/quill?style=social) ![](https://img.shields.io/github/last-commit/quilljs/quill?style=flat&logo=Polestar)
@@ -276,6 +284,7 @@
 - [G6](https://github.com/antvis/G6) - 图分析引擎 ![](https://img.shields.io/github/stars/antvis/G6?style=social) ![](https://img.shields.io/github/last-commit/antvis/G6?style=flat&logo=Polestar)
 - [lottie-web](https://github.com/airbnb/lottie-web) - 在 Web 上展示 Lottie 动画文件（JSON 格式），实现高度可定制的矢量动画 ![](https://img.shields.io/github/stars/airbnb/lottie-web?style=social) ![](https://img.shields.io/github/last-commit/airbnb/lottie-web?style=flat&logo=Polestar)
 - [SVGAPlayer-Web](https://github.com/svga/SVGAPlayer-Web) - 在 Web 上展示 SVGA 动画（一种基于矢量图形的动画格式） ![](https://img.shields.io/github/stars/svga/SVGAPlayer-Web?style=social) ![](https://img.shields.io/github/last-commit/svga/SVGAPlayer-Web?style=flat&logo=Polestar)
+- [motion-canvas](https://github.com/motion-canvas/motion-canvas) - 一个TypeScript库，用于使用Canvas API创建动画视频。 ![](https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social) ![](https://img.shields.io/github/last-commit/motion-canvas/motion-canvas?style=flat&logo=Polestar)
 
 
 ## uniapp
@@ -417,6 +426,16 @@
 - [expo](https://github.com/expo/expo) - 基于 React Native 的开发平台，旨在帮助开发者更轻松地构建跨平台移动应用程序 ![](https://img.shields.io/github/stars/expo/expo?style=social) ![](https://img.shields.io/github/last-commit/expo/expo?style=flat&logo=Polestar)
 - [quasar](https://github.com/quasarframework/quasar) - Quasar 是一个基于 Vue.js 的框架，它提供了丰富的组件库和工具，用于快速开发现代化的 Web 应用程序、移动应用程序和桌面应用程序。 ![](https://img.shields.io/github/stars/quasarframework/quasar?style=social) ![](https://img.shields.io/github/last-commit/quasarframework/quasar?style=flat&logo=Polestar)
 
+## 跨平台桌面应用
+- [electron](https://github.com/electron/electron) - 桌面应用 ![](https://img.shields.io/github/stars/electron/electron?style=social) ![](https://img.shields.io/github/last-commit/electron/electron?style=flat&logo=Polestar)
+- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Electron & Vue.js ![](https://img.shields.io/github/stars/SimulatedGREG/electron-vue?style=social) ![](https://img.shields.io/github/last-commit/SimulatedGREG/electron-vue?style=flat&logo=Polestar)
+- [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - vue-cli3 ![](https://img.shields.io/github/stars/nklayman/vue-cli-plugin-electron-builder?style=social) ![](https://img.shields.io/github/last-commit/nklayman/vue-cli-plugin-electron-builder?style=flat&logo=Polestar)
+
+## 游戏
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - 基于 WebGL 技术的开源3D游戏引擎和渲染引擎 ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/last-commit/BabylonJS/Babylon.js?style=flat&logo=Polestar)
+- [phaser](https://github.com/phaserjs/phaser) - Phaser是一个有趣、免费、快速的2D游戏框架，用于制作桌面和移动网页浏览器上的HTML5游戏，支持Canvas和WebGL渲染。 ![](https://img.shields.io/github/stars/phaserjs/phaser?style=social) ![](https://img.shields.io/github/last-commit/phaserjs/phaser?style=flat&logo=Polestar)
+- [matter-js](https://github.com/liabru/matter-js) - 用于Web的2D刚体物理引擎插件 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/last-commit/liabru/matter-js?style=flat&logo=Polestar)
+
 ## 测试工具
 - [jest](https://github.com/facebook/jest) ![](https://img.shields.io/github/stars/facebook/jest?style=social) ![](https://img.shields.io/github/last-commit/facebook/jest?style=flat&logo=Polestar)
 - [vitest](https://github.com/vitest-dev/vitest) ![](https://img.shields.io/github/stars/vitest-dev/vitest?style=social) ![](https://img.shields.io/github/last-commit/vitest-dev/vitest?style=flat&logo=Polestar)
@@ -433,9 +452,6 @@
 - [husky](https://github.com/typicode/husky) - git 钩子 ![](https://img.shields.io/github/stars/typicode/husky?style=social) ![](https://img.shields.io/github/last-commit/typicode/husky?style=flat&logo=Polestar)
 - [lint-staged](https://github.com/okonet/lint-staged) - 文件过滤 ![](https://img.shields.io/github/stars/okonet/lint-staged?style=social) ![](https://img.shields.io/github/last-commit/okonet/lint-staged?style=flat&logo=Polestar)
 - [nw.js](https://github.com/nwjs/nw.js) - 桌面应用 ![](https://img.shields.io/github/stars/nwjs/nw.js?style=social) ![](https://img.shields.io/github/last-commit/nwjs/nw.js?style=flat&logo=Polestar)
-- [electron](https://github.com/electron/electron) - 桌面应用 ![](https://img.shields.io/github/stars/electron/electron?style=social) ![](https://img.shields.io/github/last-commit/electron/electron?style=flat&logo=Polestar)
-- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Electron & Vue.js ![](https://img.shields.io/github/stars/SimulatedGREG/electron-vue?style=social) ![](https://img.shields.io/github/last-commit/SimulatedGREG/electron-vue?style=flat&logo=Polestar)
-- [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - vue-cli3 ![](https://img.shields.io/github/stars/nklayman/vue-cli-plugin-electron-builder?style=social) ![](https://img.shields.io/github/last-commit/nklayman/vue-cli-plugin-electron-builder?style=flat&logo=Polestar)
 - [hexo](https://github.com/hexojs/hexo) - 博客框架 ![](https://img.shields.io/github/stars/hexojs/hexo?style=social) ![](https://img.shields.io/github/last-commit/hexojs/hexo?style=flat&logo=Polestar)
 - [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - hexo主题 ![](https://img.shields.io/github/stars/litten/hexo-theme-yilia?style=social) ![](https://img.shields.io/github/last-commit/litten/hexo-theme-yilia?style=flat&logo=Polestar)
 - [Ghost](https://github.com/TryGhost/Ghost) - 博客搭建 ![](https://img.shields.io/github/stars/TryGhost/Ghost?style=social) ![](https://img.shields.io/github/last-commit/TryGhost/Ghost?style=flat&logo=Polestar)
@@ -474,6 +490,7 @@
 - [star-history](https://github.com/star-history/star-history) - star 历史 ![](https://img.shields.io/github/stars/star-history/star-history?style=social) ![](https://img.shields.io/github/last-commit/star-history/star-history?style=flat&logo=Polestar)
 - [slidev](https://github.com/slidevjs/slidev) - 基于 Web 的幻灯片制作和演示工具 ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social) ![](https://img.shields.io/github/last-commit/slidevjs/slidev?style=flat&logo=Polestar)
 - [mermaid](https://github.com/mermaid-js/mermaid) - 以类似于 markdown 的方式从文本生成流程图、序列图等 ![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social) ![](https://img.shields.io/github/last-commit/mermaid-js/mermaid?style=flat&logo=Polestar)
+- [piskel](https://github.com/piskelapp/piskel) - 专注于像素艺术创作的工具 ![](https://img.shields.io/github/stars/piskelapp/piskel?style=social) ![](https://img.shields.io/github/last-commit/piskelapp/piskel?style=flat&logo=Polestar)
 
 ## 项目
 - [babel](https://github.com/babel/babel) - javaScript 编译器 ![](https://img.shields.io/github/stars/babel/babel?style=social) ![](https://img.shields.io/github/last-commit/babel/babel?style=flat&logo=Polestar)
@@ -537,6 +554,7 @@
 - [sequelize](https://github.com/sequelize/sequelize) - 开源的 Node.js 和 TypeScript ORM，具有可靠的事务支持、关系、预先和延迟加载、读取复制等。 ![](https://img.shields.io/github/stars/sequelize/sequelize?style=social) ![](https://img.shields.io/github/last-commit/sequelize/sequelize?style=flat&logo=Polestar)
 - [fastify](https://github.com/fastify/fastify) - 快速且低开销的 Node.js Web 框架 ![](https://img.shields.io/github/stars/fastify/fastify?style=social) ![](https://img.shields.io/github/last-commit/fastify/fastify?style=flat&logo=Polestar)
 - [pug](https://github.com/pugjs/pug) - Node.js 模板引擎。提供了一种简洁、优雅的语法来编写 HTML 模板，通过编译可以将 Pug 模板转换为纯 HTML ![](https://img.shields.io/github/stars/pugjs/pug?style=social) ![](https://img.shields.io/github/last-commit/pugjs/pug?style=flat&logo=Polestar)
+- [node-canvas](https://github.com/Automattic/node-canvas) - Node-Canvas 是一个在 Node.js 环境下创建 Canvas 的库 ![](https://img.shields.io/github/stars/Automattic/node-canvas?style=social) ![](https://img.shields.io/github/last-commit/Automattic/node-canvas?style=flat&logo=Polestar)
 
 ## 其他
 - [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social) ![](https://img.shields.io/github/last-commit/didi/DoKit?style=flat&logo=Polestar)
@@ -568,6 +586,7 @@
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ![](https://img.shields.io/github/stars/sorrycc/awesome-javascript?style=social) ![](https://img.shields.io/github/last-commit/sorrycc/awesome-javascript?style=flat&logo=Polestar)
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) ![](https://img.shields.io/github/stars/viatsko/awesome-vscode?style=social) ![](https://img.shields.io/github/last-commit/viatsko/awesome-vscode?style=flat&logo=Polestar)
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 小程序 ![](https://img.shields.io/github/stars/justjavac/awesome-wechat-weapp?style=social) ![](https://img.shields.io/github/last-commit/justjavac/awesome-wechat-weapp?style=flat&logo=Polestar)
+- [awesome-taro](https://github.com/NervJS/awesome-taro) ![](https://img.shields.io/github/stars/NervJS/awesome-taro?style=social) ![](https://img.shields.io/github/last-commit/NervJS/awesome-taro?style=flat&logo=Polestar)
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) ![](https://img.shields.io/github/stars/Solido/awesome-flutter?style=social) ![](https://img.shields.io/github/last-commit/Solido/awesome-flutter?style=flat&logo=Polestar)
 - [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全 ![](https://img.shields.io/github/stars/jobbole/awesome-programming-books?style=social) ![](https://img.shields.io/github/last-commit/jobbole/awesome-programming-books?style=flat&logo=Polestar)
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全 ![](https://img.shields.io/github/stars/jobbole/awesome-javascript-cn?style=social) ![](https://img.shields.io/github/last-commit/jobbole/awesome-javascript-cn?style=flat&logo=Polestar)
