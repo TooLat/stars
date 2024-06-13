@@ -34,6 +34,9 @@
 - [styled-components](https://github.com/styled-components/styled-components) - CSS-in-JS，在JavaScript组件内部编写样式 ![](https://img.shields.io/github/stars/styled-components/styled-components?style=social) ![](https://img.shields.io/github/last-commit/styled-components/styled-components?style=flat&logo=Polestar)
 - [styils](https://github.com/styils/styils) - 一个轻量级和快速的 css-in-js 解决方案 ![](https://img.shields.io/github/stars/styils/styils?style=social) ![](https://img.shields.io/github/last-commit/styils/styils?style=flat&logo=Polestar)
 
+## HTML
+- [htmx](https://github.com/bigskysoftware/htmx) - 强大的 HTML 工具 ![](https://img.shields.io/github/stars/bigskysoftware/htmx?style=social) ![](https://img.shields.io/github/last-commit/bigskysoftware/htmx?style=flat&logo=Polestar)
+
 ## UI库
 - [ant-design](https://github.com/ant-design/ant-design) ![](https://img.shields.io/github/stars/ant-design/ant-design?style=social) ![](https://img.shields.io/github/last-commit/ant-design/ant-design?style=flat&logo=Polestar)
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) ![](https://img.shields.io/github/stars/ant-design/ant-design-pro?style=social) ![](https://img.shields.io/github/last-commit/ant-design/ant-design-pro?style=flat&logo=Polestar)
@@ -177,6 +180,7 @@
 - [typeit](https://github.com/alexmacarthur/typeit) - 动画打字 ![](https://img.shields.io/github/stars/alexmacarthur/typeit?style=social) ![](https://img.shields.io/github/last-commit/alexmacarthur/typeit?style=flat&logo=Polestar)
 - [typed.js](https://github.com/mattboldt/typed.js) - 动画打字 ![](https://img.shields.io/github/stars/mattboldt/typed.js?style=social) ![](https://img.shields.io/github/last-commit/mattboldt/typed.js?style=flat&logo=Polestar)
 - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - Markdown 编辑器 ![](https://img.shields.io/github/stars/sparksuite/simplemde-markdown-editor?style=social) ![](https://img.shields.io/github/last-commit/sparksuite/simplemde-markdown-editor?style=flat&logo=Polestar)
+- [stackedit](https://github.com/benweet/stackedit) - 浏览器内 Markdown 编辑器 ![](https://img.shields.io/github/stars/benweet/stackedit?style=social) ![](https://img.shields.io/github/last-commit/benweet/stackedit?style=flat&logo=Polestar)
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social) ![](https://img.shields.io/github/last-commit/markdown-it/markdown-it?style=flat&logo=Polestar)
 - [markdown-it-katex](https://github.com/traPtitech/markdown-it-katex) - Markdown 渲染数学公式 ![](https://img.shields.io/github/stars/traPtitech/markdown-it-katex?style=social) ![](https://img.shields.io/github/last-commit/traPtitech/markdown-it-katex?style=flat&logo=Polestar)
 - [marked](https://github.com/markedjs/marked) - Markdown 解析器 ![](https://img.shields.io/github/stars/markedjs/marked?style=social) ![](https://img.shields.io/github/last-commit/markedjs/marked?style=flat&logo=Polestar)
@@ -213,6 +217,7 @@
 - [web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段 ![](https://img.shields.io/github/stars/M-cheng-web/web-tracing?style=social) ![](https://img.shields.io/github/last-commit/M-cheng-web/web-tracing?style=flat&logo=Polestar)
 - [poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。 ![](https://img.shields.io/github/stars/palxiao/poster-design?style=social) ![](https://img.shields.io/github/last-commit/palxiao/poster-design?style=flat&logo=Polestar)
 - [chokidar](https://github.com/paulmillr/chokidar) - 监听文件变化 ![](https://img.shields.io/github/stars/paulmillr/chokidar?style=social) ![](https://img.shields.io/github/last-commit/paulmillr/chokidar?style=flat&logo=Polestar)
+- [uppy](https://github.com/transloadit/uppy) - 模块化文件上传组件 ![](https://img.shields.io/github/stars/transloadit/uppy?style=social) ![](https://img.shields.io/github/last-commit/transloadit/uppy?style=flat&logo=Polestar)
 
 ## 数据库
 - [typeorm](https://github.com/typeorm/typeorm) - TypeScript ORM 框架，使用面向对象的方式来操作数据库 ![](https://img.shields.io/github/stars/typeorm/typeorm?style=social) ![](https://img.shields.io/github/last-commit/typeorm/typeorm?style=flat&logo=Polestar)
@@ -285,6 +290,7 @@
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social) ![](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=flat&logo=Polestar)
 - [wangEditor](https://github.com/wangeditor-team/wangEditor) ![](https://img.shields.io/github/stars/wangeditor-team/wangEditor?style=social) ![](https://img.shields.io/github/last-commit/wangeditor-team/wangEditor?style=flat&logo=Polestar)
 - [tui.editor](https://github.com/nhn/tui.editor) ![](https://img.shields.io/github/stars/nhn/tui.editor?style=social) ![](https://img.shields.io/github/last-commit/nhn/tui.editor?style=flat&logo=Polestar)
+- [slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于构建富文本编辑器。（非开箱即用，需要二开） ![](https://img.shields.io/github/stars/ianstormtaylor/slate?style=social) ![](https://img.shields.io/github/last-commit/ianstormtaylor/slate?style=flat&logo=Polestar)
 
 ## 动画动效
 - [anime](https://github.com/juliangarnier/anime) - js动画引擎 ![](https://img.shields.io/github/stars/juliangarnier/anime?style=social) ![](https://img.shields.io/github/last-commit/juliangarnier/anime?style=flat&logo=Polestar)
@@ -582,6 +588,7 @@
 
 ## 终端
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 命令行工具，用于管理 zsh 的配置（zsh本身是一个兼容 bash 的 shell，具有强大的 Tab 补全功能、丰富的插件以及高度可定制的主题） ![](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=social) ![](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh?style=flat&logo=Polestar)
+- [hyper](https://github.com/vercel/hyper) - 基于web技术的终端 ![](https://img.shields.io/github/stars/vercel/hyper?style=social) ![](https://img.shields.io/github/last-commit/vercel/hyper?style=flat&logo=Polestar)
 - [ora](https://github.com/sindresorhus/ora) - 终端旋转器 ![](https://img.shields.io/github/stars/sindresorhus/ora?style=social) ![](https://img.shields.io/github/last-commit/sindresorhus/ora?style=flat&logo=Polestar)
 - [chalk](https://github.com/chalk/chalk) - 字符串样式 ![](https://img.shields.io/github/stars/chalk/chalk?style=social) ![](https://img.shields.io/github/last-commit/chalk/chalk?style=flat&logo=Polestar)
 
@@ -636,15 +643,18 @@
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30天JS挑战 ![](https://img.shields.io/github/stars/wesbos/JavaScript30?style=social) ![](https://img.shields.io/github/last-commit/wesbos/JavaScript30?style=flat&logo=Polestar)
 - [fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1 ![](https://img.shields.io/github/stars/haizlin/fe-interview?style=social) ![](https://img.shields.io/github/last-commit/haizlin/fe-interview?style=flat&logo=Polestar)
 - [FE-Interview](https://github.com/lgwebdream/FE-Interview) - 前端面试题 ![](https://img.shields.io/github/stars/lgwebdream/FE-Interview?style=social) ![](https://img.shields.io/github/last-commit/lgwebdream/FE-Interview?style=flat&logo=Polestar)
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库 ![](https://img.shields.io/github/stars/qianguyihao/Web?style=social) ![](https://img.shields.io/github/last-commit/qianguyihao/Web?style=flat&logo=Polestar)
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍 ![](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN?style=social) ![](https://img.shields.io/github/last-commit/justjavac/free-programming-books-zh_CN?style=flat&logo=Polestar)
 - [mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - 函数范式 ![](https://img.shields.io/github/stars/llh911001/mostly-adequate-guide-chinese?style=social) ![](https://img.shields.io/github/last-commit/llh911001/mostly-adequate-guide-chinese?style=flat&logo=Polestar)
 - [hello-algo](https://github.com/krahets/hello-algo) - 动画图解、一键运行的数据结构与算法教程 ![](https://img.shields.io/github/stars/krahets/hello-algo?style=social) ![](https://img.shields.io/github/last-commit/krahets/hello-algo?style=flat&logo=Polestar)
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 针对小白的算法训练 ![](https://img.shields.io/github/stars/geekxh/hello-algorithm?style=social) ![](https://img.shields.io/github/last-commit/geekxh/hello-algorithm?style=flat&logo=Polestar)
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 ![](https://img.shields.io/github/stars/wangdoc/javascript-tutorial?style=social) ![](https://img.shields.io/github/last-commit/wangdoc/javascript-tutorial?style=flat&logo=Polestar)
 - [weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。 ![](https://img.shields.io/github/stars/ascoders/weekly?style=social) ![](https://img.shields.io/github/last-commit/ascoders/weekly?style=flat&logo=Polestar)
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。 ![](https://img.shields.io/github/stars/GitHubDaily/GitHubDaily?style=social) ![](https://img.shields.io/github/last-commit/GitHubDaily/GitHubDaily?style=flat&logo=Polestar)
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表 ![](https://img.shields.io/github/stars/1c7/chinese-independent-developer?style=social) ![](https://img.shields.io/github/last-commit/1c7/chinese-independent-developer?style=flat&logo=Polestar)
 - [gold-miner](https://github.com/xitu/gold-miner) - 掘金翻译计划 ![](https://img.shields.io/github/stars/xitu/gold-miner?style=social) ![](https://img.shields.io/github/last-commit/xitu/gold-miner?style=flat&logo=Polestar)
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - git 中文教程 ![](https://img.shields.io/github/stars/geeeeeeeeek/git-recipes?style=social) ![](https://img.shields.io/github/last-commit/geeeeeeeeek/git-recipes?style=flat&logo=Polestar)
+- [doocs/leetcode](https://github.com/doocs/leetcode) - 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 ![](https://img.shields.io/github/stars/doocs/leetcode?style=social) ![](https://img.shields.io/github/last-commit/doocs/leetcode?style=flat&logo=Polestar)
 - [leetcode](https://github.com/azl397985856/leetcode) - leetcode 题解 ![](https://img.shields.io/github/stars/azl397985856/leetcode?style=social) ![](https://img.shields.io/github/last-commit/azl397985856/leetcode?style=flat&logo=Polestar)
 - [leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》 LeetCode 刷题攻略 ![](https://img.shields.io/github/stars/youngyangyang04/leetcode-master?style=social) ![](https://img.shields.io/github/last-commit/youngyangyang04/leetcode-master?style=flat&logo=Polestar)
 - [secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南 ![](https://img.shields.io/github/stars/Tencent/secguide?style=social) ![](https://img.shields.io/github/last-commit/Tencent/secguide?style=flat&logo=Polestar)
@@ -667,6 +677,9 @@
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 前端面试手册 ![](https://img.shields.io/github/stars/yangshun/front-end-interview-handbook?style=social) ![](https://img.shields.io/github/last-commit/yangshun/front-end-interview-handbook?style=flat&logo=Polestar)
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - JavaScript 中为初学者实现的算法和数据结构 ![](https://img.shields.io/github/stars/TheAlgorithms/JavaScript?style=social) ![](https://img.shields.io/github/last-commit/TheAlgorithms/JavaScript?style=flat&logo=Polestar)
 - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30天JavaScript编程挑战 ![](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-JavaScript?style=social) ![](https://img.shields.io/github/last-commit/Asabeneh/30-Days-Of-JavaScript?style=flat&logo=Polestar)
+- [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - 1000个JavaScript面试问题列表 ![](https://img.shields.io/github/stars/sudheerj/javascript-interview-questions?style=social) ![](https://img.shields.io/github/last-commit/sudheerj/javascript-interview-questions?style=flat&logo=Polestar)
+- [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - JavaScript 知识备忘单 ![](https://img.shields.io/github/stars/mbeaudru/modern-js-cheatsheet?style=social) ![](https://img.shields.io/github/last-commit/mbeaudru/modern-js-cheatsheet?style=flat&logo=Polestar)
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - 500强ReactJS面试问题和答案列表 ![](https://img.shields.io/github/stars/sudheerj/reactjs-interview-questions?style=social) ![](https://img.shields.io/github/last-commit/sudheerj/reactjs-interview-questions?style=flat&logo=Polestar)
 
 ## 软件应用
 - [vscode](https://github.com/microsoft/vscode) - vscode ![](https://img.shields.io/github/stars/microsoft/vscode?style=social) ![](https://img.shields.io/github/last-commit/microsoft/vscode?style=flat&logo=Polestar)
