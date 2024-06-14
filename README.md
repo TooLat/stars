@@ -1,4 +1,5 @@
 ## JS
+- [proposals](https://github.com/tc39/proposals) - 跟踪 ECMAScript 提案 ![](https://img.shields.io/github/stars/tc39/proposals?style=social) ![](https://img.shields.io/github/last-commit/tc39/proposals?style=flat&logo=Polestar)
 - [lodash](https://github.com/lodash/lodash) ![](https://img.shields.io/github/stars/lodash/lodash?style=social) ![](https://img.shields.io/github/last-commit/lodash/lodash?style=flat&logo=Polestar)
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript实用工具带 ![](https://img.shields.io/github/stars/jashkenas/underscore?style=social) ![](https://img.shields.io/github/last-commit/jashkenas/underscore?style=flat&logo=Polestar)
 - [ramda](https://github.com/ramda/ramda) - 函数式编程库，提供了一系列高阶函数及完整的 TypeScript 类型定义 ![](https://img.shields.io/github/stars/ramda/ramda?style=social) ![](https://img.shields.io/github/last-commit/ramda/ramda?style=flat&logo=Polestar)
@@ -46,8 +47,12 @@
 - [shadcn-ui](https://github.com/shadcn-ui/ui) - 组件库 ![](https://img.shields.io/github/stars/shadcn-ui/ui?style=social) ![](https://img.shields.io/github/last-commit/shadcn-ui/ui?style=flat&logo=Polestar)
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - 开源 UI 工具包，用于使用 Web 技术（HTML、CSS 和 JavaScript）构建高性能、高质量的移动应用，并集成了 Angular、React 和 Vue 等流行框架 ![](https://img.shields.io/github/stars/ionic-team/ionic-framework?style=social) ![](https://img.shields.io/github/last-commit/ionic-team/ionic-framework?style=flat&logo=Polestar)
 - [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - 基于 Bootstrap 和 Material Design 的开源前端UI工具包插件 ![](https://img.shields.io/github/stars/mdbootstrap/mdb-ui-kit?style=social) ![](https://img.shields.io/github/last-commit/mdbootstrap/mdb-ui-kit?style=flat&logo=Polestar)
-- [TanStack/table](https://github.com/TanStack/table) - 无头表格库（没有预设的组件或样式，可以轻松地适用于各种设置，并根据具体需求进行灵活定制） ![](https://img.shields.io/github/stars/TanStack/table?style=social) ![](https://img.shields.io/github/last-commit/TanStack/table?style=flat&logo=Polestar)
 - [primeng](https://github.com/primefaces/primeng) - prime Angular 组件库 ![](https://img.shields.io/github/stars/primefaces/primeng?style=social) ![](https://img.shields.io/github/last-commit/primefaces/primeng?style=flat&logo=Polestar)
+
+## UI组件
+- [TanStack/table](https://github.com/TanStack/table) - 无头表格库（没有预设的组件或样式，可以轻松地适用于各种设置，并根据具体需求进行灵活定制） ![](https://img.shields.io/github/stars/TanStack/table?style=social) ![](https://img.shields.io/github/last-commit/TanStack/table?style=flat&logo=Polestar)
+- [handsontable](https://github.com/handsontable/handsontable) - 数据网格组件和编辑器（快速地在网页上创建可交互的表格） ![](https://img.shields.io/github/stars/handsontable/handsontable?style=social) ![](https://img.shields.io/github/last-commit/handsontable/handsontable?style=flat&logo=Polestar)
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar) - 日历插件 ![](https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social) ![](https://img.shields.io/github/last-commit/fullcalendar/fullcalendar?style=flat&logo=Polestar)
 
 ## UI库 - Vue
 - [element-plus](https://github.com/element-plus/element-plus) ![](https://img.shields.io/github/stars/element-plus/element-plus?style=social) ![](https://img.shields.io/github/last-commit/element-plus/element-plus?style=flat&logo=Polestar)
@@ -67,6 +72,7 @@
 - [ViewUI](https://github.com/view-design/ViewUI) - 基于 Vue.js 2.0 的组件库 ![](https://img.shields.io/github/stars/view-design/ViewUI?style=social) ![](https://img.shields.io/github/last-commit/view-design/ViewUI?style=flat&logo=Polestar)
 - [ViewUIPlus](https://github.com/view-design/ViewUIPlus) - 基于 Vue.js 3.0 的组件库 ![](https://img.shields.io/github/stars/view-design/ViewUIPlus?style=social) ![](https://img.shields.io/github/last-commit/view-design/ViewUIPlus?style=flat&logo=Polestar)
 - [element](https://github.com/ElemeFE/element) - 一个 Vue.js 2.0 的 Web UI 工具包 ![](https://img.shields.io/github/stars/ElemeFE/element?style=social) ![](https://img.shields.io/github/last-commit/ElemeFE/element?style=flat&logo=Polestar)
+- [vux](https://github.com/airyland/vux) - 移动UI组件，Vue.js 2 ![](https://img.shields.io/github/stars/airyland/vux?style=social) ![](https://img.shields.io/github/last-commit/airyland/vux?style=flat&logo=Polestar)
 - [muse-ui](https://github.com/museui/muse-ui) - Vue.js 2 ![](https://img.shields.io/github/stars/museui/muse-ui?style=social) ![](https://img.shields.io/github/last-commit/museui/muse-ui?style=flat&logo=Polestar)
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - 基于 VueJS 的 Bootstrap 框架 ![](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue?style=social) ![](https://img.shields.io/github/last-commit/bootstrap-vue/bootstrap-vue?style=flat&logo=Polestar)
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个基于 vue 的 PC 端表单/表格组件 ![](https://img.shields.io/github/stars/x-extends/vxe-table?style=social) ![](https://img.shields.io/github/last-commit/x-extends/vxe-table?style=flat&logo=Polestar)
@@ -153,7 +159,6 @@
 - [img-2](https://github.com/RevillWeb/img-2) - 图像预缓存 ![](https://img.shields.io/github/stars/RevillWeb/img-2?style=social) ![](https://img.shields.io/github/last-commit/RevillWeb/img-2?style=flat&logo=Polestar)
 - [mcanvas](https://github.com/xd-tayde/mcanvas) - 用于合成图片的canvas绘制库 ![](https://img.shields.io/github/stars/xd-tayde/mcanvas?style=social) ![](https://img.shields.io/github/last-commit/xd-tayde/mcanvas?style=flat&logo=Polestar)
 - [validator.js](https://github.com/validatorjs/validator.js) - 验证器 ![](https://img.shields.io/github/stars/validatorjs/validator.js?style=social) ![](https://img.shields.io/github/last-commit/validatorjs/validator.js?style=flat&logo=Polestar)
-- [alasql](https://github.com/AlaSQL/alasql) - js SQL数据库 ![](https://img.shields.io/github/stars/AlaSQL/alasql?style=social) ![](https://img.shields.io/github/last-commit/AlaSQL/alasql?style=flat&logo=Polestar)
 - [H5lock](https://github.com/lvming6816077/H5lock) - H5手势解锁 ![](https://img.shields.io/github/stars/lvming6816077/H5lock?style=social) ![](https://img.shields.io/github/last-commit/lvming6816077/H5lock?style=flat&logo=Polestar)
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换 ![](https://img.shields.io/github/stars/hotoo/pinyin?style=social) ![](https://img.shields.io/github/last-commit/hotoo/pinyin?style=flat&logo=Polestar)
 - [rough](https://github.com/rough-stuff/rough) - 手绘图形草图 ![](https://img.shields.io/github/stars/rough-stuff/rough?style=social) ![](https://img.shields.io/github/last-commit/rough-stuff/rough?style=flat&logo=Polestar)
@@ -196,11 +201,6 @@
 - [protobuf.js](https://github.com/protobufjs/protobuf.js) - 用于在 JavaScript 中处理 Protocol Buffers（简称为 Protobuf）的库。Protocol Buffers 是一种轻量级的数据序列化格式，由 Google 开发，用于在不同平台和语言之间进行数据交换 ![](https://img.shields.io/github/stars/protobufjs/protobuf.js?style=social) ![](https://img.shields.io/github/last-commit/protobufjs/protobuf.js?style=flat&logo=Polestar)
 - [typeit](https://github.com/alexmacarthur/typeit) - 动画打字 ![](https://img.shields.io/github/stars/alexmacarthur/typeit?style=social) ![](https://img.shields.io/github/last-commit/alexmacarthur/typeit?style=flat&logo=Polestar)
 - [typed.js](https://github.com/mattboldt/typed.js) - 动画打字 ![](https://img.shields.io/github/stars/mattboldt/typed.js?style=social) ![](https://img.shields.io/github/last-commit/mattboldt/typed.js?style=flat&logo=Polestar)
-- [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - Markdown 编辑器 ![](https://img.shields.io/github/stars/sparksuite/simplemde-markdown-editor?style=social) ![](https://img.shields.io/github/last-commit/sparksuite/simplemde-markdown-editor?style=flat&logo=Polestar)
-- [stackedit](https://github.com/benweet/stackedit) - 浏览器内 Markdown 编辑器 ![](https://img.shields.io/github/stars/benweet/stackedit?style=social) ![](https://img.shields.io/github/last-commit/benweet/stackedit?style=flat&logo=Polestar)
-- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social) ![](https://img.shields.io/github/last-commit/markdown-it/markdown-it?style=flat&logo=Polestar)
-- [markdown-it-katex](https://github.com/traPtitech/markdown-it-katex) - Markdown 渲染数学公式 ![](https://img.shields.io/github/stars/traPtitech/markdown-it-katex?style=social) ![](https://img.shields.io/github/last-commit/traPtitech/markdown-it-katex?style=flat&logo=Polestar)
-- [marked](https://github.com/markedjs/marked) - Markdown 解析器 ![](https://img.shields.io/github/stars/markedjs/marked?style=social) ![](https://img.shields.io/github/last-commit/markedjs/marked?style=flat&logo=Polestar)
 - [disable-devtool](https://github.com/theajack/disable-devtool) - 禁止通过F12等唤起开发者调试模式 ![](https://img.shields.io/github/stars/theajack/disable-devtool?style=social) ![](https://img.shields.io/github/last-commit/theajack/disable-devtool?style=flat&logo=Polestar)
 - [mammoth.js](https://github.com/mwilliamson/mammoth.js) - docx 文件转 HTML ![](https://img.shields.io/github/stars/mwilliamson/mammoth.js?style=social) ![](https://img.shields.io/github/last-commit/mwilliamson/mammoth.js?style=flat&logo=Polestar)
 - [callapp-lib](https://github.com/suanmei/callapp-lib) - H5 唤起 APP 的解决方案 ![](https://img.shields.io/github/stars/suanmei/callapp-lib?style=social) ![](https://img.shields.io/github/last-commit/suanmei/callapp-lib?style=flat&logo=Polestar)
@@ -228,7 +228,6 @@
 - [socket.io](https://github.com/socketio/socket.io) - 实现客户端和服务器通信 ![](https://img.shields.io/github/stars/socketio/socket.io?style=social) ![](https://img.shields.io/github/last-commit/socketio/socket.io?style=flat&logo=Polestar)
 - [drag-and-drop](https://github.com/formkit/drag-and-drop) - 拖拽排序 ![](https://img.shields.io/github/stars/formkit/drag-and-drop?style=social) ![](https://img.shields.io/github/last-commit/formkit/drag-and-drop?style=flat&logo=Polestar)
 - [pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - 拖拽排序 ![](https://img.shields.io/github/stars/atlassian/pragmatic-drag-and-drop?style=social) ![](https://img.shields.io/github/last-commit/atlassian/pragmatic-drag-and-drop?style=flat&logo=Polestar)
-- [mdx](https://github.com/mdx-js/mdx) - 在 Markdown 内容中使用 JSX ![](https://img.shields.io/github/stars/mdx-js/mdx?style=social) ![](https://img.shields.io/github/last-commit/mdx-js/mdx?style=flat&logo=Polestar)
 - [terser](https://github.com/terser/terser) - JavaScript 混淆器与压缩器工具包 ![](https://img.shields.io/github/stars/terser/terser?style=social) ![](https://img.shields.io/github/last-commit/terser/terser?style=flat&logo=Polestar)
 - [driver.js](https://github.com/kamranahmedse/driver.js) - 用户操作分步引导 ![](https://img.shields.io/github/stars/kamranahmedse/driver.js?style=social) ![](https://img.shields.io/github/last-commit/kamranahmedse/driver.js?style=flat&logo=Polestar)
 - [web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段 ![](https://img.shields.io/github/stars/M-cheng-web/web-tracing?style=social) ![](https://img.shields.io/github/last-commit/M-cheng-web/web-tracing?style=flat&logo=Polestar)
@@ -239,9 +238,15 @@
 - [howler.js](https://github.com/goldfire/howler.js) - 音频库，加载和播放声音文件 ![](https://img.shields.io/github/stars/goldfire/howler.js?style=social) ![](https://img.shields.io/github/last-commit/goldfire/howler.js?style=flat&logo=Polestar)
 - [dragula](https://github.com/bevacqua/dragula) - 拖拽 ![](https://img.shields.io/github/stars/bevacqua/dragula?style=social) ![](https://img.shields.io/github/last-commit/bevacqua/dragula?style=flat&logo=Polestar)
 - [joi](https://github.com/hapijs/joi) - 数据验证校验 ![](https://img.shields.io/github/stars/hapijs/joi?style=social) ![](https://img.shields.io/github/last-commit/hapijs/joi?style=flat&logo=Polestar)
+- [dropzone](https://github.com/dropzone/dropzone) - 文件上传插件，支持拖拽上传，图像处理功能，如压缩、修改尺寸和格式转换等 ![](https://img.shields.io/github/stars/dropzone/dropzone?style=social) ![](https://img.shields.io/github/last-commit/dropzone/dropzone?style=flat&logo=Polestar)
 
 ## 数据库
+- [alasql](https://github.com/AlaSQL/alasql) - js SQL数据库 ![](https://img.shields.io/github/stars/AlaSQL/alasql?style=social) ![](https://img.shields.io/github/last-commit/AlaSQL/alasql?style=flat&logo=Polestar)
+- [rxdb](https://github.com/pubkey/rxdb) - 一个快速、本地优先、响应式的 JavaScript 应用数据库 ![](https://img.shields.io/github/stars/pubkey/rxdb?style=social) ![](https://img.shields.io/github/last-commit/pubkey/rxdb?style=flat&logo=Polestar)
 - [typeorm](https://github.com/typeorm/typeorm) - TypeScript ORM 框架，使用面向对象的方式来操作数据库 ![](https://img.shields.io/github/stars/typeorm/typeorm?style=social) ![](https://img.shields.io/github/last-commit/typeorm/typeorm?style=flat&logo=Polestar)
+
+## 产品分析 - 埋点
+- [posthog](https://github.com/PostHog/posthog) - 提供开源产品分析，会话记录，功能标记和A/B测试 ![](https://img.shields.io/github/stars/PostHog/posthog?style=social) ![](https://img.shields.io/github/last-commit/PostHog/posthog?style=flat&logo=Polestar)
 
 ## 地图
 - [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet?style=flat&logo=Polestar)
@@ -311,8 +316,17 @@
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social) ![](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=flat&logo=Polestar)
 - [wangEditor](https://github.com/wangeditor-team/wangEditor) ![](https://img.shields.io/github/stars/wangeditor-team/wangEditor?style=social) ![](https://img.shields.io/github/last-commit/wangeditor-team/wangEditor?style=flat&logo=Polestar)
 - [tui.editor](https://github.com/nhn/tui.editor) ![](https://img.shields.io/github/stars/nhn/tui.editor?style=social) ![](https://img.shields.io/github/last-commit/nhn/tui.editor?style=flat&logo=Polestar)
+- [trix](https://github.com/basecamp/trix) ![](https://img.shields.io/github/stars/basecamp/trix?style=social) ![](https://img.shields.io/github/last-commit/basecamp/trix?style=flat&logo=Polestar)
 - [editor.js](https://github.com/codex-team/editor.js) - 输出 JSON 数据 ![](https://img.shields.io/github/stars/codex-team/editor.js?style=social) ![](https://img.shields.io/github/last-commit/codex-team/editor.js?style=flat&logo=Polestar)
 - [slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于构建富文本编辑器。（非开箱即用，需要二开） ![](https://img.shields.io/github/stars/ianstormtaylor/slate?style=social) ![](https://img.shields.io/github/last-commit/ianstormtaylor/slate?style=flat&logo=Polestar)
+
+## Markdown 
+- [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - Markdown 编辑器 ![](https://img.shields.io/github/stars/sparksuite/simplemde-markdown-editor?style=social) ![](https://img.shields.io/github/last-commit/sparksuite/simplemde-markdown-editor?style=flat&logo=Polestar)
+- [stackedit](https://github.com/benweet/stackedit) - 浏览器内 Markdown 编辑器 ![](https://img.shields.io/github/stars/benweet/stackedit?style=social) ![](https://img.shields.io/github/last-commit/benweet/stackedit?style=flat&logo=Polestar)
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social) ![](https://img.shields.io/github/last-commit/markdown-it/markdown-it?style=flat&logo=Polestar)
+- [markdown-it-katex](https://github.com/traPtitech/markdown-it-katex) - Markdown 渲染数学公式 ![](https://img.shields.io/github/stars/traPtitech/markdown-it-katex?style=social) ![](https://img.shields.io/github/last-commit/traPtitech/markdown-it-katex?style=flat&logo=Polestar)
+- [marked](https://github.com/markedjs/marked) - Markdown 解析器 ![](https://img.shields.io/github/stars/markedjs/marked?style=social) ![](https://img.shields.io/github/last-commit/markedjs/marked?style=flat&logo=Polestar)
+- [mdx](https://github.com/mdx-js/mdx) - 在 Markdown 内容中使用 JSX ![](https://img.shields.io/github/stars/mdx-js/mdx?style=social) ![](https://img.shields.io/github/last-commit/mdx-js/mdx?style=flat&logo=Polestar)
 
 ## 动画动效
 - [anime](https://github.com/juliangarnier/anime) - js动画引擎 ![](https://img.shields.io/github/stars/juliangarnier/anime?style=social) ![](https://img.shields.io/github/last-commit/juliangarnier/anime?style=flat&logo=Polestar)
@@ -364,7 +378,6 @@
 - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - vuex持久化存储 ![](https://img.shields.io/github/stars/robinvdvleuten/vuex-persistedstate?style=social) ![](https://img.shields.io/github/last-commit/robinvdvleuten/vuex-persistedstate?style=flat&logo=Polestar)
 - [vueuse](https://github.com/vueuse/vueuse) - 常用工具集 ![](https://img.shields.io/github/stars/vueuse/vueuse?style=social) ![](https://img.shields.io/github/last-commit/vueuse/vueuse?style=flat&logo=Polestar)
 - [vue-demi](https://github.com/vueuse/vue-demi) - 同时支持 Vue 2 和 Vue 3 ![](https://img.shields.io/github/stars/vueuse/vue-demi?style=social) ![](https://img.shields.io/github/last-commit/vueuse/vue-demi?style=flat&logo=Polestar)
-- [vux](https://github.com/airyland/vux) - 移动UI组件 ![](https://img.shields.io/github/stars/airyland/vux?style=social) ![](https://img.shields.io/github/last-commit/airyland/vux?style=flat&logo=Polestar)
 - [click-outside](https://github.com/vue-bulma/click-outside) - 点击外部的自定义指令 ![](https://img.shields.io/github/stars/vue-bulma/click-outside?style=social) ![](https://img.shields.io/github/last-commit/vue-bulma/click-outside?style=flat&logo=Polestar)
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) - vue2实践 ![](https://img.shields.io/github/stars/bailicangdu/vue2-elm?style=social) ![](https://img.shields.io/github/last-commit/bailicangdu/vue2-elm?style=flat&logo=Polestar)
 - [vue-i18n](https://github.com/kazupon/vue-i18n) - 国际化插件 ![](https://img.shields.io/github/stars/kazupon/vue-i18n?style=social) ![](https://img.shields.io/github/last-commit/kazupon/vue-i18n?style=flat&logo=Polestar)
@@ -431,6 +444,8 @@
 - [zustand](https://github.com/pmndrs/zustand) - 状态管理 ![](https://img.shields.io/github/stars/pmndrs/zustand?style=social) ![](https://img.shields.io/github/last-commit/pmndrs/zustand?style=flat&logo=Polestar)
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 用于表单状态管理和验证的 React Hooks (Web + React Native) ![](https://img.shields.io/github/stars/react-hook-form/react-hook-form?style=social) ![](https://img.shields.io/github/last-commit/react-hook-form/react-hook-form?style=flat&logo=Polestar)
 - [formik](https://github.com/jaredpalmer/formik) - 在 React 中构建表单 ![](https://img.shields.io/github/stars/jaredpalmer/formik?style=social) ![](https://img.shields.io/github/last-commit/jaredpalmer/formik?style=flat&logo=Polestar)
+- [remotion](https://github.com/remotion-dev/remotion) - 用 React 编程制作视频 ![](https://img.shields.io/github/stars/remotion-dev/remotion?style=social) ![](https://img.shields.io/github/last-commit/remotion-dev/remotion?style=flat&logo=Polestar)
+- [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - 基于 React 的网格布局系统插件（支持拖拽和调整大小） ![](https://img.shields.io/github/stars/react-grid-layout/react-grid-layout?style=social) ![](https://img.shields.io/github/last-commit/react-grid-layout/react-grid-layout?style=flat&logo=Polestar)
 
 ## 后台管理模板
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - vue + element-ui ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social) ![](https://img.shields.io/github/last-commit/PanJiaChen/vue-element-admin?style=flat&logo=Polestar)
@@ -613,6 +628,7 @@
 ## 终端
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 命令行工具，用于管理 zsh 的配置（zsh本身是一个兼容 bash 的 shell，具有强大的 Tab 补全功能、丰富的插件以及高度可定制的主题） ![](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=social) ![](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh?style=flat&logo=Polestar)
 - [hyper](https://github.com/vercel/hyper) - 基于web技术的终端 ![](https://img.shields.io/github/stars/vercel/hyper?style=social) ![](https://img.shields.io/github/last-commit/vercel/hyper?style=flat&logo=Polestar)
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行用户界面(CLI)库 ![](https://img.shields.io/github/stars/SBoudrias/Inquirer.js?style=social) ![](https://img.shields.io/github/last-commit/SBoudrias/Inquirer.js?style=flat&logo=Polestar)
 - [ora](https://github.com/sindresorhus/ora) - 终端旋转器 ![](https://img.shields.io/github/stars/sindresorhus/ora?style=social) ![](https://img.shields.io/github/last-commit/sindresorhus/ora?style=flat&logo=Polestar)
 - [chalk](https://github.com/chalk/chalk) - 字符串样式 ![](https://img.shields.io/github/stars/chalk/chalk?style=social) ![](https://img.shields.io/github/last-commit/chalk/chalk?style=flat&logo=Polestar)
 
@@ -674,6 +690,8 @@
 - [hello-algo](https://github.com/krahets/hello-algo) - 动画图解、一键运行的数据结构与算法教程 ![](https://img.shields.io/github/stars/krahets/hello-algo?style=social) ![](https://img.shields.io/github/last-commit/krahets/hello-algo?style=flat&logo=Polestar)
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 针对小白的算法训练 ![](https://img.shields.io/github/stars/geekxh/hello-algorithm?style=social) ![](https://img.shields.io/github/last-commit/geekxh/hello-algorithm?style=flat&logo=Polestar)
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 ![](https://img.shields.io/github/stars/wangdoc/javascript-tutorial?style=social) ![](https://img.shields.io/github/last-commit/wangdoc/javascript-tutorial?style=flat&logo=Polestar)
+- [node-lessons](https://github.com/alsotang/node-lessons) - 《Node.js 包教不包会》 ![](https://img.shields.io/github/stars/alsotang/node-lessons?style=social) ![](https://img.shields.io/github/last-commit/alsotang/node-lessons?style=flat&logo=Polestar)
+- [react-bits](https://github.com/vasanthk/react-bits) - React 模式、技术、提示和技巧 ![](https://img.shields.io/github/stars/vasanthk/react-bits?style=social) ![](https://img.shields.io/github/last-commit/vasanthk/react-bits?style=flat&logo=Polestar)
 - [weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。 ![](https://img.shields.io/github/stars/ascoders/weekly?style=social) ![](https://img.shields.io/github/last-commit/ascoders/weekly?style=flat&logo=Polestar)
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。 ![](https://img.shields.io/github/stars/GitHubDaily/GitHubDaily?style=social) ![](https://img.shields.io/github/last-commit/GitHubDaily/GitHubDaily?style=flat&logo=Polestar)
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表 ![](https://img.shields.io/github/stars/1c7/chinese-independent-developer?style=social) ![](https://img.shields.io/github/last-commit/1c7/chinese-independent-developer?style=flat&logo=Polestar)
