@@ -679,7 +679,7 @@
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - 代理中间件（将客户端发送的请求数据转发到目标服务器，并将响应输送到客户端） ![](https://img.shields.io/github/stars/chimurai/http-proxy-middleware?style=social) ![](https://img.shields.io/github/last-commit/chimurai/http-proxy-middleware?style=flat&logo=Polestar)
 
 ## 文档网站
-- [zustand](https://github.com/facebook/docusaurus) - 创建文档网站 ![](https://img.shields.io/github/stars/facebook/docusaurus?style=social) ![](https://img.shields.io/github/last-commit/facebook/docusaurus?style=flat&logo=Polestar)
+- [docusaurus](https://github.com/facebook/docusaurus) - 创建文档网站 ![](https://img.shields.io/github/stars/facebook/docusaurus?style=social) ![](https://img.shields.io/github/last-commit/facebook/docusaurus?style=flat&logo=Polestar)
 - [dumi](https://github.com/umijs/dumi) - 为组件研发而生的静态站点框架 ![](https://img.shields.io/github/stars/umijs/dumi?style=social) ![](https://img.shields.io/github/last-commit/umijs/dumi?style=flat&logo=Polestar)
 
 ## 其他
