@@ -540,6 +540,7 @@
 - [electron](https://github.com/electron/electron) - 桌面应用 ![](https://img.shields.io/github/stars/electron/electron?style=social) ![](https://img.shields.io/github/last-commit/electron/electron?style=flat&logo=Polestar)
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Electron & Vue.js ![](https://img.shields.io/github/stars/SimulatedGREG/electron-vue?style=social) ![](https://img.shields.io/github/last-commit/SimulatedGREG/electron-vue?style=flat&logo=Polestar)
 - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - vue-cli3 ![](https://img.shields.io/github/stars/nklayman/vue-cli-plugin-electron-builder?style=social) ![](https://img.shields.io/github/last-commit/nklayman/vue-cli-plugin-electron-builder?style=flat&logo=Polestar)
+- [tauri](https://github.com/tauri-apps/tauri) - 使用 web 前端构建更小、更快、更安全的桌面应用程序 ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social) ![](https://img.shields.io/github/last-commit/tauri-apps/tauri?style=flat&logo=Polestar)
 
 ## 游戏
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - 基于 WebGL 技术的开源3D游戏引擎和渲染引擎 ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/last-commit/BabylonJS/Babylon.js?style=flat&logo=Polestar)
