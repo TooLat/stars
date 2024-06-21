@@ -265,6 +265,7 @@
 - [i18next](https://github.com/i18next/i18next) - 国际化框架，翻译 ![](https://img.shields.io/github/stars/i18next/i18next?style=social) ![](https://img.shields.io/github/last-commit/i18next/i18next?style=flat&logo=Polestar)
 - [TanStack/query](https://github.com/TanStack/query) - 强大的、可扩展的数据查询库 ![](https://img.shields.io/github/stars/TanStack/query?style=social) ![](https://img.shields.io/github/last-commit/TanStack/query?style=flat&logo=Polestar)
 - [quaggaJS](https://github.com/serratus/quaggaJS) - 条形码扫描器 ![](https://img.shields.io/github/stars/serratus/quaggaJS?style=social) ![](https://img.shields.io/github/last-commit/serratus/quaggaJS?style=flat&logo=Polestar)
+- [worker-timers](https://github.com/chrisguttandin/worker-timers) - setInterval() 和 setTimeout() 的替代品，在未聚焦的窗口中工作。 ![](https://img.shields.io/github/stars/chrisguttandin/worker-timers?style=social) ![](https://img.shields.io/github/last-commit/chrisguttandin/worker-timers?style=flat&logo=Polestar)
 
 ## 拖拽插件
 - [moveable](https://github.com/daybrush/moveable) - 拖动、调整大小等 ![](https://img.shields.io/github/stars/daybrush/moveable?style=social) ![](https://img.shields.io/github/last-commit/daybrush/moveable?style=flat&logo=Polestar)
