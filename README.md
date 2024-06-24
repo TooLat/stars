@@ -93,6 +93,7 @@
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - ant-design 移动端 ![](https://img.shields.io/github/stars/ant-design/ant-design-mobile?style=social) ![](https://img.shields.io/github/last-commit/ant-design/ant-design-mobile?style=flat&logo=Polestar)
 - [material-ui](https://github.com/mui/material-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/mui/material-ui?style=social) ![](https://img.shields.io/github/last-commit/mui/material-ui?style=flat&logo=Polestar)
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - 基于 React 的开源 UI 组件库 ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social) ![](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui?style=flat&logo=Polestar)
+- [mantine](https://github.com/mantinedev/mantine) - 一个功能齐全的 React 组件库 ![](https://img.shields.io/github/stars/mantinedev/mantine?style=social) ![](https://img.shields.io/github/last-commit/mantinedev/mantine?style=flat&logo=Polestar)
 - [tremor](https://github.com/tremorlabs/tremor) - React 组件库 ![](https://img.shields.io/github/stars/tremorlabs/tremor?style=social) ![](https://img.shields.io/github/last-commit/tremorlabs/tremor?style=flat&logo=Polestar)
 - [primereact](https://github.com/primefaces/primereact) - prime React 组件库 ![](https://img.shields.io/github/stars/primefaces/primereact?style=social) ![](https://img.shields.io/github/last-commit/primefaces/primereact?style=flat&logo=Polestar)
 - [arco-design](https://github.com/arco-design/arco-design) - 一个全面的基于 Arco 设计的 React UI 组件库 ![](https://img.shields.io/github/stars/arco-design/arco-design?style=social) ![](https://img.shields.io/github/last-commit/arco-design/arco-design?style=flat&logo=Polestar)
@@ -215,6 +216,7 @@
 - [callapp-lib](https://github.com/suanmei/callapp-lib) - H5 唤起 APP 的解决方案 ![](https://img.shields.io/github/stars/suanmei/callapp-lib?style=social) ![](https://img.shields.io/github/last-commit/suanmei/callapp-lib?style=flat&logo=Polestar)
 - [videojs-player](https://github.com/surmon-china/videojs-player) - Video.js player component for Vue(3) and React. ![](https://img.shields.io/github/stars/surmon-china/videojs-player?style=social) ![](https://img.shields.io/github/last-commit/surmon-china/videojs-player?style=flat&logo=Polestar)
 - [codemirror5](https://github.com/codemirror/codemirror5) - 代码编辑器 ![](https://img.shields.io/github/stars/codemirror/codemirror5?style=social) ![](https://img.shields.io/github/last-commit/codemirror/codemirror5?style=flat&logo=Polestar)
+- [monaco-editor](https://github.com/microsoft/monaco-editor) - 基于浏览器的代码编辑器（vscode） ![](https://img.shields.io/github/stars/microsoft/monaco-editor?style=social) ![](https://img.shields.io/github/last-commit/microsoft/monaco-editor?style=flat&logo=Polestar)
 - [ali-oss](https://github.com/ali-sdk/ali-oss) - 阿里云oss ![](https://img.shields.io/github/stars/ali-sdk/ali-oss?style=social) ![](https://img.shields.io/github/last-commit/ali-sdk/ali-oss?style=flat&logo=Polestar)
 - [JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5) - MD5 ![](https://img.shields.io/github/stars/blueimp/JavaScript-MD5?style=social) ![](https://img.shields.io/github/last-commit/blueimp/JavaScript-MD5?style=flat&logo=Polestar)
 - [js-md5](https://github.com/emn178/js-md5) - MD5 ![](https://img.shields.io/github/stars/emn178/js-md5?style=social) ![](https://img.shields.io/github/last-commit/emn178/js-md5?style=flat&logo=Polestar)
@@ -828,6 +830,7 @@
 - [joplin](https://github.com/laurent22/joplin) - 免费的开源笔记软件 ![](https://img.shields.io/github/stars/laurent22/joplin?style=social) ![](https://img.shields.io/github/last-commit/laurent22/joplin?style=flat&logo=Polestar)
 - [responsively-app](https://github.com/responsively-org/responsively-app) - Web 浏览器，用于响应式 Web 开发 ![](https://img.shields.io/github/stars/responsively-org/responsively-app?style=social) ![](https://img.shields.io/github/last-commit/responsively-org/responsively-app?style=flat&logo=Polestar)
 - [Kap](https://github.com/wulkano/Kap) - mac 屏幕录制工具 ![](https://img.shields.io/github/stars/wulkano/Kap?style=social) ![](https://img.shields.io/github/last-commit/wulkano/Kap?style=flat&logo=Polestar)
+- [spacedrive](https://github.com/spacedriveapp/spacedrive) - 跨平台文件管理器 ![](https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=social) ![](https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=flat&logo=Polestar)
 
 ## 系统工具
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social) ![](https://img.shields.io/github/last-commit/tj/n?style=flat&logo=Polestar)
