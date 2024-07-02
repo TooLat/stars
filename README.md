@@ -550,6 +550,7 @@
 
 ## 游戏
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - 基于 WebGL 技术的开源3D游戏引擎和渲染引擎 ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/last-commit/BabylonJS/Babylon.js?style=flat&logo=Polestar)
+- [GDevelop](https://github.com/4ian/GDevelop) - 开源，跨平台2D/3D/多人游戏引擎 ![](https://img.shields.io/github/stars/4ian/GDevelop?style=social) ![](https://img.shields.io/github/last-commit/4ian/GDevelop?style=flat&logo=Polestar)
 - [phaser](https://github.com/phaserjs/phaser) - Phaser是一个有趣、免费、快速的2D游戏框架，用于制作桌面和移动网页浏览器上的HTML5游戏，支持Canvas和WebGL渲染。 ![](https://img.shields.io/github/stars/phaserjs/phaser?style=social) ![](https://img.shields.io/github/last-commit/phaserjs/phaser?style=flat&logo=Polestar)
 - [engine](https://github.com/playcanvas/engine) - 基于 WebGL, WebGPU, WebXR 和 glTF 的 JavaScript 游戏引擎 ![](https://img.shields.io/github/stars/playcanvas/engine?style=social) ![](https://img.shields.io/github/last-commit/playcanvas/engine?style=flat&logo=Polestar)
 - [matter-js](https://github.com/liabru/matter-js) - 用于Web的2D刚体物理引擎插件 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/last-commit/liabru/matter-js?style=flat&logo=Polestar)
@@ -794,6 +795,7 @@
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构 ![](https://img.shields.io/github/stars/davideuler/architecture.of.internet-product?style=social) ![](https://img.shields.io/github/last-commit/davideuler/architecture.of.internet-product?style=flat&logo=Polestar)
 - [webpack-and-spa-guide](https://github.com/wallstreetcn/webpack-and-spa-guide) - Webpack 4 和单页应用入门 ![](https://img.shields.io/github/stars/wallstreetcn/webpack-and-spa-guide?style=social) ![](https://img.shields.io/github/last-commit/wallstreetcn/webpack-and-spa-guide?style=flat&logo=Polestar)
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 ![](https://img.shields.io/github/stars/jackfrued/Python-100-Days?style=social) ![](https://img.shields.io/github/last-commit/jackfrued/Python-100-Days?style=flat&logo=Polestar)
+- [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL 入门教程 ![](https://img.shields.io/github/stars/jaywcjlove/mysql-tutorial?style=social) ![](https://img.shields.io/github/last-commit/jaywcjlove/mysql-tutorial?style=flat&logo=Polestar)
 
 ## 技术知识 （英文）
 - [mdn/content](https://github.com/mdn/content) - MDN 文档 ![](https://img.shields.io/github/stars/mdn/content?style=social) ![](https://img.shields.io/github/last-commit/mdn/content?style=flat&logo=Polestar)
@@ -816,6 +818,7 @@
 - [it-tools](https://github.com/CorentinTh/it-tools) - 为开发人员提供方便的在线工具集合，具有出色的用户体验 ![](https://img.shields.io/github/stars/CorentinTh/it-tools?style=social) ![](https://img.shields.io/github/last-commit/CorentinTh/it-tools?style=flat&logo=Polestar)
 - [snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - 快速创建代码片段 ![](https://img.shields.io/github/stars/pawelgrzybek/snippet-generator?style=social) ![](https://img.shields.io/github/last-commit/pawelgrzybek/snippet-generator?style=flat&logo=Polestar)
 - [js-beautify](https://github.com/beautifier/js-beautify) - javascript 美化器 ![](https://img.shields.io/github/stars/beautifier/js-beautify?style=social) ![](https://img.shields.io/github/last-commit/beautifier/js-beautify?style=flat&logo=Polestar)
+- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux 命令大全搜索工具，内容包含 Linux 命令手册、详解、学习、搜集。 ![](https://img.shields.io/github/stars/jaywcjlove/linux-command?style=social) ![](https://img.shields.io/github/last-commit/jaywcjlove/linux-command?style=flat&logo=Polestar)
 
 ## 软件应用
 - [vscode](https://github.com/microsoft/vscode) - vscode ![](https://img.shields.io/github/stars/microsoft/vscode?style=social) ![](https://img.shields.io/github/last-commit/microsoft/vscode?style=flat&logo=Polestar)
