@@ -527,6 +527,7 @@
 - [vant-weapp](https://github.com/youzan/vant-weapp) - UI 组件库 ![](https://img.shields.io/github/stars/youzan/vant-weapp?style=social) ![](https://img.shields.io/github/last-commit/youzan/vant-weapp?style=flat&logo=Polestar)
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的开发框架 ![](https://img.shields.io/github/stars/Meituan-Dianping/mpvue?style=social) ![](https://img.shields.io/github/last-commit/Meituan-Dianping/mpvue?style=flat&logo=Polestar)
 - [wxParse](https://github.com/icindy/wxParse) - 富文本解析组件 ![](https://img.shields.io/github/stars/icindy/wxParse?style=social) ![](https://img.shields.io/github/last-commit/icindy/wxParse?style=flat&logo=Polestar)
+- [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用 ![](https://img.shields.io/github/stars/jin-yufeng/mp-html?style=social) ![](https://img.shields.io/github/last-commit/jin-yufeng/mp-html?style=flat&logo=Polestar)
 - [WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos) - 微信小程序和小游戏的源码案例库 ![](https://img.shields.io/github/stars/Data-Camp/WeApp_Demos?style=social) ![](https://img.shields.io/github/last-commit/Data-Camp/WeApp_Demos?style=flat&logo=Polestar)
 
 ## APP构建
