@@ -413,6 +413,7 @@
 - [uni-simple-router](https://github.com/SilurianYang/uni-simple-router) - 路由 ![](https://img.shields.io/github/stars/SilurianYang/uni-simple-router?style=social) ![](https://img.shields.io/github/last-commit/SilurianYang/uni-simple-router?style=flat&logo=Polestar)
 - [unibest](https://github.com/codercup/unibest) -  uniapp 开发模板。由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板 ![](https://img.shields.io/github/stars/codercup/unibest?style=social) ![](https://img.shields.io/github/last-commit/codercup/unibest?style=flat&logo=Polestar)
 - [miniprogram-to-uniapp](https://github.com/zhangdaren/miniprogram-to-uniapp) - 轻松将各种小程序转换为 uni-app 项目 ![](https://img.shields.io/github/stars/zhangdaren/miniprogram-to-uniapp?style=social) ![](https://img.shields.io/github/last-commit/zhangdaren/miniprogram-to-uniapp?style=flat&logo=Polestar)
+- [unocss-applet](https://github.com/unocss-applet/unocss-applet) - 在小程序 (UniApp 和 Taro) 中使用 UnoCSS，兼容不支持的语法。 ![](https://img.shields.io/github/stars/unocss-applet/unocss-applet?style=social) ![](https://img.shields.io/github/last-commit/unocss-applet/unocss-applet?style=flat&logo=Polestar)
 
 ## VUE
 - [vue](https://github.com/vuejs/vue) ![](https://img.shields.io/github/stars/vuejs/vue?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vue?style=flat&logo=Polestar)
@@ -576,6 +577,7 @@
 - [commitizen](https://github.com/commitizen-tools/commitizen) - 规范 Git 提交 ![](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=social) ![](https://img.shields.io/github/last-commit/commitizen-tools/commitizen?style=flat&logo=Polestar)
 - [commitlint](https://github.com/conventional-changelog/commitlint) ![](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social) ![](https://img.shields.io/github/last-commit/conventional-changelog/commitlint?style=flat&logo=Polestar)
 - [git-cz](https://github.com/streamich/git-cz) - 规范化 Git 提交信息，在提交代码时使用交互式界面来选择提交类型、范围、描述等信息，从而生成符合规范的提交信息 ![](https://img.shields.io/github/stars/streamich/git-cz?style=social) ![](https://img.shields.io/github/last-commit/streamich/git-cz?style=flat&logo=Polestar)
+- [cz-git](https://github.com/Zhengqbbb/cz-git) - 工程性更强，轻量级，高度自定义，输出标准格式的 Commitizen 适配器和 CLI ![](https://img.shields.io/github/stars/Zhengqbbb/cz-git?style=social) ![](https://img.shields.io/github/last-commit/Zhengqbbb/cz-git?style=flat&logo=Polestar)
 
 ## 其他插件
 - [page.js](https://github.com/visionmedia/page.js) - 路由器 ![](https://img.shields.io/github/stars/visionmedia/page.js?style=social) ![](https://img.shields.io/github/last-commit/visionmedia/page.js?style=flat&logo=Polestar)
@@ -713,6 +715,7 @@
 - [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social) ![](https://img.shields.io/github/last-commit/didi/DoKit?style=flat&logo=Polestar)
 - [grapesjs](https://github.com/artf/grapesjs) - web模板编辑器 ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) ![](https://img.shields.io/github/last-commit/artf/grapesjs?style=flat&logo=Polestar)
 - [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - 一键免费部署你的跨平台私人 ChatGPT 应用 ![](https://img.shields.io/github/stars/ChatGPTNextWeb/ChatGPT-Next-Web?style=social) ![](https://img.shields.io/github/last-commit/ChatGPTNextWeb/ChatGPT-Next-Web?style=flat&logo=Polestar)
+- [json5](https://github.com/json5/json5) - 面向人类的 JSON ![](https://img.shields.io/github/stars/json5/json5?style=social) ![](https://img.shields.io/github/last-commit/json5/json5?style=flat&logo=Polestar)
 
 ## 终端
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 命令行工具，用于管理 zsh 的配置（zsh本身是一个兼容 bash 的 shell，具有强大的 Tab 补全功能、丰富的插件以及高度可定制的主题） ![](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=social) ![](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh?style=flat&logo=Polestar)
