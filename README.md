@@ -706,6 +706,9 @@
 - [docusaurus](https://github.com/facebook/docusaurus) - 创建文档网站 ![](https://img.shields.io/github/stars/facebook/docusaurus?style=social) ![](https://img.shields.io/github/last-commit/facebook/docusaurus?style=flat&logo=Polestar)
 - [dumi](https://github.com/umijs/dumi) - 为组件研发而生的静态站点框架 ![](https://img.shields.io/github/stars/umijs/dumi?style=social) ![](https://img.shields.io/github/last-commit/umijs/dumi?style=flat&logo=Polestar)
 
+## 开发
+- [laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！ ![](https://img.shields.io/github/stars/labring/laf?style=social) ![](https://img.shields.io/github/last-commit/labring/laf?style=flat&logo=Polestar)
+
 ## 其他
 - [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social) ![](https://img.shields.io/github/last-commit/didi/DoKit?style=flat&logo=Polestar)
 - [grapesjs](https://github.com/artf/grapesjs) - web模板编辑器 ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) ![](https://img.shields.io/github/last-commit/artf/grapesjs?style=flat&logo=Polestar)
