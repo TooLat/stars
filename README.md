@@ -414,6 +414,7 @@
 - [unibest](https://github.com/codercup/unibest) -  uniapp 开发模板。由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板 ![](https://img.shields.io/github/stars/codercup/unibest?style=social) ![](https://img.shields.io/github/last-commit/codercup/unibest?style=flat&logo=Polestar)
 - [miniprogram-to-uniapp](https://github.com/zhangdaren/miniprogram-to-uniapp) - 轻松将各种小程序转换为 uni-app 项目 ![](https://img.shields.io/github/stars/zhangdaren/miniprogram-to-uniapp?style=social) ![](https://img.shields.io/github/last-commit/zhangdaren/miniprogram-to-uniapp?style=flat&logo=Polestar)
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet) - 在小程序 (UniApp 和 Taro) 中使用 UnoCSS，兼容不支持的语法。 ![](https://img.shields.io/github/stars/unocss-applet/unocss-applet?style=social) ![](https://img.shields.io/github/last-commit/unocss-applet/unocss-applet?style=flat&logo=Polestar)
+- [uni-z-paging](https://github.com/SmileZXLee/uni-z-paging) - 【uni-app下拉刷新、上拉加载】高性能，全平台兼容。支持vue、nvue、vue2、vue3，使用wxs+renderjs实现。支持虚拟列表，支持自定义下拉刷新、上拉加载更多，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持国际化等100+项配置 ![](https://img.shields.io/github/stars/SmileZXLee/uni-z-paging?style=social) ![](https://img.shields.io/github/last-commit/SmileZXLee/uni-z-paging?style=flat&logo=Polestar)
 
 ## VUE
 - [vue](https://github.com/vuejs/vue) ![](https://img.shields.io/github/stars/vuejs/vue?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vue?style=flat&logo=Polestar)
