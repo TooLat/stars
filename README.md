@@ -634,6 +634,7 @@
 - [postcss](https://github.com/postcss/postcss) - 使用 js 插件转换 CSS 的工具 ![](https://img.shields.io/github/stars/postcss/postcss?style=social) ![](https://img.shields.io/github/last-commit/postcss/postcss?style=flat&logo=Polestar)
 - [autoprefixer](https://github.com/postcss/autoprefixer) - 自动补全 CSS 浏览器前缀 ![](https://img.shields.io/github/stars/postcss/autoprefixer?style=social) ![](https://img.shields.io/github/last-commit/postcss/autoprefixer?style=flat&logo=Polestar)
 - [npkill](https://github.com/voidcosmos/npkill) - 扫描并卸载不再使用的 npm 包 ![](https://img.shields.io/github/stars/voidcosmos/npkill?style=social) ![](https://img.shields.io/github/last-commit/voidcosmos/npkill?style=flat&logo=Polestar)
+- [rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 模块依赖可视化，打包体积分析 ![](https://img.shields.io/github/stars/btd/rollup-plugin-visualizer?style=social) ![](https://img.shields.io/github/last-commit/btd/rollup-plugin-visualizer?style=flat&logo=Polestar)
 
 ## 代码检测
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social) ![](https://img.shields.io/github/last-commit/eslint/eslint?style=flat&logo=Polestar)
@@ -668,6 +669,7 @@
 - [vite-plugin-cdn-import](https://github.com/mmf-fe/vite-plugin-cdn-import) - 从 CDN 加载 modules ![](https://img.shields.io/github/stars/mmf-fe/vite-plugin-cdn-import?style=social) ![](https://img.shields.io/github/last-commit/mmf-fe/vite-plugin-cdn-import?style=flat&logo=Polestar)
 - [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - 加载 SVG 文件作为 Vue 组件 ![](https://img.shields.io/github/stars/jpkleemans/vite-svg-loader?style=social) ![](https://img.shields.io/github/last-commit/jpkleemans/vite-svg-loader?style=flat&logo=Polestar)
 - [vite-plugin-top-level-await](https://github.com/Menci/vite-plugin-top-level-await) - 支持 top-level-await ![](https://img.shields.io/github/stars/Menci/vite-plugin-top-level-await?style=social) ![](https://img.shields.io/github/last-commit/Menci/vite-plugin-top-level-await?style=flat&logo=Polestar)
+- [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) - 自动重启 Vite 服务器 ![](https://img.shields.io/github/stars/antfu/vite-plugin-restart?style=social) ![](https://img.shields.io/github/last-commit/antfu/vite-plugin-restart?style=flat&logo=Polestar)
 
 ## All-In-One
 - [deno](https://github.com/denoland/deno) - 现代的 JavaScript 和 TypeScript 运行环境 ![](https://img.shields.io/github/stars/denoland/deno?style=social) ![](https://img.shields.io/github/last-commit/denoland/deno?style=flat&logo=Polestar)
