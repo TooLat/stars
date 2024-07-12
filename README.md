@@ -314,6 +314,7 @@
 - [AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) - 手势插件 ![](https://img.shields.io/github/stars/AlloyTeam/AlloyFinger?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/AlloyFinger?style=flat&logo=Polestar)
 - [PhyTouch](https://github.com/AlloyTeam/PhyTouch) - 触摸运动方案 ![](https://img.shields.io/github/stars/AlloyTeam/PhyTouch?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/PhyTouch?style=flat&logo=Polestar)
 - [AlloyCrop](https://github.com/AlloyTeam/AlloyCrop) - 移动裁剪组件 ![](https://img.shields.io/github/stars/AlloyTeam/AlloyCrop?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/AlloyCrop?style=flat&logo=Polestar)
+- [weixin-js-sdk](https://github.com/yanxi123-com/weixin-js-sdk) - 微信官方 JS-SDK 的 CommonJS 版本，支持 TypeScript ![](https://img.shields.io/github/stars/yanxi123-com/weixin-js-sdk?style=social) ![](https://img.shields.io/github/last-commit/yanxi123-com/weixin-js-sdk?style=flat&logo=Polestar)
 
 ## 图形图表
 - [echarts](https://github.com/apache/echarts) ![](https://img.shields.io/github/stars/apache/echarts?style=social) ![](https://img.shields.io/github/last-commit/apache/echarts?style=flat&logo=Polestar)
