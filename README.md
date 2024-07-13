@@ -541,6 +541,7 @@
 - [wxParse](https://github.com/icindy/wxParse) - 富文本解析组件 ![](https://img.shields.io/github/stars/icindy/wxParse?style=social) ![](https://img.shields.io/github/last-commit/icindy/wxParse?style=flat&logo=Polestar)
 - [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用 ![](https://img.shields.io/github/stars/jin-yufeng/mp-html?style=social) ![](https://img.shields.io/github/last-commit/jin-yufeng/mp-html?style=flat&logo=Polestar)
 - [WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos) - 微信小程序和小游戏的源码案例库 ![](https://img.shields.io/github/stars/Data-Camp/WeApp_Demos?style=social) ![](https://img.shields.io/github/last-commit/Data-Camp/WeApp_Demos?style=flat&logo=Polestar)
+- [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店 ![](https://img.shields.io/github/stars/EastWorld/wechat-app-mall?style=social) ![](https://img.shields.io/github/last-commit/EastWorld/wechat-app-mall?style=flat&logo=Polestar)
 
 ## APP构建
 - [flutter](https://github.com/flutter/flutter) ![](https://img.shields.io/github/stars/flutter/flutter?style=social) ![](https://img.shields.io/github/last-commit/flutter/flutter?style=flat&logo=Polestar)
@@ -883,6 +884,7 @@
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 建立多个漂亮的简历，创造你最好的简历 ![](https://img.shields.io/github/stars/salomonelli/best-resume-ever?style=social) ![](https://img.shields.io/github/last-commit/salomonelli/best-resume-ever?style=flat&logo=Polestar)
 
 ## 其他
+- [wechat-bot](https://github.com/wangrongding/wechat-bot) - 一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... ![](https://img.shields.io/github/stars/wangrongding/wechat-bot?style=social) ![](https://img.shields.io/github/last-commit/wangrongding/wechat-bot?style=flat&logo=Polestar)
 - [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social) ![](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat&logo=Polestar)
 - [grok-1](https://github.com/xai-org/grok-1) - Grok-1 大模型 ![](https://img.shields.io/github/stars/xai-org/grok-1?style=social) ![](https://img.shields.io/github/last-commit/xai-org/grok-1?style=flat&logo=Polestar)
 - [ChatTTS](https://github.com/2noise/ChatTTS) - 文本转语音模型 ![](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) ![](https://img.shields.io/github/last-commit/2noise/ChatTTS?style=flat&logo=Polestar)
