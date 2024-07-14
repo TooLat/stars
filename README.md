@@ -157,6 +157,7 @@
 
 ## 低代码
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台 ![](https://img.shields.io/github/stars/taowen/awesome-lowcode?style=social) ![](https://img.shields.io/github/last-commit/taowen/awesome-lowcode?style=flat&logo=Polestar)
+- [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。 ![](https://img.shields.io/github/stars/jeecgboot/JeecgBoot?style=social) ![](https://img.shields.io/github/last-commit/jeecgboot/JeecgBoot?style=flat&logo=Polestar)
 
 ## 工具插件
 - [axios](https://github.com/axios/axios) ![](https://img.shields.io/github/stars/axios/axios?style=social) ![](https://img.shields.io/github/last-commit/axios/axios?style=flat&logo=Polestar)
@@ -538,6 +539,8 @@
 - [wepy](https://github.com/Tencent/wepy) - 组件化开发框架 ![](https://img.shields.io/github/stars/Tencent/wepy?style=social) ![](https://img.shields.io/github/last-commit/Tencent/wepy?style=flat&logo=Polestar)
 - [vant-weapp](https://github.com/youzan/vant-weapp) - UI 组件库 ![](https://img.shields.io/github/stars/youzan/vant-weapp?style=social) ![](https://img.shields.io/github/last-commit/youzan/vant-weapp?style=flat&logo=Polestar)
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的开发框架 ![](https://img.shields.io/github/stars/Meituan-Dianping/mpvue?style=social) ![](https://img.shields.io/github/last-commit/Meituan-Dianping/mpvue?style=flat&logo=Polestar)
+- [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) - 基于 Apache ECharts 的微信小程序图表库 ![](https://img.shields.io/github/stars/ecomfe/echarts-for-weixin?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/echarts-for-weixin?style=flat&logo=Polestar)
+- [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片 ![](https://img.shields.io/github/stars/jasondu/wxa-plugin-canvas?style=social) ![](https://img.shields.io/github/last-commit/jasondu/wxa-plugin-canvas?style=flat&logo=Polestar)
 - [wxParse](https://github.com/icindy/wxParse) - 富文本解析组件 ![](https://img.shields.io/github/stars/icindy/wxParse?style=social) ![](https://img.shields.io/github/last-commit/icindy/wxParse?style=flat&logo=Polestar)
 - [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用 ![](https://img.shields.io/github/stars/jin-yufeng/mp-html?style=social) ![](https://img.shields.io/github/last-commit/jin-yufeng/mp-html?style=flat&logo=Polestar)
 - [WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos) - 微信小程序和小游戏的源码案例库 ![](https://img.shields.io/github/stars/Data-Camp/WeApp_Demos?style=social) ![](https://img.shields.io/github/last-commit/Data-Camp/WeApp_Demos?style=flat&logo=Polestar)
@@ -576,6 +579,10 @@
 - [playwright](https://github.com/microsoft/playwright) - 端到端测试 ![](https://img.shields.io/github/stars/microsoft/playwright?style=social) ![](https://img.shields.io/github/last-commit/microsoft/playwright?style=flat&logo=Polestar)
 - [ava](https://github.com/avajs/ava) ![](https://img.shields.io/github/stars/avajs/ava?style=social) ![](https://img.shields.io/github/last-commit/avajs/ava?style=flat&logo=Polestar)
 - [jasmine](https://github.com/jasmine/jasmine) - 用于浏览器和 node.js 的 JavaScript 测试框架 ![](https://img.shields.io/github/stars/jasmine/jasmine?style=social) ![](https://img.shields.io/github/last-commit/jasmine/jasmine?style=flat&logo=Polestar)
+
+## 全端项目
+- [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。 ![](https://img.shields.io/github/stars/YunaiV/ruoyi-vue-pro?style=social) ![](https://img.shields.io/github/last-commit/YunaiV/ruoyi-vue-pro?style=flat&logo=Polestar)
+- [litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 ![](https://img.shields.io/github/stars/linlinjava/litemall?style=social) ![](https://img.shields.io/github/last-commit/linlinjava/litemall?style=flat&logo=Polestar)
 
 ## git
 - [commitizen](https://github.com/commitizen-tools/commitizen) - 规范 Git 提交 ![](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=social) ![](https://img.shields.io/github/last-commit/commitizen-tools/commitizen?style=flat&logo=Polestar)
@@ -766,7 +773,9 @@
 - [awesome-canvas](https://github.com/chinaBerg/awesome-canvas) ![](https://img.shields.io/github/stars/chinaBerg/awesome-canvas?style=social) ![](https://img.shields.io/github/last-commit/chinaBerg/awesome-canvas?style=flat&logo=Polestar)
 - [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) ![](https://img.shields.io/github/stars/aniftyco/awesome-tailwindcss?style=social) ![](https://img.shields.io/github/last-commit/aniftyco/awesome-tailwindcss?style=flat&logo=Polestar)
 - [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) ![](https://img.shields.io/github/stars/unicodeveloper/awesome-nextjs?style=social) ![](https://img.shields.io/github/last-commit/unicodeveloper/awesome-nextjs?style=flat&logo=Polestar)
+- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。 ![](https://img.shields.io/github/stars/jobbole/awesome-java-cn?style=social) ![](https://img.shields.io/github/last-commit/jobbole/awesome-java-cn?style=flat&logo=Polestar)
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版 ![](https://img.shields.io/github/stars/jobbole/awesome-python-cn?style=social) ![](https://img.shields.io/github/last-commit/jobbole/awesome-python-cn?style=flat&logo=Polestar)
+- [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。 ![](https://img.shields.io/github/stars/jobbole/awesome-cpp-cn?style=social) ![](https://img.shields.io/github/last-commit/jobbole/awesome-cpp-cn?style=flat&logo=Polestar)
 - [Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆 ![](https://img.shields.io/github/stars/sun0225SUN/Awesome-Love-Code?style=social) ![](https://img.shields.io/github/last-commit/sun0225SUN/Awesome-Love-Code?style=flat&logo=Polestar)
 
 ## vscode
@@ -879,12 +888,16 @@
 - [screenity](https://github.com/alyssaxuu/screenity) - 屏幕录制插件 ![](https://img.shields.io/github/stars/alyssaxuu/screenity?style=social) ![](https://img.shields.io/github/last-commit/alyssaxuu/screenity?style=flat&logo=Polestar)
 - [cat-catch](https://github.com/xifangczy/cat-catch) - 资源嗅探扩展（视频、音频下载） ![](https://img.shields.io/github/stars/xifangczy/cat-catch?style=social) ![](https://img.shields.io/github/last-commit/xifangczy/cat-catch?style=flat&logo=Polestar)
 
+
+## 微信插件
+- [wechat-bot](https://github.com/wangrongding/wechat-bot) - 一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... ![](https://img.shields.io/github/stars/wangrongding/wechat-bot?style=social) ![](https://img.shields.io/github/last-commit/wangrongding/wechat-bot?style=flat&logo=Polestar)
+- [WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手 ![](https://img.shields.io/github/stars/LC044/WeChatMsg?style=social) ![](https://img.shields.io/github/last-commit/LC044/WeChatMsg?style=flat&logo=Polestar)
+
 ## 简历
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模板 ![](https://img.shields.io/github/stars/geekcompany/ResumeSample?style=social) ![](https://img.shields.io/github/last-commit/geekcompany/ResumeSample?style=flat&logo=Polestar)
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 建立多个漂亮的简历，创造你最好的简历 ![](https://img.shields.io/github/stars/salomonelli/best-resume-ever?style=social) ![](https://img.shields.io/github/last-commit/salomonelli/best-resume-ever?style=flat&logo=Polestar)
 
 ## 其他
-- [wechat-bot](https://github.com/wangrongding/wechat-bot) - 一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... ![](https://img.shields.io/github/stars/wangrongding/wechat-bot?style=social) ![](https://img.shields.io/github/last-commit/wangrongding/wechat-bot?style=flat&logo=Polestar)
 - [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social) ![](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat&logo=Polestar)
 - [grok-1](https://github.com/xai-org/grok-1) - Grok-1 大模型 ![](https://img.shields.io/github/stars/xai-org/grok-1?style=social) ![](https://img.shields.io/github/last-commit/xai-org/grok-1?style=flat&logo=Polestar)
 - [ChatTTS](https://github.com/2noise/ChatTTS) - 文本转语音模型 ![](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) ![](https://img.shields.io/github/last-commit/2noise/ChatTTS?style=flat&logo=Polestar)
