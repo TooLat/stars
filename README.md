@@ -293,6 +293,7 @@
 - [alasql](https://github.com/AlaSQL/alasql) - js SQL数据库 ![](https://img.shields.io/github/stars/AlaSQL/alasql?style=social) ![](https://img.shields.io/github/last-commit/AlaSQL/alasql?style=flat&logo=Polestar)
 - [rxdb](https://github.com/pubkey/rxdb) - 一个快速、本地优先、响应式的 JavaScript 应用数据库 ![](https://img.shields.io/github/stars/pubkey/rxdb?style=social) ![](https://img.shields.io/github/last-commit/pubkey/rxdb?style=flat&logo=Polestar)
 - [typeorm](https://github.com/typeorm/typeorm) - TypeScript ORM 框架，使用面向对象的方式来操作数据库 ![](https://img.shields.io/github/stars/typeorm/typeorm?style=social) ![](https://img.shields.io/github/last-commit/typeorm/typeorm?style=flat&logo=Polestar)
+- [drawdb](https://github.com/drawdb-io/drawdb) - 免费，简单，直观的在线数据库设计工具和SQL生成器 ![](https://img.shields.io/github/stars/drawdb-io/drawdb?style=social) ![](https://img.shields.io/github/last-commit/drawdb-io/drawdb?style=flat&logo=Polestar)
 
 ## 产品分析 - 埋点
 - [posthog](https://github.com/PostHog/posthog) - 提供开源产品分析，会话记录，功能标记和A/B测试 ![](https://img.shields.io/github/stars/PostHog/posthog?style=social) ![](https://img.shields.io/github/last-commit/PostHog/posthog?style=flat&logo=Polestar)
