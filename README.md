@@ -715,6 +715,9 @@
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - 代理中间件（将客户端发送的请求数据转发到目标服务器，并将响应输送到客户端） ![](https://img.shields.io/github/stars/chimurai/http-proxy-middleware?style=social) ![](https://img.shields.io/github/last-commit/chimurai/http-proxy-middleware?style=flat&logo=Polestar)
 - [commander.js](https://github.com/tj/commander.js) - 完整的 node.js 命令行解决方案。 ![](https://img.shields.io/github/stars/tj/commander.js?style=social) ![](https://img.shields.io/github/last-commit/tj/commander.js?style=flat&logo=Polestar)
 
+## 模型
+- [tfjs](https://github.com/tensorflow/tfjs) - 一个 WebGL 加速的 JavaScript 库，用于训练和部署 ML 模型。 ![](https://img.shields.io/github/stars/tensorflow/tfjs?style=social) ![](https://img.shields.io/github/last-commit/tensorflow/tfjs?style=flat&logo=Polestar)
+
 ## 项目代码
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+迷你网页项目，使用HTML, CSS和JS ![](https://img.shields.io/github/stars/bradtraversy/50projects50days?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/50projects50days?style=flat&logo=Polestar)
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Web项目集合（包含电影订票页面、视频播放器界面、汇率计算器、费用追踪器、音乐播放器、打字游戏等） ![](https://img.shields.io/github/stars/bradtraversy/vanillawebprojects?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/vanillawebprojects?style=flat&logo=Polestar)
