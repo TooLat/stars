@@ -550,6 +550,8 @@
 
 ## APP构建
 - [flutter](https://github.com/flutter/flutter) ![](https://img.shields.io/github/stars/flutter/flutter?style=social) ![](https://img.shields.io/github/last-commit/flutter/flutter?style=flat&logo=Polestar)
+- [flutter/plugins](https://github.com/flutter/plugins) - Flutter 插件 ![](https://img.shields.io/github/stars/flutter/plugins?style=social) ![](https://img.shields.io/github/last-commit/flutter/plugins?style=flat&logo=Polestar)
+- [flutter/samples](https://github.com/flutter/samples) - Flutter 示例集合 ![](https://img.shields.io/github/stars/flutter/samples?style=social) ![](https://img.shields.io/github/last-commit/flutter/samples?style=flat&logo=Polestar)
 - [weex](https://github.com/alibaba/weex) ![](https://img.shields.io/github/stars/alibaba/weex?style=social) ![](https://img.shields.io/github/last-commit/alibaba/weex?style=flat&logo=Polestar)
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React-Native 学习指南 ![](https://img.shields.io/github/stars/reactnativecn/react-native-guide?style=social) ![](https://img.shields.io/github/last-commit/reactnativecn/react-native-guide?style=flat&logo=Polestar)
 
