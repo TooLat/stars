@@ -308,6 +308,7 @@
 ## 移动端插件
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - 滚动库 ![](https://img.shields.io/github/stars/ustbhuangyi/better-scroll?style=social) ![](https://img.shields.io/github/last-commit/ustbhuangyi/better-scroll?style=flat&logo=Polestar)
 - [mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载js框架 ![](https://img.shields.io/github/stars/mescroll/mescroll?style=social) ![](https://img.shields.io/github/last-commit/mescroll/mescroll?style=flat&logo=Polestar)
+- [pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - 下拉刷新 ![](https://img.shields.io/github/stars/BoxFactura/pulltorefresh.js?style=social) ![](https://img.shields.io/github/last-commit/BoxFactura/pulltorefresh.js?style=flat&logo=Polestar)
 - [vConsole](https://github.com/Tencent/vConsole) - 开发者调试面板 ![](https://img.shields.io/github/stars/Tencent/vConsole?style=social) ![](https://img.shields.io/github/last-commit/Tencent/vConsole?style=flat&logo=Polestar)
 - [vue-vconsole-devtools](https://github.com/Zippowxk/vue-vconsole-devtools) - vConsole插件，把 Vue.js 官方调试工具 vue-devtools 移植到移动端 ![](https://img.shields.io/github/stars/Zippowxk/vue-vconsole-devtools?style=social) ![](https://img.shields.io/github/last-commit/Zippowxk/vue-vconsole-devtools?style=flat&logo=Polestar)
 - [FastClick](https://github.com/ftlabs/fastclick) - 立即响应用户的点击事件 ![](https://img.shields.io/github/stars/ftlabs/fastclick?style=social) ![](https://img.shields.io/github/last-commit/ftlabs/fastclick?style=flat&logo=Polestar)
