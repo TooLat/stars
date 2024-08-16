@@ -677,6 +677,7 @@
 - [optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin) - 优化/最小化CSS ![](https://img.shields.io/github/stars/NMFR/optimize-css-assets-webpack-plugin?style=social) ![](https://img.shields.io/github/last-commit/NMFR/optimize-css-assets-webpack-plugin?style=flat&logo=Polestar)
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - 将捆绑包内容表示为交互式可缩放树形图 ![](https://img.shields.io/github/stars/webpack-contrib/webpack-bundle-analyzer?style=social) ![](https://img.shields.io/github/last-commit/webpack-contrib/webpack-bundle-analyzer?style=flat&logo=Polestar)
 - [webpack-chain](https://github.com/Yatoo2018/webpack-chain) - 链式 API ![](https://img.shields.io/github/stars/Yatoo2018/webpack-chain?style=social) ![](https://img.shields.io/github/last-commit/Yatoo2018/webpack-chain?style=flat&logo=Polestar)
+- [compression-webpack-plugin](https://github.com/webpack-contrib/compression-webpack-plugin) - 开启 GZip 压缩 ![](https://img.shields.io/github/stars/webpack-contrib/compression-webpack-plugin?style=social) ![](https://img.shields.io/github/last-commit/webpack-contrib/compression-webpack-plugin?style=flat&logo=Polestar)
 
 ## vite
 - [vite-plugin-imagemin](https://github.com/vbenjs/vite-plugin-imagemin) - 压缩图片 ![](https://img.shields.io/github/stars/vbenjs/vite-plugin-imagemin?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vite-plugin-imagemin?style=flat&logo=Polestar)
