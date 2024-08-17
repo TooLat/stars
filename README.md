@@ -532,6 +532,9 @@
 - [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - Vue3 + Vite5+ TypeScript5 + Element-Plus + Pinia ![](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social) ![](https://img.shields.io/github/last-commit/youlaitech/vue3-element-admin?style=flat&logo=Polestar)
 - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM + Vue3 + Vite + Element-Plus + TypeScript 编写的一款后台管理系统（兼容移动端） ![](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=social) ![](https://img.shields.io/github/last-commit/pure-admin/vue-pure-admin?style=flat&logo=Polestar)
 
+## 全栈
+- [smart-admin](https://github.com/1024-lab/smart-admin) - 基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x ![](https://img.shields.io/github/stars/1024-lab/smart-admin?style=social) ![](https://img.shields.io/github/last-commit/1024-lab/smart-admin?style=flat&logo=Polestar)
+
 ## 项目集成
 - [d2-admin](https://github.com/d2-projects/d2-admin) ![](https://img.shields.io/github/stars/d2-projects/d2-admin?style=social) ![](https://img.shields.io/github/last-commit/d2-projects/d2-admin?style=flat&logo=Polestar)
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - 全屏页面 ![](https://img.shields.io/github/stars/alvarotrigo/fullPage.js?style=social) ![](https://img.shields.io/github/last-commit/alvarotrigo/fullPage.js?style=flat&logo=Polestar)
