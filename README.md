@@ -525,12 +525,14 @@
 - [TanStack/router](https://github.com/TanStack/router) - 路由器 ![](https://img.shields.io/github/stars/TanStack/router?style=social) ![](https://img.shields.io/github/last-commit/TanStack/router?style=flat&logo=Polestar)
 
 ## 后台管理模板
+- [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - 中后台模板，采用 Vue 3、Vite、TypeScript ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin?style=flat&logo=Polestar)
+- [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM + Vue3 + Vite + Element-Plus + TypeScript 编写的一款后台管理系统（兼容移动端） ![](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=social) ![](https://img.shields.io/github/last-commit/pure-admin/vue-pure-admin?style=flat&logo=Polestar)
+- [vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - vue 后台管理 ![](https://img.shields.io/github/stars/zxwk1998/vue-admin-better?style=social) ![](https://img.shields.io/github/last-commit/zxwk1998/vue-admin-better?style=flat&logo=Polestar)
+- [vue-admin-arco](https://github.com/zxwk1998/vue-admin-arco) - vite + typescript + arco.design 中后台前端框架，vue3 admin前端框架 ![](https://img.shields.io/github/stars/zxwk1998/vue-admin-arco?style=social) ![](https://img.shields.io/github/last-commit/zxwk1998/vue-admin-arco?style=flat&logo=Polestar)
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - vue + element-ui ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social) ![](https://img.shields.io/github/last-commit/PanJiaChen/vue-element-admin?style=flat&logo=Polestar)
-- [iview-admin](https://github.com/iview/iview-admin) - 基于iview管理系统模板 ![](https://img.shields.io/github/stars/iview/iview-admin?style=social) ![](https://img.shields.io/github/last-commit/iview/iview-admin?style=flat&logo=Polestar)
-- [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - vite5.x + vue3.x + arco-design2.x ![](https://img.shields.io/github/stars/chuzhixin/vue-admin-better?style=social) ![](https://img.shields.io/github/last-commit/chuzhixin/vue-admin-better?style=flat&logo=Polestar)
+- [iview-admin](https://github.com/iview/iview-admin) - 基于 iview 管理系统模板 ![](https://img.shields.io/github/stars/iview/iview-admin?style=social) ![](https://img.shields.io/github/last-commit/iview/iview-admin?style=flat&logo=Polestar)
 - [vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - Vite + Vue3 + Pinia + Unocss ![](https://img.shields.io/github/stars/zclzone/vue-naive-admin?style=social) ![](https://img.shields.io/github/last-commit/zclzone/vue-naive-admin?style=flat&logo=Polestar)
 - [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - Vue3 + Vite5+ TypeScript5 + Element-Plus + Pinia ![](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social) ![](https://img.shields.io/github/last-commit/youlaitech/vue3-element-admin?style=flat&logo=Polestar)
-- [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM + Vue3 + Vite + Element-Plus + TypeScript 编写的一款后台管理系统（兼容移动端） ![](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=social) ![](https://img.shields.io/github/last-commit/pure-admin/vue-pure-admin?style=flat&logo=Polestar)
 
 ## 全栈
 - [smart-admin](https://github.com/1024-lab/smart-admin) - 基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x ![](https://img.shields.io/github/stars/1024-lab/smart-admin?style=social) ![](https://img.shields.io/github/last-commit/1024-lab/smart-admin?style=flat&logo=Polestar)
@@ -688,6 +690,7 @@
 - [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - 加载 SVG 文件作为 Vue 组件 ![](https://img.shields.io/github/stars/jpkleemans/vite-svg-loader?style=social) ![](https://img.shields.io/github/last-commit/jpkleemans/vite-svg-loader?style=flat&logo=Polestar)
 - [vite-plugin-top-level-await](https://github.com/Menci/vite-plugin-top-level-await) - 支持 top-level-await ![](https://img.shields.io/github/stars/Menci/vite-plugin-top-level-await?style=social) ![](https://img.shields.io/github/last-commit/Menci/vite-plugin-top-level-await?style=flat&logo=Polestar)
 - [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) - 自动重启 Vite 服务器 ![](https://img.shields.io/github/stars/antfu/vite-plugin-restart?style=social) ![](https://img.shields.io/github/last-commit/antfu/vite-plugin-restart?style=flat&logo=Polestar)
+- [vite-plugin-compression](https://github.com/vbenjs/vite-plugin-compression) - 使用 gzip 或者 brotli 来压缩资源 ![](https://img.shields.io/github/stars/vbenjs/vite-plugin-compression?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vite-plugin-compression?style=flat&logo=Polestar)
 
 ## All-In-One
 - [deno](https://github.com/denoland/deno) - 现代的 JavaScript 和 TypeScript 运行环境 ![](https://img.shields.io/github/stars/denoland/deno?style=social) ![](https://img.shields.io/github/last-commit/denoland/deno?style=flat&logo=Polestar)
