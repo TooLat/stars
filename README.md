@@ -541,8 +541,10 @@
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Angular 10+ ![](https://img.shields.io/github/stars/akveo/ngx-admin?style=social) ![](https://img.shields.io/github/last-commit/akveo/ngx-admin?style=flat&logo=Polestar)
 
 ## 全端
+- [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。 ![](https://img.shields.io/github/stars/YunaiV/ruoyi-vue-pro?style=social) ![](https://img.shields.io/github/last-commit/YunaiV/ruoyi-vue-pro?style=flat&logo=Polestar)
 - [eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue 的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 ![](https://img.shields.io/github/stars/elunez/eladmin?style=social) ![](https://img.shields.io/github/last-commit/elunez/eladmin?style=flat&logo=Polestar)
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - Vite + Vue3 + Gin 的开发基础平台，支持 TS 和 JS 混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能 ![](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin?style=social) ![](https://img.shields.io/github/last-commit/flipped-aurora/gin-vue-admin?style=flat&logo=Polestar)
+- [litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 ![](https://img.shields.io/github/stars/linlinjava/litemall?style=social) ![](https://img.shields.io/github/last-commit/linlinjava/litemall?style=flat&logo=Polestar)
 - [smart-admin](https://github.com/1024-lab/smart-admin) - 基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x ![](https://img.shields.io/github/stars/1024-lab/smart-admin?style=social) ![](https://img.shields.io/github/last-commit/1024-lab/smart-admin?style=flat&logo=Polestar)
 
 ## 项目集成
@@ -596,10 +598,6 @@
 - [playwright](https://github.com/microsoft/playwright) - 端到端测试 ![](https://img.shields.io/github/stars/microsoft/playwright?style=social) ![](https://img.shields.io/github/last-commit/microsoft/playwright?style=flat&logo=Polestar)
 - [ava](https://github.com/avajs/ava) ![](https://img.shields.io/github/stars/avajs/ava?style=social) ![](https://img.shields.io/github/last-commit/avajs/ava?style=flat&logo=Polestar)
 - [jasmine](https://github.com/jasmine/jasmine) - 用于浏览器和 node.js 的 JavaScript 测试框架 ![](https://img.shields.io/github/stars/jasmine/jasmine?style=social) ![](https://img.shields.io/github/last-commit/jasmine/jasmine?style=flat&logo=Polestar)
-
-## 全端项目
-- [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。 ![](https://img.shields.io/github/stars/YunaiV/ruoyi-vue-pro?style=social) ![](https://img.shields.io/github/last-commit/YunaiV/ruoyi-vue-pro?style=flat&logo=Polestar)
-- [litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 ![](https://img.shields.io/github/stars/linlinjava/litemall?style=social) ![](https://img.shields.io/github/last-commit/linlinjava/litemall?style=flat&logo=Polestar)
 
 ## git
 - [commitizen](https://github.com/commitizen-tools/commitizen) - 规范 Git 提交 ![](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=social) ![](https://img.shields.io/github/last-commit/commitizen-tools/commitizen?style=flat&logo=Polestar)
