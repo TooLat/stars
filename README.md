@@ -295,6 +295,9 @@
 - [typeorm](https://github.com/typeorm/typeorm) - TypeScript ORM 框架，使用面向对象的方式来操作数据库 ![](https://img.shields.io/github/stars/typeorm/typeorm?style=social) ![](https://img.shields.io/github/last-commit/typeorm/typeorm?style=flat&logo=Polestar)
 - [drawdb](https://github.com/drawdb-io/drawdb) - 免费，简单，直观的在线数据库设计工具和SQL生成器 ![](https://img.shields.io/github/stars/drawdb-io/drawdb?style=social) ![](https://img.shields.io/github/last-commit/drawdb-io/drawdb?style=flat&logo=Polestar)
 
+## 数据
+- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。 ![](https://img.shields.io/github/stars/modood/Administrative-divisions-of-China?style=social) ![](https://img.shields.io/github/last-commit/modood/Administrative-divisions-of-China?style=flat&logo=Polestar)
+
 ## 产品分析 - 埋点
 - [posthog](https://github.com/PostHog/posthog) - 提供开源产品分析，会话记录，功能标记和A/B测试 ![](https://img.shields.io/github/stars/PostHog/posthog?style=social) ![](https://img.shields.io/github/last-commit/PostHog/posthog?style=flat&logo=Polestar)
 
@@ -529,12 +532,17 @@
 - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM + Vue3 + Vite + Element-Plus + TypeScript 编写的一款后台管理系统（兼容移动端） ![](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=social) ![](https://img.shields.io/github/last-commit/pure-admin/vue-pure-admin?style=flat&logo=Polestar)
 - [vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - vue 后台管理 ![](https://img.shields.io/github/stars/zxwk1998/vue-admin-better?style=social) ![](https://img.shields.io/github/last-commit/zxwk1998/vue-admin-better?style=flat&logo=Polestar)
 - [vue-admin-arco](https://github.com/zxwk1998/vue-admin-arco) - vite + typescript + arco.design 中后台前端框架，vue3 admin前端框架 ![](https://img.shields.io/github/stars/zxwk1998/vue-admin-arco?style=social) ![](https://img.shields.io/github/last-commit/zxwk1998/vue-admin-arco?style=flat&logo=Polestar)
+- [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - 基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架 ![](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin?style=social) ![](https://img.shields.io/github/last-commit/HalseySpicy/Geeker-Admin?style=flat&logo=Polestar)
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - vue + element-ui ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social) ![](https://img.shields.io/github/last-commit/PanJiaChen/vue-element-admin?style=flat&logo=Polestar)
 - [iview-admin](https://github.com/iview/iview-admin) - 基于 iview 管理系统模板 ![](https://img.shields.io/github/stars/iview/iview-admin?style=social) ![](https://img.shields.io/github/last-commit/iview/iview-admin?style=flat&logo=Polestar)
 - [vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - Vite + Vue3 + Pinia + Unocss ![](https://img.shields.io/github/stars/zclzone/vue-naive-admin?style=social) ![](https://img.shields.io/github/last-commit/zclzone/vue-naive-admin?style=flat&logo=Polestar)
 - [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - Vue3 + Vite5+ TypeScript5 + Element-Plus + Pinia ![](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social) ![](https://img.shields.io/github/last-commit/youlaitech/vue3-element-admin?style=flat&logo=Polestar)
+- [react-admin](https://github.com/marmelab/react-admin) - 一个基于 REST/GraphQL APIS 的单页应用前端框架，使用 TypeScript、React 和 Material Design ![](https://img.shields.io/github/stars/marmelab/react-admin?style=social) ![](https://img.shields.io/github/last-commit/marmelab/react-admin?style=flat&logo=Polestar)
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Angular 10+ ![](https://img.shields.io/github/stars/akveo/ngx-admin?style=social) ![](https://img.shields.io/github/last-commit/akveo/ngx-admin?style=flat&logo=Polestar)
 
-## 全栈
+## 全端
+- [eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue 的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 ![](https://img.shields.io/github/stars/elunez/eladmin?style=social) ![](https://img.shields.io/github/last-commit/elunez/eladmin?style=flat&logo=Polestar)
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - Vite + Vue3 + Gin 的开发基础平台，支持 TS 和 JS 混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能 ![](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin?style=social) ![](https://img.shields.io/github/last-commit/flipped-aurora/gin-vue-admin?style=flat&logo=Polestar)
 - [smart-admin](https://github.com/1024-lab/smart-admin) - 基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x ![](https://img.shields.io/github/stars/1024-lab/smart-admin?style=social) ![](https://img.shields.io/github/last-commit/1024-lab/smart-admin?style=flat&logo=Polestar)
 
 ## 项目集成
