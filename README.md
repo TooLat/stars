@@ -158,6 +158,7 @@
 ## 低代码
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台 ![](https://img.shields.io/github/stars/taowen/awesome-lowcode?style=social) ![](https://img.shields.io/github/last-commit/taowen/awesome-lowcode?style=flat&logo=Polestar)
 - [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。 ![](https://img.shields.io/github/stars/jeecgboot/JeecgBoot?style=social) ![](https://img.shields.io/github/last-commit/jeecgboot/JeecgBoot?style=flat&logo=Polestar)
+- [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。 ![](https://img.shields.io/github/stars/baidu/amis?style=social) ![](https://img.shields.io/github/last-commit/baidu/amis?style=flat&logo=Polestar)
 
 ## 工具插件
 - [axios](https://github.com/axios/axios) ![](https://img.shields.io/github/stars/axios/axios?style=social) ![](https://img.shields.io/github/last-commit/axios/axios?style=flat&logo=Polestar)
