@@ -213,11 +213,8 @@
 - [dayjs](https://github.com/iamkun/dayjs) - 解析、操作和格式化日期和时间 ![](https://img.shields.io/github/stars/iamkun/dayjs?style=social) ![](https://img.shields.io/github/last-commit/iamkun/dayjs?style=flat&logo=Polestar)
 - [luxon](https://github.com/moment/luxon) - 一个强大的、现代的、且友好的 JavaScript 日期和时间封装器 ![](https://img.shields.io/github/stars/moment/luxon?style=social) ![](https://img.shields.io/github/last-commit/moment/luxon?style=flat&logo=Polestar)
 - [timeago.js](https://github.com/hustcc/timeago.js) - 将时间转换成多久前 ![](https://img.shields.io/github/stars/hustcc/timeago.js?style=social) ![](https://img.shields.io/github/last-commit/hustcc/timeago.js?style=flat&logo=Polestar)
-- [DPlayer](https://github.com/DIYgod/DPlayer) - 弹幕视频播放器 ![](https://img.shields.io/github/stars/DIYgod/DPlayer?style=social) ![](https://img.shields.io/github/last-commit/DIYgod/DPlayer?style=flat&logo=Polestar)
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js) - 客户端文件保存方案 ![](https://img.shields.io/github/stars/eligrey/FileSaver.js?style=social) ![](https://img.shields.io/github/last-commit/eligrey/FileSaver.js?style=flat&logo=Polestar)
 - [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - emoji 表情 ![](https://img.shields.io/github/stars/WebpageFX/emoji-cheat-sheet.com?style=social) ![](https://img.shields.io/github/last-commit/WebpageFX/emoji-cheat-sheet.com?style=flat&logo=Polestar)
-- [video.js](https://github.com/videojs/video.js) - HTML5 & Flash 视频播放器 ![](https://img.shields.io/github/stars/videojs/video.js?style=social) ![](https://img.shields.io/github/last-commit/videojs/video.js?style=flat&logo=Polestar)
-- [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV 视频播放器 ![](https://img.shields.io/github/stars/Bilibili/flv.js?style=social) ![](https://img.shields.io/github/last-commit/Bilibili/flv.js?style=flat&logo=Polestar)
 - [clappr](https://github.com/clappr/clappr) - Web 媒体播放器 ![](https://img.shields.io/github/stars/clappr/clappr?style=social) ![](https://img.shields.io/github/last-commit/clappr/clappr?style=flat&logo=Polestar)
 - [dinero.js](https://github.com/dinerojs/dinero.js) - 创建、计算和格式化货币 ![](https://img.shields.io/github/stars/dinerojs/dinero.js?style=social) ![](https://img.shields.io/github/last-commit/dinerojs/dinero.js?style=flat&logo=Polestar)
 - [favico.js](https://github.com/ejci/favico.js) - 使favico图标带有徽章、图标、视频 ![](https://img.shields.io/github/stars/ejci/favico.js?style=social) ![](https://img.shields.io/github/last-commit/ejci/favico.js?style=flat&logo=Polestar)
@@ -297,6 +294,12 @@
 - [dragula](https://github.com/bevacqua/dragula) - 拖拽 ![](https://img.shields.io/github/stars/bevacqua/dragula?style=social) ![](https://img.shields.io/github/last-commit/bevacqua/dragula?style=flat&logo=Polestar)
 - [draggable](https://github.com/Shopify/draggable) - 定制拖放体验 ![](https://img.shields.io/github/stars/Shopify/draggable?style=social) ![](https://img.shields.io/github/last-commit/Shopify/draggable?style=flat&logo=Polestar)
 - [interact.js](https://github.com/taye/interact.js) - 实现拖放、缩放和旋转等交互效果 ![](https://img.shields.io/github/stars/taye/interact.js?style=social) ![](https://img.shields.io/github/last-commit/taye/interact.js?style=flat&logo=Polestar)
+
+## 视频插件
+- [video.js](https://github.com/videojs/video.js) - HTML5 & Flash 视频播放器 ![](https://img.shields.io/github/stars/videojs/video.js?style=social) ![](https://img.shields.io/github/last-commit/videojs/video.js?style=flat&logo=Polestar)
+- [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV 视频播放器 ![](https://img.shields.io/github/stars/Bilibili/flv.js?style=social) ![](https://img.shields.io/github/last-commit/Bilibili/flv.js?style=flat&logo=Polestar)
+- [DPlayer](https://github.com/DIYgod/DPlayer) - 弹幕视频播放器 ![](https://img.shields.io/github/stars/DIYgod/DPlayer?style=social) ![](https://img.shields.io/github/last-commit/DIYgod/DPlayer?style=flat&logo=Polestar)
+- [hls.js](https://github.com/video-dev/hls.js) - 播放 HLS 流视频 ![](https://img.shields.io/github/stars/video-dev/hls.js?style=social) ![](https://img.shields.io/github/last-commit/video-dev/hls.js?style=flat&logo=Polestar)
 
 ## 数据库
 - [alasql](https://github.com/AlaSQL/alasql) - js SQL数据库 ![](https://img.shields.io/github/stars/AlaSQL/alasql?style=social) ![](https://img.shields.io/github/last-commit/AlaSQL/alasql?style=flat&logo=Polestar)
