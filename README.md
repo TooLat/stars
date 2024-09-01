@@ -439,6 +439,7 @@
 ## VUE
 - [vue](https://github.com/vuejs/vue) ![](https://img.shields.io/github/stars/vuejs/vue?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vue?style=flat&logo=Polestar)
 - [vuejs/core](https://github.com/vuejs/core) - 源码 ![](https://img.shields.io/github/stars/vuejs/core?style=social) ![](https://img.shields.io/github/last-commit/vuejs/core?style=flat&logo=Polestar)
+- [petite-vue](https://github.com/vuejs/petite-vue) - 为渐进式增强优化的 6kb 大的 Vue 子集 ![](https://img.shields.io/github/stars/vuejs/petite-vue?style=social) ![](https://img.shields.io/github/last-commit/vuejs/petite-vue?style=flat&logo=Polestar)
 - [vuex](https://github.com/vuejs/vuex) - 状态管理 ![](https://img.shields.io/github/stars/vuejs/vuex?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vuex?style=flat&logo=Polestar)
 - [vue-router](https://github.com/vuejs/vue-router) - 路由 ![](https://img.shields.io/github/stars/vuejs/vue-router?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vue-router?style=flat&logo=Polestar)
 - [vue-cli](https://github.com/vuejs/vue-cli) - 脚手架 (webpack) ![](https://img.shields.io/github/stars/vuejs/vue-cli?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vue-cli?style=flat&logo=Polestar)
@@ -616,11 +617,11 @@
 - [commitlint](https://github.com/conventional-changelog/commitlint) ![](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social) ![](https://img.shields.io/github/last-commit/conventional-changelog/commitlint?style=flat&logo=Polestar)
 - [git-cz](https://github.com/streamich/git-cz) - 规范化 Git 提交信息，在提交代码时使用交互式界面来选择提交类型、范围、描述等信息，从而生成符合规范的提交信息 ![](https://img.shields.io/github/stars/streamich/git-cz?style=social) ![](https://img.shields.io/github/last-commit/streamich/git-cz?style=flat&logo=Polestar)
 - [cz-git](https://github.com/Zhengqbbb/cz-git) - 工程性更强，轻量级，高度自定义，输出标准格式的 Commitizen 适配器和 CLI ![](https://img.shields.io/github/stars/Zhengqbbb/cz-git?style=social) ![](https://img.shields.io/github/last-commit/Zhengqbbb/cz-git?style=flat&logo=Polestar)
+- [husky](https://github.com/typicode/husky) - git 钩子 ![](https://img.shields.io/github/stars/typicode/husky?style=social) ![](https://img.shields.io/github/last-commit/typicode/husky?style=flat&logo=Polestar)
+- [lint-staged](https://github.com/okonet/lint-staged) - 代码风格检查 ![](https://img.shields.io/github/stars/okonet/lint-staged?style=social) ![](https://img.shields.io/github/last-commit/okonet/lint-staged?style=flat&logo=Polestar)
 
 ## 其他插件
 - [page.js](https://github.com/visionmedia/page.js) - 路由器 ![](https://img.shields.io/github/stars/visionmedia/page.js?style=social) ![](https://img.shields.io/github/last-commit/visionmedia/page.js?style=flat&logo=Polestar)
-- [husky](https://github.com/typicode/husky) - git 钩子 ![](https://img.shields.io/github/stars/typicode/husky?style=social) ![](https://img.shields.io/github/last-commit/typicode/husky?style=flat&logo=Polestar)
-- [lint-staged](https://github.com/okonet/lint-staged) - 文件过滤 ![](https://img.shields.io/github/stars/okonet/lint-staged?style=social) ![](https://img.shields.io/github/last-commit/okonet/lint-staged?style=flat&logo=Polestar)
 - [nw.js](https://github.com/nwjs/nw.js) - 桌面应用 ![](https://img.shields.io/github/stars/nwjs/nw.js?style=social) ![](https://img.shields.io/github/last-commit/nwjs/nw.js?style=flat&logo=Polestar)
 - [hexo](https://github.com/hexojs/hexo) - 博客框架 ![](https://img.shields.io/github/stars/hexojs/hexo?style=social) ![](https://img.shields.io/github/last-commit/hexojs/hexo?style=flat&logo=Polestar)
 - [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - hexo主题 ![](https://img.shields.io/github/stars/litten/hexo-theme-yilia?style=social) ![](https://img.shields.io/github/last-commit/litten/hexo-theme-yilia?style=flat&logo=Polestar)
