@@ -284,6 +284,7 @@
 - [quaggaJS](https://github.com/serratus/quaggaJS) - 条形码扫描器 ![](https://img.shields.io/github/stars/serratus/quaggaJS?style=social) ![](https://img.shields.io/github/last-commit/serratus/quaggaJS?style=flat&logo=Polestar)
 - [worker-timers](https://github.com/chrisguttandin/worker-timers) - setInterval() 和 setTimeout() 的替代品，在未聚焦的窗口中工作。 ![](https://img.shields.io/github/stars/chrisguttandin/worker-timers?style=social) ![](https://img.shields.io/github/last-commit/chrisguttandin/worker-timers?style=flat&logo=Polestar)
 - [is.js](https://github.com/arasatasaygin/is.js) - 检查对象类型、字符串、日期、浏览器环境和设备特性等 ![](https://img.shields.io/github/stars/arasatasaygin/is.js?style=social) ![](https://img.shields.io/github/last-commit/arasatasaygin/is.js?style=flat&logo=Polestar)
+- [sanitize-url](https://github.com/braintree/sanitize-url) - URL 无害化处理 ![](https://img.shields.io/github/stars/braintree/sanitize-url?style=social) ![](https://img.shields.io/github/last-commit/braintree/sanitize-url?style=flat&logo=Polestar)
 
 ## 拖拽插件
 - [moveable](https://github.com/daybrush/moveable) - 拖动、调整大小等 ![](https://img.shields.io/github/stars/daybrush/moveable?style=social) ![](https://img.shields.io/github/last-commit/daybrush/moveable?style=flat&logo=Polestar)
