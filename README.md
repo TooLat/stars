@@ -221,6 +221,7 @@
 - [localForage](https://github.com/localForage/localForage) - 离线存储，封装 IndexedDB，WebSQL或localStorage ![](https://img.shields.io/github/stars/localForage/localForage?style=social) ![](https://img.shields.io/github/last-commit/localForage/localForage?style=flat&logo=Polestar)
 - [nanoid](https://github.com/ai/nanoid) - 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器 ![](https://img.shields.io/github/stars/ai/nanoid?style=social) ![](https://img.shields.io/github/last-commit/ai/nanoid?style=flat&logo=Polestar)
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js) - 用于任意精度计算 ![](https://img.shields.io/github/stars/MikeMcl/bignumber.js?style=social) ![](https://img.shields.io/github/last-commit/MikeMcl/bignumber.js?style=flat&logo=Polestar)
+- [big.js](https://github.com/MikeMcl/big.js) - 用于任意精度的十进制算术 ![](https://img.shields.io/github/stars/MikeMcl/big.js?style=social) ![](https://img.shields.io/github/last-commit/MikeMcl/big.js?style=flat&logo=Polestar)
 - [mathjs](https://github.com/josdejong/mathjs) - JavaScript 和 Node.js 的扩展数学库 ![](https://img.shields.io/github/stars/josdejong/mathjs?style=social) ![](https://img.shields.io/github/last-commit/josdejong/mathjs?style=flat&logo=Polestar)
 - [uuid](https://github.com/uuidjs/uuid) - 用于生成通用唯一标识符 ![](https://img.shields.io/github/stars/uuidjs/uuid?style=social) ![](https://img.shields.io/github/last-commit/uuidjs/uuid?style=flat&logo=Polestar)
 - [protobuf.js](https://github.com/protobufjs/protobuf.js) - 用于在 JavaScript 中处理 Protocol Buffers（简称为 Protobuf）的库。Protocol Buffers 是一种轻量级的数据序列化格式，由 Google 开发，用于在不同平台和语言之间进行数据交换 ![](https://img.shields.io/github/stars/protobufjs/protobuf.js?style=social) ![](https://img.shields.io/github/last-commit/protobufjs/protobuf.js?style=flat&logo=Polestar)
@@ -285,6 +286,7 @@
 - [worker-timers](https://github.com/chrisguttandin/worker-timers) - setInterval() 和 setTimeout() 的替代品，在未聚焦的窗口中工作。 ![](https://img.shields.io/github/stars/chrisguttandin/worker-timers?style=social) ![](https://img.shields.io/github/last-commit/chrisguttandin/worker-timers?style=flat&logo=Polestar)
 - [is.js](https://github.com/arasatasaygin/is.js) - 检查对象类型、字符串、日期、浏览器环境和设备特性等 ![](https://img.shields.io/github/stars/arasatasaygin/is.js?style=social) ![](https://img.shields.io/github/last-commit/arasatasaygin/is.js?style=flat&logo=Polestar)
 - [sanitize-url](https://github.com/braintree/sanitize-url) - URL 无害化处理 ![](https://img.shields.io/github/stars/braintree/sanitize-url?style=social) ![](https://img.shields.io/github/last-commit/braintree/sanitize-url?style=flat&logo=Polestar)
+- [pako](https://github.com/nodeca/pako) - 对数据压缩/解压缩 ![](https://img.shields.io/github/stars/nodeca/pako?style=social) ![](https://img.shields.io/github/last-commit/nodeca/pako?style=flat&logo=Polestar)
 
 ## 拖拽插件
 - [moveable](https://github.com/daybrush/moveable) - 拖动、调整大小等 ![](https://img.shields.io/github/stars/daybrush/moveable?style=social) ![](https://img.shields.io/github/last-commit/daybrush/moveable?style=flat&logo=Polestar)
@@ -516,6 +518,7 @@
 - [vuelidate](https://github.com/vuelidate/vuelidate) - 表单验证，支持 Vue2 和 Vue3 ![](https://img.shields.io/github/stars/vuelidate/vuelidate?style=social) ![](https://img.shields.io/github/last-commit/vuelidate/vuelidate?style=flat&logo=Polestar)
 - [vue-multiselect](https://github.com/shentao/vue-multiselect) - 选择/多选/标记组件 ![](https://img.shields.io/github/stars/shentao/vue-multiselect?style=social) ![](https://img.shields.io/github/last-commit/shentao/vue-multiselect?style=flat&logo=Polestar)
 - [tres](https://github.com/Tresjs/tres) - 构建 3D WebGL ![](https://img.shields.io/github/stars/Tresjs/tres?style=social) ![](https://img.shields.io/github/last-commit/Tresjs/tres?style=flat&logo=Polestar)
+- [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) - 签名板组件 ![](https://img.shields.io/github/stars/neighborhood999/vue-signature-pad?style=social) ![](https://img.shields.io/github/last-commit/neighborhood999/vue-signature-pad?style=flat&logo=Polestar)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social) ![](https://img.shields.io/github/last-commit/facebook/react?style=flat&logo=Polestar)
@@ -745,6 +748,8 @@
 - [node-fetch](https://github.com/node-fetch/node-fetch) - 一个轻量级模块，将 Fetch API 引入 Node.js ![](https://img.shields.io/github/stars/node-fetch/node-fetch?style=social) ![](https://img.shields.io/github/last-commit/node-fetch/node-fetch?style=flat&logo=Polestar)
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - 代理中间件（将客户端发送的请求数据转发到目标服务器，并将响应输送到客户端） ![](https://img.shields.io/github/stars/chimurai/http-proxy-middleware?style=social) ![](https://img.shields.io/github/last-commit/chimurai/http-proxy-middleware?style=flat&logo=Polestar)
 - [commander.js](https://github.com/tj/commander.js) - 完整的 node.js 命令行解决方案。 ![](https://img.shields.io/github/stars/tj/commander.js?style=social) ![](https://img.shields.io/github/last-commit/tj/commander.js?style=flat&logo=Polestar)
+- [rimraf](https://github.com/isaacs/rimraf) - 递归删除文件夹 ![](https://img.shields.io/github/isaacs/rimraf?style=social) ![](https://img.shields.io/github/last-commit/isaacs/rimraf?style=flat&logo=Polestar)
+- [del](https://github.com/sindresorhus/del) - 删除文件和目录 ![](https://img.shields.io/github/sindresorhus/del?style=social) ![](https://img.shields.io/github/last-commit/sindresorhus/del?style=flat&logo=Polestar)
 
 ## 模型
 - [tfjs](https://github.com/tensorflow/tfjs) - 一个 WebGL 加速的 JavaScript 库，用于训练和部署 ML 模型。 ![](https://img.shields.io/github/stars/tensorflow/tfjs?style=social) ![](https://img.shields.io/github/last-commit/tensorflow/tfjs?style=flat&logo=Polestar)
