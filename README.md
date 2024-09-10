@@ -578,6 +578,7 @@
 - [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片 ![](https://img.shields.io/github/stars/jasondu/wxa-plugin-canvas?style=social) ![](https://img.shields.io/github/last-commit/jasondu/wxa-plugin-canvas?style=flat&logo=Polestar)
 - [wxParse](https://github.com/icindy/wxParse) - 富文本解析组件 ![](https://img.shields.io/github/stars/icindy/wxParse?style=social) ![](https://img.shields.io/github/last-commit/icindy/wxParse?style=flat&logo=Polestar)
 - [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用 ![](https://img.shields.io/github/stars/jin-yufeng/mp-html?style=social) ![](https://img.shields.io/github/last-commit/jin-yufeng/mp-html?style=flat&logo=Polestar)
+- [sm-crypto](https://github.com/wechat-miniprogram/sm-crypto) - 小程序 js 库。国密算法 sm2、sm3 和 sm4 的实现 ![](https://img.shields.io/github/stars/wechat-miniprogram/sm-crypto?style=social) ![](https://img.shields.io/github/last-commit/wechat-miniprogram/sm-crypto?style=flat&logo=Polestar)
 - [WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos) - 微信小程序和小游戏的源码案例库 ![](https://img.shields.io/github/stars/Data-Camp/WeApp_Demos?style=social) ![](https://img.shields.io/github/last-commit/Data-Camp/WeApp_Demos?style=flat&logo=Polestar)
 - [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店 ![](https://img.shields.io/github/stars/EastWorld/wechat-app-mall?style=social) ![](https://img.shields.io/github/last-commit/EastWorld/wechat-app-mall?style=flat&logo=Polestar)
 
