@@ -443,6 +443,7 @@
 
 ## VUE
 - [vue](https://github.com/vuejs/vue) ![](https://img.shields.io/github/stars/vuejs/vue?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vue?style=flat&logo=Polestar)
+- [vuejs/docs](https://github.com/vuejs/docs) - 文档 ![](https://img.shields.io/github/stars/vuejs/docs?style=social) ![](https://img.shields.io/github/last-commit/vuejs/docs?style=flat&logo=Polestar)
 - [vuejs/core](https://github.com/vuejs/core) - 源码 ![](https://img.shields.io/github/stars/vuejs/core?style=social) ![](https://img.shields.io/github/last-commit/vuejs/core?style=flat&logo=Polestar)
 - [petite-vue](https://github.com/vuejs/petite-vue) - 为渐进式增强优化的 6kb 大的 Vue 子集 ![](https://img.shields.io/github/stars/vuejs/petite-vue?style=social) ![](https://img.shields.io/github/last-commit/vuejs/petite-vue?style=flat&logo=Polestar)
 - [vuex](https://github.com/vuejs/vuex) - 状态管理 ![](https://img.shields.io/github/stars/vuejs/vuex?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vuex?style=flat&logo=Polestar)
