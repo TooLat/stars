@@ -573,7 +573,9 @@
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - 全屏页面 ![](https://img.shields.io/github/stars/alvarotrigo/fullPage.js?style=social) ![](https://img.shields.io/github/last-commit/alvarotrigo/fullPage.js?style=flat&logo=Polestar)
 
 ## 小程序
+- [miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例 ![](https://img.shields.io/github/stars/wechat-miniprogram/miniprogram-demo?style=social) ![](https://img.shields.io/github/last-commit/wechat-miniprogram/miniprogram-demo?style=flat&logo=Polestar)
 - [weui](https://github.com/Tencent/weui) - UI 样式库 ![](https://img.shields.io/github/stars/Tencent/weui?style=social) ![](https://img.shields.io/github/last-commit/Tencent/weui?style=flat&logo=Polestar)
+- [weui-wxss](https://github.com/Tencent/weui-wxss) - WeUI for 小程序 ![](https://img.shields.io/github/stars/Tencent/weui-wxss?style=social) ![](https://img.shields.io/github/last-commit/Tencent/weui-wxss?style=flat&logo=Polestar)
 - [wepy](https://github.com/Tencent/wepy) - 组件化开发框架 ![](https://img.shields.io/github/stars/Tencent/wepy?style=social) ![](https://img.shields.io/github/last-commit/Tencent/wepy?style=flat&logo=Polestar)
 - [vant-weapp](https://github.com/youzan/vant-weapp) - UI 组件库 ![](https://img.shields.io/github/stars/youzan/vant-weapp?style=social) ![](https://img.shields.io/github/last-commit/youzan/vant-weapp?style=flat&logo=Polestar)
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的开发框架 ![](https://img.shields.io/github/stars/Meituan-Dianping/mpvue?style=social) ![](https://img.shields.io/github/last-commit/Meituan-Dianping/mpvue?style=flat&logo=Polestar)
