@@ -173,6 +173,7 @@
 - [qs](https://github.com/ljharb/qs) - 序列化和解析 URL 查询字符串 ![](https://img.shields.io/github/stars/ljharb/qs?style=social) ![](https://img.shields.io/github/last-commit/ljharb/qs?style=flat&logo=Polestar)
 - [fetch ](https://github.com/github/fetch) - polyfill ![](https://img.shields.io/github/stars/github/fetch?style=social) ![](https://img.shields.io/github/last-commit/github/fetch?style=flat&logo=Polestar)
 - [crypto-js](https://github.com/brix/crypto-js) - 加密 ![](https://img.shields.io/github/stars/brix/crypto-js?style=social) ![](https://img.shields.io/github/last-commit/brix/crypto-js?style=flat&logo=Polestar)
+- [jsencrypt](https://github.com/travist/jsencrypt) - 执行 OpenSSL RSA 加密、解密和密钥生成 ![](https://img.shields.io/github/stars/travist/jsencrypt?style=social) ![](https://img.shields.io/github/last-commit/travist/jsencrypt?style=flat&logo=Polestar)
 - [Recorderjs](https://github.com/mattdiamond/Recorderjs) - 录音 ![](https://img.shields.io/github/stars/mattdiamond/Recorderjs?style=social) ![](https://img.shields.io/github/last-commit/mattdiamond/Recorderjs?style=flat&logo=Polestar)
 - [date-fns](https://github.com/date-fns/date-fns) - 日期库 ![](https://img.shields.io/github/stars/date-fns/date-fns?style=social) ![](https://img.shields.io/github/last-commit/date-fns/date-fns?style=flat&logo=Polestar)
 - [store.js](https://github.com/marcuswestin/store.js) - 数据存储 ![](https://img.shields.io/github/stars/marcuswestin/store.js?style=social) ![](https://img.shields.io/github/last-commit/marcuswestin/store.js?style=flat&logo=Polestar)
@@ -288,6 +289,7 @@
 - [is.js](https://github.com/arasatasaygin/is.js) - 检查对象类型、字符串、日期、浏览器环境和设备特性等 ![](https://img.shields.io/github/stars/arasatasaygin/is.js?style=social) ![](https://img.shields.io/github/last-commit/arasatasaygin/is.js?style=flat&logo=Polestar)
 - [sanitize-url](https://github.com/braintree/sanitize-url) - URL 无害化处理 ![](https://img.shields.io/github/stars/braintree/sanitize-url?style=social) ![](https://img.shields.io/github/last-commit/braintree/sanitize-url?style=flat&logo=Polestar)
 - [pako](https://github.com/nodeca/pako) - 对数据压缩/解压缩 ![](https://img.shields.io/github/stars/nodeca/pako?style=social) ![](https://img.shields.io/github/last-commit/nodeca/pako?style=flat&logo=Polestar)
+- [globby](https://github.com/sindresorhus/globby) - 查找文件系统中的文件，支持复杂的模式匹配规则 ![](https://img.shields.io/github/stars/sindresorhus/globby?style=social) ![](https://img.shields.io/github/last-commit/sindresorhus/globby?style=flat&logo=Polestar)
 
 ## 拖拽插件
 - [moveable](https://github.com/daybrush/moveable) - 拖动、调整大小等 ![](https://img.shields.io/github/stars/daybrush/moveable?style=social) ![](https://img.shields.io/github/last-commit/daybrush/moveable?style=flat&logo=Polestar)
@@ -323,6 +325,7 @@
 - [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - 热力图 ![](https://img.shields.io/github/stars/Leaflet/Leaflet.heat?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet.heat?style=flat&logo=Polestar)
 - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - 点聚合 ![](https://img.shields.io/github/stars/Leaflet/Leaflet.markercluster?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet.markercluster?style=flat&logo=Polestar)
 - [openlayers](https://github.com/openlayers/openlayers) - 地图 ![](https://img.shields.io/github/stars/openlayers/openlayers?style=social) ![](https://img.shields.io/github/last-commit/openlayers/openlayers?style=flat&logo=Polestar)
+- [turf](https://github.com/Turfjs/turf) - 地理空间分析库，进行空间数据的操作、分析和可视化 ![](https://img.shields.io/github/stars/Turfjs/turf?style=social) ![](https://img.shields.io/github/last-commit/Turfjs/turf?style=flat&logo=Polestar)
 
 ## 移动端插件
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - 滚动库 ![](https://img.shields.io/github/stars/ustbhuangyi/better-scroll?style=social) ![](https://img.shields.io/github/last-commit/ustbhuangyi/better-scroll?style=flat&logo=Polestar)
@@ -363,6 +366,7 @@
 - [rete](https://github.com/retejs/rete) -  构建可视化的图形编程界面 ![](https://img.shields.io/github/stars/retejs/rete?style=social) ![](https://img.shields.io/github/last-commit/retejs/rete?style=flat&logo=Polestar)
 - [roughViz](https://github.com/jwilber/roughViz) - 创建手绘风格的图表（条形图、水平条形图、圆环图、折线图、饼图、散点图和堆积条形图等） ![](https://img.shields.io/github/stars/jwilber/roughViz?style=social) ![](https://img.shields.io/github/last-commit/jwilber/roughViz?style=flat&logo=Polestar)
 - [X6](https://github.com/antvis/X6) - 基于 HTML 和 SVG 的图编辑引擎，提供低成本的定制能力和开箱即用的内置扩展，方便我们快速搭建 DAG 图、ER 图、流程图、血缘图等应用。 ![](https://img.shields.io/github/stars/antvis/X6?style=social) ![](https://img.shields.io/github/last-commit/antvis/X6?style=flat&logo=Polestar)
+- [amcharts4](https://github.com/amcharts/amcharts4) - 适用于 JavaScript 和 TypeScript 应用程序的最先进的 amCharts 图表库 ![](https://img.shields.io/github/stars/amcharts/amcharts4?style=social) ![](https://img.shields.io/github/last-commit/amcharts/amcharts4?style=flat&logo=Polestar)
 
 ## Canvas
 - [Fabric.js](https://github.com/fabricjs/fabric.js) - canvas框架 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/last-commit/fabricjs/fabric.js?style=flat&logo=Polestar)
@@ -416,6 +420,7 @@
 - [countUp.js](https://github.com/inorganik/countUp.js) - 动画效果显示数字 ![](https://img.shields.io/github/stars/inorganik/countUp.js?style=social) ![](https://img.shields.io/github/last-commit/inorganik/countUp.js?style=flat&logo=Polestar)
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock动画平台 ![](https://img.shields.io/github/stars/greensock/GSAP?style=social) ![](https://img.shields.io/github/last-commit/greensock/GSAP?style=flat&logo=Polestar)
 - [lottie-web](https://github.com/airbnb/lottie-web) - 在 Web 上展示 Lottie 动画文件（JSON 格式），实现高度可定制的矢量动画 ![](https://img.shields.io/github/stars/airbnb/lottie-web?style=social) ![](https://img.shields.io/github/last-commit/airbnb/lottie-web?style=flat&logo=Polestar)
+- [lottie-player](https://github.com/LottieFiles/lottie-player) - 播放 Lottie 动画的轻量级 JavaScript 库 ![](https://img.shields.io/github/stars/LottieFiles/lottie-player?style=social) ![](https://img.shields.io/github/last-commit/LottieFiles/lottie-player?style=flat&logo=Polestar)
 - [SVGAPlayer-Web](https://github.com/svga/SVGAPlayer-Web) - 在 Web 上展示 SVGA 动画（一种基于矢量图形的动画格式） ![](https://img.shields.io/github/stars/svga/SVGAPlayer-Web?style=social) ![](https://img.shields.io/github/last-commit/svga/SVGAPlayer-Web?style=flat&logo=Polestar)
 - [motion-canvas](https://github.com/motion-canvas/motion-canvas) - 一个TypeScript库，用于使用Canvas API创建动画视频。 ![](https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social) ![](https://img.shields.io/github/last-commit/motion-canvas/motion-canvas?style=flat&logo=Polestar)
 - [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - 动态流体效果 ![](https://img.shields.io/github/stars/PavelDoGreat/WebGL-Fluid-Simulation?style=social) ![](https://img.shields.io/github/last-commit/PavelDoGreat/WebGL-Fluid-Simulation?style=flat&logo=Polestar)
