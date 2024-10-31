@@ -321,11 +321,12 @@
 - [posthog](https://github.com/PostHog/posthog) - 提供开源产品分析，会话记录，功能标记和A/B测试 ![](https://img.shields.io/github/stars/PostHog/posthog?style=social) ![](https://img.shields.io/github/last-commit/PostHog/posthog?style=flat&logo=Polestar)
 
 ## 地图
-- [Leaflet](https://github.com/Leaflet/Leaflet) ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet?style=flat&logo=Polestar)
+- [Leaflet](https://github.com/Leaflet/Leaflet) - 适用于移动设备的交互式地图的 JavaScript 库 ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet?style=flat&logo=Polestar)
 - [Leaflet.ChineseTmsProviders](https://github.com/htoooth/Leaflet.ChineseTmsProviders) - 加载互联网地图插件 ![](https://img.shields.io/github/stars/htoooth/Leaflet.ChineseTmsProviders?style=social) ![](https://img.shields.io/github/last-commit/htoooth/Leaflet.ChineseTmsProviders?style=flat&logo=Polestar)
 - [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - 热力图 ![](https://img.shields.io/github/stars/Leaflet/Leaflet.heat?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet.heat?style=flat&logo=Polestar)
 - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - 点聚合 ![](https://img.shields.io/github/stars/Leaflet/Leaflet.markercluster?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet.markercluster?style=flat&logo=Polestar)
 - [openlayers](https://github.com/openlayers/openlayers) - 地图 ![](https://img.shields.io/github/stars/openlayers/openlayers?style=social) ![](https://img.shields.io/github/last-commit/openlayers/openlayers?style=flat&logo=Polestar)
+- [maptalks.js](https://github.com/maptalks/maptalks.js) - 用于集成 2D/3D 地图的轻量级、可插入式 JavaScript 库 ![](https://img.shields.io/github/stars/maptalks/maptalks.js?style=social) ![](https://img.shields.io/github/last-commit/maptalks/maptalks.js?style=flat&logo=Polestar)
 - [turf](https://github.com/Turfjs/turf) - 地理空间分析库，进行空间数据的操作、分析和可视化 ![](https://img.shields.io/github/stars/Turfjs/turf?style=social) ![](https://img.shields.io/github/last-commit/Turfjs/turf?style=flat&logo=Polestar)
 
 ## 移动端插件
