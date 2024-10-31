@@ -321,6 +321,7 @@
 - [posthog](https://github.com/PostHog/posthog) - 提供开源产品分析，会话记录，功能标记和A/B测试 ![](https://img.shields.io/github/stars/PostHog/posthog?style=social) ![](https://img.shields.io/github/last-commit/PostHog/posthog?style=flat&logo=Polestar)
 
 ## 地图
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 基于 WebGL，创建交互式、可定制的高性能地图 ![](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/mapbox-gl-js?style=flat&logo=Polestar)
 - [Leaflet](https://github.com/Leaflet/Leaflet) - 适用于移动设备的交互式地图的 JavaScript 库 ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet?style=flat&logo=Polestar)
 - [Leaflet.ChineseTmsProviders](https://github.com/htoooth/Leaflet.ChineseTmsProviders) - 加载互联网地图插件 ![](https://img.shields.io/github/stars/htoooth/Leaflet.ChineseTmsProviders?style=social) ![](https://img.shields.io/github/last-commit/htoooth/Leaflet.ChineseTmsProviders?style=flat&logo=Polestar)
 - [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - 热力图 ![](https://img.shields.io/github/stars/Leaflet/Leaflet.heat?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet.heat?style=flat&logo=Polestar)
@@ -354,7 +355,6 @@
 - [cesium](https://github.com/CesiumGS/cesium) ![](https://img.shields.io/github/stars/CesiumGS/cesium?style=social) ![](https://img.shields.io/github/last-commit/CesiumGS/cesium?style=flat&logo=Polestar)
 - [aframe](https://github.com/aframevr/aframe) - 用于构建 3D/AR/VR 体验的web框架 ![](https://img.shields.io/github/stars/aframevr/aframe?style=social) ![](https://img.shields.io/github/last-commit/aframevr/aframe?style=flat&logo=Polestar)
 - [deck.gl](https://github.com/visgl/deck.gl) - 基于 WebGL2 的可视化框架 ![](https://img.shields.io/github/stars/visgl/deck.gl?style=social) ![](https://img.shields.io/github/last-commit/visgl/deck.gl?style=flat&logo=Polestar)
-- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 基于 WebGL，创建交互式、可定制的高性能地图 ![](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/mapbox-gl-js?style=flat&logo=Polestar)
 - [pixijs](https://github.com/pixijs/pixijs) - 使用最快、最灵活的 2D WebGL 渲染器创建精美的数字内容 ![](https://img.shields.io/github/stars/pixijs/pixijs?style=social) ![](https://img.shields.io/github/last-commit/pixijs/pixijs?style=flat&logo=Polestar)
 - [G2](https://github.com/antvis/G2) ![](https://img.shields.io/github/stars/antvis/G2?style=social) ![](https://img.shields.io/github/last-commit/antvis/G2?style=flat&logo=Polestar)
 - [Chart.js](https://github.com/chartjs/Chart.js) ![](https://img.shields.io/github/stars/chartjs/Chart.js?style=social) ![](https://img.shields.io/github/last-commit/chartjs/Chart.js?style=flat&logo=Polestar)
