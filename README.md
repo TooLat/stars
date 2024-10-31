@@ -345,6 +345,8 @@
 
 ## 图形图表
 - [echarts](https://github.com/apache/echarts) ![](https://img.shields.io/github/stars/apache/echarts?style=social) ![](https://img.shields.io/github/last-commit/apache/echarts?style=flat&logo=Polestar)
+- [echarts-liquidfill](https://github.com/ecomfe/echarts-liquidfill) - ECharts 液态填充图 ![](https://img.shields.io/github/stars/ecomfe/echarts-liquidfill?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/echarts-liquidfill?style=flat&logo=Polestar)
+- [echarts-wordcloud](https://github.com/ecomfe/echarts-wordcloud) - ECharts 词云 ![](https://img.shields.io/github/stars/ecomfe/echarts-wordcloud?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/echarts-wordcloud?style=flat&logo=Polestar)
 - [G6](https://github.com/antvis/G6) - 图分析引擎 ![](https://img.shields.io/github/stars/antvis/G6?style=social) ![](https://img.shields.io/github/last-commit/antvis/G6?style=flat&logo=Polestar)
 - [d3](https://github.com/d3/d3) ![](https://img.shields.io/github/stars/d3/d3?style=social) ![](https://img.shields.io/github/last-commit/d3/d3?style=flat&logo=Polestar)
 - [three.js 3D](https://github.com/mrdoob/three.js) ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) ![](https://img.shields.io/github/last-commit/mrdoob/three.js?style=flat&logo=Polestar)
