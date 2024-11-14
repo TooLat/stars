@@ -39,6 +39,7 @@
 - [styled-components](https://github.com/styled-components/styled-components) - CSS-in-JS，在JavaScript组件内部编写样式 ![](https://img.shields.io/github/stars/styled-components/styled-components?style=social) ![](https://img.shields.io/github/last-commit/styled-components/styled-components?style=flat&logo=Polestar)
 - [styils](https://github.com/styils/styils) - 一个轻量级和快速的 css-in-js 解决方案 ![](https://img.shields.io/github/stars/styils/styils?style=social) ![](https://img.shields.io/github/last-commit/styils/styils?style=flat&logo=Polestar)
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS 库 ![](https://img.shields.io/github/stars/emotion-js/emotion?style=social) ![](https://img.shields.io/github/last-commit/emotion-js/emotion?style=flat&logo=Polestar)
+- [vanilla-extract](vanilla-extract-css/vanilla-extract) - CSS-in-JS 库，构建时生成 CSS 文件 ![](https://img.shields.io/github/stars/vanilla-extract-css/vanilla-extract?style=social) ![](https://img.shields.io/github/last-commit/vanilla-extract-css/vanilla-extract?style=flat&logo=Polestar)
 - [30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - 简短的CSS代码片段，满足您的所有开发需求 ![](https://img.shields.io/github/stars/Chalarangelo/30-seconds-of-css?style=social) ![](https://img.shields.io/github/last-commit/Chalarangelo/30-seconds-of-css?style=flat&logo=Polestar)
 
 ## HTML
