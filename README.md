@@ -735,6 +735,7 @@
 - [vite-plugin-top-level-await](https://github.com/Menci/vite-plugin-top-level-await) - 支持 top-level-await ![](https://img.shields.io/github/stars/Menci/vite-plugin-top-level-await?style=social) ![](https://img.shields.io/github/last-commit/Menci/vite-plugin-top-level-await?style=flat&logo=Polestar)
 - [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) - 自动重启 Vite 服务器 ![](https://img.shields.io/github/stars/antfu/vite-plugin-restart?style=social) ![](https://img.shields.io/github/last-commit/antfu/vite-plugin-restart?style=flat&logo=Polestar)
 - [vite-plugin-compression](https://github.com/vbenjs/vite-plugin-compression) - 使用 gzip 或者 brotli 来压缩资源 ![](https://img.shields.io/github/stars/vbenjs/vite-plugin-compression?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vite-plugin-compression?style=flat&logo=Polestar)
+- [vite-plugin-node-polyfills](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - 在 Vite 项目中提供 Node.js 全局变量和模块的 polyfills ![](https://img.shields.io/github/stars/davidmyersdev/vite-plugin-node-polyfills?style=social) ![](https://img.shields.io/github/last-commit/davidmyersdev/vite-plugin-node-polyfills?style=flat&logo=Polestar)
 
 ## All-In-One
 - [deno](https://github.com/denoland/deno) - 现代的 JavaScript 和 TypeScript 运行环境 ![](https://img.shields.io/github/stars/denoland/deno?style=social) ![](https://img.shields.io/github/last-commit/denoland/deno?style=flat&logo=Polestar)
