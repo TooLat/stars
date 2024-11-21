@@ -292,6 +292,7 @@
 - [sanitize-url](https://github.com/braintree/sanitize-url) - URL 无害化处理 ![](https://img.shields.io/github/stars/braintree/sanitize-url?style=social) ![](https://img.shields.io/github/last-commit/braintree/sanitize-url?style=flat&logo=Polestar)
 - [pako](https://github.com/nodeca/pako) - 对数据压缩/解压缩 ![](https://img.shields.io/github/stars/nodeca/pako?style=social) ![](https://img.shields.io/github/last-commit/nodeca/pako?style=flat&logo=Polestar)
 - [globby](https://github.com/sindresorhus/globby) - 查找文件系统中的文件，支持复杂的模式匹配规则 ![](https://img.shields.io/github/stars/sindresorhus/globby?style=social) ![](https://img.shields.io/github/last-commit/sindresorhus/globby?style=flat&logo=Polestar)
+- [DOMPurify](https://github.com/cure53/DOMPurify) - 清理清理和消毒 HTML 片段，防止跨站脚本攻击 XSS ![](https://img.shields.io/github/stars/cure53/DOMPurify?style=social) ![](https://img.shields.io/github/last-commit/cure53/DOMPurify?style=flat&logo=Polestar)
 
 ## 拖拽插件
 - [moveable](https://github.com/daybrush/moveable) - 拖动、调整大小等 ![](https://img.shields.io/github/stars/daybrush/moveable?style=social) ![](https://img.shields.io/github/last-commit/daybrush/moveable?style=flat&logo=Polestar)
@@ -533,6 +534,7 @@
 - [vue-multiselect](https://github.com/shentao/vue-multiselect) - 选择/多选/标记组件 ![](https://img.shields.io/github/stars/shentao/vue-multiselect?style=social) ![](https://img.shields.io/github/last-commit/shentao/vue-multiselect?style=flat&logo=Polestar)
 - [tres](https://github.com/Tresjs/tres) - 构建 3D WebGL ![](https://img.shields.io/github/stars/Tresjs/tres?style=social) ![](https://img.shields.io/github/last-commit/Tresjs/tres?style=flat&logo=Polestar)
 - [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) - 签名板组件 ![](https://img.shields.io/github/stars/neighborhood999/vue-signature-pad?style=social) ![](https://img.shields.io/github/last-commit/neighborhood999/vue-signature-pad?style=flat&logo=Polestar)
+- [vue-dompurify-html](https://github.com/LeSuisse/vue-dompurify-html) - v-html 指令的安全替代品 ![](https://img.shields.io/github/stars/LeSuisse/vue-dompurify-html?style=social) ![](https://img.shields.io/github/last-commit/LeSuisse/vue-dompurify-html?style=flat&logo=Polestar)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social) ![](https://img.shields.io/github/last-commit/facebook/react?style=flat&logo=Polestar)
