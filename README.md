@@ -95,6 +95,7 @@
 - [muse-ui](https://github.com/museui/muse-ui) - Vue.js 2 ![](https://img.shields.io/github/stars/museui/muse-ui?style=social) ![](https://img.shields.io/github/last-commit/museui/muse-ui?style=flat&logo=Polestar)
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - 基于 VueJS 的 Bootstrap 框架 ![](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue?style=social) ![](https://img.shields.io/github/last-commit/bootstrap-vue/bootstrap-vue?style=flat&logo=Polestar)
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个基于 vue 的 PC 端表单/表格组件 ![](https://img.shields.io/github/stars/x-extends/vxe-table?style=social) ![](https://img.shields.io/github/last-commit/x-extends/vxe-table?style=flat&logo=Polestar)
+- [vue-data-ui](https://github.com/graphieros/vue-data-ui) - 数据可视化 Vue3 组件库 ![](https://img.shields.io/github/stars/graphieros/vue-data-ui?style=social) ![](https://img.shields.io/github/last-commit/graphieros/vue-data-ui?style=flat&logo=Polestar)
 
 ## UI库 - React
 - [ant-design](https://github.com/ant-design/ant-design) - 一个企业级的 UI 设计语言和 React UI 库 ![](https://img.shields.io/github/stars/ant-design/ant-design?style=social) ![](https://img.shields.io/github/last-commit/ant-design/ant-design?style=flat&logo=Polestar)
@@ -778,6 +779,20 @@
 ## 模型
 - [tfjs](https://github.com/tensorflow/tfjs) - 一个 WebGL 加速的 JavaScript 库，用于训练和部署 ML 模型。 ![](https://img.shields.io/github/stars/tensorflow/tfjs?style=social) ![](https://img.shields.io/github/last-commit/tensorflow/tfjs?style=flat&logo=Polestar)
 
+## 大模型
+- [ollama](https://github.com/ollama/ollama) - 开始使用 Llama 3.2、Mistral、Gemma 2和其他大型语言模型 ![](https://img.shields.io/github/stars/ollama/ollama?style=social) ![](https://img.shields.io/github/last-commit/ollama/ollama?style=flat&logo=Polestar)
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - 本地部署大模型工具 ![](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social) ![](https://img.shields.io/github/last-commit/ggerganov/llama.cpp?style=flat&logo=Polestar)
+- [llamafile](https://github.com/Mozilla-Ocho/llamafile) - 本地部署大模型工具 ![](https://img.shields.io/github/stars/Mozilla-Ocho/llamafile?style=social) ![](https://img.shields.io/github/last-commit/Mozilla-Ocho/llamafile?style=flat&logo=Polestar)
+- [lms](https://github.com/lmstudio-ai/lms) - 本地部署大模型工具 ![](https://img.shields.io/github/stars/lmstudio-ai/lms?style=social) ![](https://img.shields.io/github/last-commit/lmstudio-ai/lms?style=flat&logo=Polestar)
+- [llama3](https://github.com/meta-llama/llama3) - Llama 大模型 ![](https://img.shields.io/github/stars/meta-llama/llama3?style=social) ![](https://img.shields.io/github/last-commit/meta-llama/llama3?style=flat&logo=Polestar)
+- [grok-1](https://github.com/xai-org/grok-1) - Grok-1 大模型 ![](https://img.shields.io/github/stars/xai-org/grok-1?style=social) ![](https://img.shields.io/github/last-commit/xai-org/grok-1?style=flat&logo=Polestar)
+- [Qwen2.5](https://github.com/QwenLM/Qwen2.5) - 通义千问大模型 ![](https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=social) ![](https://img.shields.io/github/last-commit/QwenLM/Qwen2.5?style=flat&logo=Polestar)
+- [ChatGLM3](https://github.com/THUDM/ChatGLM3) - 智谱清言双语大模型 ![](https://img.shields.io/github/stars/THUDM/ChatGLM3?style=social) ![](https://img.shields.io/github/last-commit/THUDM/ChatGLM3?style=flat&logo=Polestar)
+- [InternLM](https://github.com/InternLM/InternLM) - 书生开源大模型 ![](https://img.shields.io/github/stars/InternLM/InternLM?style=social) ![](https://img.shields.io/github/last-commit/InternLM/InternLM?style=flat&logo=Polestar)
+- [ChatTTS](https://github.com/2noise/ChatTTS) - 文本转语音模型 ![](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) ![](https://img.shields.io/github/last-commit/2noise/ChatTTS?style=flat&logo=Polestar)
+- [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。 ![](https://img.shields.io/github/stars/jianchang512/ChatTTS-ui?style=social) ![](https://img.shields.io/github/last-commit/jianchang512/ChatTTS-ui?style=flat&logo=Polestar)
+- [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - 学习从零构建类似 Llama 大模型 ![](https://img.shields.io/github/stars/naklecha/llama3-from-scratch?style=social) ![](https://img.shields.io/github/last-commit/naklecha/llama3-from-scratch?style=flat&logo=Polestar)
+
 ## 项目代码
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+迷你网页项目，使用HTML, CSS和JS ![](https://img.shields.io/github/stars/bradtraversy/50projects50days?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/50projects50days?style=flat&logo=Polestar)
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Web项目集合（包含电影订票页面、视频播放器界面、汇率计算器、费用追踪器、音乐播放器、打字游戏等） ![](https://img.shields.io/github/stars/bradtraversy/vanillawebprojects?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/vanillawebprojects?style=flat&logo=Polestar)
@@ -963,6 +978,3 @@
 
 ## 其他
 - [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social) ![](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat&logo=Polestar)
-- [grok-1](https://github.com/xai-org/grok-1) - Grok-1 大模型 ![](https://img.shields.io/github/stars/xai-org/grok-1?style=social) ![](https://img.shields.io/github/last-commit/xai-org/grok-1?style=flat&logo=Polestar)
-- [ChatTTS](https://github.com/2noise/ChatTTS) - 文本转语音模型 ![](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) ![](https://img.shields.io/github/last-commit/2noise/ChatTTS?style=flat&logo=Polestar)
-- [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。 ![](https://img.shields.io/github/stars/jianchang512/ChatTTS-ui?style=social) ![](https://img.shields.io/github/last-commit/jianchang512/ChatTTS-ui?style=flat&logo=Polestar)
