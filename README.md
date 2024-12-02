@@ -71,6 +71,10 @@
 - [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - 进度条 ![](https://img.shields.io/github/stars/kimmobrunfeldt/progressbar.js?style=social) ![](https://img.shields.io/github/last-commit/kimmobrunfeldt/progressbar.js?style=flat&logo=Polestar)
 - [SpinKit](https://github.com/tobiasahlin/SpinKit) - 一些 loading 加载器 ![](https://img.shields.io/github/stars/tobiasahlin/SpinKit?style=social) ![](https://img.shields.io/github/last-commit/tobiasahlin/SpinKit?style=flat&logo=Polestar)
 - [x-render](https://github.com/alibaba/x-render) - 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案 ![](https://img.shields.io/github/stars/alibaba/x-render?style=social) ![](https://img.shields.io/github/last-commit/alibaba/x-render?style=flat&logo=Polestar)
+- [simplebar](https://github.com/Grsmto/simplebar) - 滚动条插件 ![](https://img.shields.io/github/stars/Grsmto/simplebar?style=social) ![](https://img.shields.io/github/last-commit/Grsmto/simplebar?style=flat&logo=Polestar)
+- [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - 滚动条插件，可隐藏原生滚动条、提供可自定义样式的覆盖滚动条并保留原生功能和感觉 ![](https://img.shields.io/github/stars/KingSora/OverlayScrollbars?style=social) ![](https://img.shields.io/github/last-commit/KingSora/OverlayScrollbars?style=flat&logo=Polestar)
+- [smooth-scrollbar](https://github.com/idiotWu/smooth-scrollbar) - 可定制、可扩展且基于 JavaScript 的高性能滚动条解决方案 ![](https://img.shields.io/github/stars/KingSora/OverlayScrollbars?style=social) ![](https://img.shields.io/github/last-commit/idiotWu/smooth-scrollbar?style=flat&logo=Polestar)
+- [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - 滚动条插件 ![](https://img.shields.io/github/stars/alibaba/x-render?style=social) ![](https://img.shields.io/github/last-commit/mdbootstrap/perfect-scrollbar?style=flat&logo=Polestar)
 
 ## UI库 - Vue
 - [element-plus](https://github.com/element-plus/element-plus) ![](https://img.shields.io/github/stars/element-plus/element-plus?style=social) ![](https://img.shields.io/github/last-commit/element-plus/element-plus?style=flat&logo=Polestar)
