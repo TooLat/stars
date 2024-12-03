@@ -980,5 +980,12 @@
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模板 ![](https://img.shields.io/github/stars/geekcompany/ResumeSample?style=social) ![](https://img.shields.io/github/last-commit/geekcompany/ResumeSample?style=flat&logo=Polestar)
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 建立多个漂亮的简历，创造你最好的简历 ![](https://img.shields.io/github/stars/salomonelli/best-resume-ever?style=social) ![](https://img.shields.io/github/last-commit/salomonelli/best-resume-ever?style=flat&logo=Polestar)
 
+## 科学上网
+- [new-pac](https://github.com/Alvin9999/new-pac) ![](https://img.shields.io/github/stars/Alvin9999/new-pac?style=social) ![](https://img.shields.io/github/last-commit/Alvin9999/new-pac?style=flat&logo=Polestar)
+- [fanqiang](https://github.com/bannedbook/fanqiang) ![](https://img.shields.io/github/stars/bannedbook/fanqiang?style=social) ![](https://img.shields.io/github/last-commit/bannedbook/fanqiang?style=flat&logo=Polestar)
+- [lantern](https://github.com/getlantern/lantern) ![](https://img.shields.io/github/stars/getlantern/lantern?style=social) ![](https://img.shields.io/github/last-commit/getlantern/lantern?style=flat&logo=Polestar)
+- [Free-servers](https://github.com/Pawdroid/Free-servers) ![](https://img.shields.io/github/stars/Pawdroid/Free-servers?style=social) ![](https://img.shields.io/github/last-commit/Pawdroid/Free-servers?style=flat&logo=Polestar)
+- [vpncn.github.io](https://github.com/vpncn/vpncn.github.io) ![](https://img.shields.io/github/stars/vpncn/vpncn.github.io?style=social) ![](https://img.shields.io/github/last-commit/vpncn/vpncn.github.io?style=flat&logo=Polestar)
+
 ## 其他
 - [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social) ![](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat&logo=Polestar)
