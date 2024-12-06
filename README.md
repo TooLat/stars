@@ -355,6 +355,7 @@
 
 ## 图形图表
 - [echarts](https://github.com/apache/echarts) ![](https://img.shields.io/github/stars/apache/echarts?style=social) ![](https://img.shields.io/github/last-commit/apache/echarts?style=flat&logo=Polestar)
+- [echarts-gl](https://github.com/ecomfe/echarts-gl) - ECharts 地球可视化和 3D 绘图 ![](https://img.shields.io/github/stars/ecomfe/echarts-gl?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/echarts-gl?style=flat&logo=Polestar)
 - [echarts-liquidfill](https://github.com/ecomfe/echarts-liquidfill) - ECharts 液态填充图 ![](https://img.shields.io/github/stars/ecomfe/echarts-liquidfill?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/echarts-liquidfill?style=flat&logo=Polestar)
 - [echarts-wordcloud](https://github.com/ecomfe/echarts-wordcloud) - ECharts 词云 ![](https://img.shields.io/github/stars/ecomfe/echarts-wordcloud?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/echarts-wordcloud?style=flat&logo=Polestar)
 - [G6](https://github.com/antvis/G6) - 图分析引擎 ![](https://img.shields.io/github/stars/antvis/G6?style=social) ![](https://img.shields.io/github/last-commit/antvis/G6?style=flat&logo=Polestar)
@@ -508,7 +509,7 @@
 - [vitesse](https://github.com/antfu/vitesse) - 项目构建 ![](https://img.shields.io/github/stars/antfu/vitesse?style=social) ![](https://img.shields.io/github/last-commit/antfu/vitesse?style=flat&logo=Polestar)
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - 拖拽布局 ![](https://img.shields.io/github/stars/jbaysolutions/vue-grid-layout?style=social) ![](https://img.shields.io/github/last-commit/jbaysolutions/vue-grid-layout?style=flat&logo=Polestar)
 - [vee-validate](https://github.com/logaretm/vee-validate) - 表单验证库 ![](https://img.shields.io/github/stars/logaretm/vee-validate?style=social) ![](https://img.shields.io/github/last-commit/logaretm/vee-validate?style=flat&logo=Polestar)
-- [vue-echarts](https://github.com/ecomfe/vue-echarts) - 表格 ![](https://img.shields.io/github/stars/ecomfe/vue-echarts?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/vue-echarts?style=flat&logo=Polestar)
+- [vue-echarts](https://github.com/ecomfe/vue-echarts) - echarts 表格 ![](https://img.shields.io/github/stars/ecomfe/vue-echarts?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/vue-echarts?style=flat&logo=Polestar)
 - [troisjs/trois](https://github.com/troisjs/trois) - 基于 Three.JS 的 Vue 3 可视化库 ![](https://img.shields.io/github/stars/troisjs/trois?style=social) ![](https://img.shields.io/github/last-commit/troisjs/trois?style=flat&logo=Polestar)
 - [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - 虚拟列表 ![](https://img.shields.io/github/stars/tangbc/vue-virtual-scroll-list?style=social) ![](https://img.shields.io/github/last-commit/tangbc/vue-virtual-scroll-list?style=flat&logo=Polestar)
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - 虚拟列表 ![](https://img.shields.io/github/stars/Akryum/vue-virtual-scroller?style=social) ![](https://img.shields.io/github/last-commit/Akryum/vue-virtual-scroller?style=flat&logo=Polestar)
