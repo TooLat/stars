@@ -330,6 +330,8 @@
 
 ## 地图
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 基于 WebGL，创建交互式、可定制的高性能地图 ![](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/mapbox-gl-js?style=flat&logo=Polestar)
+- [vector-tile-js](https://github.com/mapbox/vector-tile-js) - 使用 JavaScript 解析矢量图块 ![](https://img.shields.io/github/stars/mapbox/vector-tile-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/vector-tile-js?style=flat&logo=Polestar)
+- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - 浏览器中的交互式矢量瓦片地图 ![](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social) ![](https://img.shields.io/github/last-commit/maplibre/maplibre-gl-js?style=flat&logo=Polestar)
 - [Leaflet](https://github.com/Leaflet/Leaflet) - 适用于移动设备的交互式地图的 JavaScript 库 ![](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet?style=flat&logo=Polestar)
 - [Leaflet.ChineseTmsProviders](https://github.com/htoooth/Leaflet.ChineseTmsProviders) - 加载互联网地图插件 ![](https://img.shields.io/github/stars/htoooth/Leaflet.ChineseTmsProviders?style=social) ![](https://img.shields.io/github/last-commit/htoooth/Leaflet.ChineseTmsProviders?style=flat&logo=Polestar)
 - [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - 热力图 ![](https://img.shields.io/github/stars/Leaflet/Leaflet.heat?style=social) ![](https://img.shields.io/github/last-commit/Leaflet/Leaflet.heat?style=flat&logo=Polestar)
