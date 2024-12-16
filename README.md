@@ -116,6 +116,7 @@
 - [recharts](https://github.com/recharts/recharts) - 基于 D3.js 的 React 图表库插件 ![](https://img.shields.io/github/stars/recharts/recharts?style=social) ![](https://img.shields.io/github/last-commit/recharts/recharts?style=flat&logo=Polestar)
 
 ## 图标
+- [xicons](https://github.com/07akioni/xicons) - 整合自 fluentui-system-icons、ionicons、ant-design-icons、material-design-icons、Font-Awesome tabler-icons 和 carbon 的 SVG Vue/React 组件 ![](https://img.shields.io/github/stars/07akioni/xicons?style=social) ![](https://img.shields.io/github/last-commit/07akioni/xicons?style=flat&logo=Polestar)
 - [IconPark](https://github.com/bytedance/IconPark) ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social) ![](https://img.shields.io/github/last-commit/bytedance/IconPark?style=flat&logo=Polestar)
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) ![](https://img.shields.io/github/stars/FortAwesome/Font-Awesome?style=social) ![](https://img.shields.io/github/last-commit/FortAwesome/Font-Awesome?style=flat&logo=Polestar)
 - [ionicons](https://github.com/ionic-team/ionicons) ![](https://img.shields.io/github/stars/ionic-team/ionicons?style=social) ![](https://img.shields.io/github/last-commit/ionic-team/ionicons?style=flat&logo=Polestar)
