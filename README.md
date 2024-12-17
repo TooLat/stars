@@ -754,6 +754,7 @@
 
 ## nodejs
 - [nodejs](https://github.com/nodejs/node) ![](https://img.shields.io/github/stars/nodejs/node?style=social) ![](https://img.shields.io/github/last-commit/nodejs/node?style=flat&logo=Polestar)
+- [undici](https://github.com/nodejs/undici) - HTTP/1.1 客户端库 ![](https://img.shields.io/github/stars/nodejs/undici?style=social) ![](https://img.shields.io/github/last-commit/nodejs/undici?style=flat&logo=Polestar)
 - [express](https://github.com/expressjs/express) - node 框架 ![](https://img.shields.io/github/stars/expressjs/express?style=social) ![](https://img.shields.io/github/last-commit/expressjs/express?style=flat&logo=Polestar)
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - nodejs最佳实践 ![](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices?style=social) ![](https://img.shields.io/github/last-commit/goldbergyoni/nodebestpractices?style=flat&logo=Polestar)
 - [passport](https://github.com/jaredhanson/passport) - 登录验证中间件 ![](https://img.shields.io/github/stars/jaredhanson/passport?style=social) ![](https://img.shields.io/github/last-commit/jaredhanson/passport?style=flat&logo=Polestar)
