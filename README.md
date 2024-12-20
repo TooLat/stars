@@ -630,6 +630,9 @@
 - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - vue-cli3 ![](https://img.shields.io/github/stars/nklayman/vue-cli-plugin-electron-builder?style=social) ![](https://img.shields.io/github/last-commit/nklayman/vue-cli-plugin-electron-builder?style=flat&logo=Polestar)
 - [tauri](https://github.com/tauri-apps/tauri) - 用同一套代码同时开发桌面端和移动端应用 ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social) ![](https://img.shields.io/github/last-commit/tauri-apps/tauri?style=flat&logo=Polestar)
 
+## nginx
+- [nginx](https://github.com/nginx/nginx) ![](https://img.shields.io/github/stars/nginx/nginx?style=social) ![](https://img.shields.io/github/last-commit/nginx/nginx?style=flat&logo=Polestar)
+
 ## jenkins
 - [jenkins](https://github.com/jenkinsci/jenkins) ![](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social) ![](https://img.shields.io/github/last-commit/jenkinsci/jenkins?style=flat&logo=Polestar)
 - [dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin) - DingTalk 机器人通知 ![](https://img.shields.io/github/stars/jenkinsci/dingtalk-plugin?style=social) ![](https://img.shields.io/github/last-commit/jenkinsci/dingtalk-plugin?style=flat&logo=Polestar)
