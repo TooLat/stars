@@ -630,6 +630,10 @@
 - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - vue-cli3 ![](https://img.shields.io/github/stars/nklayman/vue-cli-plugin-electron-builder?style=social) ![](https://img.shields.io/github/last-commit/nklayman/vue-cli-plugin-electron-builder?style=flat&logo=Polestar)
 - [tauri](https://github.com/tauri-apps/tauri) - 用同一套代码同时开发桌面端和移动端应用 ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social) ![](https://img.shields.io/github/last-commit/tauri-apps/tauri?style=flat&logo=Polestar)
 
+## jenkins
+- [jenkins](https://github.com/jenkinsci/jenkins) ![](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social) ![](https://img.shields.io/github/last-commit/jenkinsci/jenkins?style=flat&logo=Polestar)
+- [dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin) - DingTalk 机器人通知 ![](https://img.shields.io/github/stars/jenkinsci/dingtalk-plugin?style=social) ![](https://img.shields.io/github/last-commit/jenkinsci/dingtalk-plugin?style=flat&logo=Polestar)
+
 ## 游戏
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - 基于 WebGL 技术的开源3D游戏引擎和渲染引擎 ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/last-commit/BabylonJS/Babylon.js?style=flat&logo=Polestar)
 - [GDevelop](https://github.com/4ian/GDevelop) - 开源，跨平台2D/3D/多人游戏引擎 ![](https://img.shields.io/github/stars/4ian/GDevelop?style=social) ![](https://img.shields.io/github/last-commit/4ian/GDevelop?style=flat&logo=Polestar)
@@ -660,7 +664,6 @@
 - [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - hexo主题 ![](https://img.shields.io/github/stars/litten/hexo-theme-yilia?style=social) ![](https://img.shields.io/github/last-commit/litten/hexo-theme-yilia?style=flat&logo=Polestar)
 - [Ghost](https://github.com/TryGhost/Ghost) - 博客搭建 ![](https://img.shields.io/github/stars/TryGhost/Ghost?style=social) ![](https://img.shields.io/github/last-commit/TryGhost/Ghost?style=flat&logo=Polestar)
 - [warriorjs](https://github.com/olistic/warriorjs) - 编程游戏 ![](https://img.shields.io/github/stars/olistic/warriorjs?style=social) ![](https://img.shields.io/github/last-commit/olistic/warriorjs?style=flat&logo=Polestar)
-- [jenkins](https://github.com/jenkinsci/jenkins) - 自动化服务 ![](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social) ![](https://img.shields.io/github/last-commit/jenkinsci/jenkins?style=flat&logo=Polestar)
 - [puppeteer](https://github.com/puppeteer/puppeteer) - 无头浏览器 ![](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social) ![](https://img.shields.io/github/last-commit/puppeteer/puppeteer?style=flat&logo=Polestar)
 - [http-server](https://github.com/http-party/http-server) - 本地服务器 ![](https://img.shields.io/github/stars/http-party/http-server?style=social) ![](https://img.shields.io/github/last-commit/http-party/http-server?style=flat&logo=Polestar)
 - [serve](https://github.com/vercel/serve) - 本地服务器 ![](https://img.shields.io/github/stars/vercel/serve?style=social) ![](https://img.shields.io/github/last-commit/vercel/serve?style=flat&logo=Polestar)
