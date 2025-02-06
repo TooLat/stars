@@ -651,6 +651,7 @@
 - [playwright](https://github.com/microsoft/playwright) - 端到端测试 ![](https://img.shields.io/github/stars/microsoft/playwright?style=social) ![](https://img.shields.io/github/last-commit/microsoft/playwright?style=flat&logo=Polestar)
 - [ava](https://github.com/avajs/ava) ![](https://img.shields.io/github/stars/avajs/ava?style=social) ![](https://img.shields.io/github/last-commit/avajs/ava?style=flat&logo=Polestar)
 - [jasmine](https://github.com/jasmine/jasmine) - 用于浏览器和 node.js 的 JavaScript 测试框架 ![](https://img.shields.io/github/stars/jasmine/jasmine?style=social) ![](https://img.shields.io/github/last-commit/jasmine/jasmine?style=flat&logo=Polestar)
+- [cypress](https://github.com/cypress-io/cypress) - 自动化测试 ![](https://img.shields.io/github/stars/cypress-io/cypress?style=social) ![](https://img.shields.io/github/last-commit/cypress-io/cypress?style=flat&logo=Polestar)
 
 ## git
 - [commitizen](https://github.com/commitizen-tools/commitizen) - 规范 Git 提交 ![](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=social) ![](https://img.shields.io/github/last-commit/commitizen-tools/commitizen?style=flat&logo=Polestar)
@@ -873,6 +874,7 @@
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版 ![](https://img.shields.io/github/stars/jobbole/awesome-python-cn?style=social) ![](https://img.shields.io/github/last-commit/jobbole/awesome-python-cn?style=flat&logo=Polestar)
 - [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。 ![](https://img.shields.io/github/stars/jobbole/awesome-cpp-cn?style=social) ![](https://img.shields.io/github/last-commit/jobbole/awesome-cpp-cn?style=flat&logo=Polestar)
 - [Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆 ![](https://img.shields.io/github/stars/sun0225SUN/Awesome-Love-Code?style=social) ![](https://img.shields.io/github/last-commit/sun0225SUN/Awesome-Love-Code?style=flat&logo=Polestar)
+- [Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者出海工具收集站 ![](https://img.shields.io/github/stars/yaolifeng0629/Awesome-independent-tools?style=social) ![](https://img.shields.io/github/last-commit/yaolifeng0629/Awesome-independent-tools?style=flat&logo=Polestar)
 
 ## vscode
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - Markdown 格式检查扩展工具 ![](https://img.shields.io/github/stars/DavidAnson/markdownlint?style=social) ![](https://img.shields.io/github/last-commit/DavidAnson/markdownlint?style=flat&logo=Polestar)
@@ -892,6 +894,7 @@
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - 一站式的设计资源，包含各种编程设计资源，如UI套件、图标、照片、字体和其他设计元素 ![](https://img.shields.io/github/stars/bradtraversy/design-resources-for-developers?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/design-resources-for-developers?style=flat&logo=Polestar)
 
 ## 技术知识 （中文）
+- [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 ![](https://img.shields.io/github/stars/PKUFlyingPig/cs-self-learning?style=social) ![](https://img.shields.io/github/last-commit/PKUFlyingPig/cs-self-learning?style=flat&logo=Polestar)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org 的开源代码库和课程 ![](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=social) ![](https://img.shields.io/github/last-commit/freeCodeCamp/freeCodeCamp?style=flat&logo=Polestar)
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - ECMAScript 6 入门 ![](https://img.shields.io/github/stars/ruanyf/es6tutorial?style=social) ![](https://img.shields.io/github/last-commit/ruanyf/es6tutorial?style=flat&logo=Polestar)
 - [33-js-concepts](https://github.com/stephentian/33-js-concepts) -  每个 JavaScript 工程师都应懂的33个概念 ![](https://img.shields.io/github/stars/stephentian/33-js-concepts?style=social) ![](https://img.shields.io/github/last-commit/stephentian/33-js-concepts?style=flat&logo=Polestar)
@@ -977,6 +980,9 @@
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Homebrew GUI应用程序 ![](https://img.shields.io/github/stars/brunophilipe/Cakebrew?style=social) ![](https://img.shields.io/github/last-commit/brunophilipe/Cakebrew?style=flat&logo=Polestar)
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - windows 安装工具 ![](https://img.shields.io/github/stars/felixrieseberg/windows-build-tools?style=social) ![](https://img.shields.io/github/last-commit/felixrieseberg/windows-build-tools?style=flat&logo=Polestar)
 - [rubick](https://github.com/rubickCenter/rubick) - 桌面端效率工具 ![](https://img.shields.io/github/stars/rubickCenter/rubick?style=social) ![](https://img.shields.io/github/last-commit/rubickCenter/rubick?style=flat&logo=Polestar)
+
+## 其他工具
+- [markitdown](https://github.com/microsoft/markitdown) - 用于将文件和办公文档转换为Markdown的Python工具 ![](https://img.shields.io/github/stars/microsoft/markitdown?style=social) ![](https://img.shields.io/github/last-commit/microsoft/markitdown?style=flat&logo=Polestar)
 
 ## 浏览器插件
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin 广告拦截，通用拦截器 ![](https://img.shields.io/github/stars/gorhill/uBlock?style=social) ![](https://img.shields.io/github/last-commit/gorhill/uBlock?style=flat&logo=Polestar)
