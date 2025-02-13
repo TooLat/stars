@@ -792,6 +792,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) - 递归删除文件夹 ![](https://img.shields.io/github/isaacs/rimraf?style=social) ![](https://img.shields.io/github/last-commit/isaacs/rimraf?style=flat&logo=Polestar)
 - [del](https://github.com/sindresorhus/del) - 删除文件和目录 ![](https://img.shields.io/github/sindresorhus/del?style=social) ![](https://img.shields.io/github/last-commit/sindresorhus/del?style=flat&logo=Polestar)
 - [plop](https://github.com/plopjs/plop) - 生成代码模板，快速生成项目结构和文件 ![](https://img.shields.io/github/plopjs/plop?style=social) ![](https://img.shields.io/github/last-commit/plopjs/plop?style=flat&logo=Polestar)
+- [cross-env](https://github.com/kentcdodds/cross-env) - 跨操作系统设置环境变量 ![](https://img.shields.io/github/kentcdodds/cross-env?style=social) ![](https://img.shields.io/github/last-commit/kentcdodds/cross-env?style=flat&logo=Polestar)
 
 ## 模型
 - [tfjs](https://github.com/tensorflow/tfjs) - 一个 WebGL 加速的 JavaScript 库，用于训练和部署 ML 模型。 ![](https://img.shields.io/github/stars/tensorflow/tfjs?style=social) ![](https://img.shields.io/github/last-commit/tensorflow/tfjs?style=flat&logo=Polestar)
