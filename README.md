@@ -314,6 +314,8 @@
 ## 视频插件
 - [video.js](https://github.com/videojs/video.js) - HTML5 & Flash 视频播放器 ![](https://img.shields.io/github/stars/videojs/video.js?style=social) ![](https://img.shields.io/github/last-commit/videojs/video.js?style=flat&logo=Polestar)
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV 视频播放器 ![](https://img.shields.io/github/stars/Bilibili/flv.js?style=social) ![](https://img.shields.io/github/last-commit/Bilibili/flv.js?style=flat&logo=Polestar)
+- [flvExtend](https://github.com/shady-xia/flvExtend) - 基于 flv.js 的功能扩展插件（追帧、断流重连、实时更新） ![](https://img.shields.io/github/stars/shady-xia/flvExtend?style=social) ![](https://img.shields.io/github/last-commit/shady-xia/flvExtend?style=flat&logo=Polestar)
+- [mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV 流媒体播放器（基于 flv.js 改造） ![](https://img.shields.io/github/stars/xqq/mpegts.js?style=social) ![](https://img.shields.io/github/last-commit/xqq/mpegts.js?style=flat&logo=Polestar)
 - [DPlayer](https://github.com/DIYgod/DPlayer) - 弹幕视频播放器 ![](https://img.shields.io/github/stars/DIYgod/DPlayer?style=social) ![](https://img.shields.io/github/last-commit/DIYgod/DPlayer?style=flat&logo=Polestar)
 - [hls.js](https://github.com/video-dev/hls.js) - 播放 HLS 流视频 ![](https://img.shields.io/github/stars/video-dev/hls.js?style=social) ![](https://img.shields.io/github/last-commit/video-dev/hls.js?style=flat&logo=Polestar)
 
