@@ -407,6 +407,7 @@
 - [sparkline](https://github.com/fnando/sparkline) - 迷你线图 ![](https://img.shields.io/github/stars/fnando/sparkline?style=social) ![](https://img.shields.io/github/last-commit/fnando/sparkline?style=flat&logo=Polestar)
 - [svgo](https://github.com/svg/svgo) - 用于优化 SVG 图形文件的工具，减小 SVG 文件的大小 ![](https://img.shields.io/github/stars/svg/svgo?style=social) ![](https://img.shields.io/github/last-commit/svg/svgo?style=flat&logo=Polestar)
 - [svg.js](https://github.com/svgdotjs/svg.js) - 用于创建、操作和动画化 SVG 的轻量级库 ![](https://img.shields.io/github/stars/svgdotjs/svg.js?style=social) ![](https://img.shields.io/github/last-commit/svgdotjs/svg.js?style=flat&logo=Polestar)
+- [svgomg](https://github.com/jakearchibald/svgomg) - SVGO 的 Web GUI ![](https://img.shields.io/github/stars/jakearchibald/svgomg?style=social) ![](https://img.shields.io/github/last-commit/jakearchibald/svgomg?style=flat&logo=Polestar)
 
 ## 办公套件
 - [sheetjs](https://github.com/SheetJS/sheetjs) - Excel 表格编辑器 ![](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social) ![](https://img.shields.io/github/last-commit/SheetJS/sheetjs?style=flat&logo=Polestar)
