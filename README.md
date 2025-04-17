@@ -184,6 +184,7 @@
 - [fetch ](https://github.com/github/fetch) - polyfill ![](https://img.shields.io/github/stars/github/fetch?style=social) ![](https://img.shields.io/github/last-commit/github/fetch?style=flat&logo=Polestar)
 - [crypto-js](https://github.com/brix/crypto-js) - 加密 ![](https://img.shields.io/github/stars/brix/crypto-js?style=social) ![](https://img.shields.io/github/last-commit/brix/crypto-js?style=flat&logo=Polestar)
 - [jsencrypt](https://github.com/travist/jsencrypt) - 执行 OpenSSL RSA 加密、解密和密钥生成 ![](https://img.shields.io/github/stars/travist/jsencrypt?style=social) ![](https://img.shields.io/github/last-commit/travist/jsencrypt?style=flat&logo=Polestar)
+- [jsrsasign](https://github.com/kjur/jsrsasign) - 加密库 ![](https://img.shields.io/github/stars/kjur/jsrsasign?style=social) ![](https://img.shields.io/github/last-commit/kjur/jsrsasign?style=flat&logo=Polestar)
 - [Recorderjs](https://github.com/mattdiamond/Recorderjs) - 录音 ![](https://img.shields.io/github/stars/mattdiamond/Recorderjs?style=social) ![](https://img.shields.io/github/last-commit/mattdiamond/Recorderjs?style=flat&logo=Polestar)
 - [date-fns](https://github.com/date-fns/date-fns) - 日期库 ![](https://img.shields.io/github/stars/date-fns/date-fns?style=social) ![](https://img.shields.io/github/last-commit/date-fns/date-fns?style=flat&logo=Polestar)
 - [store.js](https://github.com/marcuswestin/store.js) - 数据存储 ![](https://img.shields.io/github/stars/marcuswestin/store.js?style=social) ![](https://img.shields.io/github/last-commit/marcuswestin/store.js?style=flat&logo=Polestar)
