@@ -124,6 +124,7 @@
 - [iconify](https://github.com/iconify/iconify) ![](https://img.shields.io/github/stars/iconify/iconify?style=social) ![](https://img.shields.io/github/last-commit/iconify/iconify?style=flat&logo=Polestar)
 - [feather](https://github.com/feathericons/feather) ![](https://img.shields.io/github/stars/feathericons/feather?style=social) ![](https://img.shields.io/github/last-commit/feathericons/feather?style=flat&logo=Polestar)
 - [unplugin-icons](https://github.com/unplugin/unplugin-icons) - 作为组件使用图标 ![](https://img.shields.io/github/stars/unplugin/unplugin-icons?style=social) ![](https://img.shields.io/github/last-commit/unplugin/unplugin-icons?style=flat&logo=Polestar)
+- [RemixIcon](https://github.com/Remix-Design/RemixIcon) ![](https://img.shields.io/github/stars/Remix-Design/RemixIcon?style=social) ![](https://img.shields.io/github/last-commit/Remix-Design/RemixIcon?style=flat&logo=Polestar)
 
 ## 框架
 - [jquery](https://github.com/jquery/jquery) ![](https://img.shields.io/github/stars/jquery/jquery?style=social) ![](https://img.shields.io/github/last-commit/jquery/jquery?style=flat&logo=Polestar)
