@@ -1016,4 +1016,5 @@
 - [vpncn.github.io](https://github.com/vpncn/vpncn.github.io) ![](https://img.shields.io/github/stars/vpncn/vpncn.github.io?style=social) ![](https://img.shields.io/github/last-commit/vpncn/vpncn.github.io?style=flat&logo=Polestar)
 
 ## 其他
+- [github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面 ![](https://img.shields.io/github/stars/maboloshi/github-chinese?style=social) ![](https://img.shields.io/github/last-commit/maboloshi/github-chinese?style=flat&logo=Polestar)
 - [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social) ![](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat&logo=Polestar)
