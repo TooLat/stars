@@ -454,6 +454,8 @@
 - [scrollreveal](https://github.com/jlmakes/scrollreveal) - 滚动动画效果 ![](https://img.shields.io/github/stars/jlmakes/scrollreveal?style=social) ![](https://img.shields.io/github/last-commit/jlmakes/scrollreveal?style=flat&logo=Polestar)
 - [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 创建平滑、响应式的滚动效果 ![](https://img.shields.io/github/stars/locomotivemtl/locomotive-scroll?style=social) ![](https://img.shields.io/github/last-commit/locomotivemtl/locomotive-scroll?style=flat&logo=Polestar)
 - [auto-animate](https://github.com/formkit/auto-animate) - 为网页元素创建流畅、自动化的动画效果 ![](https://img.shields.io/github/stars/formkit/auto-animate?style=social) ![](https://img.shields.io/github/last-commit/formkit/auto-animate?style=flat&logo=Polestar)
+- [motion](https://github.com/motiondivision/motion) - 用于 React 和 JavaScript 的现代动画库 ![](https://img.shields.io/github/stars/motiondivision/motion?style=social) ![](https://img.shields.io/github/last-commit/motiondivision/motion?style=flat&logo=Polestar)
+- [motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue ![](https://img.shields.io/github/stars/motiondivision/motion-vue?style=social) ![](https://img.shields.io/github/last-commit/motiondivision/motion-vue?style=flat&logo=Polestar)
 
 ## uniapp
 - [uni-ui](https://github.com/dcloudio/uni-ui) UI框架 ![](https://img.shields.io/github/stars/dcloudio/uni-ui?style=social) ![](https://img.shields.io/github/last-commit/dcloudio/uni-ui?style=flat&logo=Polestar)
