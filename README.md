@@ -980,6 +980,7 @@
 - [responsively-app](https://github.com/responsively-org/responsively-app) - Web 浏览器，用于响应式 Web 开发 ![](https://img.shields.io/github/stars/responsively-org/responsively-app?style=social) ![](https://img.shields.io/github/last-commit/responsively-org/responsively-app?style=flat&logo=Polestar)
 - [Kap](https://github.com/wulkano/Kap) - mac 屏幕录制工具 ![](https://img.shields.io/github/stars/wulkano/Kap?style=social) ![](https://img.shields.io/github/last-commit/wulkano/Kap?style=flat&logo=Polestar)
 - [spacedrive](https://github.com/spacedriveapp/spacedrive) - 跨平台文件管理器 ![](https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=social) ![](https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=flat&logo=Polestar)
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP代理工具 ![](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=social) ![](https://img.shields.io/github/last-commit/mitmproxy/mitmproxy?style=flat&logo=Polestar)
 
 ## 系统工具
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social) ![](https://img.shields.io/github/last-commit/tj/n?style=flat&logo=Polestar)
