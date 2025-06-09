@@ -1029,3 +1029,5 @@
 ## 其他
 - [github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面 ![](https://img.shields.io/github/stars/maboloshi/github-chinese?style=social) ![](https://img.shields.io/github/last-commit/maboloshi/github-chinese?style=flat&logo=Polestar)
 - [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social) ![](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat&logo=Polestar)
+- [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南 ![](https://img.shields.io/github/stars/Anduin2017/HowToCook?style=social) ![](https://img.shields.io/github/last-commit/Anduin2017/HowToCook?style=flat&logo=Polestar)
+- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材 ![](https://img.shields.io/github/stars/TapXWorld/ChinaTextbook?style=social) ![](https://img.shields.io/github/last-commit/TapXWorld/ChinaTextbook?style=flat&logo=Polestar)
