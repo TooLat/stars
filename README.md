@@ -73,7 +73,7 @@
 - [x-render](https://github.com/alibaba/x-render) - 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案 ![](https://img.shields.io/github/stars/alibaba/x-render?style=social) ![](https://img.shields.io/github/last-commit/alibaba/x-render?style=flat&logo=Polestar)
 - [simplebar](https://github.com/Grsmto/simplebar) - 滚动条插件 ![](https://img.shields.io/github/stars/Grsmto/simplebar?style=social) ![](https://img.shields.io/github/last-commit/Grsmto/simplebar?style=flat&logo=Polestar)
 - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - 滚动条插件，可隐藏原生滚动条、提供可自定义样式的覆盖滚动条并保留原生功能和感觉 ![](https://img.shields.io/github/stars/KingSora/OverlayScrollbars?style=social) ![](https://img.shields.io/github/last-commit/KingSora/OverlayScrollbars?style=flat&logo=Polestar)
-- [smooth-scrollbar](https://github.com/idiotWu/smooth-scrollbar) - 可定制、可扩展且基于 JavaScript 的高性能滚动条解决方案 ![](https://img.shields.io/github/stars/KingSora/OverlayScrollbars?style=social) ![](https://img.shields.io/github/last-commit/idiotWu/smooth-scrollbar?style=flat&logo=Polestar)
+- [smooth-scrollbar](https://github.com/idiotWu/smooth-scrollbar) - 可定制、可扩展且基于 JavaScript 的高性能滚动条解决方案 ![](https://img.shields.io/github/stars/idiotWu/smooth-scrollbar?style=social) ![](https://img.shields.io/github/last-commit/idiotWu/smooth-scrollbar?style=flat&logo=Polestar)
 - [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - 滚动条插件 ![](https://img.shields.io/github/stars/alibaba/x-render?style=social) ![](https://img.shields.io/github/last-commit/mdbootstrap/perfect-scrollbar?style=flat&logo=Polestar)
 
 ## UI库 - Vue
@@ -101,6 +101,7 @@
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - 基于 VueJS 的 Bootstrap 框架 ![](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue?style=social) ![](https://img.shields.io/github/last-commit/bootstrap-vue/bootstrap-vue?style=flat&logo=Polestar)
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个基于 vue 的 PC 端表单/表格组件 ![](https://img.shields.io/github/stars/x-extends/vxe-table?style=social) ![](https://img.shields.io/github/last-commit/x-extends/vxe-table?style=flat&logo=Polestar)
 - [vue-data-ui](https://github.com/graphieros/vue-data-ui) - 数据可视化 Vue3 组件库 ![](https://img.shields.io/github/stars/graphieros/vue-data-ui?style=social) ![](https://img.shields.io/github/last-commit/graphieros/vue-data-ui?style=flat&logo=Polestar)
+- [floating-vue](https://github.com/Akryum/floating-vue) - 适用于 Vue 的 tooltips, popovers, dropdown, menus... ![](https://img.shields.io/github/stars/Akryum/floating-vue?style=social) ![](https://img.shields.io/github/last-commit/Akryum/floating-vue?style=flat&logo=Polestar)
 
 ## UI库 - React
 - [ant-design](https://github.com/ant-design/ant-design) - 一个企业级的 UI 设计语言和 React UI 库 ![](https://img.shields.io/github/stars/ant-design/ant-design?style=social) ![](https://img.shields.io/github/last-commit/ant-design/ant-design?style=flat&logo=Polestar)
@@ -187,6 +188,10 @@
 - [crypto-js](https://github.com/brix/crypto-js) - 加密 ![](https://img.shields.io/github/stars/brix/crypto-js?style=social) ![](https://img.shields.io/github/last-commit/brix/crypto-js?style=flat&logo=Polestar)
 - [jsencrypt](https://github.com/travist/jsencrypt) - 执行 OpenSSL RSA 加密、解密和密钥生成 ![](https://img.shields.io/github/stars/travist/jsencrypt?style=social) ![](https://img.shields.io/github/last-commit/travist/jsencrypt?style=flat&logo=Polestar)
 - [jsrsasign](https://github.com/kjur/jsrsasign) - 加密库 ![](https://img.shields.io/github/stars/kjur/jsrsasign?style=social) ![](https://img.shields.io/github/last-commit/kjur/jsrsasign?style=flat&logo=Polestar)
+- [JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5) - MD5 ![](https://img.shields.io/github/stars/blueimp/JavaScript-MD5?style=social) ![](https://img.shields.io/github/last-commit/blueimp/JavaScript-MD5?style=flat&logo=Polestar)
+- [js-md5](https://github.com/emn178/js-md5) - MD5 ![](https://img.shields.io/github/stars/emn178/js-md5?style=social) ![](https://img.shields.io/github/last-commit/emn178/js-md5?style=flat&logo=Polestar)
+- [js-spark-md5](https://github.com/satazor/js-spark-md5) - MD5 ![](https://img.shields.io/github/stars/satazor/js-spark-md5?style=social) ![](https://img.shields.io/github/last-commit/satazor/js-spark-md5?style=flat&logo=Polestar)
+- [js-base64](https://github.com/dankogai/js-base64) - Base64 编解码 ![](https://img.shields.io/github/stars/dankogai/js-base64?style=social) ![](https://img.shields.io/github/last-commit/dankogai/js-base64?style=flat&logo=Polestar)
 - [Recorderjs](https://github.com/mattdiamond/Recorderjs) - 录音 ![](https://img.shields.io/github/stars/mattdiamond/Recorderjs?style=social) ![](https://img.shields.io/github/last-commit/mattdiamond/Recorderjs?style=flat&logo=Polestar)
 - [date-fns](https://github.com/date-fns/date-fns) - 日期库 ![](https://img.shields.io/github/stars/date-fns/date-fns?style=social) ![](https://img.shields.io/github/last-commit/date-fns/date-fns?style=flat&logo=Polestar)
 - [store.js](https://github.com/marcuswestin/store.js) - 数据存储 ![](https://img.shields.io/github/stars/marcuswestin/store.js?style=social) ![](https://img.shields.io/github/last-commit/marcuswestin/store.js?style=flat&logo=Polestar)
@@ -248,9 +253,6 @@
 - [codemirror5](https://github.com/codemirror/codemirror5) - 代码编辑器 ![](https://img.shields.io/github/stars/codemirror/codemirror5?style=social) ![](https://img.shields.io/github/last-commit/codemirror/codemirror5?style=flat&logo=Polestar)
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - 基于浏览器的代码编辑器（vscode） ![](https://img.shields.io/github/stars/microsoft/monaco-editor?style=social) ![](https://img.shields.io/github/last-commit/microsoft/monaco-editor?style=flat&logo=Polestar)
 - [ali-oss](https://github.com/ali-sdk/ali-oss) - 阿里云oss ![](https://img.shields.io/github/stars/ali-sdk/ali-oss?style=social) ![](https://img.shields.io/github/last-commit/ali-sdk/ali-oss?style=flat&logo=Polestar)
-- [JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5) - MD5 ![](https://img.shields.io/github/stars/blueimp/JavaScript-MD5?style=social) ![](https://img.shields.io/github/last-commit/blueimp/JavaScript-MD5?style=flat&logo=Polestar)
-- [js-md5](https://github.com/emn178/js-md5) - MD5 ![](https://img.shields.io/github/stars/emn178/js-md5?style=social) ![](https://img.shields.io/github/last-commit/emn178/js-md5?style=flat&logo=Polestar)
-- [js-base64](https://github.com/dankogai/js-base64) - Base64 编解码 ![](https://img.shields.io/github/stars/dankogai/js-base64?style=social) ![](https://img.shields.io/github/last-commit/dankogai/js-base64?style=flat&logo=Polestar)
 - [mitt](https://github.com/developit/mitt) - 小型事件发布订阅库 ![](https://img.shields.io/github/stars/developit/mitt?style=social) ![](https://img.shields.io/github/last-commit/developit/mitt?style=flat&logo=Polestar)
 - [image-conversion](https://github.com/WangYuLue/image-conversion) - 图片压缩 ![](https://img.shields.io/github/stars/WangYuLue/image-conversion?style=social) ![](https://img.shields.io/github/last-commit/WangYuLue/image-conversion?style=flat&logo=Polestar)
 - [compressorjs](https://github.com/fengyuanchen/compressorjs) - 图片压缩 ![](https://img.shields.io/github/stars/fengyuanchen/compressorjs?style=social) ![](https://img.shields.io/github/last-commit/fengyuanchen/compressorjs?style=flat&logo=Polestar)
@@ -299,12 +301,14 @@
 - [TanStack/query](https://github.com/TanStack/query) - 强大的、可扩展的数据查询库 ![](https://img.shields.io/github/stars/TanStack/query?style=social) ![](https://img.shields.io/github/last-commit/TanStack/query?style=flat&logo=Polestar)
 - [quaggaJS](https://github.com/serratus/quaggaJS) - 条形码扫描器 ![](https://img.shields.io/github/stars/serratus/quaggaJS?style=social) ![](https://img.shields.io/github/last-commit/serratus/quaggaJS?style=flat&logo=Polestar)
 - [worker-timers](https://github.com/chrisguttandin/worker-timers) - setInterval() 和 setTimeout() 的替代品，在未聚焦的窗口中工作。 ![](https://img.shields.io/github/stars/chrisguttandin/worker-timers?style=social) ![](https://img.shields.io/github/last-commit/chrisguttandin/worker-timers?style=flat&logo=Polestar)
+- [workerpool](https://github.com/josdejong/workerpool) - 创建和管理工作线程池，在浏览器和Node.js环境中使用。浏览器环境中基于 Web Worker 实现 ![](https://img.shields.io/github/stars/josdejong/workerpool?style=social) ![](https://img.shields.io/github/last-commit/josdejong/workerpool?style=flat&logo=Polestar)
 - [is.js](https://github.com/arasatasaygin/is.js) - 检查对象类型、字符串、日期、浏览器环境和设备特性等 ![](https://img.shields.io/github/stars/arasatasaygin/is.js?style=social) ![](https://img.shields.io/github/last-commit/arasatasaygin/is.js?style=flat&logo=Polestar)
 - [sanitize-url](https://github.com/braintree/sanitize-url) - URL 无害化处理 ![](https://img.shields.io/github/stars/braintree/sanitize-url?style=social) ![](https://img.shields.io/github/last-commit/braintree/sanitize-url?style=flat&logo=Polestar)
 - [pako](https://github.com/nodeca/pako) - 对数据压缩/解压缩 ![](https://img.shields.io/github/stars/nodeca/pako?style=social) ![](https://img.shields.io/github/last-commit/nodeca/pako?style=flat&logo=Polestar)
 - [globby](https://github.com/sindresorhus/globby) - 查找文件系统中的文件，支持复杂的模式匹配规则 ![](https://img.shields.io/github/stars/sindresorhus/globby?style=social) ![](https://img.shields.io/github/last-commit/sindresorhus/globby?style=flat&logo=Polestar)
 - [DOMPurify](https://github.com/cure53/DOMPurify) - 清理清理和消毒 HTML 片段，防止跨站脚本攻击 XSS ![](https://img.shields.io/github/stars/cure53/DOMPurify?style=social) ![](https://img.shields.io/github/last-commit/cure53/DOMPurify?style=flat&logo=Polestar)
 - [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - 使用PostCSS将px转换为rem ![](https://img.shields.io/github/stars/cuth/postcss-pxtorem?style=social) ![](https://img.shields.io/github/last-commit/cuth/postcss-pxtorem?style=flat&logo=Polestar)
+- [filesize.js](https://github.com/avoidwork/filesize.js) - 文件大小 ![](https://img.shields.io/github/stars/avoidwork/filesize.js?style=social) ![](https://img.shields.io/github/last-commit/avoidwork/filesize.js?style=flat&logo=Polestar)
 
 ## 拖拽插件
 - [moveable](https://github.com/daybrush/moveable) - 拖动、调整大小等 ![](https://img.shields.io/github/stars/daybrush/moveable?style=social) ![](https://img.shields.io/github/last-commit/daybrush/moveable?style=flat&logo=Polestar)
@@ -398,6 +402,7 @@
 - [cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web ![](https://img.shields.io/github/stars/dntzhang/cax?style=social) ![](https://img.shields.io/github/last-commit/dntzhang/cax?style=flat&logo=Polestar)
 - [html2canvas](https://github.com/niklasvh/html2canvas) - 截图 ![](https://img.shields.io/github/stars/niklasvh/html2canvas?style=social) ![](https://img.shields.io/github/last-commit/niklasvh/html2canvas?style=flat&logo=Polestar)
 - [html-to-image](https://github.com/bubkoo/html-to-image) - 使用 canvas 和 SVG 从 DOM 节点生成图像 ![](https://img.shields.io/github/stars/bubkoo/html-to-image?style=social) ![](https://img.shields.io/github/last-commit/bubkoo/html-to-image?style=flat&logo=Polestar)
+- [dom-to-image](https://github.com/tsayen/dom-to-image) - 使用 canvas 从 DOM 节点生成图像 ![](https://img.shields.io/github/stars/tsayen/dom-to-image?style=social) ![](https://img.shields.io/github/last-commit/bubkoo/html-to-image?style=flat&logo=Polestar)
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) - 纸屑礼花特效 ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/last-commit/catdad/canvas-confetti?style=flat&logo=Polestar)
 - [js-confetti](https://github.com/loonywizard/js-confetti) - 纸屑礼花特效 ![](https://img.shields.io/github/stars/loonywizard/js-confetti?style=social) ![](https://img.shields.io/github/last-commit/loonywizard/js-confetti?style=flat&logo=Polestar)
 - [curvejs](https://github.com/AlloyTeam/curvejs) - canvas - 魔幻线条 ![](https://img.shields.io/github/stars/AlloyTeam/curvejs?style=social) ![](https://img.shields.io/github/last-commit/AlloyTeam/curvejs?style=flat&logo=Polestar)
@@ -716,6 +721,7 @@
 - [gpu.js](https://github.com/gpujs/gpu.js) - 用于在浏览器或 Node.js 环境中利用 GPU 进行并行计算加速 ![](https://img.shields.io/github/stars/gpujs/gpu.js?style=social) ![](https://img.shields.io/github/last-commit/gpujs/gpu.js?style=flat&logo=Polestar)
 - [storybook](https://github.com/storybookjs/storybook) - 创建、测试和文档化UI组件 ![](https://img.shields.io/github/stars/storybookjs/storybook?style=social) ![](https://img.shields.io/github/last-commit/storybookjs/storybook?style=flat&logo=Polestar)
 - [debug](https://github.com/debug-js/debug) - Node.js 和浏览器的调试库 ![](https://img.shields.io/github/stars/debug-js/debug?style=social) ![](https://img.shields.io/github/last-commit/debug-js/debug?style=flat&logo=Polestar)
+- [stats.js](https://github.com/mrdoob/stats.js) - JavaScript 性能监视器 ![](https://img.shields.io/github/stars/mrdoob/stats.js?style=social) ![](https://img.shields.io/github/last-commit/mrdoob/stats.js?style=flat&logo=Polestar)
 
 ## 项目
 - [babel](https://github.com/babel/babel) - javaScript 编译器 ![](https://img.shields.io/github/stars/babel/babel?style=social) ![](https://img.shields.io/github/last-commit/babel/babel?style=flat&logo=Polestar)
