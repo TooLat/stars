@@ -142,6 +142,7 @@
 - [ember.js](https://github.com/emberjs/ember.js) - 构建可维护、高性能的 Web 应用程序 ![](https://img.shields.io/github/stars/emberjs/ember.js?style=social) ![](https://img.shields.io/github/last-commit/emberjs/ember.js?style=flat&logo=Polestar)
 - [preact](https://github.com/preactjs/preact) - 快速且大小只有 3kB 的 React 替代方案，具有相同的现代 API ![](https://img.shields.io/github/stars/preactjs/preact?style=social) ![](https://img.shields.io/github/last-commit/preactjs/preact?style=flat&logo=Polestar)
 - [component-party.dev](https://github.com/matschik/component-party.dev) - JavaScript 框架语法特性对比 ![](https://img.shields.io/github/stars/matschik/component-party.dev?style=social) ![](https://img.shields.io/github/last-commit/matschik/component-party.dev?style=flat&logo=Polestar)
+- [preact](https://github.com/vercel/turborepo) - 针对 JavaScript 和 TypeScript 优化的构建系统，用 Rust 编写 ![](https://img.shields.io/github/stars/vercel/turborepo?style=social) ![](https://img.shields.io/github/last-commit/vercel/turborepo?style=flat&logo=Polestar)
 
 ## 包管理工具
 - [npm](https://github.com/npm/cli) ![](https://img.shields.io/github/stars/npm/cli?style=social) ![](https://img.shields.io/github/last-commit/npm/cli?style=flat&logo=Polestar)
@@ -904,6 +905,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript 样式指南 ![](https://img.shields.io/github/stars/airbnb/javascript?style=social) ![](https://img.shields.io/github/last-commit/airbnb/javascript?style=flat&logo=Polestar)
 - [umijs/fabric](https://github.com/umijs/fabric) - 严格但是不严苛的编码规范 ![](https://img.shields.io/github/stars/umijs/fabric?style=social) ![](https://img.shields.io/github/last-commit/umijs/fabric?style=flat&logo=Polestar)
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - 书写具备一致风格、通俗易懂 JavaScript 的原则 ![](https://img.shields.io/github/stars/rwaldron/idiomatic.js?style=social) ![](https://img.shields.io/github/last-commit/rwaldron/idiomatic.js?style=flat&logo=Polestar)
+- [semver](https://github.com/semver/semver) - 语义版本规范 ![](https://img.shields.io/github/stars/semver/semver?style=social) ![](https://img.shields.io/github/last-commit/semver/semver?style=flat&logo=Polestar)
 
 ## 编程语言
 - [kotlin](https://github.com/JetBrains/kotlin) - kotlin ![](https://img.shields.io/github/stars/JetBrains/kotlin?style=social) ![](https://img.shields.io/github/last-commit/JetBrains/kotlin?style=flat&logo=Polestar)
