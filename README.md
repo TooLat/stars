@@ -513,6 +513,7 @@
 - [storybook](https://github.com/storybookjs/storybook) - 创建、测试和文档化UI组件 ![](https://img.shields.io/github/stars/storybookjs/storybook?style=social) ![](https://img.shields.io/github/last-commit/storybookjs/storybook?style=flat&logo=Polestar)
 - [debug](https://github.com/debug-js/debug) - Node.js 和浏览器的调试库 ![](https://img.shields.io/github/stars/debug-js/debug?style=social) ![](https://img.shields.io/github/last-commit/debug-js/debug?style=flat&logo=Polestar)
 - [stats.js](https://github.com/mrdoob/stats.js) - JavaScript 性能监视器 ![](https://img.shields.io/github/stars/mrdoob/stats.js?style=social) ![](https://img.shields.io/github/last-commit/mrdoob/stats.js?style=flat&logo=Polestar)
+- [markitdown](https://github.com/microsoft/markitdown) - 用于将文件和办公文档转换为Markdown的Python工具 ![](https://img.shields.io/github/stars/microsoft/markitdown?style=social) ![](https://img.shields.io/github/last-commit/microsoft/markitdown?style=flat&logo=Polestar)
 
 ## webpack
 - [webpack](https://github.com/webpack/webpack) ![](https://img.shields.io/github/stars/webpack/webpack?style=social) ![](https://img.shields.io/github/last-commit/webpack/webpack?style=flat&logo=Polestar)
@@ -931,7 +932,11 @@
 - [semver](https://github.com/semver/semver) - 语义版本规范 ![](https://img.shields.io/github/stars/semver/semver?style=social) ![](https://img.shields.io/github/last-commit/semver/semver?style=flat&logo=Polestar)
 
 ## 编程语言
-- [kotlin](https://github.com/JetBrains/kotlin) - kotlin ![](https://img.shields.io/github/stars/JetBrains/kotlin?style=social) ![](https://img.shields.io/github/last-commit/JetBrains/kotlin?style=flat&logo=Polestar)
+- [Python](https://github.com/TheAlgorithms/Python) ![](https://img.shields.io/github/stars/TheAlgorithms/Python?style=social) ![](https://img.shields.io/github/last-commit/TheAlgorithms/Python?style=flat&logo=Polestar)
+- [go](https://github.com/golang/go) ![](https://img.shields.io/github/stars/golang/go?style=social) ![](https://img.shields.io/github/last-commit/golang/go?style=flat&logo=Polestar)
+- [rust](https://github.com/rust-lang/rust) ![](https://img.shields.io/github/stars/rust-lang/rust?style=social) ![](https://img.shields.io/github/last-commit/rust-lang/rust?style=flat&logo=Polestar)
+- [kotlin](https://github.com/JetBrains/kotlin) ![](https://img.shields.io/github/stars/JetBrains/kotlin?style=social) ![](https://img.shields.io/github/last-commit/JetBrains/kotlin?style=flat&logo=Polestar)
+- [swift](https://github.com/swiftlang/swift) ![](https://img.shields.io/github/stars/swiftlang/swift?style=social) ![](https://img.shields.io/github/last-commit/swiftlang/swift?style=flat&logo=Polestar)
 
 ## 资源
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - 一站式的设计资源，包含各种编程设计资源，如UI套件、图标、照片、字体和其他设计元素 ![](https://img.shields.io/github/stars/bradtraversy/design-resources-for-developers?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/design-resources-for-developers?style=flat&logo=Polestar)
@@ -1024,9 +1029,6 @@
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Homebrew GUI应用程序 ![](https://img.shields.io/github/stars/brunophilipe/Cakebrew?style=social) ![](https://img.shields.io/github/last-commit/brunophilipe/Cakebrew?style=flat&logo=Polestar)
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - windows 安装工具 ![](https://img.shields.io/github/stars/felixrieseberg/windows-build-tools?style=social) ![](https://img.shields.io/github/last-commit/felixrieseberg/windows-build-tools?style=flat&logo=Polestar)
 - [rubick](https://github.com/rubickCenter/rubick) - 桌面端效率工具 ![](https://img.shields.io/github/stars/rubickCenter/rubick?style=social) ![](https://img.shields.io/github/last-commit/rubickCenter/rubick?style=flat&logo=Polestar)
-
-## 其他工具
-- [markitdown](https://github.com/microsoft/markitdown) - 用于将文件和办公文档转换为Markdown的Python工具 ![](https://img.shields.io/github/stars/microsoft/markitdown?style=social) ![](https://img.shields.io/github/last-commit/microsoft/markitdown?style=flat&logo=Polestar)
 
 ## 浏览器插件
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin 广告拦截，通用拦截器 ![](https://img.shields.io/github/stars/gorhill/uBlock?style=social) ![](https://img.shields.io/github/last-commit/gorhill/uBlock?style=flat&logo=Polestar)
