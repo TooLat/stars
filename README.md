@@ -310,6 +310,10 @@
 - [DOMPurify](https://github.com/cure53/DOMPurify) - 清理清理和消毒 HTML 片段，防止跨站脚本攻击 XSS ![](https://img.shields.io/github/stars/cure53/DOMPurify?style=social) ![](https://img.shields.io/github/last-commit/cure53/DOMPurify?style=flat&logo=Polestar)
 - [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - 使用PostCSS将px转换为rem ![](https://img.shields.io/github/stars/cuth/postcss-pxtorem?style=social) ![](https://img.shields.io/github/last-commit/cuth/postcss-pxtorem?style=flat&logo=Polestar)
 - [filesize.js](https://github.com/avoidwork/filesize.js) - 文件大小 ![](https://img.shields.io/github/stars/avoidwork/filesize.js?style=social) ![](https://img.shields.io/github/last-commit/avoidwork/filesize.js?style=flat&logo=Polestar)
+- [zxcvbn](https://github.com/dropbox/zxcvbn) - 密码强度评估库 ![](https://img.shields.io/github/stars/dropbox/zxcvbn?style=social) ![](https://img.shields.io/github/last-commit/dropbox/zxcvbn?style=flat&logo=Polestar)
+- [throttle-debounce](https://github.com/niksy/throttle-debounce) - 防抖节流 ![](https://img.shields.io/github/stars/niksy/throttle-debounce?style=social) ![](https://img.shields.io/github/last-commit/niksy/throttle-debounce?style=flat&logo=Polestar)
+- [circular-json](https://github.com/WebReflection/circular-json) - 解决原生 JSON.stringify() 无法处理循环引用的问题 ![](https://img.shields.io/github/stars/WebReflection/circular-json?style=social) ![](https://img.shields.io/github/last-commit/WebReflection/circular-json?style=flat&logo=Polestar)
+- [html-docx-js](https://github.com/evidenceprime/html-docx-js) - 在浏览器中将 HTML 文档转换为 DOCX ![](https://img.shields.io/github/stars/evidenceprime/html-docx-js?style=social) ![](https://img.shields.io/github/last-commit/evidenceprime/html-docx-js?style=flat&logo=Polestar)
 
 ## 拖拽插件
 - [moveable](https://github.com/daybrush/moveable) - 拖动、调整大小等 ![](https://img.shields.io/github/stars/daybrush/moveable?style=social) ![](https://img.shields.io/github/last-commit/daybrush/moveable?style=flat&logo=Polestar)
@@ -524,6 +528,8 @@
 - [vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue) - Vue3 JSX Vite ![](https://img.shields.io/github/stars/vitejs/vite-plugin-vue?style=social) ![](https://img.shields.io/github/last-commit/vitejs/vite-plugin-vue?style=flat&logo=Polestar)
 - [vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) - 通过 css 属性画 canvas 图片 (Vue2) ![](https://img.shields.io/github/stars/sunniejs/vue-canvas-poster?style=social) ![](https://img.shields.io/github/last-commit/sunniejs/vue-canvas-poster?style=flat&logo=Polestar)
 - [vue-color](https://github.com/xiaokaike/vue-color) - 颜色拾取器 (Vue2) ![](https://img.shields.io/github/stars/xiaokaike/vue-color?style=social) ![](https://img.shields.io/github/last-commit/xiaokaike/vue-color?style=flat&logo=Polestar)
+- [vue-treeselect](https://github.com/riophae/vue-treeselect) - 支持嵌套的多选组件 (Vue2) ![](https://img.shields.io/github/stars/riophae/vue-treeselect?style=social) ![](https://img.shields.io/github/last-commit/riophae/vue-treeselect?style=flat&logo=Polestar)
+- [vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) - 用于调整元素大小和拖动元素的 Vue2 && Vue3 组件 ![](https://img.shields.io/github/stars/kirillmurashov/vue-drag-resize?style=social) ![](https://img.shields.io/github/last-commit/kirillmurashov/vue-drag-resize?style=flat&logo=Polestar)
 - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - 一个简单的vue2绑定到clipboard.js (Vue2) ![](https://img.shields.io/github/stars/Inndy/vue-clipboard2?style=social) ![](https://img.shields.io/github/last-commit/Inndy/vue-clipboard2?style=flat&logo=Polestar)
 - [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) - vue题目 ![](https://img.shields.io/github/stars/webfansplz/vuejs-challenges?style=social) ![](https://img.shields.io/github/last-commit/webfansplz/vuejs-challenges?style=flat&logo=Polestar)
 - [vitesse](https://github.com/antfu/vitesse) - 项目构建 ![](https://img.shields.io/github/stars/antfu/vitesse?style=social) ![](https://img.shields.io/github/last-commit/antfu/vitesse?style=flat&logo=Polestar)
@@ -675,6 +681,7 @@
 - [commitlint](https://github.com/conventional-changelog/commitlint) ![](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social) ![](https://img.shields.io/github/last-commit/conventional-changelog/commitlint?style=flat&logo=Polestar)
 - [git-cz](https://github.com/streamich/git-cz) - 规范化 Git 提交信息，在提交代码时使用交互式界面来选择提交类型、范围、描述等信息，从而生成符合规范的提交信息 ![](https://img.shields.io/github/stars/streamich/git-cz?style=social) ![](https://img.shields.io/github/last-commit/streamich/git-cz?style=flat&logo=Polestar)
 - [cz-git](https://github.com/Zhengqbbb/cz-git) - 工程性更强，轻量级，高度自定义，输出标准格式的 Commitizen 适配器和 CLI ![](https://img.shields.io/github/stars/Zhengqbbb/cz-git?style=social) ![](https://img.shields.io/github/last-commit/Zhengqbbb/cz-git?style=flat&logo=Polestar)
+- [cz-customizable](https://github.com/leoforfree/cz-customizable) - 自定义 Git 提交信息 ![](https://img.shields.io/github/stars/leoforfree/cz-customizable?style=social) ![](https://img.shields.io/github/last-commit/leoforfree/cz-customizable?style=flat&logo=Polestar)
 - [husky](https://github.com/typicode/husky) - git 钩子 ![](https://img.shields.io/github/stars/typicode/husky?style=social) ![](https://img.shields.io/github/last-commit/typicode/husky?style=flat&logo=Polestar)
 - [lint-staged](https://github.com/okonet/lint-staged) - 代码风格检查 ![](https://img.shields.io/github/stars/okonet/lint-staged?style=social) ![](https://img.shields.io/github/last-commit/okonet/lint-staged?style=flat&logo=Polestar)
 
