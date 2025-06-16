@@ -325,6 +325,7 @@
 - [jszip](https://github.com/Stuk/jszip) - 用 Javascript 创建、读取和编辑 .zip 文件 ![](https://img.shields.io/github/stars/Stuk/jszip?style=social) ![](https://img.shields.io/github/last-commit/Stuk/jszip?style=flat&logo=Polestar)
 - [mammoth.js](https://github.com/mwilliamson/mammoth.js) - docx 文件转 HTML ![](https://img.shields.io/github/stars/mwilliamson/mammoth.js?style=social) ![](https://img.shields.io/github/last-commit/mwilliamson/mammoth.js?style=flat&logo=Polestar)
 - [html-docx-js](https://github.com/evidenceprime/html-docx-js) - 在浏览器中将 HTML 文档转换为 DOCX ![](https://img.shields.io/github/stars/evidenceprime/html-docx-js?style=social) ![](https://img.shields.io/github/last-commit/evidenceprime/html-docx-js?style=flat&logo=Polestar)
+- [psd.js](https://github.com/meltingice/psd.js) - 适用于 NodeJS 和浏览器的 Photoshop PSD 文件解析器 ![](https://img.shields.io/github/stars/meltingice/psd.js?style=social) ![](https://img.shields.io/github/last-commit/meltingice/psd.js?style=flat&logo=Polestar)
 
 ## 音频插件
 - [howler.js](https://github.com/goldfire/howler.js) - 音频库，加载和播放声音文件 ![](https://img.shields.io/github/stars/goldfire/howler.js?style=social) ![](https://img.shields.io/github/last-commit/goldfire/howler.js?style=flat&logo=Polestar)
