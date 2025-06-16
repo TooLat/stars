@@ -107,6 +107,8 @@
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个基于 vue 的 PC 端表单/表格组件 ![](https://img.shields.io/github/stars/x-extends/vxe-table?style=social) ![](https://img.shields.io/github/last-commit/x-extends/vxe-table?style=flat&logo=Polestar)
 - [vue-data-ui](https://github.com/graphieros/vue-data-ui) - 数据可视化 Vue3 组件库 ![](https://img.shields.io/github/stars/graphieros/vue-data-ui?style=social) ![](https://img.shields.io/github/last-commit/graphieros/vue-data-ui?style=flat&logo=Polestar)
 - [floating-vue](https://github.com/Akryum/floating-vue) - 适用于 Vue 的 tooltips, popovers, dropdown, menus... ![](https://img.shields.io/github/stars/Akryum/floating-vue?style=social) ![](https://img.shields.io/github/last-commit/Akryum/floating-vue?style=flat&logo=Polestar)
+- [cube-ui](https://github.com/didi/cube-ui) - 滴滴移动 UI 库 ![](https://img.shields.io/github/stars/didi/cube-ui?style=social) ![](https://img.shields.io/github/last-commit/didi/cube-ui?style=flat&logo=Polestar)
+- [mand-mobile](https://github.com/didi/mand-mobile) - 基于 Vue.js 2 的移动 UI 工具包，专为金融场景设计 ![](https://img.shields.io/github/stars/didi/mand-mobile?style=social) ![](https://img.shields.io/github/last-commit/didi/mand-mobile?style=flat&logo=Polestar)
 
 ## UI库 - React
 - [ant-design](https://github.com/ant-design/ant-design) - 一个企业级的 UI 设计语言和 React UI 库 ![](https://img.shields.io/github/stars/ant-design/ant-design?style=social) ![](https://img.shields.io/github/last-commit/ant-design/ant-design?style=flat&logo=Polestar)
@@ -235,7 +237,6 @@
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - 人脸检测、人脸识别 ![](https://img.shields.io/github/stars/justadudewhohacks/face-api.js?style=social) ![](https://img.shields.io/github/last-commit/justadudewhohacks/face-api.js?style=flat&logo=Polestar)
 - [mousetrap](https://github.com/ccampbell/mousetrap) - 简单易用的键盘快捷键库（添加、管理和自定义键盘快捷键） ![](https://img.shields.io/github/stars/ccampbell/mousetrap?style=social) ![](https://img.shields.io/github/last-commit/ccampbell/mousetrap?style=flat&logo=Polestar)
 - [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - 管理和监听全局键盘快捷键（添加自定义快捷键） ![](https://img.shields.io/github/stars/jaywcjlove/hotkeys-js?style=social) ![](https://img.shields.io/github/last-commit/jaywcjlove/hotkeys-js?style=flat&logo=Polestar)
-- [flowy](https://github.com/alyssaxuu/flowy) - 创建流程图 ![](https://img.shields.io/github/stars/alyssaxuu/flowy?style=social) ![](https://img.shields.io/github/last-commit/alyssaxuu/flowy?style=flat&logo=Polestar)
 - [uncss](https://github.com/uncss/uncss) - 从CSS中删除未使用的样式 ![](https://img.shields.io/github/stars/uncss/uncss?style=social) ![](https://img.shields.io/github/last-commit/uncss/uncss?style=flat&logo=Polestar)
 - [sockjs-client](https://github.com/sockjs/sockjs-client) - 类似 WebSocket 的对象，创建了一个低延迟、全双工的浏览器和web服务器之间的通信通道（旨在适用于所有现代浏览器以及不支持WebSocket协议的环境） ![](https://img.shields.io/github/stars/sockjs/sockjs-client?style=social) ![](https://img.shields.io/github/last-commit/sockjs/sockjs-client?style=flat&logo=Polestar)
 - [jsdiff](https://github.com/kpdecker/jsdiff) - 文本字符串的差异比较 ![](https://img.shields.io/github/stars/kpdecker/jsdiff?style=social) ![](https://img.shields.io/github/last-commit/kpdecker/jsdiff?style=flat&logo=Polestar)
@@ -440,6 +441,8 @@
 - [X6](https://github.com/antvis/X6) - 基于 HTML 和 SVG 的图编辑引擎，提供低成本的定制能力和开箱即用的内置扩展，方便我们快速搭建 DAG 图、ER 图、流程图、血缘图等应用。 ![](https://img.shields.io/github/stars/antvis/X6?style=social) ![](https://img.shields.io/github/last-commit/antvis/X6?style=flat&logo=Polestar)
 - [amcharts4](https://github.com/amcharts/amcharts4) - 适用于 JavaScript 和 TypeScript 应用程序的最先进的 amCharts 图表库 ![](https://img.shields.io/github/stars/amcharts/amcharts4?style=social) ![](https://img.shields.io/github/last-commit/amcharts/amcharts4?style=flat&logo=Polestar)
 - [rough](https://github.com/rough-stuff/rough) - 手绘图形草图 ![](https://img.shields.io/github/stars/rough-stuff/rough?style=social) ![](https://img.shields.io/github/last-commit/rough-stuff/rough?style=flat&logo=Polestar)
+- [flowy](https://github.com/alyssaxuu/flowy) - 用于创建流程图的最小 JavaScript 库 ![](https://img.shields.io/github/stars/alyssaxuu/flowy?style=social) ![](https://img.shields.io/github/last-commit/alyssaxuu/flowy?style=flat&logo=Polestar)
+- [LogicFlow](https://github.com/didi/LogicFlow) - 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。 ![](https://img.shields.io/github/stars/didi/LogicFlow?style=social) ![](https://img.shields.io/github/last-commit/didi/LogicFlow?style=flat&logo=Polestar)
 
 ## Canvas
 - [Fabric.js](https://github.com/fabricjs/fabric.js) - canvas框架 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/last-commit/fabricjs/fabric.js?style=flat&logo=Polestar)
@@ -697,6 +700,8 @@
 - [sm-crypto](https://github.com/wechat-miniprogram/sm-crypto) - 小程序 js 库。国密算法 sm2、sm3 和 sm4 的实现 ![](https://img.shields.io/github/stars/wechat-miniprogram/sm-crypto?style=social) ![](https://img.shields.io/github/last-commit/wechat-miniprogram/sm-crypto?style=flat&logo=Polestar)
 - [WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos) - 微信小程序和小游戏的源码案例库 ![](https://img.shields.io/github/stars/Data-Camp/WeApp_Demos?style=social) ![](https://img.shields.io/github/last-commit/Data-Camp/WeApp_Demos?style=flat&logo=Polestar)
 - [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店 ![](https://img.shields.io/github/stars/EastWorld/wechat-app-mall?style=social) ![](https://img.shields.io/github/last-commit/EastWorld/wechat-app-mall?style=flat&logo=Polestar)
+- [dimina](https://github.com/didi/dimina) - 星河小程序 - 滴滴开源小程序 ![](https://img.shields.io/github/stars/didi/dimina?style=social) ![](https://img.shields.io/github/last-commit/didi/dimina?style=flat&logo=Polestar)
+- [mpx](https://github.com/didi/mpx) - 滴滴 Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架 ![](https://img.shields.io/github/stars/didi/mpx?style=social) ![](https://img.shields.io/github/last-commit/didi/mpx?style=flat&logo=Polestar)
 
 ## APP构建
 - [flutter](https://github.com/flutter/flutter) ![](https://img.shields.io/github/stars/flutter/flutter?style=social) ![](https://img.shields.io/github/last-commit/flutter/flutter?style=flat&logo=Polestar)
