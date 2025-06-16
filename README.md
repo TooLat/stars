@@ -982,6 +982,7 @@
 - [carbon](https://github.com/carbon-app/carbon) - 生成漂亮的分享源码的图片 ![](https://img.shields.io/github/stars/carbon-app/carbon?style=social) ![](https://img.shields.io/github/last-commit/carbon-app/carbon?style=flat&logo=Polestar)
 - [piskel](https://github.com/piskelapp/piskel) - 专注于像素艺术创作的工具 ![](https://img.shields.io/github/stars/piskelapp/piskel?style=social) ![](https://img.shields.io/github/last-commit/piskelapp/piskel?style=flat&logo=Polestar)
 - [poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。 ![](https://img.shields.io/github/stars/palxiao/poster-design?style=social) ![](https://img.shields.io/github/last-commit/palxiao/poster-design?style=flat&logo=Polestar)
+- [chili3d](https://github.com/xiangechen/chili3d) - 基于 Web 的 3D CAD 应用程序，用于在线模型设计和编辑 ![](https://img.shields.io/github/stars/xiangechen/chili3d?style=social) ![](https://img.shields.io/github/last-commit/xiangechen/chili3d?style=flat&logo=Polestar)
 
 ## 软件应用
 - [vscode](https://github.com/microsoft/vscode) - vscode ![](https://img.shields.io/github/stars/microsoft/vscode?style=social) ![](https://img.shields.io/github/last-commit/microsoft/vscode?style=flat&logo=Polestar)
@@ -1022,6 +1023,8 @@
 ## 大模型
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 ![](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?style=social) ![](https://img.shields.io/github/last-commit/HqWu-HITCS/Awesome-Chinese-LLM?style=flat&logo=Polestar)
 - [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用 ![](https://img.shields.io/github/stars/LlamaFamily/Llama-Chinese?style=social) ![](https://img.shields.io/github/last-commit/LlamaFamily/Llama-Chinese?style=flat&logo=Polestar)
+- [self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 ![](https://img.shields.io/github/stars/datawhalechina/self-llm?style=social) ![](https://img.shields.io/github/last-commit/datawhalechina/self-llm?style=flat&logo=Polestar)
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 超强LLM应用集锦 ![](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social) ![](https://img.shields.io/github/last-commit/Shubhamsaboo/awesome-llm-apps?style=flat&logo=Polestar)
 - [ollama](https://github.com/ollama/ollama) - 开始使用 Llama 3.2、Mistral、Gemma 2和其他大型语言模型 ![](https://img.shields.io/github/stars/ollama/ollama?style=social) ![](https://img.shields.io/github/last-commit/ollama/ollama?style=flat&logo=Polestar)
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - 本地部署大模型工具 ![](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social) ![](https://img.shields.io/github/last-commit/ggerganov/llama.cpp?style=flat&logo=Polestar)
 - [llamafile](https://github.com/Mozilla-Ocho/llamafile) - 本地部署大模型工具 ![](https://img.shields.io/github/stars/Mozilla-Ocho/llamafile?style=social) ![](https://img.shields.io/github/last-commit/Mozilla-Ocho/llamafile?style=flat&logo=Polestar)
