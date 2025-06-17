@@ -9,7 +9,7 @@
 - [page-lifecycle](https://github.com/GoogleChromeLabs/page-lifecycle) - 页面生命周期 ![](https://img.shields.io/github/stars/GoogleChromeLabs/page-lifecycle?style=social) ![](https://img.shields.io/github/last-commit/GoogleChromeLabs/page-lifecycle?style=flat&logo=Polestar)
 - [async-validator](https://github.com/yiminghe/async-validator) - 表单验证 ![](https://img.shields.io/github/stars/yiminghe/async-validator?style=social) ![](https://img.shields.io/github/last-commit/yiminghe/async-validator?style=flat&logo=Polestar)
 - [zx](https://github.com/google/zx) - 在 JavaScript 中编写命令行脚本 ![](https://img.shields.io/github/stars/google/zx?style=social) ![](https://img.shields.io/github/last-commit/google/zx?style=flat&logo=Polestar)
-- [flow](https://github.com/facebook/flow) - JavaScript 代码的静态类型检查器 ![](https://img.shields.io/github/stars/facebook/flow?style=social) ![](https://img.shields.io/github/last-commit/facebook/flow?style=flat&logo=Polestar)
+- [flow](https://github.com/facebook/flow) - 为 JavaScript 添加静态类型以提高开发人员的工作效率和代码质量 ![](https://img.shields.io/github/stars/facebook/flow?style=social) ![](https://img.shields.io/github/last-commit/facebook/flow?style=flat&logo=Polestar)
 
 ## TS
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript ![](https://img.shields.io/github/stars/microsoft/TypeScript?style=social) ![](https://img.shields.io/github/last-commit/microsoft/TypeScript?style=flat&logo=Polestar)
@@ -443,6 +443,8 @@
 - [rough](https://github.com/rough-stuff/rough) - 手绘图形草图 ![](https://img.shields.io/github/stars/rough-stuff/rough?style=social) ![](https://img.shields.io/github/last-commit/rough-stuff/rough?style=flat&logo=Polestar)
 - [flowy](https://github.com/alyssaxuu/flowy) - 用于创建流程图的最小 JavaScript 库 ![](https://img.shields.io/github/stars/alyssaxuu/flowy?style=social) ![](https://img.shields.io/github/last-commit/alyssaxuu/flowy?style=flat&logo=Polestar)
 - [LogicFlow](https://github.com/didi/LogicFlow) - 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。 ![](https://img.shields.io/github/stars/didi/LogicFlow?style=social) ![](https://img.shields.io/github/last-commit/didi/LogicFlow?style=flat&logo=Polestar)
+- [flowchart.js](https://github.com/adrai/flowchart.js) - 根据图表的文本表示绘制简单的 SVG 流程图 ![](https://img.shields.io/github/stars/adrai/flowchart.js?style=social) ![](https://img.shields.io/github/last-commit/adrai/flowchart.js?style=flat&logo=Polestar)
+- [bpmn-js](https://github.com/bpmn-io/bpmn-js) - 在浏览器中查看和编辑 BPMN 2.0 图表。创建、展示和编辑业务流程模型 ![](https://img.shields.io/github/stars/bpmn-io/bpmn-js?style=social) ![](https://img.shields.io/github/last-commit/bpmn-io/bpmn-js?style=flat&logo=Polestar)
 
 ## Canvas
 - [Fabric.js](https://github.com/fabricjs/fabric.js) - canvas框架 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/last-commit/fabricjs/fabric.js?style=flat&logo=Polestar)
@@ -639,6 +641,7 @@
 - [tres](https://github.com/Tresjs/tres) - 构建 3D WebGL ![](https://img.shields.io/github/stars/Tresjs/tres?style=social) ![](https://img.shields.io/github/last-commit/Tresjs/tres?style=flat&logo=Polestar)
 - [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) - 签名板组件 ![](https://img.shields.io/github/stars/neighborhood999/vue-signature-pad?style=social) ![](https://img.shields.io/github/last-commit/neighborhood999/vue-signature-pad?style=flat&logo=Polestar)
 - [vue-dompurify-html](https://github.com/LeSuisse/vue-dompurify-html) - v-html 指令的安全替代品 ![](https://img.shields.io/github/stars/LeSuisse/vue-dompurify-html?style=social) ![](https://img.shields.io/github/last-commit/LeSuisse/vue-dompurify-html?style=flat&logo=Polestar)
+- [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Vue 3 的高度可定制的流程图组件。具有无缝缩放和平移、小地图等附加组件 ![](https://img.shields.io/github/stars/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/last-commit/bcakmakoglu/vue-flow?style=flat&logo=Polestar)
 
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social) ![](https://img.shields.io/github/last-commit/facebook/react?style=flat&logo=Polestar)
@@ -664,6 +667,7 @@
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - 日期选择器 ![](https://img.shields.io/github/stars/Hacker0x01/react-datepicker?style=social) ![](https://img.shields.io/github/last-commit/Hacker0x01/react-datepicker?style=flat&logo=Polestar)
 - [TanStack/router](https://github.com/TanStack/router) - 路由器 ![](https://img.shields.io/github/stars/TanStack/router?style=social) ![](https://img.shields.io/github/last-commit/TanStack/router?style=flat&logo=Polestar)
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react) - 液体玻璃效果 ![](https://img.shields.io/github/stars/rdev/liquid-glass-react?style=social) ![](https://img.shields.io/github/last-commit/rdev/liquid-glass-react?style=flat&logo=Polestar)
+- [xyflow](https://github.com/xyflow/xyflow) - 流程图引擎，构建基于 React 或 Svelte 的节点界面（UI） ![](https://img.shields.io/github/stars/xyflow/xyflow?style=social) ![](https://img.shields.io/github/last-commit/xyflow/xyflow?style=flat&logo=Polestar)
 
 ## 后台管理模板
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - 中后台模板，采用 Vue 3、Vite、TypeScript ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin?style=flat&logo=Polestar)
@@ -987,12 +991,12 @@
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 创建API访问，对标 Postman ![](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social) ![](https://img.shields.io/github/last-commit/hoppscotch/hoppscotch?style=flat&logo=Polestar)
 - [carbon](https://github.com/carbon-app/carbon) - 生成漂亮的分享源码的图片 ![](https://img.shields.io/github/stars/carbon-app/carbon?style=social) ![](https://img.shields.io/github/last-commit/carbon-app/carbon?style=flat&logo=Polestar)
 - [piskel](https://github.com/piskelapp/piskel) - 专注于像素艺术创作的工具 ![](https://img.shields.io/github/stars/piskelapp/piskel?style=social) ![](https://img.shields.io/github/last-commit/piskelapp/piskel?style=flat&logo=Polestar)
+- [drawio](https://github.com/jgraph/drawio) - 绘图 ![](https://img.shields.io/github/stars/jgraph/drawio?style=social) ![](https://img.shields.io/github/last-commit/jgraph/drawio?style=flat&logo=Polestar)
 - [poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。 ![](https://img.shields.io/github/stars/palxiao/poster-design?style=social) ![](https://img.shields.io/github/last-commit/palxiao/poster-design?style=flat&logo=Polestar)
 - [chili3d](https://github.com/xiangechen/chili3d) - 基于 Web 的 3D CAD 应用程序，用于在线模型设计和编辑 ![](https://img.shields.io/github/stars/xiangechen/chili3d?style=social) ![](https://img.shields.io/github/last-commit/xiangechen/chili3d?style=flat&logo=Polestar)
 
 ## 软件应用
 - [vscode](https://github.com/microsoft/vscode) - vscode ![](https://img.shields.io/github/stars/microsoft/vscode?style=social) ![](https://img.shields.io/github/last-commit/microsoft/vscode?style=flat&logo=Polestar)
-- [drawio](https://github.com/jgraph/drawio) - 绘图 ![](https://img.shields.io/github/stars/jgraph/drawio?style=social) ![](https://img.shields.io/github/last-commit/jgraph/drawio?style=flat&logo=Polestar)
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - drawio桌面版 ![](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social) ![](https://img.shields.io/github/last-commit/jgraph/drawio-desktop?style=flat&logo=Polestar)
 - [excalidraw](https://github.com/excalidraw/excalidraw) - 手绘图 ![](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social) ![](https://img.shields.io/github/last-commit/excalidraw/excalidraw?style=flat&logo=Polestar)
 - [iina](https://github.com/iina/iina) - 视频播放器 ![](https://img.shields.io/github/stars/iina/iina?style=social) ![](https://img.shields.io/github/last-commit/iina/iina?style=flat&logo=Polestar)
