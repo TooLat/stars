@@ -131,6 +131,8 @@
 - [react-vant](https://github.com/3lang3/react-vant) - 基于 Vant 的 React 移动 UI 组件 ![](https://img.shields.io/github/stars/3lang3/react-vant?style=social) ![](https://img.shields.io/github/last-commit/3lang3/react-vant?style=flat&logo=Polestar)
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 基于 React 的 Bootstrap 框架 ![](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap?style=social) ![](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap?style=flat&logo=Polestar)
 - [heroui](https://github.com/heroui-inc/heroui) - 美观、快速、现代的 React UI 库。（前身为 NextUI） ![](https://img.shields.io/github/stars/heroui-inc/heroui?style=social) ![](https://img.shields.io/github/last-commit/heroui-inc/heroui?style=flat&logo=Polestar)
+- [react-native-web](https://github.com/necolas/react-native-web) - 跨平台 React UI 包 ![](https://img.shields.io/github/stars/necolas/react-native-web?style=social) ![](https://img.shields.io/github/last-commit/necolas/react-native-web?style=flat&logo=Polestar)
+- [blueprint](https://github.com/palantir/blueprint) - 基于 React 的 Web UI 工具包 ![](https://img.shields.io/github/stars/palantir/blueprint?style=social) ![](https://img.shields.io/github/last-commit/palantir/blueprint?style=flat&logo=Polestar)
 
 ## 图标
 - [xicons](https://github.com/07akioni/xicons) - 整合自 fluentui-system-icons、ionicons、ant-design-icons、material-design-icons、Font-Awesome tabler-icons 和 carbon 的 SVG Vue/React 组件 ![](https://img.shields.io/github/stars/07akioni/xicons?style=social) ![](https://img.shields.io/github/last-commit/07akioni/xicons?style=flat&logo=Polestar)
@@ -680,6 +682,7 @@
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React.js 的 three.js 渲染器 ![](https://img.shields.io/github/stars/pmndrs/react-three-fiber?style=social) ![](https://img.shields.io/github/last-commit/pmndrs/react-three-fiber?style=flat&logo=Polestar)
 - [use-immer](https://github.com/immerjs/use-immer) - 用于在 React 组件中使用 Immer 库的自定义钩子。Immer 是一个用于处理不可变数据结构的 JavaScript 库，它提供了一种简单而强大的方式来修改不可变数据，使得代码更易读、更易写 ![](https://img.shields.io/github/stars/immerjs/use-immer?style=social) ![](https://img.shields.io/github/last-commit/immerjs/use-immer?style=flat&logo=Polestar)
 - [react-router](https://github.com/remix-run/react-router) - 路由库 ![](https://img.shields.io/github/stars/remix-run/react-router?style=social) ![](https://img.shields.io/github/last-commit/remix-run/react-router?style=flat&logo=Polestar)
+- [react-navigation](https://github.com/react-navigation/react-navigation) - React Native 和 Web 应用的路由和导航 ![](https://img.shields.io/github/stars/react-navigation/react-navigation?style=social) ![](https://img.shields.io/github/last-commit/react-navigation/react-navigation?style=flat&logo=Polestar)
 - [react-use](https://github.com/streamich/react-use) - React Hooks集合 ![](https://img.shields.io/github/stars/streamich/react-use?style=social) ![](https://img.shields.io/github/last-commit/streamich/react-use?style=flat&logo=Polestar)
 - [redux](https://github.com/reduxjs/redux) - 状态管理 ![](https://img.shields.io/github/stars/reduxjs/redux?style=social) ![](https://img.shields.io/github/last-commit/reduxjs/redux?style=flat&logo=Polestar)
 - [zustand](https://github.com/pmndrs/zustand) - 状态管理 ![](https://img.shields.io/github/stars/pmndrs/zustand?style=social) ![](https://img.shields.io/github/last-commit/pmndrs/zustand?style=flat&logo=Polestar)
@@ -696,6 +699,7 @@
 - [react-spring](https://github.com/pmndrs/react-spring) - React 动画库 ![](https://img.shields.io/github/stars/pmndrs/react-spring?style=social) ![](https://img.shields.io/github/last-commit/pmndrs/react-spring?style=flat&logo=Polestar)
 - [recharts](https://github.com/recharts/recharts) - 基于 D3.js 的 React 图表库插件 ![](https://img.shields.io/github/stars/recharts/recharts?style=social) ![](https://img.shields.io/github/last-commit/recharts/recharts?style=flat&logo=Polestar)
 - [react-select](https://github.com/JedWatson/react-select) - React.js 的选择组件 ![](https://img.shields.io/github/stars/JedWatson/react-select?style=social) ![](https://img.shields.io/github/last-commit/JedWatson/react-select?style=flat&logo=Polestar)
+- [react-dnd](https://github.com/react-dnd/react-dnd) - React 拖放 ![](https://img.shields.io/github/stars/react-dnd/react-dnd?style=social) ![](https://img.shields.io/github/last-commit/react-dnd/react-dnd?style=flat&logo=Polestar)
 
 ## 后台管理模板
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - 中后台模板，采用 Vue 3、Vite、TypeScript ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin?style=flat&logo=Polestar)
@@ -1064,6 +1068,7 @@
 - [PicGo](https://github.com/Molunerfinn/PicGo) - 使用 vue-cli-electron-builder 构建的简洁美观的图片上传工具 ![](https://img.shields.io/github/stars/Molunerfinn/PicGo?style=social) ![](https://img.shields.io/github/last-commit/Molunerfinn/PicGo?style=flat&logo=Polestar)
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库 ![](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social) ![](https://img.shields.io/github/last-commit/hiroi-sora/Umi-OCR?style=flat&logo=Polestar)
 - [marktext](https://github.com/marktext/marktext) - 一个简单而优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows ![](https://img.shields.io/github/stars/marktext/marktext?style=social) ![](https://img.shields.io/github/last-commit/marktext/marktext?style=flat&logo=Polestar)
+- [notable](https://github.com/notable/notable) - 基于 Markdown 的笔记应用 ![](https://img.shields.io/github/stars/notable/notable?style=social) ![](https://img.shields.io/github/last-commit/notable/notable?style=flat&logo=Polestar)
 
 ## 系统工具
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social) ![](https://img.shields.io/github/last-commit/tj/n?style=flat&logo=Polestar)
