@@ -130,7 +130,7 @@
 - [arco-design](https://github.com/arco-design/arco-design) - 一个全面的基于 Arco 设计的 React UI 组件库 ![](https://img.shields.io/github/stars/arco-design/arco-design?style=social) ![](https://img.shields.io/github/last-commit/arco-design/arco-design?style=flat&logo=Polestar)
 - [react-vant](https://github.com/3lang3/react-vant) - 基于 Vant 的 React 移动 UI 组件 ![](https://img.shields.io/github/stars/3lang3/react-vant?style=social) ![](https://img.shields.io/github/last-commit/3lang3/react-vant?style=flat&logo=Polestar)
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 基于 React 的 Bootstrap 框架 ![](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap?style=social) ![](https://img.shields.io/github/last-commit/react-bootstrap/react-bootstrap?style=flat&logo=Polestar)
-- [recharts](https://github.com/recharts/recharts) - 基于 D3.js 的 React 图表库插件 ![](https://img.shields.io/github/stars/recharts/recharts?style=social) ![](https://img.shields.io/github/last-commit/recharts/recharts?style=flat&logo=Polestar)
+- [heroui](https://github.com/heroui-inc/heroui) - 美观、快速、现代的 React UI 库。（前身为 NextUI） ![](https://img.shields.io/github/stars/heroui-inc/heroui?style=social) ![](https://img.shields.io/github/last-commit/heroui-inc/heroui?style=flat&logo=Polestar)
 
 ## 图标
 - [xicons](https://github.com/07akioni/xicons) - 整合自 fluentui-system-icons、ionicons、ant-design-icons、material-design-icons、Font-Awesome tabler-icons 和 carbon 的 SVG Vue/React 组件 ![](https://img.shields.io/github/stars/07akioni/xicons?style=social) ![](https://img.shields.io/github/last-commit/07akioni/xicons?style=flat&logo=Polestar)
@@ -141,6 +141,7 @@
 - [feather](https://github.com/feathericons/feather) ![](https://img.shields.io/github/stars/feathericons/feather?style=social) ![](https://img.shields.io/github/last-commit/feathericons/feather?style=flat&logo=Polestar)
 - [unplugin-icons](https://github.com/unplugin/unplugin-icons) - 作为组件使用图标 ![](https://img.shields.io/github/stars/unplugin/unplugin-icons?style=social) ![](https://img.shields.io/github/last-commit/unplugin/unplugin-icons?style=flat&logo=Polestar)
 - [RemixIcon](https://github.com/Remix-Design/RemixIcon) ![](https://img.shields.io/github/stars/Remix-Design/RemixIcon?style=social) ![](https://img.shields.io/github/last-commit/Remix-Design/RemixIcon?style=flat&logo=Polestar)
+- [lucide](https://github.com/lucide-icons/lucide) ![](https://img.shields.io/github/stars/lucide-icons/lucide?style=social) ![](https://img.shields.io/github/last-commit/lucide-icons/lucide?style=flat&logo=Polestar)
 
 ## 框架
 - [jquery](https://github.com/jquery/jquery) ![](https://img.shields.io/github/stars/jquery/jquery?style=social) ![](https://img.shields.io/github/last-commit/jquery/jquery?style=flat&logo=Polestar)
@@ -672,6 +673,7 @@
 - [create-react-app](https://github.com/facebook/create-react-app) - 构建react应用 ![](https://img.shields.io/github/stars/facebook/create-react-app?style=social) ![](https://img.shields.io/github/last-commit/facebook/create-react-app?style=flat&logo=Polestar)
 - [react-demos](https://github.com/ruanyf/react-demos) - demo ![](https://img.shields.io/github/stars/ruanyf/react-demos?style=social) ![](https://img.shields.io/github/last-commit/ruanyf/react-demos?style=flat&logo=Polestar)
 - [alibaba/hooks](https://github.com/alibaba/hooks) - 一个高质量和可靠的 React Hooks 库 ![](https://img.shields.io/github/stars/alibaba/hooks?style=social) ![](https://img.shields.io/github/last-commit/alibaba/hooks?style=flat&logo=Polestar)
+- [swr](https://github.com/vercel/swr) - 用于数据获取的 React Hooks ![](https://img.shields.io/github/stars/vercel/swr?style=social) ![](https://img.shields.io/github/last-commit/vercel/swr?style=flat&logo=Polestar)
 - [dvajs/dva](https://github.com/dvajs/dva) - 基于 redux 和 redux-saga 的数据流方案 ![](https://img.shields.io/github/stars/dvajs/dva?style=social) ![](https://img.shields.io/github/last-commit/dvajs/dva?style=flat&logo=Polestar)
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - react30天挑战 ![](https://img.shields.io/github/stars/Asabeneh/30-Days-Of-React?style=social) ![](https://img.shields.io/github/last-commit/Asabeneh/30-Days-Of-React?style=flat&logo=Polestar)
 - [react-design-editor](https://github.com/salgum1114/react-design-editor) - 图像/视频在线编辑器 ![](https://img.shields.io/github/stars/salgum1114/react-design-editor?style=social) ![](https://img.shields.io/github/last-commit/salgum1114/react-design-editor?style=flat&logo=Polestar)
@@ -691,6 +693,9 @@
 - [TanStack/router](https://github.com/TanStack/router) - 路由器 ![](https://img.shields.io/github/stars/TanStack/router?style=social) ![](https://img.shields.io/github/last-commit/TanStack/router?style=flat&logo=Polestar)
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react) - 液体玻璃效果 ![](https://img.shields.io/github/stars/rdev/liquid-glass-react?style=social) ![](https://img.shields.io/github/last-commit/rdev/liquid-glass-react?style=flat&logo=Polestar)
 - [xyflow](https://github.com/xyflow/xyflow) - 流程图引擎，构建基于 React 或 Svelte 的节点界面（UI） ![](https://img.shields.io/github/stars/xyflow/xyflow?style=social) ![](https://img.shields.io/github/last-commit/xyflow/xyflow?style=flat&logo=Polestar)
+- [react-spring](https://github.com/pmndrs/react-spring) - React 动画库 ![](https://img.shields.io/github/stars/pmndrs/react-spring?style=social) ![](https://img.shields.io/github/last-commit/pmndrs/react-spring?style=flat&logo=Polestar)
+- [recharts](https://github.com/recharts/recharts) - 基于 D3.js 的 React 图表库插件 ![](https://img.shields.io/github/stars/recharts/recharts?style=social) ![](https://img.shields.io/github/last-commit/recharts/recharts?style=flat&logo=Polestar)
+- [react-select](https://github.com/JedWatson/react-select) - React.js 的选择组件 ![](https://img.shields.io/github/stars/JedWatson/react-select?style=social) ![](https://img.shields.io/github/last-commit/JedWatson/react-select?style=flat&logo=Polestar)
 
 ## 后台管理模板
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - 中后台模板，采用 Vue 3、Vite、TypeScript ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin?style=flat&logo=Polestar)
@@ -1058,6 +1063,7 @@
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP代理工具 ![](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=social) ![](https://img.shields.io/github/last-commit/mitmproxy/mitmproxy?style=flat&logo=Polestar)
 - [PicGo](https://github.com/Molunerfinn/PicGo) - 使用 vue-cli-electron-builder 构建的简洁美观的图片上传工具 ![](https://img.shields.io/github/stars/Molunerfinn/PicGo?style=social) ![](https://img.shields.io/github/last-commit/Molunerfinn/PicGo?style=flat&logo=Polestar)
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库 ![](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social) ![](https://img.shields.io/github/last-commit/hiroi-sora/Umi-OCR?style=flat&logo=Polestar)
+- [marktext](https://github.com/marktext/marktext) - 一个简单而优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows ![](https://img.shields.io/github/stars/marktext/marktext?style=social) ![](https://img.shields.io/github/last-commit/marktext/marktext?style=flat&logo=Polestar)
 
 ## 系统工具
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social) ![](https://img.shields.io/github/last-commit/tj/n?style=flat&logo=Polestar)
