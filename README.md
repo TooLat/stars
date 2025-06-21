@@ -1077,6 +1077,9 @@
 - [notable](https://github.com/notable/notable) - 基于 Markdown 的笔记应用 ![](https://img.shields.io/github/stars/notable/notable?style=social) ![](https://img.shields.io/github/last-commit/notable/notable?style=flat&logo=Polestar)
 - [mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端 ![](https://img.shields.io/github/stars/caorushizi/mediago?style=social) ![](https://img.shields.io/github/last-commit/caorushizi/mediago?style=flat&logo=Polestar)
 
+## 软件应用 - APP
+- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 ![](https://img.shields.io/github/stars/CarGuo/GSYVideoPlayer?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/GSYVideoPlayer?style=flat&logo=Polestar)
+
 ## 系统工具
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social) ![](https://img.shields.io/github/last-commit/tj/n?style=flat&logo=Polestar)
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理工具 ![](https://img.shields.io/github/stars/nvm-sh/nvm?style=social) ![](https://img.shields.io/github/last-commit/nvm-sh/nvm?style=flat&logo=Polestar)
@@ -1092,7 +1095,6 @@
 - [screenity](https://github.com/alyssaxuu/screenity) - 屏幕录制插件 ![](https://img.shields.io/github/stars/alyssaxuu/screenity?style=social) ![](https://img.shields.io/github/last-commit/alyssaxuu/screenity?style=flat&logo=Polestar)
 - [cat-catch](https://github.com/xifangczy/cat-catch) - 资源嗅探扩展（视频、音频下载） ![](https://img.shields.io/github/stars/xifangczy/cat-catch?style=social) ![](https://img.shields.io/github/last-commit/xifangczy/cat-catch?style=flat&logo=Polestar)
 - [automa](https://github.com/AutomaApp/automa) - 自动化插件，通过可视化拖拽界面或编写脚本来自动化完成网页操作 ![](https://img.shields.io/github/stars/AutomaApp/automa?style=social) ![](https://img.shields.io/github/last-commit/AutomaApp/automa?style=flat&logo=Polestar)
-
 
 ## 微信插件
 - [wechat-bot](https://github.com/wangrongding/wechat-bot) - 一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... ![](https://img.shields.io/github/stars/wangrongding/wechat-bot?style=social) ![](https://img.shields.io/github/last-commit/wangrongding/wechat-bot?style=flat&logo=Polestar)
