@@ -385,6 +385,7 @@
 - [trix](https://github.com/basecamp/trix) ![](https://img.shields.io/github/stars/basecamp/trix?style=social) ![](https://img.shields.io/github/last-commit/basecamp/trix?style=flat&logo=Polestar)
 - [editor.js](https://github.com/codex-team/editor.js) - 输出 JSON 数据 ![](https://img.shields.io/github/stars/codex-team/editor.js?style=social) ![](https://img.shields.io/github/last-commit/codex-team/editor.js?style=flat&logo=Polestar)
 - [slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于构建富文本编辑器。（非开箱即用，需要二开） ![](https://img.shields.io/github/stars/ianstormtaylor/slate?style=social) ![](https://img.shields.io/github/last-commit/ianstormtaylor/slate?style=flat&logo=Polestar)
+- [canvas-editor](https://github.com/Hufe921/canvas-editor) - 基于canvas/svg的富文本编辑器 ![](https://img.shields.io/github/stars/Hufe921/canvas-editor?style=social) ![](https://img.shields.io/github/last-commit/Hufe921/canvas-editor?style=flat&logo=Polestar)
 
 ## 代码编辑器
 - [codemirror5](https://github.com/codemirror/codemirror5) - 代码编辑器 ![](https://img.shields.io/github/stars/codemirror/codemirror5?style=social) ![](https://img.shields.io/github/last-commit/codemirror/codemirror5?style=flat&logo=Polestar)
@@ -720,6 +721,7 @@
 - [refine](https://github.com/refinedev/refine) - React 后台管理系统 ![](https://img.shields.io/github/stars/refinedev/refine?style=social) ![](https://img.shields.io/github/last-commit/refinedev/refine?style=flat&logo=Polestar)
 - [react-admin](https://github.com/marmelab/react-admin) - 一个基于 REST/GraphQL APIS 的单页应用前端框架，使用 TypeScript、React 和 Material Design ![](https://img.shields.io/github/stars/marmelab/react-admin?style=social) ![](https://img.shields.io/github/last-commit/marmelab/react-admin?style=flat&logo=Polestar)
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Angular 10+ ![](https://img.shields.io/github/stars/akveo/ngx-admin?style=social) ![](https://img.shields.io/github/last-commit/akveo/ngx-admin?style=flat&logo=Polestar)
+- [shadcn-admin](https://github.com/satnaing/shadcn-admin) - 使用 Shadcn 和 Vite 构建 ![](https://img.shields.io/github/stars/satnaing/shadcn-admin?style=social) ![](https://img.shields.io/github/last-commit/satnaing/shadcn-admin?style=flat&logo=Polestar)
 
 ## 全端
 - [yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能 ![](https://img.shields.io/github/stars/YunaiV/yudao-cloud?style=social) ![](https://img.shields.io/github/last-commit/YunaiV/yudao-cloud?style=flat&logo=Polestar)
@@ -784,6 +786,7 @@
 - [uview-plus](https://github.com/ijry/uview-plus) UI框架 (vue3) ![](https://img.shields.io/github/stars/ijry/uview-plus?style=social) ![](https://img.shields.io/github/last-commit/ijry/uview-plus?style=flat&logo=Polestar)
 - [uni-simple-router](https://github.com/SilurianYang/uni-simple-router) - 路由 ![](https://img.shields.io/github/stars/SilurianYang/uni-simple-router?style=social) ![](https://img.shields.io/github/last-commit/SilurianYang/uni-simple-router?style=flat&logo=Polestar)
 - [unibest](https://github.com/codercup/unibest) -  uniapp 开发模板。由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板 ![](https://img.shields.io/github/stars/codercup/unibest?style=social) ![](https://img.shields.io/github/last-commit/codercup/unibest?style=flat&logo=Polestar)
+- [unibest](https://github.com/unibest-tech/unibest) -  uniapp 开发模板。由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI 驱动的跨端快速启动模板 ![](https://img.shields.io/github/stars/codercup/unibest?style=social) ![](https://img.shields.io/github/last-commit/codercup/unibest?style=flat&logo=Polestar)
 - [miniprogram-to-uniapp](https://github.com/zhangdaren/miniprogram-to-uniapp) - 轻松将各种小程序转换为 uni-app 项目 ![](https://img.shields.io/github/stars/zhangdaren/miniprogram-to-uniapp?style=social) ![](https://img.shields.io/github/last-commit/zhangdaren/miniprogram-to-uniapp?style=flat&logo=Polestar)
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet) - 在小程序 (UniApp 和 Taro) 中使用 UnoCSS，兼容不支持的语法。 ![](https://img.shields.io/github/stars/unocss-applet/unocss-applet?style=social) ![](https://img.shields.io/github/last-commit/unocss-applet/unocss-applet?style=flat&logo=Polestar)
 - [uni-z-paging](https://github.com/SmileZXLee/uni-z-paging) - 【uni-app下拉刷新、上拉加载】高性能，全平台兼容。支持vue、nvue、vue2、vue3，使用wxs+renderjs实现。支持虚拟列表，支持自定义下拉刷新、上拉加载更多，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持国际化等100+项配置 ![](https://img.shields.io/github/stars/SmileZXLee/uni-z-paging?style=social) ![](https://img.shields.io/github/last-commit/SmileZXLee/uni-z-paging?style=flat&logo=Polestar)
@@ -849,6 +852,7 @@
 - [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。 ![](https://img.shields.io/github/stars/baidu/amis?style=social) ![](https://img.shields.io/github/last-commit/baidu/amis?style=flat&logo=Polestar)
 - [lowcode-engine](https://github.com/alibaba/lowcode-engine) - 一套面向扩展设计的企业级低代码技术体系 ![](https://img.shields.io/github/stars/alibaba/lowcode-engine?style=social) ![](https://img.shields.io/github/last-commit/alibaba/lowcode-engine?style=flat&logo=Polestar)
 - [visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目 ![](https://img.shields.io/github/stars/woai3c/visual-drag-demo?style=social) ![](https://img.shields.io/github/last-commit/woai3c/visual-drag-demo?style=flat&logo=Polestar)
+- [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具 ![](https://img.shields.io/github/stars/buqiyuan/vite-vue3-lowcode?style=social) ![](https://img.shields.io/github/last-commit/buqiyuan/vite-vue3-lowcode?style=flat&logo=Polestar)
 
 ## 数据库
 - [alasql](https://github.com/AlaSQL/alasql) - js SQL数据库 ![](https://img.shields.io/github/stars/AlaSQL/alasql?style=social) ![](https://img.shields.io/github/last-commit/AlaSQL/alasql?style=flat&logo=Polestar)
@@ -1049,6 +1053,7 @@
 - [drawio](https://github.com/jgraph/drawio) - 绘图 ![](https://img.shields.io/github/stars/jgraph/drawio?style=social) ![](https://img.shields.io/github/last-commit/jgraph/drawio?style=flat&logo=Polestar)
 - [poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。 ![](https://img.shields.io/github/stars/palxiao/poster-design?style=social) ![](https://img.shields.io/github/last-commit/palxiao/poster-design?style=flat&logo=Polestar)
 - [chili3d](https://github.com/xiangechen/chili3d) - 基于 Web 的 3D CAD 应用程序，用于在线模型设计和编辑 ![](https://img.shields.io/github/stars/xiangechen/chili3d?style=social) ![](https://img.shields.io/github/last-commit/xiangechen/chili3d?style=flat&logo=Polestar)
+- [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 一个纯前端实现的头像生成网站 ![](https://img.shields.io/github/stars/Codennnn/vue-color-avatar?style=social) ![](https://img.shields.io/github/last-commit/Codennnn/vue-color-avatar?style=flat&logo=Polestar)
 
 ## 软件应用
 - [vscode](https://github.com/microsoft/vscode) - vscode ![](https://img.shields.io/github/stars/microsoft/vscode?style=social) ![](https://img.shields.io/github/last-commit/microsoft/vscode?style=flat&logo=Polestar)
@@ -1057,6 +1062,7 @@
 - [iina](https://github.com/iina/iina) - 视频播放器 ![](https://img.shields.io/github/stars/iina/iina?style=social) ![](https://img.shields.io/github/last-commit/iina/iina?style=flat&logo=Polestar)
 - [mpv](https://github.com/mpv-player/mpv) - 视频播放器 ![](https://img.shields.io/github/stars/mpv-player/mpv?style=social) ![](https://img.shields.io/github/last-commit/mpv-player/mpv?style=flat&logo=Polestar)
 - [ZY-Player](https://github.com/Hunlongyu/ZY-Player) - 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值 ![](https://img.shields.io/github/stars/Hunlongyu/ZY-Player?style=social) ![](https://img.shields.io/github/last-commit/Hunlongyu/ZY-Player?style=flat&logo=Polestar)
+- [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值 ![](https://img.shields.io/github/stars/Hiram-Wong/ZyPlayer?style=social) ![](https://img.shields.io/github/last-commit/Hiram-Wong/ZyPlayer?style=flat&logo=Polestar)
 - [Snipaste](https://github.com/Snipaste) - 截图贴图工具 ![](https://img.shields.io/github/stars/Snipaste?style=social) ![](https://img.shields.io/github/last-commit/Snipaste?style=flat&logo=Polestar)
 - [Wox](https://github.com/Wox-launcher/Wox) - Windows 应用程序启动器和搜索工具 ![](https://img.shields.io/github/stars/Wox-launcher/Wox?style=social) ![](https://img.shields.io/github/last-commit/Wox-launcher/Wox?style=flat&logo=Polestar)
 - [bruno](https://github.com/usebruno/bruno) - 一款仅限离线（无需登录）使用的 API 客户端桌面工具，可用来测试和请求 API ![](https://img.shields.io/github/stars/usebruno/bruno?style=social) ![](https://img.shields.io/github/last-commit/usebruno/bruno?style=flat&logo=Polestar)
@@ -1069,6 +1075,7 @@
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库 ![](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=social) ![](https://img.shields.io/github/last-commit/hiroi-sora/Umi-OCR?style=flat&logo=Polestar)
 - [marktext](https://github.com/marktext/marktext) - 一个简单而优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows ![](https://img.shields.io/github/stars/marktext/marktext?style=social) ![](https://img.shields.io/github/last-commit/marktext/marktext?style=flat&logo=Polestar)
 - [notable](https://github.com/notable/notable) - 基于 Markdown 的笔记应用 ![](https://img.shields.io/github/stars/notable/notable?style=social) ![](https://img.shields.io/github/last-commit/notable/notable?style=flat&logo=Polestar)
+- [mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端 ![](https://img.shields.io/github/stars/caorushizi/mediago?style=social) ![](https://img.shields.io/github/last-commit/caorushizi/mediago?style=flat&logo=Polestar)
 
 ## 系统工具
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social) ![](https://img.shields.io/github/last-commit/tj/n?style=flat&logo=Polestar)
