@@ -416,6 +416,7 @@
 - [maptalks.js](https://github.com/maptalks/maptalks.js) - 用于集成 2D/3D 地图的轻量级、可插入式 JavaScript 库 ![](https://img.shields.io/github/stars/maptalks/maptalks.js?style=social) ![](https://img.shields.io/github/last-commit/maptalks/maptalks.js?style=flat&logo=Polestar)
 - [turf](https://github.com/Turfjs/turf) - 地理空间分析库，进行空间数据的操作、分析和可视化 ![](https://img.shields.io/github/stars/Turfjs/turf?style=social) ![](https://img.shields.io/github/last-commit/Turfjs/turf?style=flat&logo=Polestar)
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具 ![](https://img.shields.io/github/stars/hujiulong/gcoord?style=social) ![](https://img.shields.io/github/last-commit/hujiulong/gcoord?style=flat&logo=Polestar)
+- [L7](https://github.com/antvis/L7) - 基于 WebGL 的大规模地理空间数据可视化分析引擎 ![](https://img.shields.io/github/stars/antvis/L7?style=social) ![](https://img.shields.io/github/last-commit/antvis/L7?style=flat&logo=Polestar)
 
 ## 移动端插件
 - [callapp-lib](https://github.com/suanmei/callapp-lib) - H5 唤起 APP 的解决方案 ![](https://img.shields.io/github/stars/suanmei/callapp-lib?style=social) ![](https://img.shields.io/github/last-commit/suanmei/callapp-lib?style=flat&logo=Polestar)
@@ -463,6 +464,7 @@
 - [rete](https://github.com/retejs/rete) -  构建可视化的图形编程界面 ![](https://img.shields.io/github/stars/retejs/rete?style=social) ![](https://img.shields.io/github/last-commit/retejs/rete?style=flat&logo=Polestar)
 - [roughViz](https://github.com/jwilber/roughViz) - 创建手绘风格的图表（条形图、水平条形图、圆环图、折线图、饼图、散点图和堆积条形图等） ![](https://img.shields.io/github/stars/jwilber/roughViz?style=social) ![](https://img.shields.io/github/last-commit/jwilber/roughViz?style=flat&logo=Polestar)
 - [X6](https://github.com/antvis/X6) - 基于 HTML 和 SVG 的图编辑引擎，提供低成本的定制能力和开箱即用的内置扩展，方便我们快速搭建 DAG 图、ER 图、流程图、血缘图等应用。 ![](https://img.shields.io/github/stars/antvis/X6?style=social) ![](https://img.shields.io/github/last-commit/antvis/X6?style=flat&logo=Polestar)
+- [F2](https://github.com/antvis/F2) - 移动端可视化引擎 ![](https://img.shields.io/github/stars/antvis/F2?style=social) ![](https://img.shields.io/github/last-commit/antvis/F2?style=flat&logo=Polestar)
 - [amcharts4](https://github.com/amcharts/amcharts4) - 适用于 JavaScript 和 TypeScript 应用程序的最先进的 amCharts 图表库 ![](https://img.shields.io/github/stars/amcharts/amcharts4?style=social) ![](https://img.shields.io/github/last-commit/amcharts/amcharts4?style=flat&logo=Polestar)
 - [rough](https://github.com/rough-stuff/rough) - 手绘图形草图 ![](https://img.shields.io/github/stars/rough-stuff/rough?style=social) ![](https://img.shields.io/github/last-commit/rough-stuff/rough?style=flat&logo=Polestar)
 - [flowy](https://github.com/alyssaxuu/flowy) - 用于创建流程图的最小 JavaScript 库 ![](https://img.shields.io/github/stars/alyssaxuu/flowy?style=social) ![](https://img.shields.io/github/last-commit/alyssaxuu/flowy?style=flat&logo=Polestar)
@@ -760,11 +762,18 @@
 - [flutter](https://github.com/flutter/flutter) ![](https://img.shields.io/github/stars/flutter/flutter?style=social) ![](https://img.shields.io/github/last-commit/flutter/flutter?style=flat&logo=Polestar)
 - [flutter/plugins](https://github.com/flutter/plugins) - Flutter 插件 ![](https://img.shields.io/github/stars/flutter/plugins?style=social) ![](https://img.shields.io/github/last-commit/flutter/plugins?style=flat&logo=Polestar)
 - [flutter/samples](https://github.com/flutter/samples) - Flutter 示例集合 ![](https://img.shields.io/github/stars/flutter/samples?style=social) ![](https://img.shields.io/github/last-commit/flutter/samples?style=flat&logo=Polestar)
+- [gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用 ![](https://img.shields.io/github/stars/CarGuo/gsy_github_app_flutter?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/gsy_github_app_flutter?style=flat&logo=Polestar)
+- [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) -  Flutter 完整开发实战详解系列 ![](https://img.shields.io/github/stars/CarGuo/gsy_flutter_book?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/gsy_flutter_book?style=flat&logo=Polestar)
+- [gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo) -  Flutter 独立例子 ![](https://img.shields.io/github/stars/CarGuo/gsy_flutter_demo?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/gsy_flutter_demo?style=flat&logo=Polestar)
 - [flutter-picgo](https://github.com/PicGo/flutter-picgo) - Flutter 打造的一款简洁美观的移动端图片上传工具 ![](https://img.shields.io/github/stars/PicGo/flutter-picgo?style=social) ![](https://img.shields.io/github/last-commit/PicGo/flutter-picgo?style=flat&logo=Polestar)
 - [react-native](https://github.com/facebook/react-native) - 移动应用 ![](https://img.shields.io/github/stars/facebook/react-native?style=social) ![](https://img.shields.io/github/last-commit/facebook/react-native?style=flat&logo=Polestar)
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React-Native 学习指南 ![](https://img.shields.io/github/stars/reactnativecn/react-native-guide?style=social) ![](https://img.shields.io/github/last-commit/reactnativecn/react-native-guide?style=flat&logo=Polestar)
+- [GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - 超完整的React Native项目，功能丰富，适合学习和日常使用 ![](https://img.shields.io/github/stars/CarGuo/GSYGithubAPP?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/GSYGithubAPP?style=flat&logo=Polestar)
 - [NativeScript](https://github.com/NativeScript/NativeScript) ![](https://img.shields.io/github/stars/NativeScript/NativeScript?style=social) ![](https://img.shields.io/github/last-commit/NativeScript/NativeScript?style=flat&logo=Polestar)
 - [weex](https://github.com/alibaba/weex) ![](https://img.shields.io/github/stars/alibaba/weex?style=social) ![](https://img.shields.io/github/last-commit/alibaba/weex?style=flat&logo=Polestar)
+
+## APP
+- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 ![](https://img.shields.io/github/stars/CarGuo/GSYVideoPlayer?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/GSYVideoPlayer?style=flat&logo=Polestar)
 
 ## 多端开发
 - [uni-app](https://github.com/dcloudio/uni-app) - uniapp ![](https://img.shields.io/github/stars/dcloudio/uni-app?style=social) ![](https://img.shields.io/github/last-commit/dcloudio/uni-app?style=flat&logo=Polestar)
@@ -1076,9 +1085,6 @@
 - [marktext](https://github.com/marktext/marktext) - 一个简单而优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows ![](https://img.shields.io/github/stars/marktext/marktext?style=social) ![](https://img.shields.io/github/last-commit/marktext/marktext?style=flat&logo=Polestar)
 - [notable](https://github.com/notable/notable) - 基于 Markdown 的笔记应用 ![](https://img.shields.io/github/stars/notable/notable?style=social) ![](https://img.shields.io/github/last-commit/notable/notable?style=flat&logo=Polestar)
 - [mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端 ![](https://img.shields.io/github/stars/caorushizi/mediago?style=social) ![](https://img.shields.io/github/last-commit/caorushizi/mediago?style=flat&logo=Polestar)
-
-## 软件应用 - APP
-- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 ![](https://img.shields.io/github/stars/CarGuo/GSYVideoPlayer?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/GSYVideoPlayer?style=flat&logo=Polestar)
 
 ## 系统工具
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social) ![](https://img.shields.io/github/last-commit/tj/n?style=flat&logo=Polestar)
