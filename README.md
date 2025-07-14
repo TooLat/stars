@@ -11,6 +11,10 @@
 - [zx](https://github.com/google/zx) - 在 JavaScript 中编写命令行脚本 ![](https://img.shields.io/github/stars/google/zx?style=social) ![](https://img.shields.io/github/last-commit/google/zx?style=flat&logo=Polestar)
 - [flow](https://github.com/facebook/flow) - 为 JavaScript 添加静态类型以提高开发人员的工作效率和代码质量 ![](https://img.shields.io/github/stars/facebook/flow?style=social) ![](https://img.shields.io/github/last-commit/facebook/flow?style=flat&logo=Polestar)
 
+## JS 运行
+- [deno](https://github.com/denoland/deno) - 现代的 JavaScript 和 TypeScript 运行环境 ![](https://img.shields.io/github/stars/denoland/deno?style=social) ![](https://img.shields.io/github/last-commit/denoland/deno?style=flat&logo=Polestar)
+- [bun](https://github.com/oven-sh/bun) - 速度超快的 JavaScript 运行时、捆绑器、测试运行器和包管理器——集于一身 ![](https://img.shields.io/github/stars/oven-sh/bun?style=social) ![](https://img.shields.io/github/last-commit/oven-sh/bun?style=flat&logo=Polestar)
+
 ## TS
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript ![](https://img.shields.io/github/stars/microsoft/TypeScript?style=social) ![](https://img.shields.io/github/last-commit/microsoft/TypeScript?style=flat&logo=Polestar)
 - [type-challenges](https://github.com/type-challenges/type-challenges) - TS挑战 ![](https://img.shields.io/github/stars/type-challenges/type-challenges?style=social) ![](https://img.shields.io/github/last-commit/type-challenges/type-challenges?style=flat&logo=Polestar)
@@ -1155,8 +1159,6 @@
 - [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social) ![](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat&logo=Polestar)
 - [laf](https://github.com/labring/laf) - laf 是开源的云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者专注于业务开发，无需折腾服务器，快速释放创意 ![](https://img.shields.io/github/stars/labring/laf?style=social) ![](https://img.shields.io/github/last-commit/labring/laf?style=flat&logo=Polestar)
 - [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - emoji 表情 ![](https://img.shields.io/github/stars/WebpageFX/emoji-cheat-sheet.com?style=social) ![](https://img.shields.io/github/last-commit/WebpageFX/emoji-cheat-sheet.com?style=flat&logo=Polestar)
-- [deno](https://github.com/denoland/deno) - 现代的 JavaScript 和 TypeScript 运行环境 ![](https://img.shields.io/github/stars/denoland/deno?style=social) ![](https://img.shields.io/github/last-commit/denoland/deno?style=flat&logo=Polestar)
-- [bun](https://github.com/oven-sh/bun) - 新的js运行环境，类似node ![](https://img.shields.io/github/stars/oven-sh/bun?style=social) ![](https://img.shields.io/github/last-commit/oven-sh/bun?style=flat&logo=Polestar)
 - [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social) ![](https://img.shields.io/github/last-commit/didi/DoKit?style=flat&logo=Polestar)
 - [grapesjs](https://github.com/artf/grapesjs) - web模板编辑器 ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) ![](https://img.shields.io/github/last-commit/artf/grapesjs?style=flat&logo=Polestar)
 - [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - 一键免费部署你的跨平台私人 ChatGPT 应用 ![](https://img.shields.io/github/stars/ChatGPTNextWeb/ChatGPT-Next-Web?style=social) ![](https://img.shields.io/github/last-commit/ChatGPTNextWeb/ChatGPT-Next-Web?style=flat&logo=Polestar)
