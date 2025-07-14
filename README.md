@@ -514,6 +514,8 @@
 - [auto-animate](https://github.com/formkit/auto-animate) - 为网页元素创建流畅、自动化的动画效果 ![](https://img.shields.io/github/stars/formkit/auto-animate?style=social) ![](https://img.shields.io/github/last-commit/formkit/auto-animate?style=flat&logo=Polestar)
 - [motion](https://github.com/motiondivision/motion) - 用于 React 和 JavaScript 的现代动画库 ![](https://img.shields.io/github/stars/motiondivision/motion?style=social) ![](https://img.shields.io/github/last-commit/motiondivision/motion?style=flat&logo=Polestar)
 - [motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue ![](https://img.shields.io/github/stars/motiondivision/motion-vue?style=social) ![](https://img.shields.io/github/last-commit/motiondivision/motion-vue?style=flat&logo=Polestar)
+- [engine](https://github.com/galacean/engine) - Web 3D 引擎，移动优先的游戏和互动应用在线创作平台 ![](https://img.shields.io/github/stars/galacean/engine?style=social) ![](https://img.shields.io/github/last-commit/galacean/engine?style=flat&logo=Polestar)
+- [effects-runtime](https://github.com/galacean/effects-runtime) - 动效制作 ![](https://img.shields.io/github/stars/galacean/effects-runtime?style=social) ![](https://img.shields.io/github/last-commit/galacean/effects-runtime?style=flat&logo=Polestar)
 
 ## 其他插件
 - [page.js](https://github.com/visionmedia/page.js) - 路由器 ![](https://img.shields.io/github/stars/visionmedia/page.js?style=social) ![](https://img.shields.io/github/last-commit/visionmedia/page.js?style=flat&logo=Polestar)
