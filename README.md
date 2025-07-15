@@ -423,6 +423,9 @@
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具 ![](https://img.shields.io/github/stars/hujiulong/gcoord?style=social) ![](https://img.shields.io/github/last-commit/hujiulong/gcoord?style=flat&logo=Polestar)
 - [topojson](https://github.com/topojson/topojson) - 地理空间数据格式 ![](https://img.shields.io/github/stars/topojson/topojson?style=social) ![](https://img.shields.io/github/last-commit/topojson/topojson?style=flat&logo=Polestar)
 - [shapefile-js](https://github.com/calvinmetcalf/shapefile-js) - 将 Shapefile 转换为 GeoJSON ![](https://img.shields.io/github/stars/calvinmetcalf/shapefile-js?style=social) ![](https://img.shields.io/github/last-commit/calvinmetcalf/shapefile-js?style=flat&logo=Polestar)
+- [gdal](https://github.com/OSGeo/gdal) - GDAL 是一个开源的 MIT 许可的栅格和矢量地理空间数据格式转换库 ![](https://img.shields.io/github/stars/OSGeo/gdal?style=social) ![](https://img.shields.io/github/last-commit/OSGeo/gdal?style=flat&logo=Polestar)
+- [QGIS](https://github.com/qgis/QGIS) - QGIS 是一款免费、开源、跨平台（lin/win/mac）的地理信息系统 (GIS) 软件。进行数据生产、编辑、处理、制图 ![](https://img.shields.io/github/stars/qgis/QGIS?style=social) ![](https://img.shields.io/github/last-commit/qgis/QGIS?style=flat&logo=Polestar)
+- [mapshaper](https://github.com/mbloch/mapshaper) - 用于编辑 Shapefile、GeoJSON、TopoJSON 和 CSV 文件的工具 ![](https://img.shields.io/github/stars/mbloch/mapshaper?style=social) ![](https://img.shields.io/github/last-commit/mbloch/mapshaper?style=flat&logo=Polestar)
 
 ## 移动端插件
 - [callapp-lib](https://github.com/suanmei/callapp-lib) - H5 唤起 APP 的解决方案 ![](https://img.shields.io/github/stars/suanmei/callapp-lib?style=social) ![](https://img.shields.io/github/last-commit/suanmei/callapp-lib?style=flat&logo=Polestar)
