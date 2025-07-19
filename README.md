@@ -885,6 +885,9 @@
 - [posthog](https://github.com/PostHog/posthog) - 提供开源产品分析，会话记录，功能标记和A/B测试 ![](https://img.shields.io/github/stars/PostHog/posthog?style=social) ![](https://img.shields.io/github/last-commit/PostHog/posthog?style=flat&logo=Polestar)
 - [web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段 ![](https://img.shields.io/github/stars/M-cheng-web/web-tracing?style=social) ![](https://img.shields.io/github/last-commit/M-cheng-web/web-tracing?style=flat&logo=Polestar)
 
+## 监控
+- [uptime-kuma](https://github.com/louislam/uptime-kuma) - 一款出色的自托管网站监控工具 ![](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social) ![](https://img.shields.io/github/last-commit/louislam/uptime-kuma?style=flat&logo=Polestar)
+
 ## nodejs
 - [nodejs](https://github.com/nodejs/node) ![](https://img.shields.io/github/stars/nodejs/node?style=social) ![](https://img.shields.io/github/last-commit/nodejs/node?style=flat&logo=Polestar)
 - [undici](https://github.com/nodejs/undici) - HTTP/1.1 客户端库 ![](https://img.shields.io/github/stars/nodejs/undici?style=social) ![](https://img.shields.io/github/last-commit/nodejs/undici?style=flat&logo=Polestar)
@@ -1075,6 +1078,8 @@
 - [poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。 ![](https://img.shields.io/github/stars/palxiao/poster-design?style=social) ![](https://img.shields.io/github/last-commit/palxiao/poster-design?style=flat&logo=Polestar)
 - [chili3d](https://github.com/xiangechen/chili3d) - 基于 Web 的 3D CAD 应用程序，用于在线模型设计和编辑 ![](https://img.shields.io/github/stars/xiangechen/chili3d?style=social) ![](https://img.shields.io/github/last-commit/xiangechen/chili3d?style=flat&logo=Polestar)
 - [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 一个纯前端实现的头像生成网站 ![](https://img.shields.io/github/stars/Codennnn/vue-color-avatar?style=social) ![](https://img.shields.io/github/last-commit/Codennnn/vue-color-avatar?style=flat&logo=Polestar)
+- [webvm](https://github.com/leaningtech/webvm) - Web 虚拟机 ![](https://img.shields.io/github/stars/leaningtech/webvm?style=social) ![](https://img.shields.io/github/last-commit/leaningtech/webvm?style=flat&logo=Polestar)
+- [pollinations](https://github.com/pollinations/pollinations) - 免费开源的图像和文本生成 ![](https://img.shields.io/github/stars/pollinations/pollinations?style=social) ![](https://img.shields.io/github/last-commit/pollinations/pollinations?style=flat&logo=Polestar)
 
 ## 软件应用
 - [vscode](https://github.com/microsoft/vscode) - vscode ![](https://img.shields.io/github/stars/microsoft/vscode?style=social) ![](https://img.shields.io/github/last-commit/microsoft/vscode?style=flat&logo=Polestar)
