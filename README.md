@@ -691,6 +691,8 @@
 ## React
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social) ![](https://img.shields.io/github/last-commit/facebook/react?style=flat&logo=Polestar)
 - [create-react-app](https://github.com/facebook/create-react-app) - 构建react应用 ![](https://img.shields.io/github/stars/facebook/create-react-app?style=social) ![](https://img.shields.io/github/last-commit/facebook/create-react-app?style=flat&logo=Polestar)
+- [react-app-rewired](https://github.com/timarney/react-app-rewired) - 覆盖 create-react-app webpack 配置而不执行 eject ![](https://img.shields.io/github/stars/timarney/react-app-rewired?style=social) ![](https://img.shields.io/github/last-commit/timarney/react-app-rewired?style=flat&logo=Polestar)
+- [craco](https://github.com/dilanx/craco) - 创建 React App 配置覆盖 ![](https://img.shields.io/github/stars/dilanx/craco?style=social) ![](https://img.shields.io/github/last-commit/dilanx/craco?style=flat&logo=Polestar)
 - [react-demos](https://github.com/ruanyf/react-demos) - demo ![](https://img.shields.io/github/stars/ruanyf/react-demos?style=social) ![](https://img.shields.io/github/last-commit/ruanyf/react-demos?style=flat&logo=Polestar)
 - [alibaba/hooks](https://github.com/alibaba/hooks) - 一个高质量和可靠的 React Hooks 库 ![](https://img.shields.io/github/stars/alibaba/hooks?style=social) ![](https://img.shields.io/github/last-commit/alibaba/hooks?style=flat&logo=Polestar)
 - [swr](https://github.com/vercel/swr) - 用于数据获取的 React Hooks ![](https://img.shields.io/github/stars/vercel/swr?style=social) ![](https://img.shields.io/github/last-commit/vercel/swr?style=flat&logo=Polestar)
