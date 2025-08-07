@@ -205,6 +205,7 @@
 - [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - 将 Prettier 的格式化规则集成到 ESLint 中，并提供自动修复与 Prettier 冲突的功能 ![](https://img.shields.io/github/stars/prettier/eslint-plugin-prettier?style=social) ![](https://img.shields.io/github/last-commit/prettier/eslint-plugin-prettier?style=flat&logo=Polestar)
 - [eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - 用于支持ES6+（包括ES2015）以上的导入/导出语法，并帮助开发者防止文件路径和导入名称的拼写错误 ![](https://img.shields.io/github/stars/import-js/eslint-plugin-import?style=social) ![](https://img.shields.io/github/last-commit/import-js/eslint-plugin-import?style=flat&logo=Polestar)
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - 使 ESLint 和 Prettier 支持 TypeScript 的工具 ![](https://img.shields.io/github/stars/typescript-eslint/typescript-eslint?style=social) ![](https://img.shields.io/github/last-commit/typescript-eslint/typescript-eslint?style=flat&logo=Polestar)
+- [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - Tailwind CSS 的 Prettier 插件，可根据推荐的类顺序自动对类进行排序 ![](https://img.shields.io/github/stars/tailwindlabs/prettier-plugin-tailwindcss?style=social) ![](https://img.shields.io/github/last-commit/tailwindlabs/prettier-plugin-tailwindcss?style=flat&logo=Polestar)
 - [stylelint](https://github.com/stylelint/stylelint) - css 检测 ![](https://img.shields.io/github/stars/stylelint/stylelint?style=social) ![](https://img.shields.io/github/last-commit/stylelint/stylelint?style=flat&logo=Polestar)
 - [stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) ![](https://img.shields.io/github/stars/stylelint-scss/stylelint-scss?style=social) ![](https://img.shields.io/github/last-commit/stylelint-scss/stylelint-scss?style=flat&logo=Polestar)
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order) ![](https://img.shields.io/github/stars/hudochenkov/stylelint-order?style=social) ![](https://img.shields.io/github/last-commit/hudochenkov/stylelint-order?style=flat&logo=Polestar)
@@ -350,13 +351,13 @@
 - [imagemin](https://github.com/imagemin/imagemin) - 图片压缩 ![](https://img.shields.io/github/stars/imagemin/imagemin?style=social) ![](https://img.shields.io/github/last-commit/imagemin/imagemin?style=flat&logo=Polestar)
 - [tesseract.js](https://github.com/naptha/tesseract.js) - 图片文字识别读取 ![](https://img.shields.io/github/stars/naptha/tesseract.js?style=social) ![](https://img.shields.io/github/last-commit/naptha/tesseract.js?style=flat&logo=Polestar)
 - [img-2](https://github.com/RevillWeb/img-2) - 图像预缓存 ![](https://img.shields.io/github/stars/RevillWeb/img-2?style=social) ![](https://img.shields.io/github/last-commit/RevillWeb/img-2?style=flat&logo=Polestar)
+- [snapdom](https://github.com/zumerlab/snapdom) - 以极快的速度和准确性将 HTML 元素捕获为图像 ![](https://img.shields.io/github/stars/zumerlab/snapdom?style=social) ![](https://img.shields.io/github/last-commit/zumerlab/snapdom?style=flat&logo=Polestar)
 
 ## 文件插件
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js) - 客户端文件保存方案 ![](https://img.shields.io/github/stars/eligrey/FileSaver.js?style=social) ![](https://img.shields.io/github/last-commit/eligrey/FileSaver.js?style=flat&logo=Polestar)
 - [browser-md5-file](https://github.com/ink-zone/browser-md5-file) - 在浏览器端获取文件的MD5值 ![](https://img.shields.io/github/stars/ink-zone/browser-md5-file?style=social) ![](https://img.shields.io/github/last-commit/ink-zone/browser-md5-file?style=flat&logo=Polestar)
 - [filesize.js](https://github.com/avoidwork/filesize.js) - 文件大小 ![](https://img.shields.io/github/stars/avoidwork/filesize.js?style=social) ![](https://img.shields.io/github/last-commit/avoidwork/filesize.js?style=flat&logo=Polestar)
 - [jszip](https://github.com/Stuk/jszip) - 用 Javascript 创建、读取和编辑 .zip 文件 ![](https://img.shields.io/github/stars/Stuk/jszip?style=social) ![](https://img.shields.io/github/last-commit/Stuk/jszip?style=flat&logo=Polestar)
-- [mammoth.js](https://github.com/mwilliamson/mammoth.js) - docx 文件转 HTML ![](https://img.shields.io/github/stars/mwilliamson/mammoth.js?style=social) ![](https://img.shields.io/github/last-commit/mwilliamson/mammoth.js?style=flat&logo=Polestar)
 - [html-docx-js](https://github.com/evidenceprime/html-docx-js) - 在浏览器中将 HTML 文档转换为 DOCX ![](https://img.shields.io/github/stars/evidenceprime/html-docx-js?style=social) ![](https://img.shields.io/github/last-commit/evidenceprime/html-docx-js?style=flat&logo=Polestar)
 - [psd.js](https://github.com/meltingice/psd.js) - 适用于 NodeJS 和浏览器的 Photoshop PSD 文件解析器 ![](https://img.shields.io/github/stars/meltingice/psd.js?style=social) ![](https://img.shields.io/github/last-commit/meltingice/psd.js?style=flat&logo=Polestar)
 
@@ -385,8 +386,10 @@
 
 ## 办公套件插件
 - [sheetjs](https://github.com/SheetJS/sheetjs) - Excel 表格编辑器 ![](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social) ![](https://img.shields.io/github/last-commit/SheetJS/sheetjs?style=flat&logo=Polestar)
-- [Luckysheet](https://github.com/dream-num/Luckysheet) - 像 excel 一样的在线电子表格，功能强大，配置简单 ![](https://img.shields.io/github/stars/dream-num/Luckysheet?style=social) ![](https://img.shields.io/github/last-commit/dream-num/Luckysheet?style=flat&logo=Polestar)
+- [Luckysheet](https://github.com/dream-num/Luckysheet) - 像 Excel 一样的在线电子表格，功能强大，配置简单 ![](https://img.shields.io/github/stars/dream-num/Luckysheet?style=social) ![](https://img.shields.io/github/last-commit/dream-num/Luckysheet?style=flat&logo=Polestar)
 - [univer](https://github.com/dream-num/univer) - 开源 Office 办公套件，包括电子表格、文档和幻灯片 ![](https://img.shields.io/github/stars/dream-num/univer?style=social) ![](https://img.shields.io/github/last-commit/dream-num/univer?style=flat&logo=Polestar)
+- [mammoth.js](https://github.com/mwilliamson/mammoth.js) - Docx 文件转 HTML ![](https://img.shields.io/github/stars/mwilliamson/mammoth.js?style=social) ![](https://img.shields.io/github/last-commit/mwilliamson/mammoth.js?style=flat&logo=Polestar)
+- [docxjs](https://github.com/VolodymyrBaydalka/docxjs) - Docx 预览 ![](https://img.shields.io/github/stars/VolodymyrBaydalka/docxjs?style=social) ![](https://img.shields.io/github/last-commit/VolodymyrBaydalka/docxjs?style=flat&logo=Polestar)
 
 ## 富文本编辑器
 - [quill](https://github.com/quilljs/quill) ![](https://img.shields.io/github/stars/quilljs/quill?style=social) ![](https://img.shields.io/github/last-commit/quilljs/quill?style=flat&logo=Polestar)
@@ -1169,6 +1172,7 @@
 - [ChatTTS](https://github.com/2noise/ChatTTS) - 文本转语音模型 ![](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) ![](https://img.shields.io/github/last-commit/2noise/ChatTTS?style=flat&logo=Polestar)
 - [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。 ![](https://img.shields.io/github/stars/jianchang512/ChatTTS-ui?style=social) ![](https://img.shields.io/github/last-commit/jianchang512/ChatTTS-ui?style=flat&logo=Polestar)
 - [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - 学习从零构建类似 Llama 大模型 ![](https://img.shields.io/github/stars/naklecha/llama3-from-scratch?style=social) ![](https://img.shields.io/github/last-commit/naklecha/llama3-from-scratch?style=flat&logo=Polestar)
+- [open-webui](https://github.com/open-webui/open-webui) - 用户友好的 AI 界面（支持 Ollama、OpenAI API 等） ![](https://img.shields.io/github/stars/open-webui/open-webui?style=social) ![](https://img.shields.io/github/last-commit/open-webui/open-webui?style=flat&logo=Polestar)
 
 ## 简历
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模板 ![](https://img.shields.io/github/stars/geekcompany/ResumeSample?style=social) ![](https://img.shields.io/github/last-commit/geekcompany/ResumeSample?style=flat&logo=Polestar)
@@ -1200,3 +1204,4 @@
 - [grapesjs](https://github.com/artf/grapesjs) - web模板编辑器 ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) ![](https://img.shields.io/github/last-commit/artf/grapesjs?style=flat&logo=Polestar)
 - [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - 一键免费部署你的跨平台私人 ChatGPT 应用 ![](https://img.shields.io/github/stars/ChatGPTNextWeb/ChatGPT-Next-Web?style=social) ![](https://img.shields.io/github/last-commit/ChatGPTNextWeb/ChatGPT-Next-Web?style=flat&logo=Polestar)
 - [json5](https://github.com/json5/json5) - 面向人类的 JSON ![](https://img.shields.io/github/stars/json5/json5?style=social) ![](https://img.shields.io/github/last-commit/json5/json5?style=flat&logo=Polestar)
+- [fanmingming/live](https://github.com/fanmingming/live) - 可直连访问的电视/广播图标库与相关工具项目 ![](https://img.shields.io/github/stars/fanmingming/live?style=social) ![](https://img.shields.io/github/last-commit/fanmingming/live?style=flat&logo=Polestar)
