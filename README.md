@@ -142,7 +142,6 @@
 - [blueprint](https://github.com/palantir/blueprint) - 基于 React 的 Web UI 工具包 ![](https://img.shields.io/github/stars/palantir/blueprint?style=social) ![](https://img.shields.io/github/last-commit/palantir/blueprint?style=flat&logo=Polestar)
 
 ## 图标
-- [xicons](https://github.com/07akioni/xicons) - 整合自 fluentui-system-icons、ionicons、ant-design-icons、material-design-icons、Font-Awesome tabler-icons 和 carbon 的 SVG Vue/React 组件 ![](https://img.shields.io/github/stars/07akioni/xicons?style=social) ![](https://img.shields.io/github/last-commit/07akioni/xicons?style=flat&logo=Polestar)
 - [IconPark](https://github.com/bytedance/IconPark) ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social) ![](https://img.shields.io/github/last-commit/bytedance/IconPark?style=flat&logo=Polestar)
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) ![](https://img.shields.io/github/stars/FortAwesome/Font-Awesome?style=social) ![](https://img.shields.io/github/last-commit/FortAwesome/Font-Awesome?style=flat&logo=Polestar)
 - [ionicons](https://github.com/ionic-team/ionicons) ![](https://img.shields.io/github/stars/ionic-team/ionicons?style=social) ![](https://img.shields.io/github/last-commit/ionic-team/ionicons?style=flat&logo=Polestar)
@@ -151,6 +150,7 @@
 - [unplugin-icons](https://github.com/unplugin/unplugin-icons) - 作为组件使用图标 ![](https://img.shields.io/github/stars/unplugin/unplugin-icons?style=social) ![](https://img.shields.io/github/last-commit/unplugin/unplugin-icons?style=flat&logo=Polestar)
 - [RemixIcon](https://github.com/Remix-Design/RemixIcon) ![](https://img.shields.io/github/stars/Remix-Design/RemixIcon?style=social) ![](https://img.shields.io/github/last-commit/Remix-Design/RemixIcon?style=flat&logo=Polestar)
 - [lucide](https://github.com/lucide-icons/lucide) ![](https://img.shields.io/github/stars/lucide-icons/lucide?style=social) ![](https://img.shields.io/github/last-commit/lucide-icons/lucide?style=flat&logo=Polestar)
+- [xicons](https://github.com/07akioni/xicons) - 整合自 fluentui-system-icons、ionicons、ant-design-icons、material-design-icons、Font-Awesome tabler-icons 和 carbon 的 SVG Vue/React 组件 ![](https://img.shields.io/github/stars/07akioni/xicons?style=social) ![](https://img.shields.io/github/last-commit/07akioni/xicons?style=flat&logo=Polestar)
 
 ## 框架
 - [jquery](https://github.com/jquery/jquery) ![](https://img.shields.io/github/stars/jquery/jquery?style=social) ![](https://img.shields.io/github/last-commit/jquery/jquery?style=flat&logo=Polestar)
@@ -882,7 +882,7 @@
 
 ## 微前端
 - [emp](https://github.com/efoxTeam/emp) ![](https://img.shields.io/github/stars/efoxTeam/emp?style=social) ![](https://img.shields.io/github/last-commit/efoxTeam/emp?style=flat&logo=Polestar)
-- [micro-app](https://github.com/micro-zoe/micro-app) - 京东零售微前端 ![](https://img.shields.io/github/stars/micro-zoe/micro-app?style=social) ![](https://img.shields.io/github/last-commit/micro-zoe/micro-app?style=flat&logo=Polestar)
+- [micro-app](https://github.com/jd-opensource/micro-app) - 京东零售微前端 ![](https://img.shields.io/github/stars/jd-opensource/micro-app?style=social) ![](https://img.shields.io/github/last-commit/jd-opensource/micro-app?style=flat&logo=Polestar)
 - [qiankun](https://github.com/umijs/qiankun) ![](https://img.shields.io/github/stars/umijs/qiankun?style=social) ![](https://img.shields.io/github/last-commit/umijs/qiankun?style=flat&logo=Polestar)
 - [wujie](https://github.com/Tencent/wujie) ![](https://img.shields.io/github/stars/Tencent/wujie?style=social) ![](https://img.shields.io/github/last-commit/Tencent/wujie?style=flat&logo=Polestar)
 
