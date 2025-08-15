@@ -1198,6 +1198,7 @@
 ## 其他
 - [github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面 ![](https://img.shields.io/github/stars/maboloshi/github-chinese?style=social) ![](https://img.shields.io/github/last-commit/maboloshi/github-chinese?style=flat&logo=Polestar)
 - [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social) ![](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat&logo=Polestar)
+- [v86](https://github.com/copy/v86) - Web 的 x86 模拟器 ![](https://img.shields.io/github/stars/copy/v86?style=social) ![](https://img.shields.io/github/last-commit/copy/v86?style=flat&logo=Polestar)
 - [laf](https://github.com/labring/laf) - laf 是开源的云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者专注于业务开发，无需折腾服务器，快速释放创意 ![](https://img.shields.io/github/stars/labring/laf?style=social) ![](https://img.shields.io/github/last-commit/labring/laf?style=flat&logo=Polestar)
 - [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - emoji 表情 ![](https://img.shields.io/github/stars/WebpageFX/emoji-cheat-sheet.com?style=social) ![](https://img.shields.io/github/last-commit/WebpageFX/emoji-cheat-sheet.com?style=flat&logo=Polestar)
 - [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social) ![](https://img.shields.io/github/last-commit/didi/DoKit?style=flat&logo=Polestar)
