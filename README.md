@@ -170,7 +170,7 @@
 - [ember.js](https://github.com/emberjs/ember.js) - 构建可维护、高性能的 Web 应用程序 ![](https://img.shields.io/github/stars/emberjs/ember.js?style=social) ![](https://img.shields.io/github/last-commit/emberjs/ember.js?style=flat&logo=Polestar)
 - [preact](https://github.com/preactjs/preact) - 快速且大小只有 3kB 的 React 替代方案，具有相同的现代 API ![](https://img.shields.io/github/stars/preactjs/preact?style=social) ![](https://img.shields.io/github/last-commit/preactjs/preact?style=flat&logo=Polestar)
 - [component-party.dev](https://github.com/matschik/component-party.dev) - JavaScript 框架语法特性对比 ![](https://img.shields.io/github/stars/matschik/component-party.dev?style=social) ![](https://img.shields.io/github/last-commit/matschik/component-party.dev?style=flat&logo=Polestar)
-- [preact](https://github.com/vercel/turborepo) - 针对 JavaScript 和 TypeScript 优化的构建系统，用 Rust 编写 ![](https://img.shields.io/github/stars/vercel/turborepo?style=social) ![](https://img.shields.io/github/last-commit/vercel/turborepo?style=flat&logo=Polestar)
+- [turborepo](https://github.com/vercel/turborepo) - 针对 JavaScript 和 TypeScript 优化的构建系统，用 Rust 编写 ![](https://img.shields.io/github/stars/vercel/turborepo?style=social) ![](https://img.shields.io/github/last-commit/vercel/turborepo?style=flat&logo=Polestar)
 - [hono](https://github.com/honojs/hono) - Web 应用框架，支持任何 JavaScript 运行时（适用于 Deno、Bun 等） ![](https://img.shields.io/github/stars/honojs/hono?style=social) ![](https://img.shields.io/github/last-commit/honojs/hono?style=flat&logo=Polestar)
 
 ## 包管理工具
@@ -544,6 +544,7 @@
 - [hexo](https://github.com/hexojs/hexo) - 博客框架 ![](https://img.shields.io/github/stars/hexojs/hexo?style=social) ![](https://img.shields.io/github/last-commit/hexojs/hexo?style=flat&logo=Polestar)
 - [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - hexo主题 ![](https://img.shields.io/github/stars/litten/hexo-theme-yilia?style=social) ![](https://img.shields.io/github/last-commit/litten/hexo-theme-yilia?style=flat&logo=Polestar)
 - [Ghost](https://github.com/TryGhost/Ghost) - 博客搭建 ![](https://img.shields.io/github/stars/TryGhost/Ghost?style=social) ![](https://img.shields.io/github/last-commit/TryGhost/Ghost?style=flat&logo=Polestar)
+- [realworld](https://github.com/gothinkster/realworld) - 使用不同的前端和后端技术栈来构建一个功能齐全的Medium.com克隆应用 ![](https://img.shields.io/github/stars/gothinkster/realworld?style=social) ![](https://img.shields.io/github/last-commit/gothinkster/realworld?style=flat&logo=Polestar)
 - [warriorjs](https://github.com/olistic/warriorjs) - 编程游戏 ![](https://img.shields.io/github/stars/olistic/warriorjs?style=social) ![](https://img.shields.io/github/last-commit/olistic/warriorjs?style=flat&logo=Polestar)
 - [puppeteer](https://github.com/puppeteer/puppeteer) - 无头浏览器 ![](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social) ![](https://img.shields.io/github/last-commit/puppeteer/puppeteer?style=flat&logo=Polestar)
 - [http-server](https://github.com/http-party/http-server) - 本地服务器 ![](https://img.shields.io/github/stars/http-party/http-server?style=social) ![](https://img.shields.io/github/last-commit/http-party/http-server?style=flat&logo=Polestar)
@@ -727,6 +728,7 @@
 - [Recoil](https://github.com/facebookexperimental/Recoil) - 状态管理 ![](https://img.shields.io/github/stars/facebookexperimental/Recoil?style=social) ![](https://img.shields.io/github/last-commit/facebookexperimental/Recoil?style=flat&logo=Polestar)
 - [jotai](https://github.com/pmndrs/jotai) - 状态管理 ![](https://img.shields.io/github/stars/pmndrs/jotai?style=social) ![](https://img.shields.io/github/last-commit/pmndrs/jotai?style=flat&logo=Polestar)
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 用于表单状态管理和验证的 React Hooks (Web + React Native) ![](https://img.shields.io/github/stars/react-hook-form/react-hook-form?style=social) ![](https://img.shields.io/github/last-commit/react-hook-form/react-hook-form?style=flat&logo=Polestar)
+- [use-http](https://github.com/ava/use-http) - http 请求 ![](https://img.shields.io/github/stars/ava/use-http?style=social) ![](https://img.shields.io/github/last-commit/ava/use-http?style=flat&logo=Polestar)
 - [formik](https://github.com/jaredpalmer/formik) - 在 React 中构建表单 ![](https://img.shields.io/github/stars/jaredpalmer/formik?style=social) ![](https://img.shields.io/github/last-commit/jaredpalmer/formik?style=flat&logo=Polestar)
 - [remotion](https://github.com/remotion-dev/remotion) - 用 React 编程制作视频 ![](https://img.shields.io/github/stars/remotion-dev/remotion?style=social) ![](https://img.shields.io/github/last-commit/remotion-dev/remotion?style=flat&logo=Polestar)
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - 基于 React 的网格布局系统插件（支持拖拽和调整大小） ![](https://img.shields.io/github/stars/react-grid-layout/react-grid-layout?style=social) ![](https://img.shields.io/github/last-commit/react-grid-layout/react-grid-layout?style=flat&logo=Polestar)
@@ -743,6 +745,7 @@
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - 适用于 React 的 JSON 查看器 ![](https://img.shields.io/github/stars/mac-s-g/react-json-view?style=social) ![](https://img.shields.io/github/last-commit/mac-s-g/react-json-view?style=flat&logo=Polestar)
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - React 通知 ![](https://img.shields.io/github/stars/timolins/react-hot-toast?style=social) ![](https://img.shields.io/github/last-commit/timolins/react-hot-toast?style=flat&logo=Polestar)
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - 表单生成库，根据 JSON Schema 自动生成表单 UI ![](https://img.shields.io/github/stars/rjsf-team/react-jsonschema-form?style=social) ![](https://img.shields.io/github/last-commit/rjsf-team/react-jsonschema-form?style=flat&logo=Polestar)
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - 列表拖放 ![](https://img.shields.io/github/stars/atlassian/react-beautiful-dnd?style=social) ![](https://img.shields.io/github/last-commit/atlassian/react-beautiful-dnd?style=flat&logo=Polestar)
 
 ## 后台管理模板
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - 中后台模板，采用 Vue 3、Vite、TypeScript ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin?style=flat&logo=Polestar)
@@ -762,6 +765,7 @@
 - [mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能 ![](https://img.shields.io/github/stars/macrozheng/mall-admin-web?style=social) ![](https://img.shields.io/github/last-commit/macrozheng/mall-admin-web?style=flat&logo=Polestar)
 - [refine](https://github.com/refinedev/refine) - React 后台管理系统 ![](https://img.shields.io/github/stars/refinedev/refine?style=social) ![](https://img.shields.io/github/last-commit/refinedev/refine?style=flat&logo=Polestar)
 - [react-admin](https://github.com/marmelab/react-admin) - 一个基于 REST/GraphQL APIS 的单页应用前端框架，使用 TypeScript、React 和 Material Design ![](https://img.shields.io/github/stars/marmelab/react-admin?style=social) ![](https://img.shields.io/github/last-commit/marmelab/react-admin?style=flat&logo=Polestar)
+- [duxianwei520/react](https://github.com/duxianwei520/react) - React + webpack + redux + ant design + axios + less 全家桶后台管理框架 ![](https://img.shields.io/github/stars/duxianwei520/react?style=social) ![](https://img.shields.io/github/last-commit/duxianwei520/react?style=flat&logo=Polestar)
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Angular 10+ ![](https://img.shields.io/github/stars/akveo/ngx-admin?style=social) ![](https://img.shields.io/github/last-commit/akveo/ngx-admin?style=flat&logo=Polestar)
 - [shadcn-admin](https://github.com/satnaing/shadcn-admin) - 使用 Shadcn 和 Vite 构建 ![](https://img.shields.io/github/stars/satnaing/shadcn-admin?style=social) ![](https://img.shields.io/github/last-commit/satnaing/shadcn-admin?style=flat&logo=Polestar)
 
@@ -1177,6 +1181,7 @@
 ## 简历
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模板 ![](https://img.shields.io/github/stars/geekcompany/ResumeSample?style=social) ![](https://img.shields.io/github/last-commit/geekcompany/ResumeSample?style=flat&logo=Polestar)
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 建立多个漂亮的简历，创造你最好的简历 ![](https://img.shields.io/github/stars/salomonelli/best-resume-ever?style=social) ![](https://img.shields.io/github/last-commit/salomonelli/best-resume-ever?style=flat&logo=Polestar)
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 简历生成器，开源且永久免费 ![](https://img.shields.io/github/stars/AmruthPillai/Reactive-Resume?style=social) ![](https://img.shields.io/github/last-commit/AmruthPillai/Reactive-Resume?style=flat&logo=Polestar)
 
 ## 科学上网
 - [new-pac](https://github.com/Alvin9999/new-pac) ![](https://img.shields.io/github/stars/Alvin9999/new-pac?style=social) ![](https://img.shields.io/github/last-commit/Alvin9999/new-pac?style=flat&logo=Polestar)
