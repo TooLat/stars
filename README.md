@@ -322,6 +322,7 @@
 ## 拼音插件
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换 ![](https://img.shields.io/github/stars/hotoo/pinyin?style=social) ![](https://img.shields.io/github/last-commit/hotoo/pinyin?style=flat&logo=Polestar)
 - [pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词 ![](https://img.shields.io/github/stars/zh-lx/pinyin-pro?style=social) ![](https://img.shields.io/github/last-commit/zh-lx/pinyin-pro?style=flat&logo=Polestar)
+- [pinyin-match](https://github.com/xmflswood/pinyin-match) - 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版 ![](https://img.shields.io/github/stars/xmflswood/pinyin-match?style=social) ![](https://img.shields.io/github/last-commit/xmflswood/pinyin-match?style=flat&logo=Polestar)
 
 ## 打字机插件
 - [typeit](https://github.com/alexmacarthur/typeit) - 动画打字 ![](https://img.shields.io/github/stars/alexmacarthur/typeit?style=social) ![](https://img.shields.io/github/last-commit/alexmacarthur/typeit?style=flat&logo=Polestar)
