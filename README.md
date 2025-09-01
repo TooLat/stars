@@ -845,12 +845,12 @@
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet) - 在小程序 (UniApp 和 Taro) 中使用 UnoCSS，兼容不支持的语法。 ![](https://img.shields.io/github/stars/unocss-applet/unocss-applet?style=social) ![](https://img.shields.io/github/last-commit/unocss-applet/unocss-applet?style=flat&logo=Polestar)
 - [uni-z-paging](https://github.com/SmileZXLee/uni-z-paging) - 【uni-app下拉刷新、上拉加载】高性能，全平台兼容。支持vue、nvue、vue2、vue3，使用wxs+renderjs实现。支持虚拟列表，支持自定义下拉刷新、上拉加载更多，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持国际化等100+项配置 ![](https://img.shields.io/github/stars/SmileZXLee/uni-z-paging?style=social) ![](https://img.shields.io/github/last-commit/SmileZXLee/uni-z-paging?style=flat&logo=Polestar)
 
-
 ## 跨平台桌面应用
 - [electron](https://github.com/electron/electron) - 桌面应用 ![](https://img.shields.io/github/stars/electron/electron?style=social) ![](https://img.shields.io/github/last-commit/electron/electron?style=flat&logo=Polestar)
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Electron & Vue.js ![](https://img.shields.io/github/stars/SimulatedGREG/electron-vue?style=social) ![](https://img.shields.io/github/last-commit/SimulatedGREG/electron-vue?style=flat&logo=Polestar)
 - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - vue-cli3 ![](https://img.shields.io/github/stars/nklayman/vue-cli-plugin-electron-builder?style=social) ![](https://img.shields.io/github/last-commit/nklayman/vue-cli-plugin-electron-builder?style=flat&logo=Polestar)
 - [tauri](https://github.com/tauri-apps/tauri) - 用同一套代码同时开发桌面端和移动端应用 ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social) ![](https://img.shields.io/github/last-commit/tauri-apps/tauri?style=flat&logo=Polestar)
+- [Pake](https://github.com/tw93/Pake) - 利用 Rust 轻松构建轻量级多端桌面应用 ![](https://img.shields.io/github/stars/tw93/Pake?style=social) ![](https://img.shields.io/github/last-commit/tw93/Pake?style=flat&logo=Polestar)
 
 ## nginx
 - [nginx](https://github.com/nginx/nginx) ![](https://img.shields.io/github/stars/nginx/nginx?style=social) ![](https://img.shields.io/github/last-commit/nginx/nginx?style=flat&logo=Polestar)
@@ -1135,6 +1135,7 @@
 - [marktext](https://github.com/marktext/marktext) - 一个简单而优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows ![](https://img.shields.io/github/stars/marktext/marktext?style=social) ![](https://img.shields.io/github/last-commit/marktext/marktext?style=flat&logo=Polestar)
 - [notable](https://github.com/notable/notable) - 基于 Markdown 的笔记应用 ![](https://img.shields.io/github/stars/notable/notable?style=social) ![](https://img.shields.io/github/last-commit/notable/notable?style=flat&logo=Polestar)
 - [mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端 ![](https://img.shields.io/github/stars/caorushizi/mediago?style=social) ![](https://img.shields.io/github/last-commit/caorushizi/mediago?style=flat&logo=Polestar)
+- [MiaoYan](https://github.com/tw93/MiaoYan) - 妙言 Markdown 笔记本 ![](https://img.shields.io/github/stars/tw93/MiaoYan?style=social) ![](https://img.shields.io/github/last-commit/tw93/MiaoYan?style=flat&logo=Polestar)
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - 免费开源视频编辑器 ![](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=social) ![](https://img.shields.io/github/last-commit/OpenCut-app/OpenCut?style=flat&logo=Polestar)
 
 ## 系统工具
