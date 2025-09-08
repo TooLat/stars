@@ -421,6 +421,9 @@
 - [milkdown](https://github.com/Milkdown/milkdown) - Markdown 编辑器框架 ![](https://img.shields.io/github/stars/Milkdown/milkdown?style=social) ![](https://img.shields.io/github/last-commit/Milkdown/milkdown?style=flat&logo=Polestar)
 - [markitdown](https://github.com/microsoft/markitdown) - 用于将文件和办公文档转换为Markdown的Python工具 ![](https://img.shields.io/github/stars/microsoft/markitdown?style=social) ![](https://img.shields.io/github/last-commit/microsoft/markitdown?style=flat&logo=Polestar)
 
+## 思维导图插件
+- [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - 开源的 JavaScript 思维导图核心 ![](https://img.shields.io/github/stars/ssshooter/mind-elixir-core?style=social) ![](https://img.shields.io/github/last-commit/ssshooter/mind-elixir-core?style=flat&logo=Polestar)
+
 ## 地图插件
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 基于 WebGL，创建交互式、可定制的高性能地图 ![](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/mapbox-gl-js?style=flat&logo=Polestar)
 - [vector-tile-js](https://github.com/mapbox/vector-tile-js) - 使用 JavaScript 解析矢量图块 ![](https://img.shields.io/github/stars/mapbox/vector-tile-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/vector-tile-js?style=flat&logo=Polestar)
