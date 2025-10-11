@@ -1139,6 +1139,7 @@
 - [notable](https://github.com/notable/notable) - 基于 Markdown 的笔记应用 ![](https://img.shields.io/github/stars/notable/notable?style=social) ![](https://img.shields.io/github/last-commit/notable/notable?style=flat&logo=Polestar)
 - [mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端 ![](https://img.shields.io/github/stars/caorushizi/mediago?style=social) ![](https://img.shields.io/github/last-commit/caorushizi/mediago?style=flat&logo=Polestar)
 - [MiaoYan](https://github.com/tw93/MiaoYan) - 妙言 Markdown 笔记本 ![](https://img.shields.io/github/stars/tw93/MiaoYan?style=social) ![](https://img.shields.io/github/last-commit/tw93/MiaoYan?style=flat&logo=Polestar)
+- [blockbench](https://github.com/JannisX11/blockbench) - 3D 模型编辑器 ![](https://img.shields.io/github/stars/JannisX11/blockbench?style=social) ![](https://img.shields.io/github/last-commit/JannisX11/blockbench?style=flat&logo=Polestar)
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - 免费开源视频编辑器 ![](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=social) ![](https://img.shields.io/github/last-commit/OpenCut-app/OpenCut?style=flat&logo=Polestar)
 
 ## 系统工具
