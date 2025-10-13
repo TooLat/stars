@@ -959,6 +959,9 @@
 - [plop](https://github.com/plopjs/plop) - 生成代码模板，快速生成项目结构和文件 ![](https://img.shields.io/github/plopjs/plop?style=social) ![](https://img.shields.io/github/last-commit/plopjs/plop?style=flat&logo=Polestar)
 - [cross-env](https://github.com/kentcdodds/cross-env) - 跨操作系统设置环境变量 ![](https://img.shields.io/github/kentcdodds/cross-env?style=social) ![](https://img.shields.io/github/last-commit/kentcdodds/cross-env?style=flat&logo=Polestar)
 
+## 后端框架
+- [elysia](https://github.com/elysiajs/elysia) - 人体工程学框架，由 Bun 提供支持 ![](https://img.shields.io/github/elysiajs/elysia?style=social) ![](https://img.shields.io/github/last-commit/elysiajs/elysia?style=flat&logo=Polestar)
+
 ## 项目代码
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+迷你网页项目，使用HTML, CSS和JS ![](https://img.shields.io/github/stars/bradtraversy/50projects50days?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/50projects50days?style=flat&logo=Polestar)
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Web项目集合（包含电影订票页面、视频播放器界面、汇率计算器、费用追踪器、音乐播放器、打字游戏等） ![](https://img.shields.io/github/stars/bradtraversy/vanillawebprojects?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/vanillawebprojects?style=flat&logo=Polestar)
