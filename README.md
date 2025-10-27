@@ -187,6 +187,7 @@
 - [node-modules-inspector](https://github.com/antfu/node-modules-inspector) - 可视化工具，以图形化的方式呈现 node_modules 中的依赖关系 ![](https://img.shields.io/github/stars/antfu/node-modules-inspector?style=social) ![](https://img.shields.io/github/last-commit/antfu/node-modules-inspector?style=flat&logo=Polestar)
 - [parcel](https://github.com/parcel-bundler/parcel) - 极速零配置Web应用打包工具 ![](https://img.shields.io/github/stars/parcel-bundler/parcel?style=social) ![](https://img.shields.io/github/last-commit/parcel-bundler/parcel?style=flat&logo=Polestar)
 - [rollup](https://github.com/rollup/rollup) - 打包 ![](https://img.shields.io/github/stars/rollup/rollup?style=social) ![](https://img.shields.io/github/last-commit/rollup/rollup?style=flat&logo=Polestar)
+- [rolldown](https://github.com/rolldown/rolldown) - 打包 ![](https://img.shields.io/github/stars/rolldown/rolldown?style=social) ![](https://img.shields.io/github/last-commit/rolldown/rolldown?style=flat&logo=Polestar)
 - [gulp](https://github.com/gulpjs/gulp) ![](https://img.shields.io/github/stars/gulpjs/gulp?style=social) ![](https://img.shields.io/github/last-commit/gulpjs/gulp?style=flat&logo=Polestar)
 
 ## 项目
