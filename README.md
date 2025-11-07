@@ -60,6 +60,7 @@
 - [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - 基于 Bootstrap 和 Material Design 的开源前端UI工具包插件 ![](https://img.shields.io/github/stars/mdbootstrap/mdb-ui-kit?style=social) ![](https://img.shields.io/github/last-commit/mdbootstrap/mdb-ui-kit?style=flat&logo=Polestar)
 - [primeng](https://github.com/primefaces/primeng) - prime Angular 组件库 ![](https://img.shields.io/github/stars/primefaces/primeng?style=social) ![](https://img.shields.io/github/last-commit/primefaces/primeng?style=flat&logo=Polestar)
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - UI 组件库 ![](https://img.shields.io/github/stars/radix-ui/primitives?style=social) ![](https://img.shields.io/github/last-commit/radix-ui/primitives?style=flat&logo=Polestar)
+- [tdesign](https://github.com/Tencent/tdesign) - 腾讯 TDesign ![](https://img.shields.io/github/stars/Tencent/tdesign?style=social) ![](https://img.shields.io/github/last-commit/Tencent/tdesign?style=flat&logo=Polestar)
 
 ## UI组件
 - [swiper](https://github.com/nolimits4web/swiper) - swiper ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=social) ![](https://img.shields.io/github/last-commit/nolimits4web/swiper?style=flat&logo=Polestar)
