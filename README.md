@@ -928,6 +928,8 @@
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) - 一款出色的自托管网站监控工具 ![](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social) ![](https://img.shields.io/github/last-commit/louislam/uptime-kuma?style=flat&logo=Polestar)
 - [web-see](https://github.com/xy-sea/web-see) - 前端监控SDK，可用来收集并上报：代码报错、性能数据、页面录屏、用户行为、白屏检测等个性化指标数据 ![](https://img.shields.io/github/stars/xy-sea/web-see?style=social) ![](https://img.shields.io/github/last-commit/xy-sea/web-see?style=flat&logo=Polestar)
 - [sentry-javascript](https://github.com/getsentry/sentry-javascript) - 错误监控、性能追踪、用户行为分析，帮助开发者实时发现、定位并解决线上问题 ![](https://img.shields.io/github/stars/getsentry/sentry-javascript?style=social) ![](https://img.shields.io/github/last-commit/getsentry/sentry-javascript?style=flat&logo=Polestar)
+- [monitor](https://github.com/clouDr-f2e/monitor) - 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、页面性能并上报服务端的SDK ![](https://img.shields.io/github/stars/clouDr-f2e/monitor?style=social) ![](https://img.shields.io/github/last-commit/clouDr-f2e/monitor?style=flat&logo=Polestar)
+- [mitojs](https://github.com/mitojs/mitojs) - 一款Web和微信小程序轻量级的前端监控SDK ![](https://img.shields.io/github/stars/mitojs/mitojs?style=social) ![](https://img.shields.io/github/last-commit/mitojs/mitojs?style=flat&logo=Polestar)
 
 ## nodejs
 - [nodejs](https://github.com/nodejs/node) ![](https://img.shields.io/github/stars/nodejs/node?style=social) ![](https://img.shields.io/github/last-commit/nodejs/node?style=flat&logo=Polestar)
