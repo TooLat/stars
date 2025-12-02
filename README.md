@@ -926,6 +926,7 @@
 
 ## 监控
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) - 一款出色的自托管网站监控工具 ![](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social) ![](https://img.shields.io/github/last-commit/louislam/uptime-kuma?style=flat&logo=Polestar)
+- [web-see](https://github.com/xy-sea/web-see) - 前端监控SDK，可用来收集并上报：代码报错、性能数据、页面录屏、用户行为、白屏检测等个性化指标数据 ![](https://img.shields.io/github/stars/xy-sea/web-see?style=social) ![](https://img.shields.io/github/last-commit/xy-sea/web-see?style=flat&logo=Polestar)
 
 ## nodejs
 - [nodejs](https://github.com/nodejs/node) ![](https://img.shields.io/github/stars/nodejs/node?style=social) ![](https://img.shields.io/github/last-commit/nodejs/node?style=flat&logo=Polestar)
