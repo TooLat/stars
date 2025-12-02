@@ -567,7 +567,6 @@
 - [nodeppt](https://github.com/ksky521/nodeppt) - 演示文稿，类似PPT ![](https://img.shields.io/github/stars/ksky521/nodeppt?style=social) ![](https://img.shields.io/github/last-commit/ksky521/nodeppt?style=flat&logo=Polestar)
 - [varharrie.github.io](https://github.com/varHarrie/varharrie.github.io) - 基于 github 问题的个人博客网站 ![](https://img.shields.io/github/stars/varHarrie/varharrie.github.io?style=social) ![](https://img.shields.io/github/last-commit/varHarrie/varharrie.github.io?style=flat&logo=Polestar)
 - [browserslist](https://github.com/browserslist/browserslist) - 在不同的前端工具之间共用目标浏览器和 node 版本的配置工具 ![](https://img.shields.io/github/stars/browserslist/browserslist?style=social) ![](https://img.shields.io/github/last-commit/browserslist/browserslist?style=flat&logo=Polestar)
-- [rrweb](https://github.com/rrweb-io/rrweb) - 利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作 ![](https://img.shields.io/github/stars/rrweb-io/rrweb?style=social) ![](https://img.shields.io/github/last-commit/rrweb-io/rrweb?style=flat&logo=Polestar)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - 在 README 中获取动态生成的 GitHub 统计信息 ![](https://img.shields.io/github/stars/anuraghazra/github-readme-stats?style=social) ![](https://img.shields.io/github/last-commit/anuraghazra/github-readme-stats?style=flat&logo=Polestar)
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - 多媒体处理工具 ![](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social) ![](https://img.shields.io/github/last-commit/FFmpeg/FFmpeg?style=flat&logo=Polestar)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 可视化搭建平台 ![](https://img.shields.io/github/stars/Tencent/tmagic-editor?style=social) ![](https://img.shields.io/github/last-commit/Tencent/tmagic-editor?style=flat&logo=Polestar)
@@ -925,6 +924,7 @@
 - [web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段 ![](https://img.shields.io/github/stars/M-cheng-web/web-tracing?style=social) ![](https://img.shields.io/github/last-commit/M-cheng-web/web-tracing?style=flat&logo=Polestar)
 
 ## 监控
+- [rrweb](https://github.com/rrweb-io/rrweb) - 利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作 ![](https://img.shields.io/github/stars/rrweb-io/rrweb?style=social) ![](https://img.shields.io/github/last-commit/rrweb-io/rrweb?style=flat&logo=Polestar)
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) - 一款出色的自托管网站监控工具 ![](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social) ![](https://img.shields.io/github/last-commit/louislam/uptime-kuma?style=flat&logo=Polestar)
 - [web-see](https://github.com/xy-sea/web-see) - 前端监控SDK，可用来收集并上报：代码报错、性能数据、页面录屏、用户行为、白屏检测等个性化指标数据 ![](https://img.shields.io/github/stars/xy-sea/web-see?style=social) ![](https://img.shields.io/github/last-commit/xy-sea/web-see?style=flat&logo=Polestar)
 - [sentry-javascript](https://github.com/getsentry/sentry-javascript) - 错误监控、性能追踪、用户行为分析，帮助开发者实时发现、定位并解决线上问题 ![](https://img.shields.io/github/stars/getsentry/sentry-javascript?style=social) ![](https://img.shields.io/github/last-commit/getsentry/sentry-javascript?style=flat&logo=Polestar)
