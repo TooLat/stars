@@ -190,6 +190,7 @@
 - [rollup](https://github.com/rollup/rollup) - 打包 ![](https://img.shields.io/github/stars/rollup/rollup?style=social) ![](https://img.shields.io/github/last-commit/rollup/rollup?style=flat&logo=Polestar)
 - [rolldown](https://github.com/rolldown/rolldown) - 打包 ![](https://img.shields.io/github/stars/rolldown/rolldown?style=social) ![](https://img.shields.io/github/last-commit/rolldown/rolldown?style=flat&logo=Polestar)
 - [gulp](https://github.com/gulpjs/gulp) ![](https://img.shields.io/github/stars/gulpjs/gulp?style=social) ![](https://img.shields.io/github/last-commit/gulpjs/gulp?style=flat&logo=Polestar)
+- [rsbuild](https://github.com/web-infra-dev/rsbuild) - 由 Rspack 驱动的构建工具 ![](https://img.shields.io/github/stars/web-infra-dev/rsbuild?style=social) ![](https://img.shields.io/github/last-commit/web-infra-dev/rsbuild?style=flat&logo=Polestar)
 
 ## 项目
 - [babel](https://github.com/babel/babel) - javaScript 编译器 ![](https://img.shields.io/github/stars/babel/babel?style=social) ![](https://img.shields.io/github/last-commit/babel/babel?style=flat&logo=Polestar)
@@ -818,6 +819,7 @@
 - [flutter-picgo](https://github.com/PicGo/flutter-picgo) - Flutter 打造的一款简洁美观的移动端图片上传工具 ![](https://img.shields.io/github/stars/PicGo/flutter-picgo?style=social) ![](https://img.shields.io/github/last-commit/PicGo/flutter-picgo?style=flat&logo=Polestar)
 - [react-native](https://github.com/facebook/react-native) - 移动应用 ![](https://img.shields.io/github/stars/facebook/react-native?style=social) ![](https://img.shields.io/github/last-commit/facebook/react-native?style=flat&logo=Polestar)
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React-Native 学习指南 ![](https://img.shields.io/github/stars/reactnativecn/react-native-guide?style=social) ![](https://img.shields.io/github/last-commit/reactnativecn/react-native-guide?style=flat&logo=Polestar)
+- [metro](https://github.com/facebook/metro) - React Native 打包器 ![](https://img.shields.io/github/stars/facebook/metro?style=social) ![](https://img.shields.io/github/last-commit/facebook/metro?style=flat&logo=Polestar)
 - [GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP) - 超完整的React Native项目，功能丰富，适合学习和日常使用 ![](https://img.shields.io/github/stars/CarGuo/GSYGithubAPP?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/GSYGithubAPP?style=flat&logo=Polestar)
 - [NativeScript](https://github.com/NativeScript/NativeScript) ![](https://img.shields.io/github/stars/NativeScript/NativeScript?style=social) ![](https://img.shields.io/github/last-commit/NativeScript/NativeScript?style=flat&logo=Polestar)
 - [weex](https://github.com/alibaba/weex) ![](https://img.shields.io/github/stars/alibaba/weex?style=social) ![](https://img.shields.io/github/last-commit/alibaba/weex?style=flat&logo=Polestar)
