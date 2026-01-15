@@ -753,6 +753,7 @@
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - 表单生成库，根据 JSON Schema 自动生成表单 UI ![](https://img.shields.io/github/stars/rjsf-team/react-jsonschema-form?style=social) ![](https://img.shields.io/github/last-commit/rjsf-team/react-jsonschema-form?style=flat&logo=Polestar)
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - 列表拖放 ![](https://img.shields.io/github/stars/atlassian/react-beautiful-dnd?style=social) ![](https://img.shields.io/github/last-commit/atlassian/react-beautiful-dnd?style=flat&logo=Polestar)
 - [victory](https://github.com/FormidableLabs/victory) - 图表，用于 React 和 React Native ![](https://img.shields.io/github/stars/FormidableLabs/victory?style=social) ![](https://img.shields.io/github/last-commit/FormidableLabs/victory?style=flat&logo=Polestar)
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - 虚拟列表 ![](https://img.shields.io/github/stars/bvaughn/react-virtualized?style=social) ![](https://img.shields.io/github/last-commit/bvaughn/react-virtualized?style=flat&logo=Polestar)
 
 ## 后台管理模板
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - 中后台模板，采用 Vue 3、Vite、TypeScript ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin?style=flat&logo=Polestar)
