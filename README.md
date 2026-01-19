@@ -217,6 +217,7 @@
 ## 工具插件
 - [store.js](https://github.com/marcuswestin/store.js) - 数据存储 ![](https://img.shields.io/github/stars/marcuswestin/store.js?style=social) ![](https://img.shields.io/github/last-commit/marcuswestin/store.js?style=flat&logo=Polestar)
 - [validator.js](https://github.com/validatorjs/validator.js) - 验证器 ![](https://img.shields.io/github/stars/validatorjs/validator.js?style=social) ![](https://img.shields.io/github/last-commit/validatorjs/validator.js?style=flat&logo=Polestar)
+- [better-auth](https://github.com/better-auth/better-auth) - 适用于 TypeScript 的最全面认证框架 ![](https://img.shields.io/github/stars/better-auth/better-auth?style=social) ![](https://img.shields.io/github/last-commit/better-auth/better-auth?style=flat&logo=Polestar)
 - [js-cookie](https://github.com/js-cookie/js-cookie) - 处理 cookie ![](https://img.shields.io/github/stars/js-cookie/js-cookie?style=social) ![](https://img.shields.io/github/last-commit/js-cookie/js-cookie?style=flat&logo=Polestar)
 - [highlight.js](https://github.com/highlightjs/highlight.js) - JS语法高亮 ![](https://img.shields.io/github/stars/highlightjs/highlight.js?style=social) ![](https://img.shields.io/github/last-commit/highlightjs/highlight.js?style=flat&logo=Polestar)
 - [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - xml解析 ![](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=social) ![](https://img.shields.io/github/last-commit/NaturalIntelligence/fast-xml-parser?style=flat&logo=Polestar)
