@@ -1,4 +1,5 @@
 ## JS
+
 - [proposals](https://github.com/tc39/proposals) - 跟踪 ECMAScript 提案 ![](https://img.shields.io/github/stars/tc39/proposals?style=social) ![](https://img.shields.io/github/last-commit/tc39/proposals?style=flat&logo=Polestar)
 - [lodash](https://github.com/lodash/lodash) ![](https://img.shields.io/github/stars/lodash/lodash?style=social) ![](https://img.shields.io/github/last-commit/lodash/lodash?style=flat&logo=Polestar)
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript实用工具带 ![](https://img.shields.io/github/stars/jashkenas/underscore?style=social) ![](https://img.shields.io/github/last-commit/jashkenas/underscore?style=flat&logo=Polestar)
@@ -12,14 +13,17 @@
 - [flow](https://github.com/facebook/flow) - 为 JavaScript 添加静态类型以提高开发人员的工作效率和代码质量 ![](https://img.shields.io/github/stars/facebook/flow?style=social) ![](https://img.shields.io/github/last-commit/facebook/flow?style=flat&logo=Polestar)
 
 ## JS 运行
+
 - [deno](https://github.com/denoland/deno) - 现代的 JavaScript 和 TypeScript 运行环境 ![](https://img.shields.io/github/stars/denoland/deno?style=social) ![](https://img.shields.io/github/last-commit/denoland/deno?style=flat&logo=Polestar)
 - [bun](https://github.com/oven-sh/bun) - 速度超快的 JavaScript 运行时、捆绑器、测试运行器和包管理器——集于一身 ![](https://img.shields.io/github/stars/oven-sh/bun?style=social) ![](https://img.shields.io/github/last-commit/oven-sh/bun?style=flat&logo=Polestar)
 
 ## TS
+
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript ![](https://img.shields.io/github/stars/microsoft/TypeScript?style=social) ![](https://img.shields.io/github/last-commit/microsoft/TypeScript?style=flat&logo=Polestar)
 - [type-challenges](https://github.com/type-challenges/type-challenges) - TS挑战 ![](https://img.shields.io/github/stars/type-challenges/type-challenges?style=social) ![](https://img.shields.io/github/last-commit/type-challenges/type-challenges?style=flat&logo=Polestar)
 
 ## CSS
+
 - [minireset.css](https://github.com/jgthms/minireset.css) - 现代的CSS重置 ![](https://img.shields.io/github/stars/jgthms/minireset.css?style=social) ![](https://img.shields.io/github/last-commit/jgthms/minireset.css?style=flat&logo=Polestar)
 - [sanitize.css](https://github.com/csstools/sanitize.css) - 默认样式 ![](https://img.shields.io/github/stars/csstools/sanitize.css?style=social) ![](https://img.shields.io/github/last-commit/csstools/sanitize.css?style=flat&logo=Polestar)
 - [animate.css](https://github.com/animate-css/animate.css) - css动画库 ![](https://img.shields.io/github/stars/animate-css/animate.css?style=social) ![](https://img.shields.io/github/last-commit/animate-css/animate.css?style=flat&logo=Polestar)
@@ -47,9 +51,11 @@
 - [30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - 简短的CSS代码片段，满足您的所有开发需求 ![](https://img.shields.io/github/stars/Chalarangelo/30-seconds-of-css?style=social) ![](https://img.shields.io/github/last-commit/Chalarangelo/30-seconds-of-css?style=flat&logo=Polestar)
 
 ## HTML
+
 - [htmx](https://github.com/bigskysoftware/htmx) - 强大的 HTML 工具 ![](https://img.shields.io/github/stars/bigskysoftware/htmx?style=social) ![](https://img.shields.io/github/last-commit/bigskysoftware/htmx?style=flat&logo=Polestar)
 
 ## UI库
+
 - [bootstrap](https://github.com/twbs/bootstrap) ![](https://img.shields.io/github/stars/twbs/bootstrap?style=social) ![](https://img.shields.io/github/last-commit/twbs/bootstrap?style=flat&logo=Polestar)
 - [layui](https://github.com/layui/layui)- 极简模块化 Web UI 组件库 ![](https://img.shields.io/github/stars/layui/layui?style=social) ![](https://img.shields.io/github/last-commit/layui/layui?style=flat&logo=Polestar)
 - [floating-ui](https://github.com/floating-ui/floating-ui) - 轻量级、无依赖、高性能的定位库 ![](https://img.shields.io/github/stars/floating-ui/floating-ui?style=social) ![](https://img.shields.io/github/last-commit/floating-ui/floating-ui?style=flat&logo=Polestar)
@@ -63,6 +69,7 @@
 - [tdesign](https://github.com/Tencent/tdesign) - 腾讯 TDesign ![](https://img.shields.io/github/stars/Tencent/tdesign?style=social) ![](https://img.shields.io/github/last-commit/Tencent/tdesign?style=flat&logo=Polestar)
 
 ## UI组件
+
 - [swiper](https://github.com/nolimits4web/swiper) - swiper ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=social) ![](https://img.shields.io/github/last-commit/nolimits4web/swiper?style=flat&logo=Polestar)
 - [embla-carousel](https://github.com/davidjerleke/embla-carousel) - 轻量级、无依赖的轮播库 ![](https://img.shields.io/github/stars/davidjerleke/embla-carousel?style=social) ![](https://img.shields.io/github/last-commit/davidjerleke/embla-carousel?style=flat&logo=Polestar)
 - [sweetalert](https://github.com/t4t5/sweetalert) - alert 完美替代品 ![](https://img.shields.io/github/stars/t4t5/sweetalert?style=social) ![](https://img.shields.io/github/last-commit/t4t5/sweetalert?style=flat&logo=Polestar)
@@ -95,6 +102,7 @@
 - [gridstack.js](https://github.com/gridstack/gridstack.js) - 交互式仪表板 ![](https://img.shields.io/github/stars/gridstack/gridstack.js?style=social) ![](https://img.shields.io/github/last-commit/gridstack/gridstack.js?style=flat&logo=Polestar)
 
 ## UI库 - Vue
+
 - [element-plus](https://github.com/element-plus/element-plus) ![](https://img.shields.io/github/stars/element-plus/element-plus?style=social) ![](https://img.shields.io/github/last-commit/element-plus/element-plus?style=flat&logo=Polestar)
 - [naive-ui](https://github.com/tusen-ai/naive-ui) - UI框架，适用于 Vue 3 ![](https://img.shields.io/github/stars/tusen-ai/naive-ui?style=social) ![](https://img.shields.io/github/last-commit/tusen-ai/naive-ui?style=flat&logo=Polestar)
 - [vant](https://github.com/youzan/vant) - 一个轻量级的，可定制的 Vue UI 库，用于移动 web 应用程序。 ![](https://img.shields.io/github/stars/youzan/vant?style=social) ![](https://img.shields.io/github/last-commit/youzan/vant?style=flat&logo=Polestar)
@@ -126,6 +134,7 @@
 - [mand-mobile](https://github.com/didi/mand-mobile) - 基于 Vue.js 2 的移动 UI 工具包，专为金融场景设计 ![](https://img.shields.io/github/stars/didi/mand-mobile?style=social) ![](https://img.shields.io/github/last-commit/didi/mand-mobile?style=flat&logo=Polestar)
 
 ## UI库 - React
+
 - [ant-design](https://github.com/ant-design/ant-design) - 一个企业级的 UI 设计语言和 React UI 库 ![](https://img.shields.io/github/stars/ant-design/ant-design?style=social) ![](https://img.shields.io/github/last-commit/ant-design/ant-design?style=flat&logo=Polestar)
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) ![](https://img.shields.io/github/stars/ant-design/ant-design-pro?style=social) ![](https://img.shields.io/github/last-commit/ant-design/ant-design-pro?style=flat&logo=Polestar)
 - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - ant-design 移动端 ![](https://img.shields.io/github/stars/ant-design/ant-design-mobile?style=social) ![](https://img.shields.io/github/last-commit/ant-design/ant-design-mobile?style=flat&logo=Polestar)
@@ -143,6 +152,7 @@
 - [blueprint](https://github.com/palantir/blueprint) - 基于 React 的 Web UI 工具包 ![](https://img.shields.io/github/stars/palantir/blueprint?style=social) ![](https://img.shields.io/github/last-commit/palantir/blueprint?style=flat&logo=Polestar)
 
 ## 图标
+
 - [IconPark](https://github.com/bytedance/IconPark) ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social) ![](https://img.shields.io/github/last-commit/bytedance/IconPark?style=flat&logo=Polestar)
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) ![](https://img.shields.io/github/stars/FortAwesome/Font-Awesome?style=social) ![](https://img.shields.io/github/last-commit/FortAwesome/Font-Awesome?style=flat&logo=Polestar)
 - [ionicons](https://github.com/ionic-team/ionicons) ![](https://img.shields.io/github/stars/ionic-team/ionicons?style=social) ![](https://img.shields.io/github/last-commit/ionic-team/ionicons?style=flat&logo=Polestar)
@@ -154,6 +164,7 @@
 - [xicons](https://github.com/07akioni/xicons) - 整合自 fluentui-system-icons、ionicons、ant-design-icons、material-design-icons、Font-Awesome tabler-icons 和 carbon 的 SVG Vue/React 组件 ![](https://img.shields.io/github/stars/07akioni/xicons?style=social) ![](https://img.shields.io/github/last-commit/07akioni/xicons?style=flat&logo=Polestar)
 
 ## 框架
+
 - [jquery](https://github.com/jquery/jquery) ![](https://img.shields.io/github/stars/jquery/jquery?style=social) ![](https://img.shields.io/github/last-commit/jquery/jquery?style=flat&logo=Polestar)
 - [angular](https://github.com/angular/angular) - angular ![](https://img.shields.io/github/stars/angular/angular?style=social) ![](https://img.shields.io/github/last-commit/angular/angular?style=flat&logo=Polestar)
 - [alpine](https://github.com/alpinejs/alpine) - Alpine.js 通过很低的成本提供了与 Vue 或 React 这类大型框架相近的响应式和声明式特性 ![](https://img.shields.io/github/stars/alpinejs/alpine?style=social) ![](https://img.shields.io/github/last-commit/alpinejs/alpine?style=flat&logo=Polestar)
@@ -175,12 +186,14 @@
 - [hono](https://github.com/honojs/hono) - Web 应用框架，支持任何 JavaScript 运行时（适用于 Deno、Bun 等） ![](https://img.shields.io/github/stars/honojs/hono?style=social) ![](https://img.shields.io/github/last-commit/honojs/hono?style=flat&logo=Polestar)
 
 ## 包管理工具
+
 - [npm](https://github.com/npm/cli) ![](https://img.shields.io/github/stars/npm/cli?style=social) ![](https://img.shields.io/github/last-commit/npm/cli?style=flat&logo=Polestar)
 - [yarn](https://github.com/yarnpkg/yarn) ![](https://img.shields.io/github/stars/yarnpkg/yarn?style=social) ![](https://img.shields.io/github/last-commit/yarnpkg/yarn?style=flat&logo=Polestar)
 - [pnpm](https://github.com/pnpm/pnpm) ![](https://img.shields.io/github/stars/pnpm/pnpm?style=social) ![](https://img.shields.io/github/last-commit/pnpm/pnpm?style=flat&logo=Polestar)
 - [lerna](https://github.com/lerna/lerna) - Lerna 是一个快速、现代的构建系统，用于管理和发布同一存储库中的多个 JavaScript/TypeScript 包 ![](https://img.shields.io/github/stars/lerna/lerna?style=social) ![](https://img.shields.io/github/last-commit/lerna/lerna?style=flat&logo=Polestar)
 
 ## 构建
+
 - [webpack](https://github.com/webpack/webpack) ![](https://img.shields.io/github/stars/webpack/webpack?style=social) ![](https://img.shields.io/github/last-commit/webpack/webpack?style=flat&logo=Polestar)
 - [vite](https://github.com/vitejs/vite) ![](https://img.shields.io/github/stars/vitejs/vite?style=social) ![](https://img.shields.io/github/last-commit/vitejs/vite?style=flat&logo=Polestar)
 - [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) - 按需引入api ![](https://img.shields.io/github/stars/antfu/unplugin-auto-import?style=social) ![](https://img.shields.io/github/last-commit/antfu/unplugin-auto-import?style=flat&logo=Polestar)
@@ -193,6 +206,7 @@
 - [rsbuild](https://github.com/web-infra-dev/rsbuild) - 由 Rspack 驱动的构建工具 ![](https://img.shields.io/github/stars/web-infra-dev/rsbuild?style=social) ![](https://img.shields.io/github/last-commit/web-infra-dev/rsbuild?style=flat&logo=Polestar)
 
 ## 项目
+
 - [babel](https://github.com/babel/babel) - javaScript 编译器 ![](https://img.shields.io/github/stars/babel/babel?style=social) ![](https://img.shields.io/github/last-commit/babel/babel?style=flat&logo=Polestar)
 - [swc](https://github.com/swc-project/swc) - 基于 rust 语言开发的 javaScript 编译器 ![](https://img.shields.io/github/stars/swc-project/swc?style=social) ![](https://img.shields.io/github/last-commit/swc-project/swc?style=flat&logo=Polestar)
 - [postcss](https://github.com/postcss/postcss) - 使用 js 插件转换 CSS 的工具 ![](https://img.shields.io/github/stars/postcss/postcss?style=social) ![](https://img.shields.io/github/last-commit/postcss/postcss?style=flat&logo=Polestar)
@@ -201,6 +215,7 @@
 - [rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 模块依赖可视化，打包体积分析 ![](https://img.shields.io/github/stars/btd/rollup-plugin-visualizer?style=social) ![](https://img.shields.io/github/last-commit/btd/rollup-plugin-visualizer?style=flat&logo=Polestar)
 
 ## 代码检测
+
 - [eslint](https://github.com/eslint/eslint) ![](https://img.shields.io/github/stars/eslint/eslint?style=social) ![](https://img.shields.io/github/last-commit/eslint/eslint?style=flat&logo=Polestar)
 - [prettier](https://github.com/prettier/prettier) - 代码格式化 ![](https://img.shields.io/github/stars/prettier/prettier?style=social) ![](https://img.shields.io/github/last-commit/prettier/prettier?style=flat&logo=Polestar)
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) ![](https://img.shields.io/github/stars/vuejs/eslint-plugin-vue?style=social) ![](https://img.shields.io/github/last-commit/vuejs/eslint-plugin-vue?style=flat&logo=Polestar)
@@ -215,6 +230,7 @@
 - [stylelint-config-recommended-scss](https://github.com/stylelint-scss/stylelint-config-recommended-scss) - 推荐的scss配置 for stylelint ![](https://img.shields.io/github/stars/stylelint-scss/stylelint-config-recommended-scss?style=social) ![](https://img.shields.io/github/last-commit/stylelint-scss/stylelint-config-recommended-scss?style=flat&logo=Polestar)
 
 ## 工具插件
+
 - [store.js](https://github.com/marcuswestin/store.js) - 数据存储 ![](https://img.shields.io/github/stars/marcuswestin/store.js?style=social) ![](https://img.shields.io/github/last-commit/marcuswestin/store.js?style=flat&logo=Polestar)
 - [validator.js](https://github.com/validatorjs/validator.js) - 验证器 ![](https://img.shields.io/github/stars/validatorjs/validator.js?style=social) ![](https://img.shields.io/github/last-commit/validatorjs/validator.js?style=flat&logo=Polestar)
 - [better-auth](https://github.com/better-auth/better-auth) - 适用于 TypeScript 的最全面认证框架 ![](https://img.shields.io/github/stars/better-auth/better-auth?style=social) ![](https://img.shields.io/github/last-commit/better-auth/better-auth?style=flat&logo=Polestar)
@@ -278,6 +294,7 @@
 - [Print.js](https://github.com/crabbly/Print.js) - 打印多种格式的内容（如 HTML、PDF、图片、JSON 数据等） ![](https://img.shields.io/github/stars/crabbly/Print.js?style=social) ![](https://img.shields.io/github/last-commit/crabbly/Print.js?style=flat&logo=Polestar)
 
 ## ajax插件
+
 - [axios](https://github.com/axios/axios) ![](https://img.shields.io/github/stars/axios/axios?style=social) ![](https://img.shields.io/github/last-commit/axios/axios?style=flat&logo=Polestar)
 - [qs](https://github.com/ljharb/qs) - 序列化和解析 URL 查询字符串 ![](https://img.shields.io/github/stars/ljharb/qs?style=social) ![](https://img.shields.io/github/last-commit/ljharb/qs?style=flat&logo=Polestar)
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - axios 拦截器，模拟请求 ![](https://img.shields.io/github/stars/ctimmerm/axios-mock-adapter?style=social) ![](https://img.shields.io/github/last-commit/ctimmerm/axios-mock-adapter?style=flat&logo=Polestar)
@@ -288,13 +305,16 @@
 - [faker](https://github.com/faker-js/faker) - 生成伪数据（名称、地址、公司、日期、时间、商务、财务、电话等） ![](https://img.shields.io/github/stars/faker-js/faker?style=social) ![](https://img.shields.io/github/last-commit/faker-js/faker?style=flat&logo=Polestar)
 
 ## 状态管理插件
+
 - [xstate](https://github.com/statelyai/xstate) - 基于角色的状态管理 ![](https://img.shields.io/github/stars/statelyai/xstate?style=social) ![](https://img.shields.io/github/last-commit/statelyai/xstate?style=flat&logo=Polestar)
 - [mobx](https://github.com/mobxjs/mobx) - 简单且可扩展的状态管理 ![](https://img.shields.io/github/stars/mobxjs/mobx?style=social) ![](https://img.shields.io/github/last-commit/mobxjs/mobx?style=flat&logo=Polestar)
 
 ## 编码插件
+
 - [js-base64](https://github.com/dankogai/js-base64) - Base64 编解码 ![](https://img.shields.io/github/stars/dankogai/js-base64?style=social) ![](https://img.shields.io/github/last-commit/dankogai/js-base64?style=flat&logo=Polestar)
 
 ## 加解密插件
+
 - [crypto-js](https://github.com/brix/crypto-js) - 加密 ![](https://img.shields.io/github/stars/brix/crypto-js?style=social) ![](https://img.shields.io/github/last-commit/brix/crypto-js?style=flat&logo=Polestar)
 - [jsencrypt](https://github.com/travist/jsencrypt) - 执行 OpenSSL RSA 加密、解密和密钥生成 ![](https://img.shields.io/github/stars/travist/jsencrypt?style=social) ![](https://img.shields.io/github/last-commit/travist/jsencrypt?style=flat&logo=Polestar)
 - [jsrsasign](https://github.com/kjur/jsrsasign) - 加密库 ![](https://img.shields.io/github/stars/kjur/jsrsasign?style=social) ![](https://img.shields.io/github/last-commit/kjur/jsrsasign?style=flat&logo=Polestar)
@@ -303,6 +323,7 @@
 - [js-spark-md5](https://github.com/satazor/js-spark-md5) - MD5 ![](https://img.shields.io/github/stars/satazor/js-spark-md5?style=social) ![](https://img.shields.io/github/last-commit/satazor/js-spark-md5?style=flat&logo=Polestar)
 
 ## 日期插件
+
 - [date-fns](https://github.com/date-fns/date-fns) - 日期库 ![](https://img.shields.io/github/stars/date-fns/date-fns?style=social) ![](https://img.shields.io/github/last-commit/date-fns/date-fns?style=flat&logo=Polestar)
 - [moment](https://github.com/moment/moment) - 验证，操作和显示日期 ![](https://img.shields.io/github/stars/moment/moment?style=social) ![](https://img.shields.io/github/last-commit/moment/moment?style=flat&logo=Polestar)
 - [dayjs](https://github.com/iamkun/dayjs) - 解析、操作和格式化日期和时间 ![](https://img.shields.io/github/stars/iamkun/dayjs?style=social) ![](https://img.shields.io/github/last-commit/iamkun/dayjs?style=flat&logo=Polestar)
@@ -310,33 +331,41 @@
 - [timeago.js](https://github.com/hustcc/timeago.js) - 将时间转换成多久前 ![](https://img.shields.io/github/stars/hustcc/timeago.js?style=social) ![](https://img.shields.io/github/last-commit/hustcc/timeago.js?style=flat&logo=Polestar)
 
 ## Number插件
+
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js) - 用于任意精度计算 ![](https://img.shields.io/github/stars/MikeMcl/bignumber.js?style=social) ![](https://img.shields.io/github/last-commit/MikeMcl/bignumber.js?style=flat&logo=Polestar)
 - [big.js](https://github.com/MikeMcl/big.js) - 用于任意精度的十进制算术 ![](https://img.shields.io/github/stars/MikeMcl/big.js?style=social) ![](https://img.shields.io/github/last-commit/MikeMcl/big.js?style=flat&logo=Polestar)
 
 ## Math插件
+
 - [mathjs](https://github.com/josdejong/mathjs) - JavaScript 和 Node.js 的扩展数学库 ![](https://img.shields.io/github/stars/josdejong/mathjs?style=social) ![](https://img.shields.io/github/last-commit/josdejong/mathjs?style=flat&logo=Polestar)
 - [KaTeX](https://github.com/KaTeX/KaTeX) - 呈现 TeX 数学公式 ![](https://img.shields.io/github/stars/KaTeX/KaTeX?style=social) ![](https://img.shields.io/github/last-commit/KaTeX/KaTeX?style=flat&logo=Polestar)
 
 ## 模型插件
+
 - [tfjs](https://github.com/tensorflow/tfjs) - 一个 WebGL 加速的 JavaScript 库，用于训练和部署 ML 模型。 ![](https://img.shields.io/github/stars/tensorflow/tfjs?style=social) ![](https://img.shields.io/github/last-commit/tensorflow/tfjs?style=flat&logo=Polestar)
 
 ## 性能插件
+
 - [gpu.js](https://github.com/gpujs/gpu.js) - 用于在浏览器或 Node.js 环境中利用 GPU 进行并行计算加速 ![](https://img.shields.io/github/stars/gpujs/gpu.js?style=social) ![](https://img.shields.io/github/last-commit/gpujs/gpu.js?style=flat&logo=Polestar)
 
 ## 拼音插件
+
 - [pinyin](https://github.com/hotoo/pinyin) - 汉字拼音转换 ![](https://img.shields.io/github/stars/hotoo/pinyin?style=social) ![](https://img.shields.io/github/last-commit/hotoo/pinyin?style=flat&logo=Polestar)
 - [pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词 ![](https://img.shields.io/github/stars/zh-lx/pinyin-pro?style=social) ![](https://img.shields.io/github/last-commit/zh-lx/pinyin-pro?style=flat&logo=Polestar)
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) - 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版 ![](https://img.shields.io/github/stars/xmflswood/pinyin-match?style=social) ![](https://img.shields.io/github/last-commit/xmflswood/pinyin-match?style=flat&logo=Polestar)
 
 ## 打字机插件
+
 - [typeit](https://github.com/alexmacarthur/typeit) - 动画打字 ![](https://img.shields.io/github/stars/alexmacarthur/typeit?style=social) ![](https://img.shields.io/github/last-commit/alexmacarthur/typeit?style=flat&logo=Polestar)
 - [typed.js](https://github.com/mattboldt/typed.js) - 动画打字 ![](https://img.shields.io/github/stars/mattboldt/typed.js?style=social) ![](https://img.shields.io/github/last-commit/mattboldt/typed.js?style=flat&logo=Polestar)
 
 ## 二维码插件
+
 - [qrcodejs](https://github.com/davidshimjs/qrcodejs) - 二维码生成器 ![](https://img.shields.io/github/stars/davidshimjs/qrcodejs?style=social) ![](https://img.shields.io/github/last-commit/davidshimjs/qrcodejs?style=flat&logo=Polestar)
 - [JsQRScanner](https://github.com/jbialobr/JsQRScanner) - 二维码识别器 ![](https://img.shields.io/github/stars/jbialobr/JsQRScanner?style=social) ![](https://img.shields.io/github/last-commit/jbialobr/JsQRScanner?style=flat&logo=Polestar)
 
 ## 拖拽插件
+
 - [moveable](https://github.com/daybrush/moveable) - 拖动、调整大小等 ![](https://img.shields.io/github/stars/daybrush/moveable?style=social) ![](https://img.shields.io/github/last-commit/daybrush/moveable?style=flat&logo=Polestar)
 - [draggabilly](https://github.com/desandro/draggabilly) - 拖动 ![](https://img.shields.io/github/stars/desandro/draggabilly?style=social) ![](https://img.shields.io/github/last-commit/desandro/draggabilly?style=flat&logo=Polestar)
 - [Sortable](https://github.com/SortableJS/Sortable) - 拖动排序 ![](https://img.shields.io/github/stars/SortableJS/Sortable?style=social) ![](https://img.shields.io/github/last-commit/SortableJS/Sortable?style=flat&logo=Polestar)
@@ -347,6 +376,7 @@
 - [interact.js](https://github.com/taye/interact.js) - 实现拖放、缩放和旋转等交互效果 ![](https://img.shields.io/github/stars/taye/interact.js?style=social) ![](https://img.shields.io/github/last-commit/taye/interact.js?style=flat&logo=Polestar)
 
 ## 图像插件
+
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - 图片查看插件 ![](https://img.shields.io/github/stars/dimsemenov/PhotoSwipe?style=social) ![](https://img.shields.io/github/last-commit/dimsemenov/PhotoSwipe?style=flat&logo=Polestar)
 - [viewerjs](https://github.com/fengyuanchen/viewerjs) - 图像查看预览 ![](https://img.shields.io/github/stars/fengyuanchen/viewerjs?style=social) ![](https://img.shields.io/github/last-commit/fengyuanchen/viewerjs?style=flat&logo=Polestar)
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - 图像裁剪器 ![](https://img.shields.io/github/stars/fengyuanchen/cropperjs?style=social) ![](https://img.shields.io/github/last-commit/fengyuanchen/cropperjs?style=flat&logo=Polestar)
@@ -359,6 +389,7 @@
 - [snapdom](https://github.com/zumerlab/snapdom) - 以极快的速度和准确性将 HTML 元素捕获为图像 ![](https://img.shields.io/github/stars/zumerlab/snapdom?style=social) ![](https://img.shields.io/github/last-commit/zumerlab/snapdom?style=flat&logo=Polestar)
 
 ## 文件插件
+
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js) - 客户端文件保存方案 ![](https://img.shields.io/github/stars/eligrey/FileSaver.js?style=social) ![](https://img.shields.io/github/last-commit/eligrey/FileSaver.js?style=flat&logo=Polestar)
 - [browser-md5-file](https://github.com/ink-zone/browser-md5-file) - 在浏览器端获取文件的MD5值 ![](https://img.shields.io/github/stars/ink-zone/browser-md5-file?style=social) ![](https://img.shields.io/github/last-commit/ink-zone/browser-md5-file?style=flat&logo=Polestar)
 - [filesize.js](https://github.com/avoidwork/filesize.js) - 文件大小 ![](https://img.shields.io/github/stars/avoidwork/filesize.js?style=social) ![](https://img.shields.io/github/last-commit/avoidwork/filesize.js?style=flat&logo=Polestar)
@@ -367,11 +398,13 @@
 - [psd.js](https://github.com/meltingice/psd.js) - 适用于 NodeJS 和浏览器的 Photoshop PSD 文件解析器 ![](https://img.shields.io/github/stars/meltingice/psd.js?style=social) ![](https://img.shields.io/github/last-commit/meltingice/psd.js?style=flat&logo=Polestar)
 
 ## 音频插件
+
 - [howler.js](https://github.com/goldfire/howler.js) - 音频库，加载和播放声音文件 ![](https://img.shields.io/github/stars/goldfire/howler.js?style=social) ![](https://img.shields.io/github/last-commit/goldfire/howler.js?style=flat&logo=Polestar)
 - [Recorderjs](https://github.com/mattdiamond/Recorderjs) - 录音 ![](https://img.shields.io/github/stars/mattdiamond/Recorderjs?style=social) ![](https://img.shields.io/github/last-commit/mattdiamond/Recorderjs?style=flat&logo=Polestar)
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - 音频波形播放器 ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social) ![](https://img.shields.io/github/last-commit/katspaugh/wavesurfer.js?style=flat&logo=Polestar)
 
 ## 视频插件
+
 - [video.js](https://github.com/videojs/video.js) - HTML5 & Flash 视频播放器 ![](https://img.shields.io/github/stars/videojs/video.js?style=social) ![](https://img.shields.io/github/last-commit/videojs/video.js?style=flat&logo=Polestar)
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV 视频播放器 ![](https://img.shields.io/github/stars/Bilibili/flv.js?style=social) ![](https://img.shields.io/github/last-commit/Bilibili/flv.js?style=flat&logo=Polestar)
 - [flvExtend](https://github.com/shady-xia/flvExtend) - 基于 flv.js 的功能扩展插件（追帧、断流重连、实时更新） ![](https://img.shields.io/github/stars/shady-xia/flvExtend?style=social) ![](https://img.shields.io/github/last-commit/shady-xia/flvExtend?style=flat&logo=Polestar)
@@ -383,6 +416,7 @@
 - [videojs-player](https://github.com/surmon-china/videojs-player) - Video.js player component for Vue(3) and React. ![](https://img.shields.io/github/stars/surmon-china/videojs-player?style=social) ![](https://img.shields.io/github/last-commit/surmon-china/videojs-player?style=flat&logo=Polestar)
 
 ## PDF插件
+
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF 阅读器 ![](https://img.shields.io/github/stars/mozilla/pdf.js?style=social) ![](https://img.shields.io/github/last-commit/mozilla/pdf.js?style=flat&logo=Polestar)
 - [pdfmake](https://github.com/bpampuch/pdfmake) - 在浏览器中生成 PDF 文件 ![](https://img.shields.io/github/stars/bpampuch/pdfmake?style=social) ![](https://img.shields.io/github/last-commit/bpampuch/pdfmake?style=flat&logo=Polestar)
 - [pdfkit](https://github.com/foliojs/pdfkit) - 一个用于 Node 和浏览器的 JavaScript PDF 生成库 ![](https://img.shields.io/github/stars/foliojs/pdfkit?style=social) ![](https://img.shields.io/github/last-commit/foliojs/pdfkit?style=flat&logo=Polestar)
@@ -390,6 +424,7 @@
 - [pdfjs-dist](https://github.com/mozilla/pdfjs-dist) - pdf.js 用于 npm 的预构建版本 ![](https://img.shields.io/github/stars/mozilla/pdfjs-dist?style=social) ![](https://img.shields.io/github/last-commit/mozilla/pdfjs-dist?style=flat&logo=Polestar)
 
 ## 办公套件插件
+
 - [sheetjs](https://github.com/SheetJS/sheetjs) - Excel 表格编辑器 ![](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social) ![](https://img.shields.io/github/last-commit/SheetJS/sheetjs?style=flat&logo=Polestar)
 - [Luckysheet](https://github.com/dream-num/Luckysheet) - 像 Excel 一样的在线电子表格，功能强大，配置简单 ![](https://img.shields.io/github/stars/dream-num/Luckysheet?style=social) ![](https://img.shields.io/github/last-commit/dream-num/Luckysheet?style=flat&logo=Polestar)
 - [univer](https://github.com/dream-num/univer) - 开源 Office 办公套件，包括电子表格、文档和幻灯片 ![](https://img.shields.io/github/stars/dream-num/univer?style=social) ![](https://img.shields.io/github/last-commit/dream-num/univer?style=flat&logo=Polestar)
@@ -397,6 +432,7 @@
 - [docxjs](https://github.com/VolodymyrBaydalka/docxjs) - Docx 预览 ![](https://img.shields.io/github/stars/VolodymyrBaydalka/docxjs?style=social) ![](https://img.shields.io/github/last-commit/VolodymyrBaydalka/docxjs?style=flat&logo=Polestar)
 
 ## 富文本编辑器
+
 - [quill](https://github.com/quilljs/quill) ![](https://img.shields.io/github/stars/quilljs/quill?style=social) ![](https://img.shields.io/github/last-commit/quilljs/quill?style=flat&logo=Polestar)
 - [tiptap](https://github.com/ueberdosis/tiptap) ![](https://img.shields.io/github/stars/ueberdosis/tiptap?style=social) ![](https://img.shields.io/github/last-commit/ueberdosis/tiptap?style=flat&logo=Polestar)
 - [tinymce](https://github.com/tinymce/tinymce) ![](https://img.shields.io/github/stars/tinymce/tinymce?style=social) ![](https://img.shields.io/github/last-commit/tinymce/tinymce?style=flat&logo=Polestar)
@@ -409,10 +445,12 @@
 - [canvas-editor](https://github.com/Hufe921/canvas-editor) - 基于canvas/svg的富文本编辑器 ![](https://img.shields.io/github/stars/Hufe921/canvas-editor?style=social) ![](https://img.shields.io/github/last-commit/Hufe921/canvas-editor?style=flat&logo=Polestar)
 
 ## 代码编辑器
+
 - [codemirror5](https://github.com/codemirror/codemirror5) - 代码编辑器 ![](https://img.shields.io/github/stars/codemirror/codemirror5?style=social) ![](https://img.shields.io/github/last-commit/codemirror/codemirror5?style=flat&logo=Polestar)
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - 基于浏览器的代码编辑器（vscode） ![](https://img.shields.io/github/stars/microsoft/monaco-editor?style=social) ![](https://img.shields.io/github/last-commit/microsoft/monaco-editor?style=flat&logo=Polestar)
 
 ## Markdown 插件
+
 - [vditor](https://github.com/Vanessa219/vditor) - 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式 ![](https://img.shields.io/github/stars/Vanessa219/vditor?style=social) ![](https://img.shields.io/github/last-commit/Vanessa219/vditor?style=flat&logo=Polestar)
 - [md](https://github.com/doocs/md) - WeChat Markdown Editor 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性 ![](https://img.shields.io/github/stars/doocs/md?style=social) ![](https://img.shields.io/github/last-commit/doocs/md?style=flat&logo=Polestar)
 - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - Markdown 编辑器 ![](https://img.shields.io/github/stars/sparksuite/simplemde-markdown-editor?style=social) ![](https://img.shields.io/github/last-commit/sparksuite/simplemde-markdown-editor?style=flat&logo=Polestar)
@@ -426,9 +464,11 @@
 - [markitdown](https://github.com/microsoft/markitdown) - 用于将文件和办公文档转换为Markdown的Python工具 ![](https://img.shields.io/github/stars/microsoft/markitdown?style=social) ![](https://img.shields.io/github/last-commit/microsoft/markitdown?style=flat&logo=Polestar)
 
 ## 思维导图插件
+
 - [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - 开源的 JavaScript 思维导图核心 ![](https://img.shields.io/github/stars/ssshooter/mind-elixir-core?style=social) ![](https://img.shields.io/github/last-commit/ssshooter/mind-elixir-core?style=flat&logo=Polestar)
 
 ## 地图插件
+
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - 基于 WebGL，创建交互式、可定制的高性能地图 ![](https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/mapbox-gl-js?style=flat&logo=Polestar)
 - [vector-tile-js](https://github.com/mapbox/vector-tile-js) - 使用 JavaScript 解析矢量图块 ![](https://img.shields.io/github/stars/mapbox/vector-tile-js?style=social) ![](https://img.shields.io/github/last-commit/mapbox/vector-tile-js?style=flat&logo=Polestar)
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - 浏览器中的交互式矢量瓦片地图 ![](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social) ![](https://img.shields.io/github/last-commit/maplibre/maplibre-gl-js?style=flat&logo=Polestar)
@@ -448,6 +488,7 @@
 - [mapshaper](https://github.com/mbloch/mapshaper) - 用于编辑 Shapefile、GeoJSON、TopoJSON 和 CSV 文件的工具 ![](https://img.shields.io/github/stars/mbloch/mapshaper?style=social) ![](https://img.shields.io/github/last-commit/mbloch/mapshaper?style=flat&logo=Polestar)
 
 ## 移动端插件
+
 - [callapp-lib](https://github.com/suanmei/callapp-lib) - H5 唤起 APP 的解决方案 ![](https://img.shields.io/github/stars/suanmei/callapp-lib?style=social) ![](https://img.shields.io/github/last-commit/suanmei/callapp-lib?style=flat&logo=Polestar)
 - [hammer.js](https://github.com/hammerjs/hammer.js) - 检测触摸手势 ![](https://img.shields.io/github/stars/hammerjs/hammer.js?style=social) ![](https://img.shields.io/github/last-commit/hammerjs/hammer.js?style=flat&logo=Polestar)
 - [mobile-detect.js](https://github.com/hgoebl/mobile-detect.js) - 移动设备检测 ![](https://img.shields.io/github/stars/hgoebl/mobile-detect.js?style=social) ![](https://img.shields.io/github/last-commit/hgoebl/mobile-detect.js?style=flat&logo=Polestar)
@@ -468,6 +509,7 @@
 - [H5lock](https://github.com/lvming6816077/H5lock) - H5手势解锁 ![](https://img.shields.io/github/stars/lvming6816077/H5lock?style=social) ![](https://img.shields.io/github/last-commit/lvming6816077/H5lock?style=flat&logo=Polestar)
 
 ## 图形图表
+
 - [echarts](https://github.com/apache/echarts) ![](https://img.shields.io/github/stars/apache/echarts?style=social) ![](https://img.shields.io/github/last-commit/apache/echarts?style=flat&logo=Polestar)
 - [echarts-gl](https://github.com/ecomfe/echarts-gl) - ECharts 地球可视化和 3D 绘图 ![](https://img.shields.io/github/stars/ecomfe/echarts-gl?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/echarts-gl?style=flat&logo=Polestar)
 - [echarts-liquidfill](https://github.com/ecomfe/echarts-liquidfill) - ECharts 液态填充图 ![](https://img.shields.io/github/stars/ecomfe/echarts-liquidfill?style=social) ![](https://img.shields.io/github/last-commit/ecomfe/echarts-liquidfill?style=flat&logo=Polestar)
@@ -488,9 +530,9 @@
 - [nivo](https://github.com/plouc/nivo) ![](https://img.shields.io/github/stars/plouc/nivo?style=social) ![](https://img.shields.io/github/last-commit/plouc/nivo?style=flat&logo=Polestar)
 - [plotly.js](https://github.com/plotly/plotly.js) - 数据可视化 ![](https://img.shields.io/github/stars/plotly/plotly.js?style=social) ![](https://img.shields.io/github/last-commit/plotly/plotly.js?style=flat&logo=Polestar)
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 基于 SVG 构建的交互式 JavaScript 图表 ![](https://img.shields.io/github/stars/apexcharts/apexcharts.js?style=social) ![](https://img.shields.io/github/last-commit/apexcharts/apexcharts.js?style=flat&logo=Polestar)
-- [highcharts](https://github.com/highcharts/highcharts) -  JavaScript 图表框架 ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) ![](https://img.shields.io/github/last-commit/highcharts/highcharts?style=flat&logo=Polestar)
-- [sigma.js](https://github.com/jacomyal/sigma.js) -  可视化数以千计的节点和边的图形（在网页中展示复杂的关系网络） ![](https://img.shields.io/github/stars/jacomyal/sigma.js?style=social) ![](https://img.shields.io/github/last-commit/jacomyal/sigma.js?style=flat&logo=Polestar)
-- [rete](https://github.com/retejs/rete) -  构建可视化的图形编程界面 ![](https://img.shields.io/github/stars/retejs/rete?style=social) ![](https://img.shields.io/github/last-commit/retejs/rete?style=flat&logo=Polestar)
+- [highcharts](https://github.com/highcharts/highcharts) - JavaScript 图表框架 ![](https://img.shields.io/github/stars/highcharts/highcharts?style=social) ![](https://img.shields.io/github/last-commit/highcharts/highcharts?style=flat&logo=Polestar)
+- [sigma.js](https://github.com/jacomyal/sigma.js) - 可视化数以千计的节点和边的图形（在网页中展示复杂的关系网络） ![](https://img.shields.io/github/stars/jacomyal/sigma.js?style=social) ![](https://img.shields.io/github/last-commit/jacomyal/sigma.js?style=flat&logo=Polestar)
+- [rete](https://github.com/retejs/rete) - 构建可视化的图形编程界面 ![](https://img.shields.io/github/stars/retejs/rete?style=social) ![](https://img.shields.io/github/last-commit/retejs/rete?style=flat&logo=Polestar)
 - [roughViz](https://github.com/jwilber/roughViz) - 创建手绘风格的图表（条形图、水平条形图、圆环图、折线图、饼图、散点图和堆积条形图等） ![](https://img.shields.io/github/stars/jwilber/roughViz?style=social) ![](https://img.shields.io/github/last-commit/jwilber/roughViz?style=flat&logo=Polestar)
 - [X6](https://github.com/antvis/X6) - 基于 HTML 和 SVG 的图编辑引擎，提供低成本的定制能力和开箱即用的内置扩展，方便我们快速搭建 DAG 图、ER 图、流程图、血缘图等应用。 ![](https://img.shields.io/github/stars/antvis/X6?style=social) ![](https://img.shields.io/github/last-commit/antvis/X6?style=flat&logo=Polestar)
 - [F2](https://github.com/antvis/F2) - 移动端可视化引擎 ![](https://img.shields.io/github/stars/antvis/F2?style=social) ![](https://img.shields.io/github/last-commit/antvis/F2?style=flat&logo=Polestar)
@@ -502,6 +544,7 @@
 - [bpmn-js](https://github.com/bpmn-io/bpmn-js) - 在浏览器中查看和编辑 BPMN 2.0 图表。创建、展示和编辑业务流程模型 ![](https://img.shields.io/github/stars/bpmn-io/bpmn-js?style=social) ![](https://img.shields.io/github/last-commit/bpmn-io/bpmn-js?style=flat&logo=Polestar)
 
 ## Canvas
+
 - [Fabric.js](https://github.com/fabricjs/fabric.js) - canvas框架 ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social) ![](https://img.shields.io/github/last-commit/fabricjs/fabric.js?style=flat&logo=Polestar)
 - [konva](https://github.com/konvajs/konva) - canvas框架 ![](https://img.shields.io/github/stars/konvajs/konva?style=social) ![](https://img.shields.io/github/last-commit/konvajs/konva?style=flat&logo=Polestar)
 - [cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web ![](https://img.shields.io/github/stars/dntzhang/cax?style=social) ![](https://img.shields.io/github/last-commit/dntzhang/cax?style=flat&logo=Polestar)
@@ -518,6 +561,7 @@
 - [mcanvas](https://github.com/xd-tayde/mcanvas) - 用于合成图片的canvas绘制库 ![](https://img.shields.io/github/stars/xd-tayde/mcanvas?style=social) ![](https://img.shields.io/github/last-commit/xd-tayde/mcanvas?style=flat&logo=Polestar)
 
 ## SVG
+
 - [sparkline](https://github.com/fnando/sparkline) - 迷你线图 ![](https://img.shields.io/github/stars/fnando/sparkline?style=social) ![](https://img.shields.io/github/last-commit/fnando/sparkline?style=flat&logo=Polestar)
 - [svgo](https://github.com/svg/svgo) - 用于优化 SVG 图形文件的工具，减小 SVG 文件的大小 ![](https://img.shields.io/github/stars/svg/svgo?style=social) ![](https://img.shields.io/github/last-commit/svg/svgo?style=flat&logo=Polestar)
 - [svg.js](https://github.com/svgdotjs/svg.js) - 用于创建、操作和动画化 SVG 的轻量级库 ![](https://img.shields.io/github/stars/svgdotjs/svg.js?style=social) ![](https://img.shields.io/github/last-commit/svgdotjs/svg.js?style=flat&logo=Polestar)
@@ -525,6 +569,7 @@
 - [vivus](https://github.com/maxwellito/vivus) - SVG上制作绘图动画 ![](https://img.shields.io/github/stars/maxwellito/vivus?style=social) ![](https://img.shields.io/github/last-commit/maxwellito/vivus?style=flat&logo=Polestar)
 
 ## 动画动效
+
 - [anime](https://github.com/juliangarnier/anime) - js动画引擎 ![](https://img.shields.io/github/stars/juliangarnier/anime?style=social) ![](https://img.shields.io/github/last-commit/juliangarnier/anime?style=flat&logo=Polestar)
 - [mojs](https://github.com/mojs/mojs) - 动画库插件 ![](https://img.shields.io/github/stars/mojs/mojs?style=social) ![](https://img.shields.io/github/last-commit/mojs/mojs?style=flat&logo=Polestar)
 - [particles.js](https://github.com/VincentGarreau/particles.js) - 粒子特效 ![](https://img.shields.io/github/stars/VincentGarreau/particles.js?style=social) ![](https://img.shields.io/github/last-commit/VincentGarreau/particles.js?style=flat&logo=Polestar)
@@ -547,6 +592,7 @@
 - [effects-runtime](https://github.com/galacean/effects-runtime) - 动效制作 ![](https://img.shields.io/github/stars/galacean/effects-runtime?style=social) ![](https://img.shields.io/github/last-commit/galacean/effects-runtime?style=flat&logo=Polestar)
 
 ## 其他插件
+
 - [page.js](https://github.com/visionmedia/page.js) - 路由器 ![](https://img.shields.io/github/stars/visionmedia/page.js?style=social) ![](https://img.shields.io/github/last-commit/visionmedia/page.js?style=flat&logo=Polestar)
 - [nw.js](https://github.com/nwjs/nw.js) - 桌面应用 ![](https://img.shields.io/github/stars/nwjs/nw.js?style=social) ![](https://img.shields.io/github/last-commit/nwjs/nw.js?style=flat&logo=Polestar)
 - [hexo](https://github.com/hexojs/hexo) - 博客框架 ![](https://img.shields.io/github/stars/hexojs/hexo?style=social) ![](https://img.shields.io/github/last-commit/hexojs/hexo?style=flat&logo=Polestar)
@@ -590,6 +636,7 @@
 - [mitosis](https://github.com/BuilderIO/mitosis) - 组件一次编写，随处运行。可编译为 React、Vue、Qwik、Solid、Angular、Svelte 等。 ![](https://img.shields.io/github/stars/BuilderIO/mitosis?style=social) ![](https://img.shields.io/github/last-commit/BuilderIO/mitosis?style=flat&logo=Polestar)
 
 ## webpack
+
 - [happypack](https://github.com/amireh/happypack) ![](https://img.shields.io/github/stars/amireh/happypack?style=social) ![](https://img.shields.io/github/last-commit/amireh/happypack?style=flat&logo=Polestar)
 - [webpack-demos](https://github.com/ruanyf/webpack-demos) - demo ![](https://img.shields.io/github/stars/ruanyf/webpack-demos?style=social) ![](https://img.shields.io/github/last-commit/ruanyf/webpack-demos?style=flat&logo=Polestar)
 - [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - 删除构建文件 ![](https://img.shields.io/github/stars/johnagan/clean-webpack-plugin?style=social) ![](https://img.shields.io/github/last-commit/johnagan/clean-webpack-plugin?style=flat&logo=Polestar)
@@ -606,6 +653,7 @@
 - [compression-webpack-plugin](https://github.com/webpack-contrib/compression-webpack-plugin) - 开启 GZip 压缩 ![](https://img.shields.io/github/stars/webpack-contrib/compression-webpack-plugin?style=social) ![](https://img.shields.io/github/last-commit/webpack-contrib/compression-webpack-plugin?style=flat&logo=Polestar)
 
 ## vite
+
 - [vite-plugin-imagemin](https://github.com/vbenjs/vite-plugin-imagemin) - 压缩图片 ![](https://img.shields.io/github/stars/vbenjs/vite-plugin-imagemin?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vite-plugin-imagemin?style=flat&logo=Polestar)
 - [vite-plugin-cdn-import](https://github.com/mmf-fe/vite-plugin-cdn-import) - 从 CDN 加载 modules ![](https://img.shields.io/github/stars/mmf-fe/vite-plugin-cdn-import?style=social) ![](https://img.shields.io/github/last-commit/mmf-fe/vite-plugin-cdn-import?style=flat&logo=Polestar)
 - [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - 加载 SVG 文件作为 Vue 组件 ![](https://img.shields.io/github/stars/jpkleemans/vite-svg-loader?style=social) ![](https://img.shields.io/github/last-commit/jpkleemans/vite-svg-loader?style=flat&logo=Polestar)
@@ -614,9 +662,10 @@
 - [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) - 自动重启 Vite 服务器 ![](https://img.shields.io/github/stars/antfu/vite-plugin-restart?style=social) ![](https://img.shields.io/github/last-commit/antfu/vite-plugin-restart?style=flat&logo=Polestar)
 - [vite-plugin-compression](https://github.com/vbenjs/vite-plugin-compression) - 使用 gzip 或者 brotli 来压缩资源 ![](https://img.shields.io/github/stars/vbenjs/vite-plugin-compression?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vite-plugin-compression?style=flat&logo=Polestar)
 - [vite-plugin-node-polyfills](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - 在 Vite 项目中提供 Node.js 全局变量和模块的 polyfills ![](https://img.shields.io/github/stars/davidmyersdev/vite-plugin-node-polyfills?style=social) ![](https://img.shields.io/github/last-commit/davidmyersdev/vite-plugin-node-polyfills?style=flat&logo=Polestar)
-- [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) -  识别 TypeScript 配置文件（tsconfig.json）中的路径别名（path aliases）映射 ![](https://img.shields.io/github/stars/aleclarson/vite-tsconfig-paths?style=social) ![](https://img.shields.io/github/last-commit/aleclarson/vite-tsconfig-paths?style=flat&logo=Polestar)
+- [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - 识别 TypeScript 配置文件（tsconfig.json）中的路径别名（path aliases）映射 ![](https://img.shields.io/github/stars/aleclarson/vite-tsconfig-paths?style=social) ![](https://img.shields.io/github/last-commit/aleclarson/vite-tsconfig-paths?style=flat&logo=Polestar)
 
 ## VUE
+
 - [vue](https://github.com/vuejs/vue) ![](https://img.shields.io/github/stars/vuejs/vue?style=social) ![](https://img.shields.io/github/last-commit/vuejs/vue?style=flat&logo=Polestar)
 - [vuejs/docs](https://github.com/vuejs/docs) - 文档 ![](https://img.shields.io/github/stars/vuejs/docs?style=social) ![](https://img.shields.io/github/last-commit/vuejs/docs?style=flat&logo=Polestar)
 - [vuejs/core](https://github.com/vuejs/core) - 源码 ![](https://img.shields.io/github/stars/vuejs/core?style=social) ![](https://img.shields.io/github/last-commit/vuejs/core?style=flat&logo=Polestar)
@@ -707,6 +756,7 @@
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Vue 3 的高度可定制的流程图组件。具有无缝缩放和平移、小地图等附加组件 ![](https://img.shields.io/github/stars/bcakmakoglu/vue-flow?style=social) ![](https://img.shields.io/github/last-commit/bcakmakoglu/vue-flow?style=flat&logo=Polestar)
 
 ## React
+
 - [react](https://github.com/facebook/react) ![](https://img.shields.io/github/stars/facebook/react?style=social) ![](https://img.shields.io/github/last-commit/facebook/react?style=flat&logo=Polestar)
 - [create-react-app](https://github.com/facebook/create-react-app) - 构建react应用 ![](https://img.shields.io/github/stars/facebook/create-react-app?style=social) ![](https://img.shields.io/github/last-commit/facebook/create-react-app?style=flat&logo=Polestar)
 - [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - react 样板 ![](https://img.shields.io/github/stars/react-boilerplate/react-boilerplate?style=social) ![](https://img.shields.io/github/last-commit/react-boilerplate/react-boilerplate?style=flat&logo=Polestar)
@@ -755,8 +805,10 @@
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - 列表拖放 ![](https://img.shields.io/github/stars/atlassian/react-beautiful-dnd?style=social) ![](https://img.shields.io/github/last-commit/atlassian/react-beautiful-dnd?style=flat&logo=Polestar)
 - [victory](https://github.com/FormidableLabs/victory) - 图表，用于 React 和 React Native ![](https://img.shields.io/github/stars/FormidableLabs/victory?style=social) ![](https://img.shields.io/github/last-commit/FormidableLabs/victory?style=flat&logo=Polestar)
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - 虚拟列表 ![](https://img.shields.io/github/stars/bvaughn/react-virtualized?style=social) ![](https://img.shields.io/github/last-commit/bvaughn/react-virtualized?style=flat&logo=Polestar)
+- [react-window](https://github.com/bvaughn/react-window) - 用于高效渲染大型列表和表格数据的React组件 ![](https://img.shields.io/github/stars/bvaughn/react-window?style=social) ![](https://img.shields.io/github/last-commit/bvaughn/react-window?style=flat&logo=Polestar)
 
 ## 后台管理模板
+
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - 中后台模板，采用 Vue 3、Vite、TypeScript ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social) ![](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin?style=flat&logo=Polestar)
 - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM + Vue3 + Vite + Element-Plus + TypeScript 编写的一款后台管理系统（兼容移动端） ![](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=social) ![](https://img.shields.io/github/last-commit/pure-admin/vue-pure-admin?style=flat&logo=Polestar)
 - [vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - vue3 后台管理 ![](https://img.shields.io/github/stars/zxwk1998/vue-admin-better?style=social) ![](https://img.shields.io/github/last-commit/zxwk1998/vue-admin-better?style=flat&logo=Polestar)
@@ -779,9 +831,10 @@
 - [shadcn-admin](https://github.com/satnaing/shadcn-admin) - 使用 Shadcn 和 Vite 构建 ![](https://img.shields.io/github/stars/satnaing/shadcn-admin?style=social) ![](https://img.shields.io/github/last-commit/satnaing/shadcn-admin?style=flat&logo=Polestar)
 
 ## 全端
+
 - [yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能 ![](https://img.shields.io/github/stars/YunaiV/yudao-cloud?style=social) ![](https://img.shields.io/github/last-commit/YunaiV/yudao-cloud?style=flat&logo=Polestar)
 - [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。 ![](https://img.shields.io/github/stars/YunaiV/ruoyi-vue-pro?style=social) ![](https://img.shields.io/github/last-commit/YunaiV/ruoyi-vue-pro?style=flat&logo=Polestar)
-- [RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) -  (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本 ![](https://img.shields.io/github/stars/yangzongzhuan/RuoYi-Vue?style=social) ![](https://img.shields.io/github/last-commit/yangzongzhuan/RuoYi-Vue?style=flat&logo=Polestar)
+- [RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) - (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本 ![](https://img.shields.io/github/stars/yangzongzhuan/RuoYi-Vue?style=social) ![](https://img.shields.io/github/last-commit/yangzongzhuan/RuoYi-Vue?style=flat&logo=Polestar)
 - [eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue 的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 ![](https://img.shields.io/github/stars/elunez/eladmin?style=social) ![](https://img.shields.io/github/last-commit/elunez/eladmin?style=flat&logo=Polestar)
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - Vite + Vue3 + Gin 的开发基础平台，支持 TS 和 JS 混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能 ![](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin?style=social) ![](https://img.shields.io/github/last-commit/flipped-aurora/gin-vue-admin?style=flat&logo=Polestar)
 - [litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 ![](https://img.shields.io/github/stars/linlinjava/litemall?style=social) ![](https://img.shields.io/github/last-commit/linlinjava/litemall?style=flat&logo=Polestar)
@@ -795,6 +848,7 @@
 - [CRMEB](https://github.com/crmeb/CRMEB) - CRMEB开源商城系统（PHP版） ![](https://img.shields.io/github/stars/crmeb/CRMEB?style=social) ![](https://img.shields.io/github/last-commit/crmeb/CRMEB?style=flat&logo=Polestar)
 
 ## 小程序
+
 - [miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例 ![](https://img.shields.io/github/stars/wechat-miniprogram/miniprogram-demo?style=social) ![](https://img.shields.io/github/last-commit/wechat-miniprogram/miniprogram-demo?style=flat&logo=Polestar)
 - [weui](https://github.com/Tencent/weui) - UI 样式库 ![](https://img.shields.io/github/stars/Tencent/weui?style=social) ![](https://img.shields.io/github/last-commit/Tencent/weui?style=flat&logo=Polestar)
 - [weui-wxss](https://github.com/Tencent/weui-wxss) - WeUI for 小程序 ![](https://img.shields.io/github/stars/Tencent/weui-wxss?style=social) ![](https://img.shields.io/github/last-commit/Tencent/weui-wxss?style=flat&logo=Polestar)
@@ -812,12 +866,13 @@
 - [mpx](https://github.com/didi/mpx) - 滴滴 Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架 ![](https://img.shields.io/github/stars/didi/mpx?style=social) ![](https://img.shields.io/github/last-commit/didi/mpx?style=flat&logo=Polestar)
 
 ## APP构建
+
 - [flutter](https://github.com/flutter/flutter) ![](https://img.shields.io/github/stars/flutter/flutter?style=social) ![](https://img.shields.io/github/last-commit/flutter/flutter?style=flat&logo=Polestar)
 - [flutter/plugins](https://github.com/flutter/plugins) - Flutter 插件 ![](https://img.shields.io/github/stars/flutter/plugins?style=social) ![](https://img.shields.io/github/last-commit/flutter/plugins?style=flat&logo=Polestar)
 - [flutter/samples](https://github.com/flutter/samples) - Flutter 示例集合 ![](https://img.shields.io/github/stars/flutter/samples?style=social) ![](https://img.shields.io/github/last-commit/flutter/samples?style=flat&logo=Polestar)
 - [gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用 ![](https://img.shields.io/github/stars/CarGuo/gsy_github_app_flutter?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/gsy_github_app_flutter?style=flat&logo=Polestar)
-- [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) -  Flutter 完整开发实战详解系列 ![](https://img.shields.io/github/stars/CarGuo/gsy_flutter_book?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/gsy_flutter_book?style=flat&logo=Polestar)
-- [gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo) -  Flutter 独立例子 ![](https://img.shields.io/github/stars/CarGuo/gsy_flutter_demo?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/gsy_flutter_demo?style=flat&logo=Polestar)
+- [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列 ![](https://img.shields.io/github/stars/CarGuo/gsy_flutter_book?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/gsy_flutter_book?style=flat&logo=Polestar)
+- [gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo) - Flutter 独立例子 ![](https://img.shields.io/github/stars/CarGuo/gsy_flutter_demo?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/gsy_flutter_demo?style=flat&logo=Polestar)
 - [flutter-picgo](https://github.com/PicGo/flutter-picgo) - Flutter 打造的一款简洁美观的移动端图片上传工具 ![](https://img.shields.io/github/stars/PicGo/flutter-picgo?style=social) ![](https://img.shields.io/github/last-commit/PicGo/flutter-picgo?style=flat&logo=Polestar)
 - [react-native](https://github.com/facebook/react-native) - 移动应用 ![](https://img.shields.io/github/stars/facebook/react-native?style=social) ![](https://img.shields.io/github/last-commit/facebook/react-native?style=flat&logo=Polestar)
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React-Native 学习指南 ![](https://img.shields.io/github/stars/reactnativecn/react-native-guide?style=social) ![](https://img.shields.io/github/last-commit/reactnativecn/react-native-guide?style=flat&logo=Polestar)
@@ -827,9 +882,11 @@
 - [weex](https://github.com/alibaba/weex) ![](https://img.shields.io/github/stars/alibaba/weex?style=social) ![](https://img.shields.io/github/last-commit/alibaba/weex?style=flat&logo=Polestar)
 
 ## APP
+
 - [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 ![](https://img.shields.io/github/stars/CarGuo/GSYVideoPlayer?style=social) ![](https://img.shields.io/github/last-commit/CarGuo/GSYVideoPlayer?style=flat&logo=Polestar)
 
 ## 多端开发
+
 - [uni-app](https://github.com/dcloudio/uni-app) - uniapp ![](https://img.shields.io/github/stars/dcloudio/uni-app?style=social) ![](https://img.shields.io/github/last-commit/dcloudio/uni-app?style=flat&logo=Polestar)
 - [taro](https://github.com/NervJS/taro) ![](https://img.shields.io/github/stars/NervJS/taro?style=social) ![](https://img.shields.io/github/last-commit/NervJS/taro?style=flat&logo=Polestar)
 - [taro-ui](https://github.com/NervJS/taro-ui) - 一套基于 Taro 框架开发的多端 UI 组件库 ![](https://img.shields.io/github/stars/NervJS/taro-ui?style=social) ![](https://img.shields.io/github/last-commit/NervJS/taro-ui?style=flat&logo=Polestar)
@@ -838,6 +895,7 @@
 - [quasar](https://github.com/quasarframework/quasar) - Quasar 是一个基于 Vue.js 的框架，它提供了丰富的组件库和工具，用于快速开发现代化的 Web 应用程序、移动应用程序和桌面应用程序。 ![](https://img.shields.io/github/stars/quasarframework/quasar?style=social) ![](https://img.shields.io/github/last-commit/quasarframework/quasar?style=flat&logo=Polestar)
 
 ## uniapp
+
 - [uni-ui](https://github.com/dcloudio/uni-ui) UI框架 ![](https://img.shields.io/github/stars/dcloudio/uni-ui?style=social) ![](https://img.shields.io/github/last-commit/dcloudio/uni-ui?style=flat&logo=Polestar)
 - [uView2.0](https://github.com/umicro/uView2.0) UI框架 (Vue2) ![](https://img.shields.io/github/stars/umicro/uView2.0?style=social) ![](https://img.shields.io/github/last-commit/umicro/uView2.0?style=flat&logo=Polestar)
 - [uv-ui](https://github.com/climblee/uv-ui) UI框架 ![](https://img.shields.io/github/stars/climblee/uv-ui?style=social) ![](https://img.shields.io/github/last-commit/climblee/uv-ui?style=flat&logo=Polestar)
@@ -848,13 +906,14 @@
 - [FirstUI](https://github.com/FirstUI/FirstUI) UI框架，商业版付费 ![](https://img.shields.io/github/stars/FirstUI/FirstUI?style=social) ![](https://img.shields.io/github/last-commit/FirstUI/FirstUI?style=flat&logo=Polestar)
 - [uview-plus](https://github.com/ijry/uview-plus) UI框架 (vue3) ![](https://img.shields.io/github/stars/ijry/uview-plus?style=social) ![](https://img.shields.io/github/last-commit/ijry/uview-plus?style=flat&logo=Polestar)
 - [uni-simple-router](https://github.com/SilurianYang/uni-simple-router) - 路由 ![](https://img.shields.io/github/stars/SilurianYang/uni-simple-router?style=social) ![](https://img.shields.io/github/last-commit/SilurianYang/uni-simple-router?style=flat&logo=Polestar)
-- [unibest](https://github.com/codercup/unibest) -  uniapp 开发模板。由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板 ![](https://img.shields.io/github/stars/codercup/unibest?style=social) ![](https://img.shields.io/github/last-commit/codercup/unibest?style=flat&logo=Polestar)
-- [unibest](https://github.com/unibest-tech/unibest) -  uniapp 开发模板。由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI 驱动的跨端快速启动模板 ![](https://img.shields.io/github/stars/codercup/unibest?style=social) ![](https://img.shields.io/github/last-commit/codercup/unibest?style=flat&logo=Polestar)
+- [unibest](https://github.com/codercup/unibest) - uniapp 开发模板。由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板 ![](https://img.shields.io/github/stars/codercup/unibest?style=social) ![](https://img.shields.io/github/last-commit/codercup/unibest?style=flat&logo=Polestar)
+- [unibest](https://github.com/unibest-tech/unibest) - uniapp 开发模板。由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI 驱动的跨端快速启动模板 ![](https://img.shields.io/github/stars/codercup/unibest?style=social) ![](https://img.shields.io/github/last-commit/codercup/unibest?style=flat&logo=Polestar)
 - [miniprogram-to-uniapp](https://github.com/zhangdaren/miniprogram-to-uniapp) - 轻松将各种小程序转换为 uni-app 项目 ![](https://img.shields.io/github/stars/zhangdaren/miniprogram-to-uniapp?style=social) ![](https://img.shields.io/github/last-commit/zhangdaren/miniprogram-to-uniapp?style=flat&logo=Polestar)
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet) - 在小程序 (UniApp 和 Taro) 中使用 UnoCSS，兼容不支持的语法。 ![](https://img.shields.io/github/stars/unocss-applet/unocss-applet?style=social) ![](https://img.shields.io/github/last-commit/unocss-applet/unocss-applet?style=flat&logo=Polestar)
 - [uni-z-paging](https://github.com/SmileZXLee/uni-z-paging) - 【uni-app下拉刷新、上拉加载】高性能，全平台兼容。支持vue、nvue、vue2、vue3，使用wxs+renderjs实现。支持虚拟列表，支持自定义下拉刷新、上拉加载更多，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持国际化等100+项配置 ![](https://img.shields.io/github/stars/SmileZXLee/uni-z-paging?style=social) ![](https://img.shields.io/github/last-commit/SmileZXLee/uni-z-paging?style=flat&logo=Polestar)
 
 ## 跨平台桌面应用
+
 - [electron](https://github.com/electron/electron) - 桌面应用 ![](https://img.shields.io/github/stars/electron/electron?style=social) ![](https://img.shields.io/github/last-commit/electron/electron?style=flat&logo=Polestar)
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Electron & Vue.js ![](https://img.shields.io/github/stars/SimulatedGREG/electron-vue?style=social) ![](https://img.shields.io/github/last-commit/SimulatedGREG/electron-vue?style=flat&logo=Polestar)
 - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - vue-cli3 ![](https://img.shields.io/github/stars/nklayman/vue-cli-plugin-electron-builder?style=social) ![](https://img.shields.io/github/last-commit/nklayman/vue-cli-plugin-electron-builder?style=flat&logo=Polestar)
@@ -862,13 +921,16 @@
 - [Pake](https://github.com/tw93/Pake) - 利用 Rust 轻松构建轻量级多端桌面应用 ![](https://img.shields.io/github/stars/tw93/Pake?style=social) ![](https://img.shields.io/github/last-commit/tw93/Pake?style=flat&logo=Polestar)
 
 ## nginx
+
 - [nginx](https://github.com/nginx/nginx) ![](https://img.shields.io/github/stars/nginx/nginx?style=social) ![](https://img.shields.io/github/last-commit/nginx/nginx?style=flat&logo=Polestar)
 
 ## jenkins
+
 - [jenkins](https://github.com/jenkinsci/jenkins) ![](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social) ![](https://img.shields.io/github/last-commit/jenkinsci/jenkins?style=flat&logo=Polestar)
 - [dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin) - DingTalk 机器人通知 ![](https://img.shields.io/github/stars/jenkinsci/dingtalk-plugin?style=social) ![](https://img.shields.io/github/last-commit/jenkinsci/dingtalk-plugin?style=flat&logo=Polestar)
 
 ## 游戏
+
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - 基于 WebGL 技术的开源3D游戏引擎和渲染引擎 ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/last-commit/BabylonJS/Babylon.js?style=flat&logo=Polestar)
 - [GDevelop](https://github.com/4ian/GDevelop) - 开源，跨平台2D/3D/多人游戏引擎 ![](https://img.shields.io/github/stars/4ian/GDevelop?style=social) ![](https://img.shields.io/github/last-commit/4ian/GDevelop?style=flat&logo=Polestar)
 - [phaser](https://github.com/phaserjs/phaser) - Phaser是一个有趣、免费、快速的2D游戏框架，用于制作桌面和移动网页浏览器上的HTML5游戏，支持Canvas和WebGL渲染。 ![](https://img.shields.io/github/stars/phaserjs/phaser?style=social) ![](https://img.shields.io/github/last-commit/phaserjs/phaser?style=flat&logo=Polestar)
@@ -876,6 +938,7 @@
 - [matter-js](https://github.com/liabru/matter-js) - 用于Web的2D刚体物理引擎插件 ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/last-commit/liabru/matter-js?style=flat&logo=Polestar)
 
 ## 测试工具
+
 - [jest](https://github.com/facebook/jest) ![](https://img.shields.io/github/stars/facebook/jest?style=social) ![](https://img.shields.io/github/last-commit/facebook/jest?style=flat&logo=Polestar)
 - [vitest](https://github.com/vitest-dev/vitest) ![](https://img.shields.io/github/stars/vitest-dev/vitest?style=social) ![](https://img.shields.io/github/last-commit/vitest-dev/vitest?style=flat&logo=Polestar)
 - [mocha](https://github.com/mochajs/mocha) ![](https://img.shields.io/github/stars/mochajs/mocha?style=social) ![](https://img.shields.io/github/last-commit/mochajs/mocha?style=flat&logo=Polestar)
@@ -885,6 +948,7 @@
 - [cypress](https://github.com/cypress-io/cypress) - 自动化测试 ![](https://img.shields.io/github/stars/cypress-io/cypress?style=social) ![](https://img.shields.io/github/last-commit/cypress-io/cypress?style=flat&logo=Polestar)
 
 ## git
+
 - [gitea](https://github.com/go-gitea/gitea) - 一杯茶就能搞定 Git！轻松自托管的一体化软件开发服务，包含 Git 托管、代码审查、团队协作、软件包注册和 CI/CD ![](https://img.shields.io/github/stars/go-gitea/gitea?style=social) ![](https://img.shields.io/github/last-commit/go-gitea/gitea?style=flat&logo=Polestar)
 - [commitizen](https://github.com/commitizen-tools/commitizen) - 规范 Git 提交 ![](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=social) ![](https://img.shields.io/github/last-commit/commitizen-tools/commitizen?style=flat&logo=Polestar)
 - [commitlint](https://github.com/conventional-changelog/commitlint) ![](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social) ![](https://img.shields.io/github/last-commit/conventional-changelog/commitlint?style=flat&logo=Polestar)
@@ -895,21 +959,25 @@
 - [lint-staged](https://github.com/okonet/lint-staged) - 代码风格检查 ![](https://img.shields.io/github/stars/okonet/lint-staged?style=social) ![](https://img.shields.io/github/last-commit/okonet/lint-staged?style=flat&logo=Polestar)
 
 ## 微前端
+
 - [emp](https://github.com/efoxTeam/emp) ![](https://img.shields.io/github/stars/efoxTeam/emp?style=social) ![](https://img.shields.io/github/last-commit/efoxTeam/emp?style=flat&logo=Polestar)
 - [micro-app](https://github.com/jd-opensource/micro-app) - 京东零售微前端 ![](https://img.shields.io/github/stars/jd-opensource/micro-app?style=social) ![](https://img.shields.io/github/last-commit/jd-opensource/micro-app?style=flat&logo=Polestar)
 - [qiankun](https://github.com/umijs/qiankun) ![](https://img.shields.io/github/stars/umijs/qiankun?style=social) ![](https://img.shields.io/github/last-commit/umijs/qiankun?style=flat&logo=Polestar)
 - [wujie](https://github.com/Tencent/wujie) ![](https://img.shields.io/github/stars/Tencent/wujie?style=social) ![](https://img.shields.io/github/last-commit/Tencent/wujie?style=flat&logo=Polestar)
 
 ## 服务端渲染
+
 - [nuxt](https://github.com/nuxt/nuxt) ![](https://img.shields.io/github/stars/nuxt/nuxt?style=social) ![](https://img.shields.io/github/last-commit/nuxt/nuxt?style=flat&logo=Polestar)
 - [ssr](https://github.com/zhangyuang/ssr) ![](https://img.shields.io/github/stars/zhangyuang/ssr?style=social) ![](https://img.shields.io/github/last-commit/zhangyuang/ssr?style=flat&logo=Polestar)
 
 ## 大屏
+
 - [iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 ![](https://img.shields.io/github/stars/yyhsong/iDataV?style=social) ![](https://img.shields.io/github/last-commit/yyhsong/iDataV?style=flat&logo=Polestar)
 - [DataV](https://github.com/DataV-Team/DataV) - 数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新 ![](https://img.shields.io/github/stars/DataV-Team/DataV?style=social) ![](https://img.shields.io/github/last-commit/DataV-Team/DataV?style=flat&logo=Polestar)
 - [DataV-Vue3](https://github.com/DataV-Team/DataV-Vue3) - DataV Vue3 ![](https://img.shields.io/github/stars/DataV-Team/DataV-Vue3?style=social) ![](https://img.shields.io/github/last-commit/DataV-Team/DataV-Vue3?style=flat&logo=Polestar)
 
 ## 低代码
+
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台 ![](https://img.shields.io/github/stars/taowen/awesome-lowcode?style=social) ![](https://img.shields.io/github/last-commit/taowen/awesome-lowcode?style=flat&logo=Polestar)
 - [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。 ![](https://img.shields.io/github/stars/jeecgboot/JeecgBoot?style=social) ![](https://img.shields.io/github/last-commit/jeecgboot/JeecgBoot?style=flat&logo=Polestar)
 - [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。 ![](https://img.shields.io/github/stars/baidu/amis?style=social) ![](https://img.shields.io/github/last-commit/baidu/amis?style=flat&logo=Polestar)
@@ -918,16 +986,19 @@
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具 ![](https://img.shields.io/github/stars/buqiyuan/vite-vue3-lowcode?style=social) ![](https://img.shields.io/github/last-commit/buqiyuan/vite-vue3-lowcode?style=flat&logo=Polestar)
 
 ## 数据库
+
 - [alasql](https://github.com/AlaSQL/alasql) - js SQL数据库 ![](https://img.shields.io/github/stars/AlaSQL/alasql?style=social) ![](https://img.shields.io/github/last-commit/AlaSQL/alasql?style=flat&logo=Polestar)
 - [rxdb](https://github.com/pubkey/rxdb) - 一个快速、本地优先、响应式的 JavaScript 应用数据库 ![](https://img.shields.io/github/stars/pubkey/rxdb?style=social) ![](https://img.shields.io/github/last-commit/pubkey/rxdb?style=flat&logo=Polestar)
 - [typeorm](https://github.com/typeorm/typeorm) - TypeScript ORM 框架，使用面向对象的方式来操作数据库 ![](https://img.shields.io/github/stars/typeorm/typeorm?style=social) ![](https://img.shields.io/github/last-commit/typeorm/typeorm?style=flat&logo=Polestar)
 - [drawdb](https://github.com/drawdb-io/drawdb) - 免费，简单，直观的在线数据库设计工具和SQL生成器 ![](https://img.shields.io/github/stars/drawdb-io/drawdb?style=social) ![](https://img.shields.io/github/last-commit/drawdb-io/drawdb?style=flat&logo=Polestar)
 
 ## 产品分析 - 埋点
+
 - [posthog](https://github.com/PostHog/posthog) - 提供开源产品分析，会话记录，功能标记和A/B测试 ![](https://img.shields.io/github/stars/PostHog/posthog?style=social) ![](https://img.shields.io/github/last-commit/PostHog/posthog?style=flat&logo=Polestar)
 - [web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段 ![](https://img.shields.io/github/stars/M-cheng-web/web-tracing?style=social) ![](https://img.shields.io/github/last-commit/M-cheng-web/web-tracing?style=flat&logo=Polestar)
 
 ## 监控
+
 - [rrweb](https://github.com/rrweb-io/rrweb) - 利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作 ![](https://img.shields.io/github/stars/rrweb-io/rrweb?style=social) ![](https://img.shields.io/github/last-commit/rrweb-io/rrweb?style=flat&logo=Polestar)
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) - 一款出色的自托管网站监控工具 ![](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social) ![](https://img.shields.io/github/last-commit/louislam/uptime-kuma?style=flat&logo=Polestar)
 - [web-see](https://github.com/xy-sea/web-see) - 前端监控SDK，可用来收集并上报：代码报错、性能数据、页面录屏、用户行为、白屏检测等个性化指标数据 ![](https://img.shields.io/github/stars/xy-sea/web-see?style=social) ![](https://img.shields.io/github/last-commit/xy-sea/web-see?style=flat&logo=Polestar)
@@ -936,6 +1007,7 @@
 - [mitojs](https://github.com/mitojs/mitojs) - 一款Web和微信小程序轻量级的前端监控SDK ![](https://img.shields.io/github/stars/mitojs/mitojs?style=social) ![](https://img.shields.io/github/last-commit/mitojs/mitojs?style=flat&logo=Polestar)
 
 ## nodejs
+
 - [nodejs](https://github.com/nodejs/node) ![](https://img.shields.io/github/stars/nodejs/node?style=social) ![](https://img.shields.io/github/last-commit/nodejs/node?style=flat&logo=Polestar)
 - [undici](https://github.com/nodejs/undici) - HTTP/1.1 客户端库 ![](https://img.shields.io/github/stars/nodejs/undici?style=social) ![](https://img.shields.io/github/last-commit/nodejs/undici?style=flat&logo=Polestar)
 - [express](https://github.com/expressjs/express) - node 框架 ![](https://img.shields.io/github/stars/expressjs/express?style=social) ![](https://img.shields.io/github/last-commit/expressjs/express?style=flat&logo=Polestar)
@@ -971,21 +1043,26 @@
 - [cross-env](https://github.com/kentcdodds/cross-env) - 跨操作系统设置环境变量 ![](https://img.shields.io/github/kentcdodds/cross-env?style=social) ![](https://img.shields.io/github/last-commit/kentcdodds/cross-env?style=flat&logo=Polestar)
 
 ## 后端框架
+
 - [elysia](https://github.com/elysiajs/elysia) - 人体工程学框架，由 Bun 提供支持 ![](https://img.shields.io/github/elysiajs/elysia?style=social) ![](https://img.shields.io/github/last-commit/elysiajs/elysia?style=flat&logo=Polestar)
 
 ## 项目代码
+
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+迷你网页项目，使用HTML, CSS和JS ![](https://img.shields.io/github/stars/bradtraversy/50projects50days?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/50projects50days?style=flat&logo=Polestar)
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Web项目集合（包含电影订票页面、视频播放器界面、汇率计算器、费用追踪器、音乐播放器、打字游戏等） ![](https://img.shields.io/github/stars/bradtraversy/vanillawebprojects?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/vanillawebprojects?style=flat&logo=Polestar)
 
 ## 文档网站
+
 - [docusaurus](https://github.com/facebook/docusaurus) - 创建文档网站 ![](https://img.shields.io/github/stars/facebook/docusaurus?style=social) ![](https://img.shields.io/github/last-commit/facebook/docusaurus?style=flat&logo=Polestar)
 - [docsify](https://github.com/docsifyjs/docsify) - 一个神奇的文档站点生成器 ![](https://img.shields.io/github/stars/docsifyjs/docsify?style=social) ![](https://img.shields.io/github/last-commit/docsifyjs/docsify?style=flat&logo=Polestar)
 - [dumi](https://github.com/umijs/dumi) - 为组件研发而生的静态站点框架 ![](https://img.shields.io/github/stars/umijs/dumi?style=social) ![](https://img.shields.io/github/last-commit/umijs/dumi?style=flat&logo=Polestar)
 
 ## 数据
+
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。 ![](https://img.shields.io/github/stars/modood/Administrative-divisions-of-China?style=social) ![](https://img.shields.io/github/last-commit/modood/Administrative-divisions-of-China?style=flat&logo=Polestar)
 
 ## 终端
+
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 命令行工具，用于管理 zsh 的配置（zsh本身是一个兼容 bash 的 shell，具有强大的 Tab 补全功能、丰富的插件以及高度可定制的主题） ![](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=social) ![](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh?style=flat&logo=Polestar)
 - [hyper](https://github.com/vercel/hyper) - 基于web技术的终端 ![](https://img.shields.io/github/stars/vercel/hyper?style=social) ![](https://img.shields.io/github/last-commit/vercel/hyper?style=flat&logo=Polestar)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行用户界面(CLI)库 ![](https://img.shields.io/github/stars/SBoudrias/Inquirer.js?style=social) ![](https://img.shields.io/github/last-commit/SBoudrias/Inquirer.js?style=flat&logo=Polestar)
@@ -993,11 +1070,13 @@
 - [chalk](https://github.com/chalk/chalk) - 字符串样式 ![](https://img.shields.io/github/stars/chalk/chalk?style=social) ![](https://img.shields.io/github/last-commit/chalk/chalk?style=flat&logo=Polestar)
 
 ## CDN
+
 - [cdnjs](https://github.com/cdnjs/cdnjs) - 免费和开源的 CDN 构建 ![](https://img.shields.io/github/stars/cdnjs/cdnjs?style=social) ![](https://img.shields.io/github/last-commit/cdnjs/cdnjs?style=flat&logo=Polestar)
 - [jsdelivr](https://github.com/jsdelivr/jsdelivr) - 一个免费，快速，可靠的开源 CDN，用于 npm, GitHub, Javascript 和 ESM ![](https://img.shields.io/github/stars/jsdelivr/jsdelivr?style=social) ![](https://img.shields.io/github/last-commit/jsdelivr/jsdelivr?style=flat&logo=Polestar)
 - [unpkg](https://github.com/mjackson/unpkg) - npm 上所有内容的 CDN ![](https://img.shields.io/github/stars/mjackson/unpkg?style=social) ![](https://img.shields.io/github/last-commit/mjackson/unpkg?style=flat&logo=Polestar)
 
 ## You-Dont-Need
+
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - 一些效果的CSS实现 ![](https://img.shields.io/github/stars/you-dont-need/You-Dont-Need-JavaScript?style=social) ![](https://img.shields.io/github/last-commit/you-dont-need/You-Dont-Need-JavaScript?style=flat&logo=Polestar)
 - [You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - 一些命令行操作 ![](https://img.shields.io/github/stars/you-dont-need/You-Dont-Need-GUI?style=social) ![](https://img.shields.io/github/last-commit/you-dont-need/You-Dont-Need-GUI?style=flat&logo=Polestar)
 - [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) ![](https://img.shields.io/github/stars/camsong/You-Dont-Need-jQuery?style=social) ![](https://img.shields.io/github/last-commit/camsong/You-Dont-Need-jQuery?style=flat&logo=Polestar)
@@ -1006,9 +1085,11 @@
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - jq原生实现 ![](https://img.shields.io/github/stars/HubSpot/youmightnotneedjquery?style=social) ![](https://img.shields.io/github/last-commit/HubSpot/youmightnotneedjquery?style=flat&logo=Polestar)
 
 ## 导航
+
 - [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - GitHub中文排行榜 ![](https://img.shields.io/github/stars/GrowingGit/GitHub-Chinese-Top-Charts?style=social) ![](https://img.shields.io/github/last-commit/GrowingGit/GitHub-Chinese-Top-Charts?style=flat&logo=Polestar)
 
 ## Awesome
+
 - [awesome](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/github/stars/sindresorhus/awesome?style=social) ![](https://img.shields.io/github/last-commit/sindresorhus/awesome?style=flat&logo=Polestar)
 - [awesome-vue](https://github.com/vuejs/awesome-vue) ![](https://img.shields.io/github/stars/vuejs/awesome-vue?style=social) ![](https://img.shields.io/github/last-commit/vuejs/awesome-vue?style=flat&logo=Polestar)
 - [awesome-react](https://github.com/enaqx/awesome-react) ![](https://img.shields.io/github/stars/enaqx/awesome-react?style=social) ![](https://img.shields.io/github/last-commit/enaqx/awesome-react?style=flat&logo=Polestar)
@@ -1034,11 +1115,13 @@
 - [Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者出海工具收集站 ![](https://img.shields.io/github/stars/yaolifeng0629/Awesome-independent-tools?style=social) ![](https://img.shields.io/github/last-commit/yaolifeng0629/Awesome-independent-tools?style=flat&logo=Polestar)
 
 ## vscode
+
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - Markdown 格式检查扩展工具 ![](https://img.shields.io/github/stars/DavidAnson/markdownlint?style=social) ![](https://img.shields.io/github/last-commit/DavidAnson/markdownlint?style=flat&logo=Polestar)
 - [CodeGeeX](https://github.com/THUDM/CodeGeeX) - 智能编程助手 ![](https://img.shields.io/github/stars/THUDM/CodeGeeX?style=social) ![](https://img.shields.io/github/last-commit/THUDM/CodeGeeX?style=flat&logo=Polestar)
 - [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 在 VSCode 中让 TypeScript 错误更美观、更易于阅读 ![](https://img.shields.io/github/stars/yoavbls/pretty-ts-errors?style=social) ![](https://img.shields.io/github/last-commit/yoavbls/pretty-ts-errors?style=flat&logo=Polestar)
 
 ## 规范
+
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - JavaScript 风格指南 ![](https://img.shields.io/github/stars/ryanmcdermott/clean-code-javascript?style=social) ![](https://img.shields.io/github/last-commit/ryanmcdermott/clean-code-javascript?style=flat&logo=Polestar)
 - [standard](https://github.com/standard/standard) - JavaScript 代码规范，自带 linter & 代码自动修正 ![](https://img.shields.io/github/stars/standard/standard?style=social) ![](https://img.shields.io/github/last-commit/standard/standard?style=flat&logo=Polestar)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript 样式指南 ![](https://img.shields.io/github/stars/airbnb/javascript?style=social) ![](https://img.shields.io/github/last-commit/airbnb/javascript?style=flat&logo=Polestar)
@@ -1047,6 +1130,7 @@
 - [semver](https://github.com/semver/semver) - 语义版本规范 ![](https://img.shields.io/github/stars/semver/semver?style=social) ![](https://img.shields.io/github/last-commit/semver/semver?style=flat&logo=Polestar)
 
 ## 编程语言
+
 - [Python](https://github.com/TheAlgorithms/Python) ![](https://img.shields.io/github/stars/TheAlgorithms/Python?style=social) ![](https://img.shields.io/github/last-commit/TheAlgorithms/Python?style=flat&logo=Polestar)
 - [go](https://github.com/golang/go) ![](https://img.shields.io/github/stars/golang/go?style=social) ![](https://img.shields.io/github/last-commit/golang/go?style=flat&logo=Polestar)
 - [rust](https://github.com/rust-lang/rust) ![](https://img.shields.io/github/stars/rust-lang/rust?style=social) ![](https://img.shields.io/github/last-commit/rust-lang/rust?style=flat&logo=Polestar)
@@ -1054,10 +1138,11 @@
 - [swift](https://github.com/swiftlang/swift) ![](https://img.shields.io/github/stars/swiftlang/swift?style=social) ![](https://img.shields.io/github/last-commit/swiftlang/swift?style=flat&logo=Polestar)
 
 ## 技术知识 （中文）
+
 - [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 ![](https://img.shields.io/github/stars/PKUFlyingPig/cs-self-learning?style=social) ![](https://img.shields.io/github/last-commit/PKUFlyingPig/cs-self-learning?style=flat&logo=Polestar)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org 的开源代码库和课程 ![](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=social) ![](https://img.shields.io/github/last-commit/freeCodeCamp/freeCodeCamp?style=flat&logo=Polestar)
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - ECMAScript 6 入门 ![](https://img.shields.io/github/stars/ruanyf/es6tutorial?style=social) ![](https://img.shields.io/github/last-commit/ruanyf/es6tutorial?style=flat&logo=Polestar)
-- [33-js-concepts](https://github.com/stephentian/33-js-concepts) -  每个 JavaScript 工程师都应懂的33个概念 ![](https://img.shields.io/github/stars/stephentian/33-js-concepts?style=social) ![](https://img.shields.io/github/last-commit/stephentian/33-js-concepts?style=flat&logo=Polestar)
+- [33-js-concepts](https://github.com/stephentian/33-js-concepts) - 每个 JavaScript 工程师都应懂的33个概念 ![](https://img.shields.io/github/stars/stephentian/33-js-concepts?style=social) ![](https://img.shields.io/github/last-commit/stephentian/33-js-concepts?style=flat&logo=Polestar)
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - JS深入系列 ![](https://img.shields.io/github/stars/mqyqingfeng/Blog?style=social) ![](https://img.shields.io/github/last-commit/mqyqingfeng/Blog?style=flat&logo=Polestar)
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30天JS挑战 ![](https://img.shields.io/github/stars/wesbos/JavaScript30?style=social) ![](https://img.shields.io/github/last-commit/wesbos/JavaScript30?style=flat&logo=Polestar)
 - [fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1 ![](https://img.shields.io/github/stars/haizlin/fe-interview?style=social) ![](https://img.shields.io/github/last-commit/haizlin/fe-interview?style=flat&logo=Polestar)
@@ -1097,6 +1182,7 @@
 - [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL 入门教程 ![](https://img.shields.io/github/stars/jaywcjlove/mysql-tutorial?style=social) ![](https://img.shields.io/github/last-commit/jaywcjlove/mysql-tutorial?style=flat&logo=Polestar)
 
 ## 技术知识 （英文）
+
 - [mdn/content](https://github.com/mdn/content) - MDN 文档 ![](https://img.shields.io/github/stars/mdn/content?style=social) ![](https://img.shields.io/github/last-commit/mdn/content?style=flat&logo=Polestar)
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - MDN 示例代码 ![](https://img.shields.io/github/stars/mdn/dom-examples?style=social) ![](https://img.shields.io/github/last-commit/mdn/dom-examples?style=flat&logo=Polestar)
 - [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - 简短的代码片段 ![](https://img.shields.io/github/stars/Chalarangelo/30-seconds-of-code?style=social) ![](https://img.shields.io/github/last-commit/Chalarangelo/30-seconds-of-code?style=flat&logo=Polestar)
@@ -1112,9 +1198,11 @@
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - 500强ReactJS面试问题和答案列表 ![](https://img.shields.io/github/stars/sudheerj/reactjs-interview-questions?style=social) ![](https://img.shields.io/github/last-commit/sudheerj/reactjs-interview-questions?style=flat&logo=Polestar)
 
 ## 设计资源
+
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - 精选的设计和 UI 资源列表，包括库存照片、网页模板、CSS 框架、UI 库、工具等 ![](https://img.shields.io/github/stars/bradtraversy/design-resources-for-developers?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/design-resources-for-developers?style=flat&logo=Polestar)
 
 ## 在线工具
+
 - [reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单（速查表） ![](https://img.shields.io/github/stars/jaywcjlove/reference?style=social) ![](https://img.shields.io/github/last-commit/jaywcjlove/reference?style=flat&logo=Polestar)
 - [codesandbox-client](https://github.com/codesandbox/codesandbox-client) - 用于快速 web 开发的在线 IDE ![](https://img.shields.io/github/stars/codesandbox/codesandbox-client?style=social) ![](https://img.shields.io/github/last-commit/codesandbox/codesandbox-client?style=flat&logo=Polestar)
 - [it-tools](https://github.com/CorentinTh/it-tools) - 为开发人员提供方便的在线工具集合，具有出色的用户体验 ![](https://img.shields.io/github/stars/CorentinTh/it-tools?style=social) ![](https://img.shields.io/github/last-commit/CorentinTh/it-tools?style=flat&logo=Polestar)
@@ -1132,6 +1220,7 @@
 - [pollinations](https://github.com/pollinations/pollinations) - 免费开源的图像和文本生成 ![](https://img.shields.io/github/stars/pollinations/pollinations?style=social) ![](https://img.shields.io/github/last-commit/pollinations/pollinations?style=flat&logo=Polestar)
 
 ## 软件应用
+
 - [vscode](https://github.com/microsoft/vscode) - vscode ![](https://img.shields.io/github/stars/microsoft/vscode?style=social) ![](https://img.shields.io/github/last-commit/microsoft/vscode?style=flat&logo=Polestar)
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - drawio桌面版 ![](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social) ![](https://img.shields.io/github/last-commit/jgraph/drawio-desktop?style=flat&logo=Polestar)
 - [excalidraw](https://github.com/excalidraw/excalidraw) - 手绘图 ![](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social) ![](https://img.shields.io/github/last-commit/excalidraw/excalidraw?style=flat&logo=Polestar)
@@ -1157,6 +1246,7 @@
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - 免费开源视频编辑器 ![](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=social) ![](https://img.shields.io/github/last-commit/OpenCut-app/OpenCut?style=flat&logo=Polestar)
 
 ## 系统工具
+
 - [n](https://github.com/tj/n) - node 版本管理工具 ![](https://img.shields.io/github/stars/tj/n?style=social) ![](https://img.shields.io/github/last-commit/tj/n?style=flat&logo=Polestar)
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理工具 ![](https://img.shields.io/github/stars/nvm-sh/nvm?style=social) ![](https://img.shields.io/github/last-commit/nvm-sh/nvm?style=flat&logo=Polestar)
 - [fnm](https://github.com/Schniz/fnm) - node 版本管理工具 ![](https://img.shields.io/github/stars/Schniz/fnm?style=social) ![](https://img.shields.io/github/last-commit/Schniz/fnm?style=flat&logo=Polestar)
@@ -1167,6 +1257,7 @@
 - [rubick](https://github.com/rubickCenter/rubick) - 桌面端效率工具 ![](https://img.shields.io/github/stars/rubickCenter/rubick?style=social) ![](https://img.shields.io/github/last-commit/rubickCenter/rubick?style=flat&logo=Polestar)
 
 ## 浏览器插件
+
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin 广告拦截，通用拦截器 ![](https://img.shields.io/github/stars/gorhill/uBlock?style=social) ![](https://img.shields.io/github/last-commit/gorhill/uBlock?style=flat&logo=Polestar)
 - [console-importer](https://github.com/pd4d10/console-importer) - 在浏览器控制台安装插件 ![](https://img.shields.io/github/stars/pd4d10/console-importer?style=social) ![](https://img.shields.io/github/last-commit/pd4d10/console-importer?style=flat&logo=Polestar)
 - [screenity](https://github.com/alyssaxuu/screenity) - 屏幕录制插件 ![](https://img.shields.io/github/stars/alyssaxuu/screenity?style=social) ![](https://img.shields.io/github/last-commit/alyssaxuu/screenity?style=flat&logo=Polestar)
@@ -1174,10 +1265,12 @@
 - [automa](https://github.com/AutomaApp/automa) - 自动化插件，通过可视化拖拽界面或编写脚本来自动化完成网页操作 ![](https://img.shields.io/github/stars/AutomaApp/automa?style=social) ![](https://img.shields.io/github/last-commit/AutomaApp/automa?style=flat&logo=Polestar)
 
 ## 微信插件
+
 - [wechat-bot](https://github.com/wangrongding/wechat-bot) - 一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... ![](https://img.shields.io/github/stars/wangrongding/wechat-bot?style=social) ![](https://img.shields.io/github/last-commit/wangrongding/wechat-bot?style=flat&logo=Polestar)
 - [WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手 ![](https://img.shields.io/github/stars/LC044/WeChatMsg?style=social) ![](https://img.shields.io/github/last-commit/LC044/WeChatMsg?style=flat&logo=Polestar)
 
 ## 大模型
+
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 ![](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?style=social) ![](https://img.shields.io/github/last-commit/HqWu-HITCS/Awesome-Chinese-LLM?style=flat&logo=Polestar)
 - [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用 ![](https://img.shields.io/github/stars/LlamaFamily/Llama-Chinese?style=social) ![](https://img.shields.io/github/last-commit/LlamaFamily/Llama-Chinese?style=flat&logo=Polestar)
 - [self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 ![](https://img.shields.io/github/stars/datawhalechina/self-llm?style=social) ![](https://img.shields.io/github/last-commit/datawhalechina/self-llm?style=flat&logo=Polestar)
@@ -1199,11 +1292,13 @@
 - [open-webui](https://github.com/open-webui/open-webui) - 用户友好的 AI 界面（支持 Ollama、OpenAI API 等） ![](https://img.shields.io/github/stars/open-webui/open-webui?style=social) ![](https://img.shields.io/github/last-commit/open-webui/open-webui?style=flat&logo=Polestar)
 
 ## 简历
+
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模板 ![](https://img.shields.io/github/stars/geekcompany/ResumeSample?style=social) ![](https://img.shields.io/github/last-commit/geekcompany/ResumeSample?style=flat&logo=Polestar)
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 建立多个漂亮的简历，创造你最好的简历 ![](https://img.shields.io/github/stars/salomonelli/best-resume-ever?style=social) ![](https://img.shields.io/github/last-commit/salomonelli/best-resume-ever?style=flat&logo=Polestar)
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 简历生成器，开源且永久免费 ![](https://img.shields.io/github/stars/AmruthPillai/Reactive-Resume?style=social) ![](https://img.shields.io/github/last-commit/AmruthPillai/Reactive-Resume?style=flat&logo=Polestar)
 
 ## 科学上网
+
 - [new-pac](https://github.com/Alvin9999/new-pac) ![](https://img.shields.io/github/stars/Alvin9999/new-pac?style=social) ![](https://img.shields.io/github/last-commit/Alvin9999/new-pac?style=flat&logo=Polestar)
 - [fanqiang](https://github.com/bannedbook/fanqiang) ![](https://img.shields.io/github/stars/bannedbook/fanqiang?style=social) ![](https://img.shields.io/github/last-commit/bannedbook/fanqiang?style=flat&logo=Polestar)
 - [lantern](https://github.com/getlantern/lantern) ![](https://img.shields.io/github/stars/getlantern/lantern?style=social) ![](https://img.shields.io/github/last-commit/getlantern/lantern?style=flat&logo=Polestar)
@@ -1213,6 +1308,7 @@
 - [yiyuanjichang](https://github.com/yiyuanjichang/dizhi) - 一元机场官网 ![](https://img.shields.io/github/stars/yiyuanjichang/dizhi?style=social) ![](https://img.shields.io/github/last-commit/yiyuanjichang/dizhi?style=flat&logo=Polestar)
 
 ## 学习
+
 - [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材 ![](https://img.shields.io/github/stars/TapXWorld/ChinaTextbook?style=social) ![](https://img.shields.io/github/last-commit/TapXWorld/ChinaTextbook?style=flat&logo=Polestar)
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 中华新华字典数据库。包括歇后语，成语，词语，汉字。 ![](https://img.shields.io/github/stars/pwxcoo/chinese-xinhua?style=social) ![](https://img.shields.io/github/last-commit/pwxcoo/chinese-xinhua?style=flat&logo=Polestar)
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 ![](https://img.shields.io/github/stars/chinese-poetry/chinese-poetry?style=social) ![](https://img.shields.io/github/last-commit/chinese-poetry/chinese-poetry?style=flat&logo=Polestar)
@@ -1221,6 +1317,7 @@
 - [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南 ![](https://img.shields.io/github/stars/Anduin2017/HowToCook?style=social) ![](https://img.shields.io/github/last-commit/Anduin2017/HowToCook?style=flat&logo=Polestar)
 
 ## 其他
+
 - [github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面 ![](https://img.shields.io/github/stars/maboloshi/github-chinese?style=social) ![](https://img.shields.io/github/last-commit/maboloshi/github-chinese?style=flat&logo=Polestar)
 - [puter](https://github.com/HeyPuter/puter) - Web 桌面系统 ![](https://img.shields.io/github/stars/HeyPuter/puter?style=social) ![](https://img.shields.io/github/last-commit/HeyPuter/puter?style=flat&logo=Polestar)
 - [v86](https://github.com/copy/v86) - Web 的 x86 模拟器 ![](https://img.shields.io/github/stars/copy/v86?style=social) ![](https://img.shields.io/github/last-commit/copy/v86?style=flat&logo=Polestar)
