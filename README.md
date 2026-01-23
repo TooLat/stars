@@ -132,6 +132,7 @@
 - [floating-vue](https://github.com/Akryum/floating-vue) - 适用于 Vue 的 tooltips, popovers, dropdown, menus... ![](https://img.shields.io/github/stars/Akryum/floating-vue?style=social) ![](https://img.shields.io/github/last-commit/Akryum/floating-vue?style=flat&logo=Polestar)
 - [cube-ui](https://github.com/didi/cube-ui) - 滴滴移动 UI 库 ![](https://img.shields.io/github/stars/didi/cube-ui?style=social) ![](https://img.shields.io/github/last-commit/didi/cube-ui?style=flat&logo=Polestar)
 - [mand-mobile](https://github.com/didi/mand-mobile) - 基于 Vue.js 2 的移动 UI 工具包，专为金融场景设计 ![](https://img.shields.io/github/stars/didi/mand-mobile?style=social) ![](https://img.shields.io/github/last-commit/didi/mand-mobile?style=flat&logo=Polestar)
+- Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Vue3 生成式AI组件库 ![](https://img.shields.io/github/stars/element-plus-x/Element-Plus-X?style=social) ![](https://img.shields.io/github/last-commit/element-plus-x/Element-Plus-X?style=flat&logo=Polestar)
 
 ## UI库 - React
 
@@ -466,6 +467,10 @@
 ## 思维导图插件
 
 - [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - 开源的 JavaScript 思维导图核心 ![](https://img.shields.io/github/stars/ssshooter/mind-elixir-core?style=social) ![](https://img.shields.io/github/last-commit/ssshooter/mind-elixir-core?style=flat&logo=Polestar)
+
+## 字体插件
+
+- [fontsource](https://github.com/fontsource/fontsource) - 将开源字体封装成 NPM 包 ![](https://img.shields.io/github/stars/fontsource/fontsource?style=social) ![](https://img.shields.io/github/last-commit/fontsource/fontsource?style=flat&logo=Polestar)
 
 ## 地图插件
 
