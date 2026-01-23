@@ -229,6 +229,7 @@
 - [stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) ![](https://img.shields.io/github/stars/stylelint-scss/stylelint-scss?style=social) ![](https://img.shields.io/github/last-commit/stylelint-scss/stylelint-scss?style=flat&logo=Polestar)
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order) ![](https://img.shields.io/github/stars/hudochenkov/stylelint-order?style=social) ![](https://img.shields.io/github/last-commit/hudochenkov/stylelint-order?style=flat&logo=Polestar)
 - [stylelint-config-recommended-scss](https://github.com/stylelint-scss/stylelint-config-recommended-scss) - 推荐的scss配置 for stylelint ![](https://img.shields.io/github/stars/stylelint-scss/stylelint-config-recommended-scss?style=social) ![](https://img.shields.io/github/last-commit/stylelint-scss/stylelint-config-recommended-scss?style=flat&logo=Polestar)
+- [biome](https://github.com/biomejs/biome) - 一个面向Web项目的工具链，旨在提供维护项目的工具。Biome提供格式化工具和代码检查工具，可通过命令行界面（CLI）和语言服务器协议（LSP）使用。 ![](https://img.shields.io/github/stars/biomejs/biome?style=social) ![](https://img.shields.io/github/last-commit/biomejs/biome?style=flat&logo=Polestar)
 
 ## 工具插件
 
@@ -969,6 +970,7 @@
 - [micro-app](https://github.com/jd-opensource/micro-app) - 京东零售微前端 ![](https://img.shields.io/github/stars/jd-opensource/micro-app?style=social) ![](https://img.shields.io/github/last-commit/jd-opensource/micro-app?style=flat&logo=Polestar)
 - [qiankun](https://github.com/umijs/qiankun) ![](https://img.shields.io/github/stars/umijs/qiankun?style=social) ![](https://img.shields.io/github/last-commit/umijs/qiankun?style=flat&logo=Polestar)
 - [wujie](https://github.com/Tencent/wujie) ![](https://img.shields.io/github/stars/Tencent/wujie?style=social) ![](https://img.shields.io/github/last-commit/Tencent/wujie?style=flat&logo=Polestar)
+- [module-federation-examples](https://github.com/module-federation/module-federation-examples) - 微前端架构，Module Federation 是一种 JavaScript 应用分治的架构模式（类似于服务端的微服务），它允许你在多个 JavaScript 应用程序（或微前端）之间共享代码和资源 ![](https://img.shields.io/github/stars/module-federation/module-federation-examples?style=social) ![](https://img.shields.io/github/last-commit/module-federation/module-federation-examples?style=flat&logo=Polestar)
 
 ## 服务端渲染
 
@@ -1272,7 +1274,11 @@
 ## 微信插件
 
 - [wechat-bot](https://github.com/wangrongding/wechat-bot) - 一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... ![](https://img.shields.io/github/stars/wangrongding/wechat-bot?style=social) ![](https://img.shields.io/github/last-commit/wangrongding/wechat-bot?style=flat&logo=Polestar)
-- [WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手 ![](https://img.shields.io/github/stars/LC044/WeChatMsg?style=social) ![](https://img.shields.io/github/last-commit/LC044/WeChatMsg?style=flat&logo=Polestar)
+- [~~WeChatMsg~~](https://github.com/LC044/WeChatMsg) - ~~提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手~~ ![](https://img.shields.io/github/stars/LC044/WeChatMsg?style=social) ![](https://img.shields.io/github/last-commit/LC044/WeChatMsg?style=flat&logo=Polestar)
+
+## AI
+
+- [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude） ![](https://img.shields.io/github/stars/liyupi/ai-guide?style=social) ![](https://img.shields.io/github/last-commit/liyupi/ai-guide?style=flat&logo=Polestar)
 
 ## 大模型
 
