@@ -214,6 +214,7 @@
 - [autoprefixer](https://github.com/postcss/autoprefixer) - 自动补全 CSS 浏览器前缀 ![](https://img.shields.io/github/stars/postcss/autoprefixer?style=social) ![](https://img.shields.io/github/last-commit/postcss/autoprefixer?style=flat&logo=Polestar)
 - [npkill](https://github.com/voidcosmos/npkill) - 扫描并卸载不再使用的 npm 包 ![](https://img.shields.io/github/stars/voidcosmos/npkill?style=social) ![](https://img.shields.io/github/last-commit/voidcosmos/npkill?style=flat&logo=Polestar)
 - [rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 模块依赖可视化，打包体积分析 ![](https://img.shields.io/github/stars/btd/rollup-plugin-visualizer?style=social) ![](https://img.shields.io/github/last-commit/btd/rollup-plugin-visualizer?style=flat&logo=Polestar)
+- [oxc](https://github.com/oxc-project/oxc) - JavaScript 氧化编译器 ![](https://img.shields.io/github/stars/oxc-project/oxc?style=social) ![](https://img.shields.io/github/last-commit/oxc-project/oxc?style=flat&logo=Polestar)
 
 ## 代码检测
 
