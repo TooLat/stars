@@ -1060,6 +1060,10 @@
 
 - [elysia](https://github.com/elysiajs/elysia) - 人体工程学框架，由 Bun 提供支持 ![](https://img.shields.io/github/elysiajs/elysia?style=social) ![](https://img.shields.io/github/last-commit/elysiajs/elysia?style=flat&logo=Polestar)
 
+## API
+
+- [Public-APIs](https://github.com/n0shake/Public-APIs) - 全球免费、公开 API ![](https://img.shields.io/github/n0shake/Public-APIs?style=social) ![](https://img.shields.io/github/last-commit/n0shake/Public-APIs?style=flat&logo=Polestar)
+
 ## 项目代码
 
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+迷你网页项目，使用 HTML, CSS 和 JS ![](https://img.shields.io/github/stars/bradtraversy/50projects50days?style=social) ![](https://img.shields.io/github/last-commit/bradtraversy/50projects50days?style=flat&logo=Polestar)
