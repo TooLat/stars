@@ -906,6 +906,7 @@
 - [kbone](https://github.com/Tencent/kbone) - 微信小程序 & H5 ![](https://img.shields.io/github/stars/Tencent/kbone?style=social) ![](https://img.shields.io/github/last-commit/Tencent/kbone?style=flat&logo=Polestar)
 - [expo](https://github.com/expo/expo) - 基于 React Native 的开发平台，旨在帮助开发者更轻松地构建跨平台移动应用程序 ![](https://img.shields.io/github/stars/expo/expo?style=social) ![](https://img.shields.io/github/last-commit/expo/expo?style=flat&logo=Polestar)
 - [quasar](https://github.com/quasarframework/quasar) - Quasar 是一个基于 Vue.js 的框架，它提供了丰富的组件库和工具，用于快速开发现代化的 Web 应用程序、移动应用程序和桌面应用程序。 ![](https://img.shields.io/github/stars/quasarframework/quasar?style=social) ![](https://img.shields.io/github/last-commit/quasarframework/quasar?style=flat&logo=Polestar)
+- [perry](https://github.com/PerryTS/perry) - Perry 将 TypeScript 编译为 macOS、iPadOS、iOS、Android、Linux、Windows、watchOS、tvOS、WebAssembly 和 Web 上的原生 GUI 和 CLI 应用。无需运行时。无需 Electron。只有原生二进制文件。 ![](https://img.shields.io/github/stars/PerryTS/perry?style=social) ![](https://img.shields.io/github/last-commit/PerryTS/perry?style=flat&logo=Polestar)
 
 ## uniapp
 
