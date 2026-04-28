@@ -979,6 +979,7 @@
 - [qiankun](https://github.com/umijs/qiankun) ![](https://img.shields.io/github/stars/umijs/qiankun?style=social) ![](https://img.shields.io/github/last-commit/umijs/qiankun?style=flat&logo=Polestar)
 - [wujie](https://github.com/Tencent/wujie) ![](https://img.shields.io/github/stars/Tencent/wujie?style=social) ![](https://img.shields.io/github/last-commit/Tencent/wujie?style=flat&logo=Polestar)
 - [module-federation-examples](https://github.com/module-federation/module-federation-examples) - 微前端架构，Module Federation 是一种 JavaScript 应用分治的架构模式（类似于服务端的微服务），它允许你在多个 JavaScript 应用程序（或微前端）之间共享代码和资源 ![](https://img.shields.io/github/stars/module-federation/module-federation-examples?style=social) ![](https://img.shields.io/github/last-commit/module-federation/module-federation-examples?style=flat&logo=Polestar)
+- [icestark](https://github.com/ice-lab/icestark) - 面向大型应用的微前端解决方案 ![](https://img.shields.io/github/stars/ice-lab/icestark?style=social) ![](https://img.shields.io/github/last-commit/ice-lab/icestark?style=flat&logo=Polestar)
 
 ## 服务端渲染
 
@@ -1006,6 +1007,10 @@
 - [rxdb](https://github.com/pubkey/rxdb) - 一个快速、本地优先、响应式的 JavaScript 应用数据库 ![](https://img.shields.io/github/stars/pubkey/rxdb?style=social) ![](https://img.shields.io/github/last-commit/pubkey/rxdb?style=flat&logo=Polestar)
 - [typeorm](https://github.com/typeorm/typeorm) - TypeScript ORM 框架，使用面向对象的方式来操作数据库 ![](https://img.shields.io/github/stars/typeorm/typeorm?style=social) ![](https://img.shields.io/github/last-commit/typeorm/typeorm?style=flat&logo=Polestar)
 - [drawdb](https://github.com/drawdb-io/drawdb) - 免费，简单，直观的在线数据库设计工具和 SQL 生成器 ![](https://img.shields.io/github/stars/drawdb-io/drawdb?style=social) ![](https://img.shields.io/github/last-commit/drawdb-io/drawdb?style=flat&logo=Polestar)
+
+## 调试
+
+- [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social) ![](https://img.shields.io/github/last-commit/didi/DoKit?style=flat&logo=Polestar)
 
 ## 产品分析 - 埋点
 
@@ -1354,7 +1359,6 @@
 - [v86](https://github.com/copy/v86) - Web 的 x86 模拟器 ![](https://img.shields.io/github/stars/copy/v86?style=social) ![](https://img.shields.io/github/last-commit/copy/v86?style=flat&logo=Polestar)
 - [laf](https://github.com/labring/laf) - laf 是开源的云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者专注于业务开发，无需折腾服务器，快速释放创意 ![](https://img.shields.io/github/stars/labring/laf?style=social) ![](https://img.shields.io/github/last-commit/labring/laf?style=flat&logo=Polestar)
 - [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - emoji 表情 ![](https://img.shields.io/github/stars/WebpageFX/emoji-cheat-sheet.com?style=social) ![](https://img.shields.io/github/last-commit/WebpageFX/emoji-cheat-sheet.com?style=flat&logo=Polestar)
-- [DoKit](https://github.com/didi/DoKit) - 滴滴泛前端产品研发全生命周期的效率平台 ![](https://img.shields.io/github/stars/didi/DoKit?style=social) ![](https://img.shields.io/github/last-commit/didi/DoKit?style=flat&logo=Polestar)
 - [grapesjs](https://github.com/artf/grapesjs) - web 模板编辑器 ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) ![](https://img.shields.io/github/last-commit/artf/grapesjs?style=flat&logo=Polestar)
 - [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - 一键免费部署你的跨平台私人 ChatGPT 应用 ![](https://img.shields.io/github/stars/ChatGPTNextWeb/ChatGPT-Next-Web?style=social) ![](https://img.shields.io/github/last-commit/ChatGPTNextWeb/ChatGPT-Next-Web?style=flat&logo=Polestar)
 - [json5](https://github.com/json5/json5) - 面向人类的 JSON ![](https://img.shields.io/github/stars/json5/json5?style=social) ![](https://img.shields.io/github/last-commit/json5/json5?style=flat&logo=Polestar)
