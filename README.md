@@ -1002,6 +1002,7 @@
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5 移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的 H5 制作、建站工具、可视化搭建工具 ![](https://img.shields.io/github/stars/buqiyuan/vite-vue3-lowcode?style=social) ![](https://img.shields.io/github/last-commit/buqiyuan/vite-vue3-lowcode?style=flat&logo=Polestar)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor) - 腾讯 TMagic 可视化搭建平台 ![](https://img.shields.io/github/stars/Tencent/tmagic-editor?style=social) ![](https://img.shields.io/github/last-commit/Tencent/tmagic-editor?style=flat&logo=Polestar)
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - 让 H5 制作像搭积木一样简单, 轻松搭建 H5 页面, H5 网站, PC 端网站,LowCode 平台 ![](https://img.shields.io/github/stars/MrXujiang/h5-Dooring?style=social) ![](https://img.shields.io/github/last-commit/MrXujiang/h5-Dooring?style=flat&logo=Polestar)
+- [mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建 H5、小程序多端商城 ![](https://img.shields.io/github/stars/wangyuan389/mall-cook?style=social) ![](https://img.shields.io/github/last-commit/wangyuan389/mall-cook?style=flat&logo=Polestar)
 
 ## 数据库
 
