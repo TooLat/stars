@@ -1345,6 +1345,7 @@
 - [vpncn.github.io](https://github.com/vpncn/vpncn.github.io) ![](https://img.shields.io/github/stars/vpncn/vpncn.github.io?style=social) ![](https://img.shields.io/github/last-commit/vpncn/vpncn.github.io?style=flat&logo=Polestar)
 - [Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows 汉化版 ![](https://img.shields.io/github/stars/Z-Siqi/Clash-for-Windows_Chinese?style=social) ![](https://img.shields.io/github/last-commit/Z-Siqi/Clash-for-Windows_Chinese?style=flat&logo=Polestar)
 - [yiyuanjichang](https://github.com/yiyuanjichang/dizhi) - 一元机场官网 ![](https://img.shields.io/github/stars/yiyuanjichang/dizhi?style=social) ![](https://img.shields.io/github/last-commit/yiyuanjichang/dizhi?style=flat&logo=Polestar)
+- [yiyuan-jichang](https://github.com/yiyuan-jichang/dizhi) - 一元机场官网 ![](https://img.shields.io/github/stars/yiyuan-jichang/dizhi?style=social) ![](https://img.shields.io/github/last-commit/yiyuan-jichang/dizhi?style=flat&logo=Polestar)
 
 ## 学习
 
