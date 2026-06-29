@@ -1309,6 +1309,14 @@
 
 - [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude） ![](https://img.shields.io/github/stars/liyupi/ai-guide?style=social) ![](https://img.shields.io/github/last-commit/liyupi/ai-guide?style=flat&logo=Polestar)
 
+## AI 开发
+
+- [codex](https://github.com/openai/codex) - codex ![](https://img.shields.io/github/stars/openai/codex?style=social) ![](https://img.shields.io/github/last-commit/openai/codex?style=flat&logo=Polestar)
+- [claude-code](https://github.com/anthropics/claude-code) - Claude Code ![](https://img.shields.io/github/stars/anthropics/claude-code?style=social) ![](https://img.shields.io/github/last-commit/anthropics/claude-code?style=flat&logo=Polestar)
+- [claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 ![](https://img.shields.io/github/stars/claude-code-best/claude-code?style=social) ![](https://img.shields.io/github/last-commit/claude-code-best/claude-code?style=flat&logo=Polestar)
+- [opencode](https://github.com/anomalyco/opencode) - opencode ![](https://img.shields.io/github/stars/anomalyco/opencode?style=social) ![](https://img.shields.io/github/last-commit/anomalyco/opencode?style=flat&logo=Polestar)
+- [cc-switch](https://github.com/farion1231/cc-switch) - 统一管理你的 AI 编程工具工作流 ![](https://img.shields.io/github/stars/farion1231/cc-switch?style=social) ![](https://img.shields.io/github/last-commit/farion1231/cc-switch?style=flat&logo=Polestar)
+
 ## 大模型
 
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 ![](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM?style=social) ![](https://img.shields.io/github/last-commit/HqWu-HITCS/Awesome-Chinese-LLM?style=flat&logo=Polestar)
