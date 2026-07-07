@@ -1316,6 +1316,7 @@
 - [claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 ![](https://img.shields.io/github/stars/claude-code-best/claude-code?style=social) ![](https://img.shields.io/github/last-commit/claude-code-best/claude-code?style=flat&logo=Polestar)
 - [opencode](https://github.com/anomalyco/opencode) - opencode ![](https://img.shields.io/github/stars/anomalyco/opencode?style=social) ![](https://img.shields.io/github/last-commit/anomalyco/opencode?style=flat&logo=Polestar)
 - [cc-switch](https://github.com/farion1231/cc-switch) - 统一管理你的 AI 编程工具工作流 ![](https://img.shields.io/github/stars/farion1231/cc-switch?style=social) ![](https://img.shields.io/github/last-commit/farion1231/cc-switch?style=flat&logo=Polestar)
+- [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - CodexApp的增强工具，努力让Codex变得更好用更舒服 ![](https://img.shields.io/github/stars/BigPizzaV3/CodexPlusPlus?style=social) ![](https://img.shields.io/github/last-commit/BigPizzaV3/CodexPlusPlus?style=flat&logo=Polestar)
 
 ## 大模型
 
