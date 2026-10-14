@@ -1072,6 +1072,10 @@
 
 - [trpc](https://github.com/trpc/trpc) - 面向 TypeScript 全栈的端到端类型安全 RPC 框架 ![](https://img.shields.io/github/trpc/trpc?style=social) ![](https://img.shields.io/github/last-commit/trpc/trpc?style=flat&logo=Polestar)
 
+## 后端
+
+- [public-apis](https://github.com/public-apis/public-apis) - 全球免费、公开 API ![](https://img.shields.io/github/public-apis/public-apis?style=social) ![](https://img.shields.io/github/last-commit/public-apis/public-apis?style=flat&logo=Polestar)
+
 ## 后端框架
 
 - [elysia](https://github.com/elysiajs/elysia) - 人体工程学框架，由 Bun 提供支持 ![](https://img.shields.io/github/elysiajs/elysia?style=social) ![](https://img.shields.io/github/last-commit/elysiajs/elysia?style=flat&logo=Polestar)
@@ -1280,6 +1284,7 @@
 - [MiaoYan](https://github.com/tw93/MiaoYan) - 妙言 Markdown 笔记本 ![](https://img.shields.io/github/stars/tw93/MiaoYan?style=social) ![](https://img.shields.io/github/last-commit/tw93/MiaoYan?style=flat&logo=Polestar)
 - [blockbench](https://github.com/JannisX11/blockbench) - 3D 模型编辑器 ![](https://img.shields.io/github/stars/JannisX11/blockbench?style=social) ![](https://img.shields.io/github/last-commit/JannisX11/blockbench?style=flat&logo=Polestar)
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - 免费开源视频编辑器 ![](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=social) ![](https://img.shields.io/github/last-commit/OpenCut-app/OpenCut?style=flat&logo=Polestar)
+- [photocraft](https://github.com/storytold/photocraft) - 开源图片编辑器 ![](https://img.shields.io/github/stars/storytold/photocraft?style=social) ![](https://img.shields.io/github/last-commit/storytold/photocraft?style=flat&logo=Polestar)
 
 ## 系统工具
 
@@ -1345,6 +1350,10 @@
 - [openclaw](https://github.com/openclaw/openclaw) - 人工智能助手 ![](https://img.shields.io/github/stars/openclaw/openclaw?style=social) ![](https://img.shields.io/github/last-commit/openclaw/openclaw?style=flat&logo=Polestar)
 - [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent 是基于大模型的超级 AI 助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行 Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择 OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人 AI 助手和企业数字员工。 ![](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat?style=social) ![](https://img.shields.io/github/last-commit/zhayujie/chatgpt-on-wechat?style=flat&logo=Polestar)
 - [claw-code](https://github.com/instructkr/claw-code) - Claude 代码 ![](https://img.shields.io/github/stars/instructkr/claw-code?style=social) ![](https://img.shields.io/github/last-commit/instructkr/claw-code?style=flat&logo=Polestar)
+
+## AI 工具
+
+- [rea](https://github.com/morluto/rea) - AI 逆向工具 ![](https://img.shields.io/github/stars/morluto/rea?style=social) ![](https://img.shields.io/github/last-commit/morluto/rea?style=flat&logo=Polestar)
 
 ## 简历
 
